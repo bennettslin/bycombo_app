@@ -21,9 +21,17 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 ### The revolution will *not* be decentralized
 
-First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. As a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
+${'  ' || `
+// TODO: Review.
+`}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can go "from one to *n*"— to convince all others that you deserve it; whereas, for a tastemaker, the roles are reversed. "Okay, and this awareness leads to revolution… how?"
+First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
+
+${'  ' || `
+// TODO: Review.
+`}
+
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can then go "from one to *n*"— to convince others that you deserve it; whereas, for a tastemaker, the roles are reversed. "Okay, and such awareness leads to revolution… how?"
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one, and is now due to gain status even *further*. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
@@ -67,7 +75,11 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 **Why interdependence?**
 
-Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince all others that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
+${'  ' || `
+// TODO: Review.
+`}
+
+Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
@@ -257,10 +269,6 @@ But being indie is all about gaining public exposure— and this is a zero-sum g
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivism by *refusing* to help society advance.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "But, as punishment, won't indie rock keep us low-status and unknown?" Yes, but fear not: With BYCombo, you can now request amnesty from artistic *progressives*… by appealing to their love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
@@ -383,7 +391,11 @@ Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. Which means the one created by indie rock *isn't* the same as that of its predecessor— the alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
 
-And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday)— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
+${'  ' || `
+// TODO: Review.
+`}
+
+And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were asked to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday)… and they *did*, to no confusion— as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
@@ -413,7 +425,11 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 ### ${++sectionCounter}. Identity is a resort of the privileged
 
-Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on their identities as [society's underdogs](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,aspirations%20we%20did.%E2%80%9D)…
+${'  ' || `
+// TODO: Review link position change.
+`}
+
+Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on [their identities](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,aspirations%20we%20did.%E2%80%9D) as society's underdogs…
 
 Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](https://bennettsamuellin.blogspot.com/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=While%20mentioning%20privilege,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "wokeness."
 
@@ -548,10 +564,6 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 ### ${++sectionCounter}. Happiness flows from the act of creation
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and [forty on](https://bobtail.substack.com/p/raw-illustrated-heads) my [own projects](https://bobtail.substack.com/p/raw-illustrated-bodies)— a friend staged an intervention. "On a scale of one to ten," he asked, "how happy are you?" "Eight," I replied. He was floored; he'd expected a three. And so I cleared up the matter: The very reason I chose this unusual path was to *guarantee* my happiness.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi points out that when you have a clear goal; feel adequately challenged; and get immediate feedback from the task at hand, you become fully immersed in the act of creation— which leads to long-term fulfillment. This explains how those years of self-sacrifice were some of my happiest; I *wasn't* burning myself out, as my friend had feared.
 
