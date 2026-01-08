@@ -582,12 +582,12 @@ The new Romantics wistfully recall those last few decades before the rise of sou
 After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* any such *indie*-pendent *indie*-vidual! So now that they've "indiefied" the arts, this worsening can only accelerate…
 
 ${'  ' || `
-// TODO: Revise. Ideals that haven't been seen in over a generation.
+// TODO: Revise. Might need to emphasize long-term versus short-term.
 
 Might also need to change title based on this change.
 `}
 
-To oppose AI slop, then, a counterculture must arise to favor the *collective* over the individual. This means rewarding craft over "cred," mastery over authenticity— as well as "forgiving" any inventor, who simply won't value fair compensation the way a hustler does.
+To oppose slop, then— of both the AI and indie kind— a counterculture must arise to favor the *collective* over the *individual*. Which means rewarding craft over "cred," mastery over authenticity— along with "forgiving" the inventors of our times, who simply *won't* value fair compensation as our hustlers do.
 
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— possibly for life! So who'd ever try? No one… but us collectivists.
 
