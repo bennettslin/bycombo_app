@@ -579,10 +579,6 @@ ${'  ' || `
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people exactly what they expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… could easily stand for "accelerated indiefication"!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* any such *indie*-pendent *indie*-vidual! So now that they've "indiefied" the arts, this worsening can only accelerate…
 
 ${'  ' || `
@@ -593,15 +589,7 @@ Might also need to change title based on this change.
 
 To oppose AI slop, then, a counterculture must arise to favor the *collective* over the individual. This means rewarding craft over "cred," mastery over authenticity— as well as "forgiving" any inventor, who simply won't value fair compensation the way a hustler does.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— possibly for life! So who'd ever try? No one… but us collectivists.
-
-${'  ' || `
-// TODO: Review links.
-`}
 
 Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=Our%20body%20of,influence%20take%20precedence.), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but only *because* they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
