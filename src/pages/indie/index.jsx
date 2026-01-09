@@ -575,18 +575,18 @@ ${'  ' || `
 // TODO: Review title.
 `}
 
-### ${++sectionCounter}. Collectivists pool their achievements
+### ${++sectionCounter}. Collectivists donate their achievements
 
 ${'  ' || `
 // TODO: Review section.
 `}
 
-The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people exactly what they expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… could easily stand for "accelerated indiefication"!
+The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people exactly what they expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… might just as well stand for "accelerated indiefication"!
 
 After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* any such *indie*-pendent *indie*-vidual! So now that they've "indiefied" the arts, this worsening can only accelerate…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Maybe put "achievements" in second sentence, not first. Just to sound better.
 `}
 
 To oppose slop, then— of both the AI *and* indie kind— a counterculture must arise to favor achievements that benefit us all as a *collective*, rather than just the artist as an *individual*. Which is to say, we'll need to pick craft over "cred," mastery over authenticity— as well as to "forgive" the inventors of our times, who simply *won't* value fair compensation the way our hustlers do.
