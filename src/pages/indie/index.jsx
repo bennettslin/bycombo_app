@@ -21,15 +21,7 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 ### The revolution will *not* be decentralized
 
-${'  ' || `
-// TODO: Review.
-`}
-
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can then go "from one to *n*"— to convince others that you deserve it; whereas, for a tastemaker, the roles are reversed. "Okay, and such awareness leads to revolution… how?"
 
@@ -74,10 +66,6 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. To put it another way, history makers *need* to work with a label— or some other business partner!— and a quick glance through the historical canon bears this out.
 
 **Why interdependence?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
 
@@ -391,10 +379,6 @@ Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. Which means the one created by indie rock *isn't* the same as that of its predecessor— the alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were asked to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday)… and they *did*, to no confusion— as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
@@ -424,10 +408,6 @@ It's simple: Historically, victims of prejudice relied on a centralized judiciar
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have shown that you *aren't* your own best advocate? Why, BYCombo can restore your artistic civil rights— by letting you partner with elites who'll advocate on your behalf!
 
 ### ${++sectionCounter}. Identity is a resort of the privileged
-
-${'  ' || `
-// TODO: Review link position change.
-`}
 
 Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on [their identities](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,aspirations%20we%20did.%E2%80%9D) as society's underdogs…
 
@@ -570,10 +550,6 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because any exposure gained from decades of hustling might just as well be won by chance, bought with privilege, or stolen through opportunism— in an instant. Every artist knows this, yet they play by indie rock's rules anyway… and it eats at their soul.
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
-
-${'  ' || `
-// TODO: Review title.
-`}
 
 ### ${++sectionCounter}. Collectivists donate their achievements
 
