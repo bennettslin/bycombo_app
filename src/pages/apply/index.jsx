@@ -78,7 +78,11 @@ We'll also need each of the following:
 
 Feel free to include any of the following as well:
 
-- Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experience with "doublespeaker rhyme": No one *ever* wants to steal your ideas— even when you beg them to!)
+${'  ' || `
+// TODO: Review.
+`}
+
+- Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experience with "doublespeaker rhyme": When you're low-status and unknown, no one *wants* to steal from you— even after you encourage them to!)
 - Links to social media or video demonstrations.
 - Other circumstances you'd like us to consider.
 
