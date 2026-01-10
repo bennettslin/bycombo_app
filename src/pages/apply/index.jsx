@@ -78,10 +78,6 @@ We'll also need each of the following:
 
 Feel free to include any of the following as well:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 - Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experiences with "doublespeaker rhyme": When you're a low-status nobody, no one even *wants* to steal from you!)
 - Links to social media or video demonstrations.
 - Other circumstances you'd like us to consider.
