@@ -303,6 +303,10 @@ Let's imagine, though, that you *refuse* to be indie; you've hustled a few times
 
 So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine over time. Which is also more fun and fulfilling for *you*, right? Yet from what I've seen… the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
+${'  ' || `
+// TODO: Revise. Consider making point again that history is the ultimate gatekeeper?
+`}
+
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
@@ -560,16 +564,16 @@ ${'  ' || `
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people exactly what they expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
-// TODO: Remove "now" from last sentence?
+// TODO: Review a few more times.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* any such *indie*-pendent *indie*-vidual! So now that they've "indiefied" the arts, this worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* such *indie*-pendent *indie*-viduals! So this means, with them in charge, the worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-To oppose slop, then— of both the AI *and* indie kind… a counterculture must now arise to speak out for us all as a *collective*— and not as individual artists. Which is to say, it'll need to pick craft over "cred," mastery over authenticity… as well as to "forgive" the innovators of our times, who simply *won't* value fair compensation the way our hustlers do.
+To oppose slop, then— of both the AI *and* indie kind… a counterculture must now arise to speak up for our long-term interests as a *collective*. Which is to say, it'll need to place craft above "cred," and mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
 
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— possibly for life! So who'd ever try? No one… but us collectivists.
 

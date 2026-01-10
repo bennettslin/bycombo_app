@@ -58,7 +58,7 @@ One last frontier in the arts is for bands to explore new combinations of differ
 
 **International artists:**
 
-To restore the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a U.S. visa; for now, we'll do our best to help with whatever issues you might face.
+To restore the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a US visa; for now, we'll do our best to help with whatever issues you might face.
 
 ### How to apply
 
