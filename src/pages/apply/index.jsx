@@ -82,7 +82,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-- Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experience with "doublespeaker rhyme": When you're low-status and unknown, no one *wants* to steal from you— even after you encourage them to!)
+- Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experiences with "doublespeaker rhyme": When you're a low-status nobody, no one even *wants* to steal from you!)
 - Links to social media or video demonstrations.
 - Other circumstances you'd like us to consider.
 
