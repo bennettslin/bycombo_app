@@ -573,7 +573,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To oppose slop, then— of both the AI *and* indie kind— a new counterculture must arise to speak up for our long-term interests as a *collective*. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
+To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to speak up for all of us as a *collective*— and not just any artist as an *individual*. Which is to say, we'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
 
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— possibly for life! In which case, who'd ever try? No one… but us collectivists.
 
