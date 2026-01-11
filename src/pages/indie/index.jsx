@@ -567,17 +567,27 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* such *indie*-pendent *indie*-viduals! So now, with them in charge, this worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* any such *indie*-pendent *indie*-vidual! So now, with them in charge, the worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to speak up for our long-term interests as a *collective*. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
+To oppose slop, then— of both the AI *and* indie kind— a new counterculture must arise to speak up for our long-term interests as a *collective*. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
 
-And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— possibly for life! So who'd ever try? No one… but us collectivists.
+${'  ' || `
+// TODO: Review.
+`}
 
-Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=Our%20body%20of,influence%20take%20precedence.), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but only *because* they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
+And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— possibly for life! In which case, who'd ever try? No one… but us collectivists.
+
+${'  ' || `
+// TODO: Review link.
+
+https://archive.ph/20231015192931/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#selection-1607.0-1611.1:~:text=The%20mismatch%20between,in%20college.
+`}
+
+Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,grades%20in%20college.), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but only *because* they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
