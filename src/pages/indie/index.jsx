@@ -335,7 +335,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 "Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
-Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* make history; it's just larping, to act like it will." Who'd win? So, regarding this century's indie rock [thus far](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman): Was it all a larp?
+${'  ' || `
+// TODO: Review link removal.
+`}
+
+Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* make history; it's just larping, to act like it will." Who'd win? So, regarding this century's indie rock thus far: Was it all a larp?
 
 Some of you [now see](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in "the" canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons I grew up on. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
@@ -567,7 +571,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* any such *indie*-pendent *indie*-vidual! So now, with them in charge, the worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* any such *indie*-pendent *indie*-vidual! So now, under their watch, the worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Review a few more times.
