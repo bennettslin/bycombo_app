@@ -11,7 +11,6 @@
             * Version 145
 
 * BYC
-    * Mention context a few more times
     * Sentences with ellipsis in between instead of a third em-dash:
         * A gatekeeper helps to take…
         * Sometime in the '00s…

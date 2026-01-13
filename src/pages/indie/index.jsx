@@ -183,7 +183,11 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 
 All demand for such craft, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at it: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
-Yet the past artists we love most *don't* require us to dive into any surrounding "lore," do they? History, then, works like radio! So don't get complacent in this new online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft… as if you were an Xennial child hoping to get on the radio one day.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet the past artists we love most *don't* require us to know of any surrounding context, do they? History, then… is like radio! So don't get complacent in this new online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
