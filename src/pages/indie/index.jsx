@@ -306,10 +306,14 @@ So instead, you build yourself up into what a future audience— or romantic par
 ${'  ' || `
 // TODO: Consider revising again, before scrapping change.
 
-But if *we* were the next generation, would *we* side with past tastemakers who didn't care what we'd want, over the gatekeepers they ousted, who did? Here, then, is the tastemaker's fatal flaw: Refusing to gatekeep is useless— because history is the *ultimate* gatekeeper! Luckily, BYCombo can help you be *re*-discovered… by letting you think like a future audience.
-`}
+Leave the tastemakers to discover today's charity cases. With BYCombo, you can be rediscovered as a history maker in the future.
+
+Mention history maker as a counterpart to charity case in other section?
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
+`}
+
+But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced, who *did*? Here, then, is indie rock's fatal flaw: History *itself* is no charitable tastemaker; it's a rigorous gatekeeper! Luckily, BYCombo can help you be *re*-discovered… by letting you think like a future audience.
 
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
 
