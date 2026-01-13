@@ -304,11 +304,9 @@ Let's imagine, though, that you *refuse* to be indie; you've hustled a few times
 So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine over time. Which is also more fun and fulfilling for *you*, right? Yet from what I've seen… the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
 ${'  ' || `
-// TODO: Consider revising again, before scrapping change.
+// TODO: Keep working on.
 
-Leave the tastemakers to discover today's charity cases. With BYCombo, you can be rediscovered as a history maker in the future.
-
-Mention history maker as a counterpart to charity case in other section?
+Rephrase, but here's the general idea: Luckily, if you refuse to be a charity case, BYCombo can help you be rediscovered in the future as a history maker.
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 `}
