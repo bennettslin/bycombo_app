@@ -183,10 +183,6 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 
 All demand for such craft, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at it: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet the past artists we love most *don't* require us to know of any surrounding context, do they? History, then… is like radio! So don't get complacent in this new online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
@@ -556,10 +552,6 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists donate their achievements
-
-${'  ' || `
-// TODO: Review section.
-`}
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people exactly what they expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… might as well stand for "accelerated indiefication"!
 
