@@ -23,10 +23,6 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can then go "from one to *n*"— to convince others that you deserve it. Whereas, for a tastemaker, the roles are reversed. "Okay, and such awareness leads to revolution… how?"
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one, and is now due to gain status even *further*. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
@@ -298,10 +294,10 @@ Uh… *we* would— the audience! Most of us only want the *best* athletes, and 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-artist thinking might just be a generational fluke… and *not* the future of music.
 
 ${'  ' || `
-// TODO: Revise? Better explanation?
+// TODO: Review.
 `}
 
-Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed far from its literal meaning of "all who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: Few of your audience are the serious fans you engage with; most are casual listeners, like those hearing you on the radio.
+Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed far from its literal meaning of "all who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: The ones you engage with online? That's more of a following. Those hearing you on the radio? Now *that's* an audience.
 
 From there, we note that this vast majority only want the *best* artists… and it *isn't* their [job to know](https://youtu.be/SYSa4RzaH80) what "the best" entails! Thankfully, BYCombo can step up as a gatekeeper for the elites, if *you'll* pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
