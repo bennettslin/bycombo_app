@@ -70,10 +70,6 @@ Email us the following information:
 
 We'll also need each of the following:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 - A statement that you're of legal age: eighteen years or older.
 - Your gender. (This *only* determines whom we'll place you in a band with. It *doesn't* affect your chances of being accepted.)
 - Total hours you'll spend each week to earn a living, including commute. (We'll use this as a proxy for economic class. Also, the same condition as above applies, so just make an honest guess if you aren't sure.)
