@@ -325,19 +325,11 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 
 Mr. Rogers told us to look for [the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/p/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 Except… now it made sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will now insist on keeping that culture as it is— no matter how broken it's become.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to waste even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay my dues to indie rock.
 
@@ -371,15 +363,7 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 
 But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is [now a playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
-${'  ' || `
-// TODO: Review link move.
-`}
-
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a privileged artist's wins [as their own](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!)— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 "Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" Regarding the kind based on "cred"? Sure. But *craft*-based snobbery raises the cost of entry the *right* way— and thus remains as valid as ever! Because, like it or not, public exposure *is* zero-sum. Now BYCombo lets you treat it as such… just like rockists and rappers always have.
 
@@ -480,10 +464,6 @@ To sum up, it was the *indie camp* [who gave us](https://www.theguardian.com/mus
 Are we headed for a new Romanticism? Some foresee a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want, just like word of mouth does; it's why indie rock defended them for as long as it did. In this light, then, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And [when in doubt](https://en.wikipedia.org/wiki/Mimetic_theory), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone have a "noblesse oblige" to help those being *hurt* by our human nature.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit," or some other such cliché… and we fell for it every time.
 
