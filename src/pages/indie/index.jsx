@@ -306,7 +306,7 @@ So instead, you build yourself up into what a future audience— or romantic par
 ${'  ' || `
 // TODO: Keep working on?
 
-But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced, who *did*? Here, then, is indie rock's fatal flaw: History *itself* is no charitable tastemaker; it's the ultimate gatekeeper!
+But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced, who *did*? Here, then, is indie rock's fatal flaw: History *itself* is a gatekeeper!
 `}
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
@@ -373,7 +373,11 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
-"Isn't elitist snobbery a relic, though, now that social media makes it trivial to be in the know?" Regarding the kind based on "cred"? Totally. But *craft*-based snobbery raises the cost of entry the *right* way— and thus remains as valid as ever! Because, like it or not, public exposure *is* zero-sum. Now BYCombo lets you treat it as such… just like rockists and rappers always have.
+${'  ' || `
+// TODO: Review.
+`}
+
+"Okay. Still, isn't elitist snobbery a relic, now that social media makes it trivial to be in the know?" Regarding the kind based on "cred"? Sure. But *craft*-based snobbery raises the cost of entry the *right* way— and thus remains as valid as ever! Because, like it or not, public exposure *is* zero-sum. Now BYCombo lets you treat it as such… just like rockists and rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
