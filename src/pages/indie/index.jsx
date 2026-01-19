@@ -311,7 +311,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced who *did*? After all, history *itself* is a gatekeeper— and this is the indie camp's fatal flaw! So let them discover those who'll be discarded tomorrow; with BYCombo, you can be *re*-discovered… by the future audiences you've cared for all along.
+But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced who *did*? Here, then, is the indie camp's fatal flaw: History *itself*… is a gatekeeper! So let them discover those today who'll be discarded tomorrow; with BYCombo, you can be *re*-discovered… by the future audiences you've cared for all along.
 
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
 
