@@ -63,7 +63,11 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*. But content has no *future* chances… and to prove this, we just need time to pass.
 
-Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to winning back our interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; discerning curators will try to save the arts; and future historians will know to explain the mistakes of our past.
+${'  ' || `
+// TODO: Review.
+`}
+
+Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to winning back our interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; discerning patrons will try to save the arts; and future historians will know to explain the mistakes of our past.
 
 These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules… but how? Any such band currently remains unknown for having done so, and with today's low barriers to entry, the field is more crowded than ever. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's the idea:
 

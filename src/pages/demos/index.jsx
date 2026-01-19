@@ -14,7 +14,11 @@ const Component = () => (
             metaDescription: DESCRIPTION,
             body: [
                 `
-At BYCombo, we blame "[indiefication](/indie#the-revolution-will-not-be-decentralized)" for causing the arts to decline. And to reverse this? The best artists must now martyr themselves by making art for untold years, all the while remaining low-status and unknown, until you— as a budding entrepreneur, discerning curator, or future historian— decide to grant them amnesty. Here's the deal:
+${'  ' || `
+// TODO: Review.
+`}
+
+At BYCombo, we blame "[indiefication](/indie#the-revolution-will-not-be-decentralized)" for causing the arts to decline. And to reverse this? The best artists must now martyr themselves by making art for untold years, all the while remaining low-status and unknown, until you— as a budding entrepreneur, discerning patron, or future historian— grant them amnesty. Here's the deal:
 
 **Every band in this demo registry has pledged *not* to be indie— that is, *not* to get themselves known. Instead, they've each sacrificed a serious chunk of lifetime— 25,000 hours or more— on a demo that advances the art form.**
 
