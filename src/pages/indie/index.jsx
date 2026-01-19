@@ -304,12 +304,10 @@ Let's imagine, though, that you *refuse* to be indie; you've hustled a few times
 So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine over time. Which is also more fun and fulfilling for *you*, right? Yet from what I've seen… the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
 ${'  ' || `
-// TODO: Keep working on?
-
-But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced, who *did*? Here, then, is indie rock's fatal flaw: History *itself* is a gatekeeper!
+// TODO: Review a few more times.
 `}
 
-But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
+But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced, who *did*? Here, then, is the indie camp's fatal flaw: History *itself*… is a gatekeeper! So let them discover those today who'll be discarded tomorrow; with BYCombo, you can be *re*-discovered… by the future audiences you've cared for all along.
 
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
 
