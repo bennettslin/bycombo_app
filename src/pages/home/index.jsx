@@ -29,9 +29,13 @@ And these tools *aren't* free; they cost time and energy that could be spent mak
 
 Here's the curious part: Ever notice that the best rappers *don't* worry about self-empowerment? It comes to them for free— if they just build up enough talents. For example, Eminem *didn't* have a fanbase when he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
-It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's interdependent way of thinking: I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, depend on *us* to make the best art.
+It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's interdependent way of thinking: I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, rely on *us* to make the best art.
 
-By *not* hustling, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charity-escalates-into-an-arms-race), no other artist can hope to compete. Which means a *label* can only compete by signing indie artists… who work hard *not* to need them. What a mess! And yet, the future is clear:
+${'  ' || `
+// TODO: Review.
+`}
+
+By *not* hustling, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charity-escalates-into-an-arms-race), no interdependent band can hope to compete. Which means a *label* can only compete by signing indie artists… who strive *not* to need them. What a mess! And yet, the future is clear:
 
 **As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… seeing as there's no other way to make the best art!**
 
@@ -63,17 +67,17 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*. But content has no *future* chances… and to prove this, we just need time to pass.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to winning back our interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; discerning patrons will try to save the arts; and future historians will know to explain the mistakes of our past.
 
 These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules… but how? Any such band currently remains unknown for having done so, and with today's low barriers to entry, the field is more crowded than ever. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's the idea:
 
 **BYCombo's assembled bands will each sacrifice a serious chunk of lifetime to make a demo that advances the art form, which they'll then show in our demo registry to build a case for partners to grant them amnesty.**
 
-So picture a *hundred* such bands, all of them committed to giving us the historically consequential works of our times. This will be the *final* step to winning back our interdependence— the next revolution in rock history!
+${'  ' || `
+// TODO: Review.
+`}
+
+So picture a *hundred* such bands, all of them committed to giving us the history-making works of our times. This will be the *final* step to winning back our interdependence— the next revolution in rock history!
             `,
         }}
     />
