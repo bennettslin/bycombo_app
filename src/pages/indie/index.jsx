@@ -356,10 +356,10 @@ The issue is that these labels are run by society's most privileged groups— an
 So far, though, their efforts have only helped women, not us minorities— or minority *men*, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
 ${'  ' || `
-// TODO: Revise. Mention "invisible hand."
+// TODO: Review a few more times.
 `}
 
-But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll *happily* assure you, "Yes, I'm in it for the money!"
+But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So if you've been shut out by both indie rock's "old-boy network" *and* its good intentions, come join BYCombo… and let capitalism's "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" pick you instead.
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
