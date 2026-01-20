@@ -352,7 +352,7 @@ The issue is that these labels are run by society's most privileged groups— an
 So far, though, their efforts have only helped women, not us minorities— or minority *men*, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So if you've been shut out by both indie rock's "old-boy network" *and* its good intentions, then join BYCombo… and let the market's "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" help you instead!
@@ -425,10 +425,6 @@ But while White men *easily* gain from their identities without admitting to it�
 
 Yet such attacks are doomed to fail. How do I know? Because, when all those indie labels rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of the *arts*, it's *I* who sit on the left— and *they*, the right!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if your demand was *never* for wokeness, but for greater *inter*-dependence— to be self-*less*, as it were? Then join BYCombo… and help us revive the artistic left!
 
 ### ${++sectionCounter}. Penultimate tolerance retracts a lifeline
@@ -442,10 +438,6 @@ And so I had *no* lifeline… but then, [as it happens](https://bennettsamuellin
 There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that the arts declined under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp jeered when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *market-tested* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. And so "poptimism" was born…
 
