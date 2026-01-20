@@ -31,10 +31,6 @@ Here's the curious part: Ever notice that the best rappers *don't* worry about s
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's interdependent way of thinking: I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, rely on *us* to make the best art.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By *not* hustling, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charity-escalates-into-an-arms-race), no interdependent band can hope to compete. Which means a *label* can only compete by signing indie artists… who strive *not* to need them. What a mess! And yet, the future is clear:
 
 **As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… seeing as there's no other way to make the best art!**
@@ -72,10 +68,6 @@ Sure enough, the last two decades of rock have had [little impact](https://today
 These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules… but how? Any such band currently remains unknown for having done so, and with today's low barriers to entry, the field is more crowded than ever. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's the idea:
 
 **BYCombo's assembled bands will each sacrifice a serious chunk of lifetime to make a demo that advances the art form, which they'll then show in our demo registry to build a case for partners to grant them amnesty.**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So picture a *hundred* such bands, all of them committed to giving us the history-making works of our times. This will be the *final* step to winning back our interdependence— the next revolution in rock history!
             `,
