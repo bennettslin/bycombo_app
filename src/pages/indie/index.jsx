@@ -359,7 +359,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So if you've been shut out by both indie rock's "old-boy network" *and* its good intentions, come join BYCombo… and let capitalism's "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" pick you instead.
+But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So if you've been shut out by both indie rock's "old-boy network" *and* its good intentions, then join BYCombo… and let capitalism's "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" help you instead.
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
@@ -429,7 +429,11 @@ But while White men *easily* gain from their identities without admitting to it�
 
 Yet such attacks are doomed to fail. How do I know? Because, when all those indie labels rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of the *arts*, it's *I* who sit on the left— and *they*, the right!
 
-So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if your demand was *never* for wokeness, but for greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help us revive the artistic left!
+${'  ' || `
+// TODO: Review.
+`}
+
+So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if your demand was *never* for wokeness, but for greater *inter*-dependence— to be self-*less*, as it were? Then join BYCombo… and help us revive the artistic left!
 
 ### ${++sectionCounter}. Penultimate tolerance retracts a lifeline
 
