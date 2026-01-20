@@ -359,7 +359,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So if you've been shut out by both indie rock's "old-boy network" *and* its good intentions, then join BYCombo… and let capitalism's "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" help you instead.
+But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So if you've been shut out by both indie rock's "old-boy network" *and* its good intentions, then join BYCombo… and let capitalism's "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" help you instead!
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
@@ -574,7 +574,7 @@ The new Romantics wistfully recall those last few decades before the rise of sou
 After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* such *indie*-pendent *indie*-viduals! So now, under their watch, the worsening can only accelerate…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Keep working on. Maybe say something to the effect of, benefits us all as a collective forever, versus benefits the artist as an individual once.
 
 To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to favor what benefits us as a *collective*— and not just the artist as an individual. Which is to say, it'll need to put craft above "cred," mastery above authenticity… as well as to "forgive" anyone who chooses self-sacrifice over self-empowerment.
 `}
