@@ -307,7 +307,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced who *did*? History, then… is *itself* a gatekeeper— and this is the tastemaker's fatal flaw! So let them discover those who'll be discarded tomorrow; with BYCombo, you can be *re*-discovered… by the future audiences you've cared for all along.
+But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced who *did*? History, then, is like a *gatekeeper*— and this will be the indie camp's undoing! So let them discover those who'll be discarded tomorrow; with BYCombo, you can be *re*-discovered… by the future audiences you've cared for all along.
 
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
 
@@ -568,10 +568,10 @@ After all, AI creates a collective action problem, which— as you'll recall— 
 ${'  ' || `
 // TODO: Keep working on. Maybe say something to the effect of, benefits us all as a collective forever, versus benefits the artist as an individual once.
 
-To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to favor what benefits us as a *collective*— and not just the artist as an individual. Which is to say, it'll need to put craft above "cred," mastery above authenticity… as well as to "forgive" anyone who chooses self-sacrifice over self-empowerment.
+To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to speak up for our interests as a *collective*— and not for those of any individual. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
 `}
 
-To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to speak up for our interests as a *collective*— and not for those of any individual. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
+To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to speak up for our long-term interests as a *collective*. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
 
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— maybe [even permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but us collectivists.
 
