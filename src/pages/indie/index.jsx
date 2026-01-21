@@ -307,7 +307,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced who *did*? History, then, is like a *gatekeeper*— and this will be the indie camp's undoing! So let them discover those who'll be discarded tomorrow; with BYCombo, you can be *re*-discovered… by the future audiences you've cared for all along.
+But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced who *did*? Time, then, behaves like a *gatekeeper*— and this is the indie camp's fatal flaw! So let them discover those who'll be discarded tomorrow; with BYCombo, you can be *re*-discovered… by the future audiences you've cared for all along.
 
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
 
@@ -329,13 +329,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Except… now it made sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will insist on keeping that culture as it is— no matter how broken it's become.
+Except… now it made sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, the indie camp *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will insist on keeping that culture as it is— no matter how broken it's become.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to waste even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
 
@@ -358,10 +354,6 @@ While being alternative is an *artistic* choice, being indie is a *business* sta
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality *can't* be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
 So far, though, their efforts have only helped women, not us minorities— or minority *men*, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So if you've been shut out by both indie rock's "old-boy network" *and* its good intentions, then join BYCombo… and let the market's "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" help you instead!
 
@@ -424,10 +416,6 @@ It's simple: Historically, victims of prejudice relied on a centralized judiciar
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have shown that you *aren't* your own best advocate? Why, BYCombo can restore your artistic civil rights— by letting you partner with elites who'll advocate on your behalf!
 
 ### ${++sectionCounter}. Identity is a resort of the privileged
-
-${'  ' || `
-// TODO: Review link change.
-`}
 
 Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on [their identities](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=For%20a%20few,aspirations%20we%20did.%E2%80%9D) as society's underdogs…
 
@@ -566,10 +554,6 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 At the peak of my years working eighty-hour weeks— forty to earn a living, and [forty on](https://bobtail.substack.com/p/raw-illustrated-heads) my [own projects](https://bobtail.substack.com/p/raw-illustrated-bodies)— a friend staged an intervention. "On a scale of one to ten," he asked, "how happy are you?" "Eight," I replied. He was floored; he'd expected a three. And so I cleared up the matter: The very reason I chose this unusual path was to *guarantee* my happiness.
 
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi points out that when you have a clear goal; feel adequately challenged; and get immediate feedback from the task at hand, you become fully immersed in the act of creation— which leads to long-term fulfillment. This explains how those years of self-sacrifice were some of my happiest; I *wasn't* burning myself out, as my friend had feared.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because any exposure gained after decades of hustling might just as well be won by chance, bought with privilege, or stolen through opportunism— in an instant. Every artist knows this, yet they play by indie rock's rules anyway… and it eats at their soul.
 
