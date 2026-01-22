@@ -27,7 +27,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: A gatekeeper promises to be a *grownup*— and thus sits *outside* the status hierarchy. Because of this, they're happy to bet on any low-status nobody with enviable talents… one of whom just might upend the hierarchy altogether! Which, I'd say, puts them on the artistic *left*.
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: A gatekeeper promises to be a *grownup*— and thus sits *outside* the status hierarchy. Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, puts them on the artistic *left*.
 
 ${'  ' || `
 // TODO: Keep working on.
