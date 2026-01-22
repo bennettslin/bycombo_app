@@ -24,20 +24,20 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
 ${'  ' || `
-// TODO: Revise. Make it more about gatekeepers being grownups and tastemakers being peers?
-
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can then go "from one to *n*"— to convince others that you deserve it. Whereas, for a tastemaker, the roles are reversed. "Okay, and such awareness leads to revolution… how?"
+// TODO: Review a few more times.
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can then go "from one to *n*"— to convince others that you deserve it. Whereas, for a tastemaker, the roles are reversed. "Okay, and such awareness leads to revolution… how?"
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: A gatekeeper promises to be a *grownup*— and thus sits *outside* the status hierarchy. Because of this, they're happy to bet on any low-status nobody with enviable talents… one of whom just might upend the hierarchy altogether! Which, I'd say, puts them on the artistic *left*.
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Keep working on.
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one, and is now due to gain status even *further*. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
+
+By contrast, a tastemaker's promise is to be a *peer*; as such, they sit *within* the same hierarchy as the artists they pick. Naturally, then, this makes them loyal to those artists who hustle to get themselves known— as they themselves had.
 `}
 
-Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one, and is now due to gain status even *further*. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
+By contrast, a tastemaker promises to be a *peer*; as such, they sit *within*— and are thus loyal to— the same hierarchy as the artists they pick. Naturally, this makes them incapable of looking past your low status. If you're a no-name, then, it's on you to get yourself known.
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
@@ -79,7 +79,11 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 **Why interdependence?**
 
-Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
+${'  ' || `
+// TODO: Review link move.
+`}
+
+Partners are most impactful when helping to make you known as an artist— that is, to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
@@ -221,7 +225,11 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-In the past, you *weren't* told to get yourself known— to go "from zero to one," as they say; instead, it was on you to convince others that you deserve it— to go "from one to *n*." And so, as a zero, you'd explore at will, hoping to find the unexpected. But today, *any* artist can be indie, from the get-go— which then leaves them reluctant to experiment, for fear of losing hard-won fans.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+In the past, you had little means to get yourself known— to go "from zero to one," as they say; your role, then, was to convince others that you deserve it— to go "from one to *n*." And so, as a "zero," you'd explore at will, hoping to find the unexpected. But today, artists get to "one" on their own, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep several slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
@@ -579,7 +587,7 @@ ${'  ' || `
 To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to speak up for our interests as a *collective*— and not for those of any individual. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
 `}
 
-To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to speak up for our long-term interests as a *collective*. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
+To oppose slop, then— of both the AI *and* indie kind— a new counterculture must arise to speak up for our long-term interests as a *collective*. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
 
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— maybe [even permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but us collectivists.
 
