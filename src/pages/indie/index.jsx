@@ -423,7 +423,11 @@ So now what, if *your* dream isn't to be well-rounded, but to be exceptionally s
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
-Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be "indiefied" from the *beginning*? Imagine, then, that we go back in time to the '50s and announce, "Artists, as your own best advocate, you'll now be judged on self-reliance— that is, on how well you get *yourself* known, without a partner's help. The playing field is finally level!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Indie rock's ideals are rooted in *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be "indiefied" from the *beginning*? Imagine, then, that we go back in time to the '50s and announce, "Artists, as your own best advocate, you'll now be judged on self-reliance— that is, on how well you get *yourself* known, without a partner's help. The playing field is finally level!"
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By indiefying rock in the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
@@ -457,7 +461,11 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp sneered when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. And so "poptimism" was born…
 
-"Wait, indie rock gave birth to poptimism?" It sounds odd, I know! But think about it: Both are underdog movements that supplanted an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, the classic pop of Tin Pan Alley's Jewish immigrants.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+"Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, the workings of Tin Pan Alley's Jewish immigrants. Each is also rooted less in *aesthetics*, than in *ethics*— which lose all meaning if opposition is allowed.
 
 Both movements thus protect their underdogs by refusing to ask: "Wouldn't a hungry outsider— one who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times… then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
@@ -585,6 +593,8 @@ ${'  ' || `
 // TODO: Keep working on. Maybe say something to the effect of, benefits us all as a collective forever, versus benefits the artist as an individual once. Mention self-sacrifice versus self-empowerment as well?
 
 To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to speak up for our interests as a *collective*— and not for those of any individual. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
+
+Use https://www.verywellmind.com/what-are-collectivistic-cultures-2794962 somehow.
 `}
 
 To oppose slop, then— of both the AI *and* indie kind— a new counterculture must arise to speak up for our long-term interests as a *collective*. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
@@ -601,7 +611,11 @@ As a result, Millennials *readily* sell out, insisting that survival today depen
 
 Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=For%20mainstream%20rock,were%20overblown%20frauds%3B) to *spurn* these bands.
 
-Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
+${'  ' || `
+// TODO: Review.
+`}
+
+Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
 Still, since our troubles began when we accepted indiefication and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as [Kurt Cobain](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) knew. Now BYCombo lets you act on this knowledge as well.
 
