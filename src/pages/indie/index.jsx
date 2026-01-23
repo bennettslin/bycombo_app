@@ -27,19 +27,15 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: A gatekeeper promises to be a *grownup*— and thus sits *outside* the status hierarchy. Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, in my view, puts them on the artistic *left*.
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: A gatekeeper agrees to be the *grownup*— and thus sits *outside* the status hierarchy. For this reason, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic *progressive*.
 
 ${'  ' || `
 // TODO: Review a few more times.
+
 `}
+By contrast, the tastemaker promises to be a *peer*; as such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status. If they're ever to pick you as an artist, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… thus making them a *conservative*! So here's what needs to be explained:
 
-By contrast, a tastemaker's promise is to be a *peer*; as such, they sit *within* the same hierarchy as the rest of us— leaving them unable to see past an artist's low status. If you're a no-name, then, your role is to get yourself known first, just like they once did. This means they up-*hold* the status hierarchy… which puts them on the *right*! So here's what needs to be explained:
-
-${'  ' || `
-// TODO: Review.
-`}
-
-**By telling *all* artists to get themselves known— in other words, to be indie— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
+**By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
 From there, we take *action*. Rebelling against centralized institutions would be easy, right? Just… tear them down! But against indie rock's *de*-centralized structures, we must *build*— and this is far more difficult. After all, build *what*, exactly? Luckily, I've also spent half my Xennial life coming up with a plan:
 
@@ -51,7 +47,11 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now we support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
+${'  ' || `
+// TODO: Review.
+`}
+
+Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. Because of this, Millennials cheered when indie rock took over— and now we support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
@@ -84,6 +84,10 @@ ${'  ' || `
 `}
 
 Partners are most impactful when helping to make you known as an artist— that is, to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
+
+${'  ' || `
+// TODO: Revise. Repeat deserving it.
+`}
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
