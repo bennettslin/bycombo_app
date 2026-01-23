@@ -27,19 +27,19 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: A gatekeeper promises to be a *grownup*— and thus sits *outside* the status hierarchy. Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, puts them on the artistic *left*.
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: A gatekeeper promises to be a *grownup*— and thus sits *outside* the status hierarchy. Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, in my view, puts them on the artistic *left*.
 
 ${'  ' || `
-// TODO: Keep working on.
-
-Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one, and is now due to gain status even *further*. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
-
-By contrast, a tastemaker's promise is to be a *peer*; as such, they sit *within* the same hierarchy as the artists they pick. Naturally, then, this makes them loyal to those artists who hustle to get themselves known— as they themselves had.
+// TODO: Review a few more times.
 `}
 
-By contrast, a tastemaker promises to be a *peer*; as such, they sit *within*— and are thus loyal to— the same hierarchy as the artists they pick. Naturally, this makes them incapable of looking past your low status. If you're a no-name, then, it's on you to get yourself known.
+By contrast, a tastemaker's promise is to be a *peer*; as such, they sit *within* the same hierarchy as the rest of us— leaving them unable to see past an artist's low status. If you're a no-name, then, your role is to get yourself known first, just like they once did. This means they up-*hold* the status hierarchy… which puts them on the *right*! So here's what needs to be explained:
 
-**By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
+${'  ' || `
+// TODO: Review.
+`}
+
+**By telling *all* artists to get themselves known— in other words, to be indie— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
 From there, we take *action*. Rebelling against centralized institutions would be easy, right? Just… tear them down! But against indie rock's *de*-centralized structures, we must *build*— and this is far more difficult. After all, build *what*, exactly? Luckily, I've also spent half my Xennial life coming up with a plan:
 
