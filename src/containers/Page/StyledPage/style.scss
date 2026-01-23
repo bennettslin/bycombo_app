@@ -1,11 +1,27 @@
 @import '../../../scss/constants/responsive';
 
+/**
+* The math isn't perfect, unfortunately. These hard-coded multipliers keep the
+* ratio of font size to page width consistent across screens… I think.
+*/
+$hardcoded__multiplier__sm: 1; // TODO
+$hardcoded__multiplier__md: 1; // TODO
+
 .StyledPage {
     flex-grow: 1;
     display: flex;
 
+    @media (min-width: $breakpoint__xs) {
+        width:
+            $width__sm
+            * $hardcoded__multiplier__sm
+            * $hardcoded__multiplier__md;
+    }
+
     @media (min-width: $breakpoint__sm) {
-        width: $width__md;
+        width:
+            $width__md
+            * $hardcoded__multiplier__md;
     }
 
     @media (min-width: $breakpoint__md) {

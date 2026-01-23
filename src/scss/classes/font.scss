@@ -40,31 +40,37 @@
     color: $colour__neutral__dark;
 }
 
-$fontSize__default: 1em;
-$fontSize__smallest: math.div($fontSize__default, $multiplier__size * 1.5);
-$fontSize__smaller: math.div($fontSize__default, $multiplier__size);
-$fontSize__medium: $fontSize__default;
-$fontSize__larger: $fontSize__default * $multiplier__size;
-$fontSize__largest: $fontSize__default * ($multiplier__size * 1.5);
+/**
+ * Unfortunately, I started with this arbitrary value of 1.33em, and now I have
+ * to keep it in order to maintain the desired ratio of font size to page width.
+ */
+$fontSize__default: 1.33em;
 
-.fontSize__sm { font-size: $fontSize__smallest; }
-.fontSize__md { font-size: $fontSize__smaller; }
-.fontSize__lg { font-size: $fontSize__medium; }
+$fontSize__1: $fontSize__default * $multiplier__size;
+$fontSize__2: $fontSize__default;
+$fontSize__3: math.div($fontSize__2, $multiplier__size);
+$fontSize__4: math.div($fontSize__3, $multiplier__size);
+$fontSize__5: math.div($fontSize__4, $multiplier__size);
+$fontSize__6: math.div($fontSize__5, $multiplier__size);
 
-@media (min-width: $breakpoint__xs) {
-    .fontSize__sm { font-size: $fontSize__smallest; }
-    .fontSize__md { font-size: $fontSize__smaller; }
-    .fontSize__lg { font-size: $fontSize__medium; }
-}
+.fontSize__sm { font-size: $fontSize__5; }
+.fontSize__md { font-size: $fontSize__4; }
+.fontSize__lg { font-size: $fontSize__3; }
+
+// @media (min-width: $breakpoint__xs) {
+//     .fontSize__sm { font-size: $fontSize__5; }
+//     .fontSize__md { font-size: $fontSize__4; }
+//     .fontSize__lg { font-size: $fontSize__3; }
+// }
 
 @media (min-width: $breakpoint__sm) {
-    .fontSize__sm { font-size: $fontSize__smaller; }
-    .fontSize__md { font-size: $fontSize__medium; }
-    .fontSize__lg { font-size: $fontSize__larger; }
+    .fontSize__sm { font-size: $fontSize__4; }
+    .fontSize__md { font-size: $fontSize__3; }
+    .fontSize__lg { font-size: $fontSize__2; }
 }
 
 @media (min-width: $breakpoint__md) {
-    .fontSize__sm { font-size: $fontSize__medium; }
-    .fontSize__md { font-size: $fontSize__larger; }
-    .fontSize__lg { font-size: $fontSize__largest; }
+    .fontSize__sm { font-size: $fontSize__3; }
+    .fontSize__md { font-size: $fontSize__2; }
+    .fontSize__lg { font-size: $fontSize__1; }
 }
