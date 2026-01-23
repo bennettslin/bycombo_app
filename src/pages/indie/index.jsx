@@ -33,7 +33,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 
 `}
-By contrast, the tastemaker promises to be a *peer*; as such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status. If they're ever to pick you as an artist, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… thus making them a *conservative*! So here's what needs to be explained:
+By contrast, the tastemaker promises to be a *peer*; as such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status as an artist. If they're ever to pick you, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… thus making them a *conservative*! So here's what needs to be explained:
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
