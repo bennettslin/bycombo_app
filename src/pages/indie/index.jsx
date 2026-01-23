@@ -21,16 +21,20 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 ### The revolution will *not* be decentralized
 
+${'  ' || `
+// TODO: Review full section.
+`}
+
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: A gatekeeper agrees to be the *grownup*— and thus sits *outside* the status hierarchy. For this reason, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic *progressive*.
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The gatekeeper agrees to be a *grownup*— and thus sits *outside* the status hierarchy. Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic *progressive*.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 
 `}
 By contrast, the tastemaker promises to be a *peer*; as such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status as an artist. If they're ever to pick you, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… thus making them a *conservative*! So here's what needs to be explained:
@@ -47,11 +51,7 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. Because of this, Millennials cheered when indie rock took over— and now we support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
+Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now we support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
@@ -78,10 +78,6 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. To put it another way, history makers *need* to work with a label— or some other business partner!— and a quick glance through the historical canon bears this out.
 
 **Why interdependence?**
-
-${'  ' || `
-// TODO: Review link move.
-`}
 
 Partners are most impactful when helping to make you known as an artist— that is, to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
 
@@ -230,7 +226,7 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 In the past, you had little means to get yourself known— to go "from zero to one," as they say; your role, then, was to convince others that you deserve it— to go "from one to *n*." And so, as a "zero," you'd explore at will, hoping to find the unexpected. But today, artists get to "one" on their own, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
@@ -454,10 +450,6 @@ And so I had *no* lifeline… but then, [as it happens](https://bennettsamuellin
 There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that the arts declined under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp sneered when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. And so "poptimism" was born…
 
