@@ -255,7 +255,11 @@ Can the indie labels learn *not* to be led astray? No, they're overworked and un
 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for fan engagement: Back then, it was only *ever* possible with a local gathering.
 
-But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out every outlier. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out every outlier. And social media has made fan engagement trivial; those who do it best— a.k.a. influencers— may earn *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
 
 Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too overworked and underpaid to get with the times…
 
@@ -591,6 +595,8 @@ After all, AI creates a collective action problem, which— as you'll recall— 
 
 ${'  ' || `
 // TODO: Keep working on. Maybe say something to the effect of, benefits us all as a collective forever, versus benefits the artist as an individual once. Mention self-sacrifice versus self-empowerment as well?
+
+Maybe change to be more about influencers and superstars.
 
 To oppose slop, then— of both the AI *and* indie kind… a new counterculture must arise to speak up for our interests as a *collective*— and not for those of any individual. Which is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the innovators of our times, who simply *won't* care about fair compensation the way our hustlers do.
 
