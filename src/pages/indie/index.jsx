@@ -25,7 +25,11 @@ ${'  ' || `
 // TODO: Review full section.
 `}
 
-First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
+${'  ' || `
+// TODO: Review.
+`}
+
+First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than wait on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
 ${'  ' || `
 // TODO: Review.
