@@ -25,23 +25,15 @@ ${'  ' || `
 // TODO: Review full section.
 `}
 
-${'  ' || `
-// TODO: Review.
-`}
-
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than wait on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The gatekeeper agrees to be a *grownup*— and thus sits *outside* the status hierarchy. Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic *progressive*.
 
 ${'  ' || `
 // TODO: Review.
-
 `}
-By contrast, the tastemaker promises to be a *peer*; as such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status as an artist. If they're ever to pick you, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… making them a *conservative*! So here's what needs to be explained:
+
+By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status as an artist. If they're ever to pick you, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… making them a *conservative*! So here's what needs to be explained:
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
@@ -84,13 +76,13 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 **Why interdependence?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Partners are most impactful when helping to make you known as an artist— that is, to take your "base number," figuratively speaking, "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince all others that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Meanwhile, your talents are "multipliers": They're great at convincing others that you *deserve* the job; where they falter, though, is in *getting* you that job to begin with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
@@ -237,7 +229,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, you had little means to get yourself known— to go "from zero to one," as they say; your role, then, was to convince others that you deserve it— to go "from one to *n*." And so, as a "zero," you'd explore at will, hoping to find the unexpected. But today, artists get to "one" on their own, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
+In the past, you had little means to get yourself known— to go "from zero to one," as they say. Your role, then, was to convince others that you deserve it— to go "from one to *n*." And so, as a "zero," you'd explore at will, hoping to find the unexpected. But today, artists get to "one" on their own, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep several slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
@@ -258,16 +250,16 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their words, "lean and scrappy"— and this is their selling point; by *not* hiring middlemen, they pass the savings onto the artist. Then, to free up "bandwidth," they just follow the instincts handed down by their forebears— like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for those who engage with fans: Back then, this was only *ever* possible with a local gathering.
+Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, this was only *ever* possible with a local gathering.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out every outlier. And social media has made fan engagement trivial; those who do it best— a.k.a. influencers— may earn *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
+But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out every outlier. And social media makes it trivial to engage with fans; those who do it best— a.k.a. influencers— may earn *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
 
 Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too overworked and underpaid to get with the times…
 
@@ -287,7 +279,11 @@ Sad to say, young folks don't question today's auto-Bizarro world, since it's al
 
 Want even *more* absurdity? Any "trust fund baby" can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— all to the benefit of the privileged. How did this happen?
 
-It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
+${'  ' || `
+// TODO: Review.
+`}
+
+It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no dissent and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and having privilege is the [greatest predictor](http://archive.today/2025.09.26/https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
@@ -435,10 +431,6 @@ So now what, if *your* dream isn't to be well-rounded, but to be exceptionally s
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Indie rock's ideals are rooted in *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be "indiefied" from the *beginning*? Imagine, then, that we go back in time to the '50s and announce, "Artists, as your own best advocate, you'll now be judged on self-reliance— that is, on how well you get *yourself* known, without a partner's help. The playing field is finally level!"
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By indiefying rock in the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
@@ -474,10 +466,10 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp sneered when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. And so "poptimism" was born…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-"Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, the workings of Tin Pan Alley's Jewish immigrants. Each is also rooted less in *aesthetics*, than in *ethics*— which lose all meaning if opposition is allowed.
+"Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, the workings of Tin Pan Alley's Jewish immigrants. Each is also rooted less in *aesthetics*, than in *ethics*— which lose all meaning once dissent is allowed.
 
 Both movements thus protect their underdogs by refusing to ask: "Wouldn't a hungry outsider— one who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times… then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
@@ -624,10 +616,6 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html#:~:text=For%20Generation%20X,who%20you%20are.) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
 Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=For%20mainstream%20rock,were%20overblown%20frauds%3B) to *spurn* these bands.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
