@@ -4,9 +4,23 @@ $multiplier__size: 1.25;
 
 /* Recent. */
 $width__default: 800px;
+
+/**
+* The math isn't perfect, unfortunately. These hard-coded multipliers are meant
+* to keep the ratio of font size to page width consistent across screens. I've
+* verified they're correct, at least for the text I have now. They should only
+* ever decrease in size.
+*/
+$hardcoded__multiplier__md: 0.9899;
+$hardcoded__multiplier__sm: 0.9810;
+
 $width__lg: $width__default;
-$width__md: math.div($width__lg, $multiplier__size);
-$width__sm: math.div($width__md, $multiplier__size);
+$width__md:
+    math.div($width__lg, $multiplier__size)
+    * $hardcoded__multiplier__md;
+$width__sm:
+    math.div($width__md, $multiplier__size)
+    * $hardcoded__multiplier__sm;
 
 $height__appFooter: 48px;
 
@@ -22,6 +36,6 @@ $margin__md: 24px;
 $margin__lg: 32px;
 $margin__xl: 40px;
 
-$breakpoint__xs: $width__sm + $margin__xs * 2;
-$breakpoint__sm: $width__md + $margin__sm * 2;
-$breakpoint__md: $width__lg + $margin__md * 2;
+$breakpoint__xs: $width__sm;
+$breakpoint__sm: $width__md;
+$breakpoint__md: $width__lg;
