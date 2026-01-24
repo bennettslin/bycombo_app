@@ -27,7 +27,11 @@ ${'  ' || `
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than wait on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The gatekeeper agrees to be a *grownup*— and thus sits *outside* the status hierarchy. Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic *progressive*.
+${'  ' || `
+// TODO: Review link move.
+`}
+
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The gatekeeper agrees to be a *grownup*— and thus sits *outside* the [status hierarchy](https://www.harpercollins.com/products/the-status-game-will-storr). Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic *progressive*.
 
 ${'  ' || `
 // TODO: Review.
@@ -425,7 +429,7 @@ Then one day it clicked: I *haven't* met with a hundred such tastemakers. For al
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
-Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-will-storr) by status, this means they converge on the same tastes…
+Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
 So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they crave interdependence as much as you do!
 
@@ -473,7 +477,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, the workings of Tin Pan Alley's Jewish immigrants. Each is also rooted not in *aesthetics*, but in *ethics*— which lose all meaning once dissent is allowed.
+"Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, the workings of Tin Pan Alley's Jewish immigrants. Both are also rooted less in *aesthetics*, than in *ethics*— which lose all meaning if dissent is allowed.
 
 ${'  ' || `
 // TODO: Review a few more times.
