@@ -1,11 +1,13 @@
 @import '../../../scss/constants/responsive';
 
 /**
-* The math isn't perfect, unfortunately. These hard-coded multipliers keep the
-* ratio of font size to page width consistent across screens… I think.
+* The math isn't perfect, unfortunately. These hard-coded multipliers are meant
+* to keep the ratio of font size to page width consistent across screens. I've
+* verified they're correct, at least for the text I have now. They should only
+* ever decrease in size.
 */
-$hardcoded__multiplier__sm: 1; // TODO
-$hardcoded__multiplier__md: 1; // TODO
+$hardcoded__multiplier__sm: 0.9810;
+$hardcoded__multiplier__md: 0.9899;
 
 .StyledPage {
     flex-grow: 1;

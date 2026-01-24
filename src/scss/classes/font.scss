@@ -57,12 +57,6 @@ $fontSize__6: math.div($fontSize__5, $multiplier__size);
 .fontSize__md { font-size: $fontSize__4; }
 .fontSize__lg { font-size: $fontSize__3; }
 
-// @media (min-width: $breakpoint__xs) {
-//     .fontSize__sm { font-size: $fontSize__5; }
-//     .fontSize__md { font-size: $fontSize__4; }
-//     .fontSize__lg { font-size: $fontSize__3; }
-// }
-
 @media (min-width: $breakpoint__sm) {
     .fontSize__sm { font-size: $fontSize__4; }
     .fontSize__md { font-size: $fontSize__3; }

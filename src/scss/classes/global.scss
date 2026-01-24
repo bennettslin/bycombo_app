@@ -1,3 +1,4 @@
+@use 'sass:math';
 @import '../constants/colours';
 @import '../constants/responsive';
 
@@ -78,6 +79,22 @@ a, button, input[type=submit] {
 em, i {
     position: relative;
     left: -0.025em; // Eyeballed.
+}
+
+$ul__padding__md: 40px;
+$ul__padding__sm: math.div($ul__padding__md, $multiplier__size);
+$ul__padding__xs: math.div($ul__padding__sm, $multiplier__size);
+
+ul {
+    padding-inline-start: $ul__padding__xs;
+
+    @media (min-width: $breakpoint__sm) {
+        padding-inline-start: $ul__padding__sm;
+    }
+
+    @media (min-width: $breakpoint__md) {
+        padding-inline-start: $ul__padding__md;
+    }
 }
 
 li {

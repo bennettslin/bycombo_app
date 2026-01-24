@@ -14,7 +14,6 @@
                 * Version 146 now
 
 * BYC
-    * Keep text alignment consistent across screen widths
     * Sentences with ellipsis in between instead of a third em-dash:
         * Sometime in the '00s…
         * So instead of weeding you out…
