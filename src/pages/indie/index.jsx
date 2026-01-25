@@ -325,7 +325,11 @@ Uh… *we* would— the audience! Most of us only want the *best* athletes, and 
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-artist thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed far from its literal meaning of "all who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: The ones you engage with online? That's more of a following. Those hearing you on the radio? Now *that's* an audience.
+${'  ' || `
+// TODO: Review.
+`}
+
+Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed far from its literal meaning of "all who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: The ones you engage with online? That's more of a following. All those hearing you on the radio? Now *that's* an audience.
 
 From there, we note that this vast majority only want the *best* artists… and it *isn't* their [job to know](https://youtu.be/SYSa4RzaH80) what "the best" entails! Thankfully, BYCombo can step up as a gatekeeper for the elites, if *you'll* pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
