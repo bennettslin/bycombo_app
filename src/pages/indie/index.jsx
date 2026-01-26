@@ -68,10 +68,10 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 **Why interdependence?**
 
 ${'  ' || `
-// TODO: Review full section.
+// TODO: Review.
 `}
 
-Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." And yet, on this matter, their efforts have far less impact…
+Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet from this point onward, any partner will have far less impact…
 
 Meanwhile, your talents are "multipliers": They're great at convincing others that you *deserve* the job; where they falter, though, is in *getting* you that job to begin with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
@@ -115,7 +115,11 @@ In the '90s, though, as bands began to leave for the major labels, "alternative"
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](https://bennettsamuellin.blogspot.com/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
-Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](http://archive.today/2025.03.17/https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)— making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](http://archive.today/2025.03.17/https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)… making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -214,7 +218,7 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. "From one to n" part isn't quite right.
 `}
 
 In the past, you had little means to get yourself known— to go "from zero to one," as they say. Your role, then, was to convince *others* that you *deserve* it— to go "from one to *n*." And so, as a "zero," you'd explore at will, hoping to find the unexpected. But today, artists get to "one" on their own, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
@@ -443,15 +447,7 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-${'  ' || `
-// TODO: Review full section.
-`}
-
 Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp sneered when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. Thus "poptimism" was born…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 "Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, the workings of Tin Pan Alley's Jewish immigrants. Both are also rooted not in *aesthetics*, but in *ethics*— which lose all meaning if dissent is allowed.
 
