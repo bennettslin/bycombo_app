@@ -218,10 +218,14 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 ${'  ' || `
-// TODO: Revise. "From one to n" part isn't quite right.
+// TODO: Review a few more times.
 `}
 
-In the past, you had little means to get yourself known— to go "from zero to one," as they say. Your role, then, was to convince *others* that you *deserve* it— to go "from one to *n*." And so, as a "zero," you'd explore at will, hoping to find the unexpected. But today, artists get to "one" on their own, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
+In the past, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. As a "zero," then, you'd explore at will, hoping to find the unexpected. But today's artists get to "one" *themselves*, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
+
+${'  ' || `
+// TODO: Revise. Mention "one to *n*" here?
+`}
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep several slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
@@ -249,7 +253,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it wasn't possible outside a local gathering.
+Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it *wasn't* possible outside a local gathering.
 
 ${'  ' || `
 // TODO: Review.
