@@ -253,7 +253,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it *wasn't* possible outside a local gathering.
+Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at a local gathering.
 
 ${'  ' || `
 // TODO: Review.
