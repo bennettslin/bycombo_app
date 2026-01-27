@@ -221,7 +221,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-In the past, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. As a "zero," then, you'd explore at will, hoping to find the unexpected. But today's artists get to "one" *themselves*, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
+In the past, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. As a "zero," then, you'd explore at will, hoping to find the unexpected. But today, artists get to "one" on their *own*, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 ${'  ' || `
 // TODO: Revise. Mention "one to *n*" here?
@@ -253,7 +253,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at a local gathering.
+Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
 
 ${'  ' || `
 // TODO: Review.
