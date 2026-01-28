@@ -217,17 +217,13 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Back in the day, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. And so, as a "zero," you'd explore at will, hoping to spark creative ideas that could take you from "one to *n*"— and thus convince others to partner with you. But today, indie artists get to "one" on their *own*… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep several slots open for unknown artists with creative ideas— some of whom went on to give us the history-making works of their times!
+Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep several slots open for unknown artists— some of whom went on to make the most creative works of their times!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
@@ -242,10 +238,6 @@ In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the co
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: By *not* knowing what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Lean operations fail to adapt
-
-${'  ' || `
-// TODO: Review full section.
-`}
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their words, "lean and scrappy"— and this is their selling point; by *not* hiring middlemen, they pass the savings onto the artist. Then, to free up "bandwidth," they just follow the instincts handed down by their forebears— like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
@@ -622,10 +614,6 @@ So if I could get every progressive— in both politics and the arts— to read 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*— turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)… so over time, it became accepted as the correct one.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
