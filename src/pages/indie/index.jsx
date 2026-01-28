@@ -71,7 +71,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet by that point, a partner has far less impact…
+Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*"— even though, at that point, their efforts have far less impact…
 
 Meanwhile, your talents are "multipliers": They're great at convincing others that you *deserve* the job; where they falter, though, is in *getting* you that job to begin with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
