@@ -275,7 +275,11 @@ To oppose "indiefication," then, interdependent bands can "cross the picket line
 
 In game theory, the "[stag hunt](https://en.wikipedia.org/wiki/Stag_hunt)" is a game in which you and another player must decide, each on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
-The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The opposite is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
+${'  ' || `
+// TODO: Review.
+`}
+
+The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The opposite is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [official ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
 Indie artists strive *not* to need a label, and some [keep at it](http://archive.today/2024.05.11/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) even after signing to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day thrive, the past proves that rock can be interdependent once again!
 
