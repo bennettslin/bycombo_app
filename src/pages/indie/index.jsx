@@ -67,10 +67,6 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 **Why interdependence?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet from that point onward, their efforts have far less impact…
 
 Meanwhile, your talents are "multipliers": They're great at convincing others that you *deserve* the job; where they falter, though, is in *getting* you that job to begin with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
@@ -219,10 +215,6 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 Back in the day, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. And so, as a "zero," you'd explore at will, hoping to spark creative ideas that could take you from "one to *n*"— and thus convince others to partner with you. But today, indie artists get to "one" on their *own*… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots for unknown artists— some of whom went on to make history's most creative works!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
@@ -275,11 +267,7 @@ To oppose "indiefication," then, interdependent bands can "cross the picket line
 
 In game theory, the "[stag hunt](https://en.wikipedia.org/wiki/Stag_hunt)" is a game in which you and another player must decide, each on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The opposite is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [official ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
+The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The opposite is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
 Indie artists strive *not* to need a label, and some [keep at it](http://archive.today/2024.05.11/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) even after signing to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day thrive, the past proves that rock can be interdependent once again!
 
@@ -331,11 +319,7 @@ Unfortunately, *all* welfare is fragile: Instead of feeling grateful to be given
 
 Yet others *happily* pay it forward: "Paying more means we [succeeded more](http://archive.today/2025.06.26/https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
-### ${++sectionCounter}. Paid dues shrivel a noble spirit
+### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 Mr. Rogers told us to look for [the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
 
@@ -515,10 +499,6 @@ I'll tell you my theory: Millennials only faced boredom long enough to hate it; 
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only [ever faced](http://archive.today/2022.12.16/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) an *abundance* of content… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Unity scapegoats the lone dissident
 
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such "larping"… must be fiercely opposed by *all*.
@@ -526,10 +506,6 @@ Back when content was scarce, joining a scene— goth, punk— was a full-time e
 Furthermore: "If 99% of us can see we're all in this together, then you'd best believe the other 1% is *that* awful. Still, we can beat them on size alone!" So Millennials never learned to disagree, but instead to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists against the left's elites! And in the arts, it's the same muddled thinking…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that these same labels reject *another* artist, for *lacking* a proven fanbase. This time the crowd boos. Except… the one scenario leads to the other, doesn't it? So how are the *labels* to blame?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening their delusion that artists can— and thus *should*— be united, I became that 1% for the other 99% to beat down… like the scapegoated child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
@@ -592,7 +568,7 @@ ${'  ' || `
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to defend any such *indie*-vidual of its own, it must *also* condone this behavior in everyone else: superstars, influencers… and now, AI prompters.
@@ -602,10 +578,6 @@ ${'  ' || `
 `}
 
 So the *only* way to oppose slop— of both the AI *and* indie kind— is for a new counterculture to defend all of us, as a *collective*, against the self-interested *individual*. That is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— [maybe permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but a collectivist.
 
@@ -659,19 +631,11 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ### ${++sectionCounter}. Artists want faith in a savior
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they quietly built the "one-to-*n*" talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if not everyone joins me in calling it "workhorse" versus "windfall art."
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build your one-to-*n* talents… in faith that a savior will then find you!
 
