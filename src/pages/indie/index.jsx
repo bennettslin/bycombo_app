@@ -71,7 +71,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*"— even though, at that point, their efforts have far less impact…
+Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet from that point onward, their efforts have far less impact…
 
 Meanwhile, your talents are "multipliers": They're great at convincing others that you *deserve* the job; where they falter, though, is in *getting* you that job to begin with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
@@ -576,10 +576,10 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
 ${'  ' || `
-// TODO: Revise title?
+// TODO: Review title.
 `}
 
-### ${++sectionCounter}. Collectivists donate their achievements
+### ${++sectionCounter}. Collectivists share their achievements
 
 ${'  ' || `
 // TODO: Review full section.
@@ -591,13 +591,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to defend any such *indie*-vidual of its own, it must *also* condone this behavior in others: superstars, influencers… and now, AI prompters.
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to defend any such *indie*-vidual of its own, it must *also* condone this behavior in everyone else: superstars, influencers… and now, AI prompters.
 
 ${'  ' || `
 // TODO: Revise? Still needs a better explanation, I think.
 `}
 
-The *only* way to oppose slop, then— of both the AI *and* indie kind— is for a counterculture to defend all of us, as a *collective*, against the self-interested *individual*. That is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
+So the *only* way to oppose slop— of both the AI *and* indie kind— is for a new counterculture to defend all of us, as a *collective*, against the self-interested *individual*. That is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
 
 ${'  ' || `
 // TODO: Review.
