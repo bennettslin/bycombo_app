@@ -207,10 +207,6 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
-${'  ' || `
-// TODO: Review full section.
-`}
-
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 Back in the day, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. And so, as a "zero," you'd explore at will, hoping to spark creative ideas that could take you from "one to *n*"— and thus convince others to partner with you. But today, indie artists get to "one" on their *own*… leaving them reluctant to experiment, for fear of losing hard-won fans.
@@ -245,10 +241,6 @@ So yes, middlemen might *seem* redundant— but redundancy keeps a system resili
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to be a *middleman*!
 
 Let's be clear, the best artists *value* the middleman. After all, when you're the best at your job, it's a waste of your talents to do anyone else's— and knowing that your own job is way harder than it looks, you have to assume the same of everyone else's. Plus, as one of the best yourself, you get your pick of the best partners. It's called division of labor; we learned this in middle school!
@@ -272,10 +264,6 @@ To oppose "indiefication," then, interdependent bands can "cross the picket line
 In game theory, the "[stag hunt](https://en.wikipedia.org/wiki/Stag_hunt)" is a game in which you and another player must decide, each on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
 The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The opposite is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Indie artists strive *not* to need a label, and some [keep at it](http://archive.today/2024.05.11/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) even after signing to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day prosper, the past proves that rock can be interdependent once again!
 
@@ -506,10 +494,6 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 I'll tell you my theory: Millennials only faced boredom long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which won [their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only [ever faced](http://archive.today/2022.12.16/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) an *abundance* of content… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
-
-${'  ' || `
-// TODO: Review title.
-`}
 
 ### ${++sectionCounter}. Unity scapegoats a lone dissident
 
