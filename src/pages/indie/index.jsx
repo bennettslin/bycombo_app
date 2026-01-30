@@ -581,9 +581,11 @@ The new Romantics wistfully recall those last few decades before the rise of sou
 
 ${'  ' || `
 // TODO: Review.
+
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to defend any such individual of its *own*, it must now condone this behavior in everyone *else*: superstars, influencers… and today, AI prompters.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to defend any such *indie*-vidual of its own, it must *also* condone this behavior in everyone else: superstars, influencers… and now, AI prompters.
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do likewise. And yet, indie rock has sworn to defend any such individual of its *own*! So now it must condone the same behavior in everyone *else*: superstars, influencers… and today, AI prompters.
 
 ${'  ' || `
 // TODO: Revise? Still needs a better explanation, I think.
