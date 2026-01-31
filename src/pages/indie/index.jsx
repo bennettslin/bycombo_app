@@ -105,10 +105,6 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 
 ### ${++sectionCounter}. Populism trampled the underground
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground was a shelter both for [rock's underclass](https://www.hachettebookgroup.com/titles/ted-gioia/music/9781541617971)— who *subverted* the people's will— and for the elitist snobs who championed their works; it *wasn't* for everyone.
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=alternative+rock%2Cindie+rock&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
@@ -437,10 +433,6 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp sneered when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. Thus "poptimism" was born…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 "Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, the workings of Tin Pan Alley's Jewish immigrants. Both are also rooted less in *aesthetics*, than in *ethics*— which lose all meaning if dissent is allowed.
 
 And so both protect their chosen underdogs by never once asking: "Wouldn't a hungry outsider— one who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times… then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
@@ -471,9 +463,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will"… and we fell for it every time.
+Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for those in tech to take over: They just had to speak of "empowering the people," or "freeing the human spirit"… and we fell for the cliché every time.
 
-So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the [research says](https://www.businessinsider.com/cognitive-biases-2015-10) it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
+${'  ' || `
+// TODO: Review.
+`}
+
+So yes, the arts have declined— but it *isn't* because the tech platforms follow the science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the [research says](https://www.businessinsider.com/cognitive-biases-2015-10) it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
 
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
@@ -485,7 +481,11 @@ Well, this *also* explains how an artist like me— who can't even gain *one* fa
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— assuming they're to be made at all— can *only* be made by those who dream of gaining a million fans at *once*, from the top down?
 
-If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan— even as none want to be your *first*.
+${'  ' || `
+// TODO: Review.
+`}
+
+If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan… even as none want to be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
@@ -494,10 +494,6 @@ Whenever I used to grumble about getting rejected by the indie tastemakers, frie
 See, us dreamers, we're not grounded in reality— which makes our visions hard to fulfill. Naturally, then, it was assumed that we'd gain the most from indie rock's promise of self-empowerment. But… I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points just for trying.
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Sadly, with no dreamer in our times to serve as an exemplar, critics and fans are *happy* to mistake a striver's artsiness for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the notion of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect business partner: a striver!
 
@@ -580,7 +576,7 @@ ${'  ' || `
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review. Maybe say such indie-vidualism in its own, it must also condone the same in everyone else?
 `}
 
 After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to defend any such *indie*-vidual of its own, it must *also* condone this behavior in everyone else: superstars, influencers, politicians… and now, AI sloppers.
