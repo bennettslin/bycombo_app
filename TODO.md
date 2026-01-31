@@ -1,10 +1,6 @@
 # TODO
 
 * YB
-    * Talk about magnet schools?
-    * Remove Van Nuys references
-        * Remove reference to school in annotation
-        * Remove svg logo
     * Cubes no longer animate in Chrome?
         * Problem has to do with transition wrapper class name, I think
         * Version 143
