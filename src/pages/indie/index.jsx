@@ -576,7 +576,7 @@ ${'  ' || `
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
-// TODO: Review. Maybe say such indie-vidualism in its own, it must also condone the same in everyone else?
+// TODO: Review.
 `}
 
 After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to defend any such *indie*-vidual of its own, it must *also* condone this behavior in everyone else: superstars, influencers, politicians… and now, AI sloppers.
