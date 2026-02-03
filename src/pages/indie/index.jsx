@@ -555,7 +555,7 @@ ${'  ' || `
 // TODO: Review title.
 `}
 
-### ${++sectionCounter}. Collectivists share their achievements
+### ${++sectionCounter}. Collectivists sign away their achievements
 
 ${'  ' || `
 // TODO: Review full section.
