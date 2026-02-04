@@ -291,7 +291,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each of us to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *all* of us must waste time and energy on the hustle!
+You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization forces each of us to decide: To hustle or not? We're all better off if *none* of us hustles, of course. But once *anyone* does, they'll hog up the public's attention. So now *everyone* must waste time and energy on the hustle!
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
@@ -299,7 +299,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to *get* the job, rather than simply *deserve* it. Still, what if *your* vote was for elites— the grownups of the arts!— to stay in charge? Then come pay BYCombo's steep *cost* of entry… and help us plead for a new generation of elites!
+The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to *get* the job, rather than simply *deserve* it. Still, what if *your* vote was for elites— the grownups of the arts!— to stay in charge? Then come pay BYCombo's steep *cost* of entry… and help us plead for a new generation of elites to emerge!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
@@ -501,7 +501,11 @@ Well, this *also* explains how an artist like me— who can't even gain *one* fa
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— assuming they're to be made at all— can *only* be made by those who dream of gaining a million fans at *once*, from the top down?
 
-If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan… even as none want to be your *first*.
+${'  ' || `
+// TODO: Review.
+`}
+
+If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan… even as none wants to be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
@@ -591,7 +595,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to protect any such *indie*-vidual of its *own*… it must now condone this trait in everyone *else*: superstars, influencers, politicians… and today, AI sloppers.
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to protect any such *indie*-vidual of its *own*… it must *also* condone this trait in everyone *else*: superstars, influencers, politicians… and now, AI sloppers.
 
 ${'  ' || `
 // TODO: Revise? Still needs a better explanation, I think.
