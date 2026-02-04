@@ -277,9 +277,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But here's the problem: Once a mark of verification becomes easy to attain, it's no longer an honest signal of who's worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who hustle to *get* themselves known, instead of simply *deserving* it. Seems bad, no? Wait, it's even worse…
+But here's the problem: Once a mark of verification is trivial to attain, it's no longer an honest signal of who's worth hearing from. On top of that, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— that is to say, from opportunists who'd rather hustle to *get* themselves known, than wait on elites to say they *deserve* it. Seems bad, no? Well, it's even worse…
 
-You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
+${'  ' || `
+// TODO: Review.
+`}
+
+You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each of us to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *all* of us must waste time and energy on the hustle!
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
@@ -287,7 +291,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. Still, what if *your* vote was for the elites— the grownups of the arts!— to stay in charge? Then come pay BYCombo's steep *cost* of entry… and help inspire a new generation of elites to emerge!
+The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to *get* the job, rather than simply *deserve* it. Still, what if *your* vote was for elites— the grownups of the arts!— to stay in charge? Then come pay BYCombo's steep *cost* of entry… and help us plead for a new generation of elites!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
