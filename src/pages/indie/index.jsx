@@ -279,7 +279,13 @@ You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
+${'  ' || `
+// TODO: Review a few more times.
+
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth with BYCombo, by paying a steep *cost* of entry: a serious chunk of lifetime!
+`}
+
+The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. Still, what if *your* vote was for elites— the grownups of the arts— to stay in charge? Then pay BYCombo's steep *cost* of entry— a serious chunk of lifetime… and inspire a new generation of elites to emerge!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
@@ -555,7 +561,7 @@ ${'  ' || `
 // TODO: Review title.
 `}
 
-### ${++sectionCounter}. Collectivists sign away their achievements
+### ${++sectionCounter}. Collectivists work without entitlement
 
 ${'  ' || `
 // TODO: Review full section.
@@ -567,13 +573,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to defend any such *indie*-vidual of its own, it must *also* condone this behavior in everyone else: superstars, influencers, politicians… and now, AI sloppers.
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to protect any such *indie*-vidual of its own… it must *also* condone this trait in everyone else: superstars, influencers, politicians… and now, AI sloppers.
 
 ${'  ' || `
 // TODO: Revise? Still needs a better explanation, I think.
-`}
 
 The *only* way to oppose slop, then— of both the AI *and* indie kind— is for a counterculture to defend all of us, as a *collective*, against the self-interested *individual*. That is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
+`}
+
+So the *only* way to oppose slop— of both the AI *and* indie kind— is for a new counterculture to speak up for our interests as a *collective*. That is to say, it'll need to place craft above context, mastery above authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
 
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— [maybe permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but a collectivist.
 
