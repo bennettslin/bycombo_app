@@ -285,7 +285,7 @@ ${'  ' || `
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth with BYCombo, by paying a steep *cost* of entry: a serious chunk of lifetime!
 `}
 
-The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. Still, what if *your* vote was for elites— the grownups of the arts— to stay in charge? Then pay BYCombo's steep *cost* of entry— a serious chunk of lifetime… and inspire a new generation of elites to emerge!
+The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. Still, what if *your* vote was for elites— the grownups of the arts— to stay in charge? Then come pay BYCombo's steep *cost* of entry… and help inspire a new generation of elites to emerge!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
@@ -561,7 +561,7 @@ ${'  ' || `
 // TODO: Review title.
 `}
 
-### ${++sectionCounter}. Collectivists work without entitlement
+### ${++sectionCounter}. Collectivists feel no entitlement
 
 ${'  ' || `
 // TODO: Review full section.
@@ -577,6 +577,8 @@ After all, AI creates a collective action problem, which— as you'll recall— 
 
 ${'  ' || `
 // TODO: Revise? Still needs a better explanation, I think.
+
+Maybe, defend those who put the our interests as a collective above theirs as an individual. A trait that indiefication has slowly been stamping out this century.
 
 The *only* way to oppose slop, then— of both the AI *and* indie kind— is for a counterculture to defend all of us, as a *collective*, against the self-interested *individual*. That is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
 `}
