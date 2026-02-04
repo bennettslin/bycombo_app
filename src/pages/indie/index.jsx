@@ -43,7 +43,7 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers? What's needed, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
+Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers?! What's needed, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
 
@@ -274,19 +274,17 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a [small fee](https://x.com/elonmusk/status/1587498907336118274); he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a portion of one's time and energy.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-But here's the problem: Once a mark of verification becomes easy to attain, it's no longer an honest signal of who is worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who hustle to *get* themselves known, instead of simply *deserving* it. Seems bad, no? Wait, it's even worse…
+But here's the problem: Once a mark of verification becomes easy to attain, it's no longer an honest signal of who's worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who hustle to *get* themselves known, instead of simply *deserving* it. Seems bad, no? Wait, it's even worse…
 
 You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 ${'  ' || `
-// TODO: Review a few more times. Also review all "rather" and "deserve" uses.
-
-The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth with BYCombo, by paying a steep *cost* of entry: a serious chunk of lifetime!
+// TODO: Review.
 `}
 
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. Still, what if *your* vote was for the elites— the grownups of the arts!— to stay in charge? Then come pay BYCombo's steep *cost* of entry… and help inspire a new generation of elites to emerge!
@@ -561,10 +559,6 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Collectivists feel no self-entitlement
 
 ${'  ' || `
@@ -577,7 +571,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to protect any such *indie*-vidual of its own… it must *also* condone this trait in everyone else: superstars, influencers, politicians… and now, AI sloppers.
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to protect any such *indie*-vidual of its *own*… it must now condone this trait in everyone *else*: superstars, influencers, politicians… and today, AI sloppers.
 
 ${'  ' || `
 // TODO: Revise? Still needs a better explanation, I think.
@@ -636,10 +630,10 @@ It's because we only pine for past artists who self-sacrificed to advance the ar
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](https://pitchfork.com/news/sun-kil-moon-mark-kozelek-accused-of-sexual-misconduct-by-seven-more-women), [self-serving](https://pitchfork.com/news/fifth-person-details-arcade-fire-frontman-win-butlers-allegedly-manipulative-toxic-behavior) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Accordingly, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they open themselves up to exploitation; and by wanting elitist gatekeepers in charge— that is, grownups rather than peers— they draw the ire of *middling* artists. But once the arts decline, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
+Accordingly, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they open themselves up to exploitation; and by wanting elitist gatekeepers in charge— that is, grownups rather than peers— they draw the ire of *middling* artists. But once the arts decline, what's there to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but [serious chunks](https://www.nelsonmandela.org/biography) of *lifetime*. Well, what if the next Nirvana is an entire *movement* of selfless bands doing just that? If so, then join us at BYCombo— and help give the next generation a Nirvana of their own!
 
