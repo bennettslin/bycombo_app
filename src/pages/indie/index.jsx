@@ -85,7 +85,11 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 
 Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now serve as a gatekeeper for the elites— by helping them enforce a steep *cost* of entry.
 
-This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in making their case for amnesty.
+${'  ' || `
+// TODO: Review.
+`}
+
+This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in pleading their case for amnesty.
 
 **And finally, how has indie rock made music worse?**
 
@@ -257,7 +261,11 @@ But being indie is all about gaining public exposure— and this is a zero-sum g
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivism by *refusing* to help society advance.
 
-To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "But, as punishment, won't indie rock keep us low-status and unknown?" Yes, but fear not: With BYCombo, you can now request amnesty from artistic *progressives*… by appealing to their love of the craft.
+${'  ' || `
+// TODO: Review.
+`}
+
+To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "But, as punishment, won't indie rock keep us low-status and unknown?" Yes, but fear not: With BYCombo, you can now plead for amnesty from artistic *progressives*… by appealing to their love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -295,7 +303,11 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
-Imagine this plea: "When I play sports, it doesn't just benefit *me*; it benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's be rid of overpaid talent scouts, and empower every indie athlete, like me, to gain a thousand true fans. Sure, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Imagine this gripe: "When I play sports, it doesn't just benefit *me*; it benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's be rid of overpaid talent scouts, and empower every indie athlete like me to gain a thousand true fans. Sure, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
 
 Uh… *we* would— the audience! Most of us only want the *best* athletes, and it's the *talent scout's* job to find them, not *ours*. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only ever come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
@@ -395,7 +407,11 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](http://archive.today/2024.05.11/https://www.bobdylan.com/songs/times-they-are-changin/#:~:text=For%20the%20loser,are%20a%2Dchangin%E2%80%99)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your low-status "hobby."
+${'  ' || `
+// TODO: Review.
+`}
+
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](http://archive.today/2024.05.11/https://www.bobdylan.com/songs/times-they-are-changin/#:~:text=For%20the%20loser,are%20a%2Dchangin%E2%80%99)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can plead for amnesty, after betting it all on the craft— your low-status "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
@@ -585,7 +601,7 @@ Maybe, defend those who put the our interests as a collective above theirs as an
 The *only* way to oppose slop, then— of both the AI *and* indie kind— is for a counterculture to defend all of us, as a *collective*, against the self-interested *individual*. That is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
 `}
 
-So the *only* way to oppose slop— of both the AI *and* indie kind— is for a new counterculture to defend anyone who puts us as a *collective* above themselves as *individuals*. That is to say, it'll need to place craft above context, mastery above authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
+So the *only* way to oppose slop— of both the AI *and* indie kind— is for a new counterculture to defend those who put us, the *collective*, above themselves as *individuals*. That is to say, it'll need to value craft over "cred," mastery over authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
 
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— [maybe permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but a collectivist.
 
@@ -637,7 +653,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Accordingly, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they open themselves up to exploitation; and by wanting elitist gatekeepers in charge— that is, grownups rather than peers— they draw the ire of *middling* artists. But once the arts decline, what's there to protect? So after Empowerment… comes the Age of Martyrdom.
+Accordingly, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they open themselves up to exploitation; and by wanting elites in charge— that is, grownups rather than peers— they incur the wrath of *middling* artists. But once the arts decline, what's there to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but [serious chunks](https://www.nelsonmandela.org/biography) of *lifetime*. Well, what if the next Nirvana is an entire *movement* of selfless bands doing just that? If so, then join us at BYCombo— and help give the next generation a Nirvana of their own!
 
