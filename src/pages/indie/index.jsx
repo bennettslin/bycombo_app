@@ -85,10 +85,6 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 
 Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now serve as a gatekeeper for the elites— by helping them enforce a steep *cost* of entry.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in pleading their case for amnesty.
 
 **And finally, how has indie rock made music worse?**
@@ -261,10 +257,6 @@ But being indie is all about gaining public exposure— and this is a zero-sum g
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivism by *refusing* to help society advance.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "But, as punishment, won't indie rock keep us low-status and unknown?" Yes, but fear not: With BYCombo, you can now plead for amnesty from artistic *progressives*… by appealing to their love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
@@ -302,10 +294,6 @@ ${'  ' || `
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to *get* the job, rather than simply *deserve* it. Still, what if *your* vote was for elites— the grownups of the arts!— to stay in charge? Then come pay BYCombo's steep *cost* of entry… and help us plead for a new generation of elites to emerge!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Imagine this gripe: "When I play sports, it doesn't just benefit *me*; it benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's be rid of overpaid talent scouts, and empower every indie athlete like me to gain a thousand true fans. Sure, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
 
@@ -407,10 +395,6 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](http://archive.today/2024.05.11/https://www.bobdylan.com/songs/times-they-are-changin/#:~:text=For%20the%20loser,are%20a%2Dchangin%E2%80%99)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can plead for amnesty, after betting it all on the craft— your low-status "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
@@ -500,10 +484,6 @@ Within the past few decades, we've come to learn that startups are uniquely posi
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=37&annotation=45), new bandmates won't commit to fully learning them until an audience is guaranteed: economies of scale!
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— assuming they're to be made at all— can *only* be made by those who dream of gaining a million fans at *once*, from the top down?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan… even as none wants to be your *first*.
 
