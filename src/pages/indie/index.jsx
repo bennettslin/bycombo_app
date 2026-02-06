@@ -273,15 +273,7 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a [small fee](https://x.com/elonmusk/status/1587498907336118274); he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a portion of one's time and energy.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal of who's worth hearing from. On top of that, the field then gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who'd rather hustle to *get* themselves known, than wait on elites to say they *deserve* it. Seems bad, no? Well, it's even worse…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization forces each of us to decide: To hustle or not? Of course, we're all better off if *no one* hustles. But once *anyone* does… they'll hog up the public's attention. So now *all* of us must waste time and energy on the hustle!
 
@@ -291,7 +283,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to *get* the job, rather than simply *deserve* it. Still, what if *your* vote was for elites— the grownups of the arts!— to stay in charge? Then come pay BYCombo's steep *cost* of entry… as we call for a new generation of elites to emerge!
+The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to *get* the job, rather than simply *deserve* it. But what if *your* vote all along was for elitist gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
@@ -575,10 +567,6 @@ ${'  ' || `
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… might as well stand for "accelerated indiefication"!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to protect any such *indie*-vidual of its *own*… it must *also* condone this trait in everyone *else*: superstars, influencers, politicians… and now, AI sloppers.
 
 ${'  ' || `
@@ -641,7 +629,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Accordingly, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they open themselves up to exploitation; and by wanting elites in charge— that is, grownups rather than peers— they incur the wrath of *middling* artists. But once the arts decline, what's there to protect? So after Empowerment… comes the Age of Martyrdom.
+Accordingly, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they open themselves up to exploitation; and by wanting gatekeepers in charge— that is, grownups, *not* peers— they incur the wrath of *middling* artists. But once the arts decline, what's there to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but [serious chunks](https://www.nelsonmandela.org/biography) of *lifetime*. Well, what if the next Nirvana is an entire *movement* of selfless bands doing just that? If so, then join us at BYCombo— and help give the next generation a Nirvana of their own!
 
