@@ -11,6 +11,13 @@
 
 * BYC
     * Change some "thus"s to "thereby"s?
+        * 10
+        * 12 ✓
+        * 22
+        * 38
+        * 44
+        * 45
+
     * Why nothing works link?
     * Vulture nepo baby link?
         * https://archive.ph/ltCRu
