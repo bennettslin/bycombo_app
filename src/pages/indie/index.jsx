@@ -433,10 +433,6 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp sneered when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. Thus "poptimism" was born…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 "Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, Tin Pan Alley's patchwork of Jewish immigrants. Both are also rooted less in *aesthetics*, than in *ethics*— which lose all meaning if dissent is allowed.
 
 And so both protect their chosen underdogs by never once asking: "Wouldn't a hungry outsider— one who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times… then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
@@ -561,10 +557,6 @@ ${'  ' || `
 // TODO: Review full section.
 `}
 
-${'  ' || `
-// TODO: Review.
-`}
-
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest DIY movement; it might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
@@ -600,10 +592,6 @@ Still, since our troubles began when we accepted indiefication and rejected capi
 Why is progressivism so badly beaten in both politics and the arts today? It's because indie rock taught us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Because of this, they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
-
-${'  ' || `
-// TODO: Review link move.
-`}
 
 In other words, the [popular model](https://en.wikipedia.org/wiki/Horseshoe_theory) of an "upside-down horseshoe," in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase! Once the "building" phase begins, our best chance as progressives— whether political or artistic— is to *work* with our side's elites.
 
