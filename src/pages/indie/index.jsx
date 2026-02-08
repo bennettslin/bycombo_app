@@ -561,19 +561,23 @@ ${'  ' || `
 // TODO: Review full section.
 `}
 
-The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest DIY movement. It might as well stand for "accelerated indiefication"!
+${'  ' || `
+// TODO: Review.
+`}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to protect any such *indie*-vidual of its *own*… it must *also* condone this trait in everyone *else*: superstars, influencers, politicians… and now, AI sloppers.
+The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest DIY movement; it might as well stand for "accelerated indiefication"!
+
+${'  ' || `
+// TODO: Review.
+`}
+
+After all, AI creates the same kind of collective action problem, which— you might recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And since indie rock has sworn to protect any such *indie*-vidual of its *own*… it must *also* condone this trait in everyone *else*: superstars, influencers… and now, AI sloppers.
 
 ${'  ' || `
 // TODO: Revise? Still needs a better explanation, I think.
-
-Maybe, defend those who put the our interests as a collective above theirs as an individual. A trait that indiefication has slowly been stamping out this century.
-
-The *only* way to oppose slop, then— of both the AI *and* indie kind— is for a counterculture to defend all of us, as a *collective*, against the self-interested *individual*. That is to say, it'll need to place craft above "cred," mastery above authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
 `}
 
-So the *only* way to oppose slop— of both the AI *and* indie kind— is for a new counterculture to defend those who put us, the *collective*, above themselves as *individuals*. That is to say, it'll need to value craft over "cred," mastery over authenticity… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
+To oppose slop, then— of both the AI *and* indie kind— a counterculture must arise to defend those who benefit the *collective*, even at their own expense as *individuals*. That is to say, it'll need to place craft above context and "cred"… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
 
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— [maybe permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but a collectivist.
 
