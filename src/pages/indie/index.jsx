@@ -568,14 +568,16 @@ ${'  ' || `
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest DIY movement; it might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-After all, AI creates the same kind of collective action problem— which, you might recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to protect any such *indie*-vidual of its *own*… it must *also* condone this trait in everyone *else*: superstars, influencers… and now, AI sloppers.
+Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And since the indie camp is sworn to defend any such individual of their *own*, they must now condone this trait in everyone *else*: superstars, influencers… and today, AI sloppers.
 
 ${'  ' || `
 // TODO: Revise? Still needs a better explanation, I think.
 `}
+
+Moreover, just like AI can't get past its guardrails— because we don't *want* it to— indie rock can't get past its rule that 
 
 To oppose slop, then— of both the AI *and* indie kind— a counterculture must arise to defend those who benefit the *collective*, even at their own expense as *individuals*. That is to say, it'll need to place craft above context and "cred"… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
 
