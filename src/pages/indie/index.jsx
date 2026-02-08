@@ -563,7 +563,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates the same kind of collective action problem, which— you might recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And since indie rock has sworn to protect any such *indie*-vidual of its *own*… it must *also* condone this trait in everyone *else*: superstars, influencers… and now, AI sloppers.
+After all, AI creates the same kind of collective action problem— which, you might recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet, since indie rock has sworn to protect any such *indie*-vidual of its *own*… it must *also* condone this trait in everyone *else*: superstars, influencers… and now, AI sloppers.
 
 ${'  ' || `
 // TODO: Revise? Still needs a better explanation, I think.
