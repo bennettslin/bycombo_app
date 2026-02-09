@@ -575,11 +575,17 @@ Think about it: Like indie rock, AI poses a collective action problem— which, 
 
 ${'  ' || `
 // TODO: Revise? Still needs a better explanation, I think.
-`}
-
-Moreover, just like AI can't get past its guardrails— because we don't *want* it to— indie rock can't get past its rule that 
 
 To oppose slop, then— of both the AI *and* indie kind— a counterculture must arise to defend those who benefit the *collective*, even at their own expense as *individuals*. That is to say, it'll need to place craft above context and "cred"… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
+
+Moreover, the same guardrails that block AI from generating bad ideas *also* block it from good ones, right? Well, the same rules that save indie rock from picking the worst artists… also "save" it from all the best! AI slop, then, simply *can't* be opposed by a counterculture must arise to defend the collective against the *indie*-vidual.
+`}
+
+Moreover, the same guardrails that block AI from generating bad ideas *also* block it from good ones, right? Well, the same rule for every artist to hustle— which saves indie rock from picking the *worst*— also "saves" it from the very *best*! AI slop, then, simply *can't* be opposed by 
+
+${'  ' || `
+// TODO: Revise. Make it flow from previous paragraph.
+`}
 
 And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— [maybe permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but a collectivist.
 
