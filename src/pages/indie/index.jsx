@@ -563,17 +563,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And since the indie camp is sworn to defend any such individual of their *own*, they must now condone this trait in everyone *else*: superstars, influencers… and today, AI sloppers.
+Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. Yet, since the indie camp is sworn to defend any such individual of their *own*, they must now condone this trait in everyone *else*: superstars, influencers… and today, AI sloppers.
 
 ${'  ' || `
-// TODO: Revise? Still needs a better explanation, I think.
-
-To oppose slop, then— of both the AI *and* indie kind— a counterculture must arise to defend those who benefit the *collective*, even at their own expense as *individuals*. That is to say, it'll need to place craft above context and "cred"… as well as to "forgive" the inventors of our times, who simply *won't* care about fair compensation the way indie artists do.
-
-Moreover, the same guardrails that block AI from generating bad ideas *also* block it from good ones, right? Well, the same rules that save indie rock from picking the worst artists… also "save" it from all the best! AI slop, then, simply *can't* be opposed by a counterculture must arise to defend the collective against the *indie*-vidual.
+// TODO: Review a few more times.
 `}
 
-Moreover, the same guardrails that block AI from generating bad ideas *also* block it from good ones, right? Likewise, indie rock's rule for artists to hustle, which saves it from picking the *worst*… also "saves" it from the *best*! AI slop, then, simply *can't* be opposed by 
+Plus, just as the guardrails that block AI from generating bad ideas also block it from good ones, the same rules that save indie rock from picking the worst artists *also* "save" it from the best. So even their fatal flaws are the same! Our only hope to oppose AI slop, then, is for a counterculture to arise that *doesn't* speak out for the *indie*-vidual at all… but rather, for the collective.
 
 ${'  ' || `
 // TODO: Revise. Make it flow from previous paragraph.
