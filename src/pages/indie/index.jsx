@@ -581,13 +581,17 @@ To oppose slop, then— of both the AI *and* indie kind— a counterculture must
 Moreover, the same guardrails that block AI from generating bad ideas *also* block it from good ones, right? Well, the same rules that save indie rock from picking the worst artists… also "save" it from all the best! AI slop, then, simply *can't* be opposed by a counterculture must arise to defend the collective against the *indie*-vidual.
 `}
 
-Moreover, the same guardrails that block AI from generating bad ideas *also* block it from good ones, right? Well, the same rule for every artist to hustle— which saves indie rock from picking the *worst*— also "saves" it from the very *best*! AI slop, then, simply *can't* be opposed by 
+Moreover, the same guardrails that block AI from generating bad ideas *also* block it from good ones, right? Likewise, indie rock's rule for artists to hustle, which saves it from picking the *worst*… also "saves" it from the *best*! AI slop, then, simply *can't* be opposed by 
 
 ${'  ' || `
 // TODO: Revise. Make it flow from previous paragraph.
 `}
 
-And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— [maybe permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but a collectivist.
+${'  ' || `
+// TODO: Review.
+`}
+
+And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— [maybe permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but us collectivists.
 
 Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](https://archive.ph/20231015192931/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=Our%20body%20of,influence%20take%20precedence.), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but *only* because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
