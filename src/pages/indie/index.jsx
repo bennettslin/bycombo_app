@@ -565,7 +565,11 @@ ${'  ' || `
 // TODO: Review full section.
 `}
 
-The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest DIY movement; it might as well stand for "accelerated indiefication"!
+${'  ' || `
+// TODO: Review.
+`}
+
+The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the next such DIY movement; it might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
 // TODO: Review a few more times.
