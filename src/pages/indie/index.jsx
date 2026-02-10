@@ -563,13 +563,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they must condone this trait in everyone *else*: superstars, influencers… and today, AI sloppers.
+Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do likewise. And since the indie camp is sworn to defend any such individual of their *own*, they must now condone this trait in everyone *else*: superstars, influencers… and today, AI sloppers.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Plus, just as the guardrails that block AI from generating *bad* ideas also block it from *good* ones, the same rules that save indie rock from picking the worst artists… *also* "save" it from the best. So even their stumbling blocks are alike! The only way to oppose slop, then, is for a counterculture to arise that *doesn't* speak out for the *indie*-vidual at all, but rather for *us*— the collective.
+Plus, just as the guardrails that block AI from chasing bad ideas *also* block it from good ones, the same rules that save indie rock from picking the *worst* artists also "save" it from the *best*. So even their stumbling blocks are alike! The only way to oppose slop, then, is for a counterculture to arise that *doesn't* speak out for the *indie*-vidual at all, but rather for *us*— the collective.
 
 ${'  ' || `
 // TODO: Review.
