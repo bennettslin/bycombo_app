@@ -113,7 +113,11 @@ But this includes artists with mainstream tastes… who easily gain the most fan
 
 Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](http://archive.today/2025.03.17/https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)… making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
 
-### ${++sectionCounter}. The grassroots is now a lottery
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. The grassroots have become a lottery
 
 Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— also known as the grassroots— they put in the work each day for untold years. In other words, they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at public exposure… and then "won the lottery," so to speak.
 
