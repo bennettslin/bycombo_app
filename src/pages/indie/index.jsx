@@ -21,10 +21,6 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 ### The revolution will *not* be decentralized
 
-${'  ' || `
-// TODO: Review.
-`}
-
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The gatekeeper agrees to be a *grownup*— and thus sits *outside* our [status hierarchy](https://www.harpercollins.com/products/the-status-game-will-storr). Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic *progressive*.
@@ -116,10 +112,6 @@ In the '90s, though, as bands began to leave for the major labels, "alternative"
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](https://bennettsamuellin.blogspot.com/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
 Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](http://archive.today/2025.03.17/https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)… making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
-
-${'  ' || `
-// TODO: Review title.
-`}
 
 ### ${++sectionCounter}. The grassroots have become a lottery
 
@@ -280,10 +272,6 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 ### ${++sectionCounter}. Democratization causes noise pollution
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a [small fee](https://x.com/elonmusk/status/1587498907336118274); he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a portion of one's time and energy.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal of who's worth hearing from. On top of that, the field then gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who'd rather hustle to *get* themselves known, than rely on elites to say they *deserve* it. Seems bad, no? Well, it's even worse…
 
@@ -571,21 +559,9 @@ ${'  ' || `
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: superstars, influencers… and now, AI sloppers.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Plus, just as the guardrails that block AI from chasing bad ideas *also* block it from good ones, the same rules that save indie rock from picking the *worst* artists also "save" it from the *best*. Right? So even their stumbling blocks are alike! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* root for the *indie*-vidual at all, but rather for *us*— the collective.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 And this is crucial, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— [maybe permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but us collectivists.
 
