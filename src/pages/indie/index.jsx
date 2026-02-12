@@ -573,7 +573,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Plus, just as the guardrails that block AI from generating *bad* ideas also block it from *good* ones, the same rules that save indie rock from picking the worst artists *also* "save" it from the best. So even their stumbling blocks are alike! The only way to oppose slop, then, is for a counterculture to arise that *doesn't* speak out for the *indie*-vidual at all, but rather for *us*— the collective.
+Plus, just as the guardrails that block AI from generating *bad* ideas also block it from *good* ones, the same rules that save indie rock from picking the worst artists *also* "save" it from the best. Right? So even their stumbling blocks are alike! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* speak out for the *indie*-vidual at all, but rather for *us*— the collective.
 
 ${'  ' || `
 // TODO: Review.
