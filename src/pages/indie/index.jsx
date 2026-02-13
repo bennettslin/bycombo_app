@@ -333,10 +333,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* make history; it's just larping, to act like it will." Who'd win? So, regarding this century's indie rock thus far: Was it all a larp?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Some of you [now see](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in THE canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons I grew up on. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like *us*— and specifically, the *hungriest*.
@@ -499,10 +495,6 @@ I'll tell you my theory: Millennials only faced boredom long enough to hate it; 
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only [ever faced](http://archive.today/2022.12.16/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) an *abundance* of content… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Unity batters a lone dissident
 
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such freedom… must be fiercely opposed by *all*.
@@ -510,10 +502,6 @@ Back when content was scarce, joining a scene— goth, punk— was a full-time e
 Furthermore: "If 99% of us can see we're all in this together, then you'd best believe the other 1% is *that* awful. Still, we can beat them on size alone!" So Millennials never learned to disagree, but instead to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists against the left's elites! And in the arts, it's the same muddled thinking…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that these same labels reject *another* artist, for *lacking* a proven fanbase. This time the crowd boos. Except… the one scenario leads to the other, doesn't it? So how are the *labels* to blame?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening their delusion that artists can— and thus *should*— be united, I became that 1% for the other 99% to beat down… like the battered child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
@@ -565,19 +553,11 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ### ${++sectionCounter}. Collectivists feel no self-entitlement
 
-${'  ' || `
-// TODO: Review full section.
-`}
-
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
 
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: superstars, influencers… and now, AI sloppers.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Plus, just as the guardrails that block AI from chasing bad ideas *also* block it from good ones, the same rules that save indie rock from picking the *worst* artists also "save" it from the *best*. Right? So even their stumbling blocks are alike! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* root for the *indie*-vidual at all, but for *us*— the collective.
+Plus, just as the guardrails that block AI from chasing bad ideas *also* block it from good ones, the same rules that save indie rock from picking the *worst* artists also "save" it from the *best*. Right? So even their stumbling blocks are alike! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* root for the *indie*-vidual at all, but rather for *us*— the collective.
 
 And this is crucial, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— [maybe permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but us collectivists.
 
@@ -641,19 +621,11 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### ${++sectionCounter}. Victory is assured
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who engages with us, please— especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor!"
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp), which states that 20% of the effort yields 80% of the results.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's call this the 4x Law of Interdependence, then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: Among interdependent bands, the greatest *ever* is the Beatles, who are *at least* four times better than whomever the indie camp has to offer!
 
