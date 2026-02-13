@@ -413,7 +413,11 @@ Let's be fair, in wanting to be judged on the self-reliance that comes easily to
 
 Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](https://bennettsamuellin.blogspot.com/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=While%20mentioning%20privilege,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "wokeness."
 
-But while White men *easily* gain from their identities without admitting to it— as when it [lends authenticity](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,us%20as%20listeners.) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+${'  ' || `
+// TODO: Review.
+`}
+
+But while White men *easily* gain from their identities without admitting to it— like when it [lends authenticity](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,us%20as%20listeners.) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when all those indie labels rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of the *arts*, it's *I* who sit on the left— and *they*, the right!
 
