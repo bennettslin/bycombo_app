@@ -4,6 +4,7 @@
 
 * Work on cubes animation bug!
     * Hide curtains and presences
+    * Message to Google Chrome team?
 
 ### YB
 * Cubes no longer animate in Chrome?
