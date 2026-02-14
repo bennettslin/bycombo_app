@@ -431,7 +431,11 @@ So if seeking to gain from one's identity— one's *self*, if you will— is the
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
 
-Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal. Now *all* of us could excel at— and thus be judged on— what they value most: having a relatable persona.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal. Now *all* of us could excel at— and thus be judged on— what critics and fans value most: a relatable persona.
 
 And so I had *no* lifeline… but then, [as it happens](https://bennettsamuellin.blogspot.com/2011/07/resistible-canaanites-request-for.html#:~:text=But%20really%2C%20how,from%20me.), Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* find underdogs to favor, based on "safe" criteria like [place of origin](https://x.com/Steven_Hyden/status/1708868954741977173). For a clear conscience, then, we *must* toss a lifeline to the rest— whom we've now made *worse* off in this zero-sum game.
 
