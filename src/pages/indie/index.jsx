@@ -169,10 +169,6 @@ Um… all of us other artists who *weren't* picked, that's who! To be clear, we'
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is merely artsy, not innovative. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to carry them through. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, many regard Bach as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
 In essence, ignore the critics, or any others who think history making is all a crapshoot! There *is* a reliable measure of your chances: It's how much your talents, originality, and courage inspire the envy of fellow *artists*, relative to your fame. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out this century's own Galant era.
@@ -301,17 +297,9 @@ From there, we note that this vast majority only want the *best* artists… and 
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they judged his works! So there's a lesson here for all tastemakers: To discover an artist that future audiences will want to *re*-discover, simply… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even a low-status nobody, like Nick. Yet indie rock tells every artist to get themselves known… effectively saying they're each entitled to it. As a result, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known— simply by *deserving* it!
 
 Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Because, sure, it's a proven way to get fans— or dates!— but does society *want* this to be the case? Besides, most of us have now grown wise to being "negged"; sooner or later, then, won't we *also* wise up to, let's say, artists milking us for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine over time. Which… is also more fun and fulfilling for *you*, right? Yet the indie tastemakers will never "forgive" you for breaking their rules; they're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -378,10 +366,6 @@ Which explains why the disadvantaged tend to be *put off* by populism: It tells 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) its elites instead.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the [college-educated](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) indie camp— the supposed good guys— won't hear of it: "If *we* can afford not to sell out, then so can everyone *else*!"
 
