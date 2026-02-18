@@ -1,5 +1,5 @@
 const HREF_YEARLINGS_BOBTAIL = 'https://yearlingsbobtail.com'
-const HREF_BOBTAIL_YEARLINGS = 'https://bobtailyearlings.com'
+// const HREF_BOBTAIL_YEARLINGS = 'https://bobtailyearlings.com'
 
 const LOCALHOST = 'http://localhost:'
 
@@ -22,8 +22,8 @@ export const getFinalHref = (href = '') => {
         if (href.includes(HREF_YEARLINGS_BOBTAIL)) {
             return href.replace(HREF_YEARLINGS_BOBTAIL, `${LOCALHOST}1112`)
 
-        } else if (href.includes(HREF_BOBTAIL_YEARLINGS)) {
-            return href.replace(HREF_BOBTAIL_YEARLINGS, `${LOCALHOST}1113`)
+        // } else if (href.includes(HREF_BOBTAIL_YEARLINGS)) {
+        //     return href.replace(HREF_BOBTAIL_YEARLINGS, `${LOCALHOST}1113`)
         }
     }
 
