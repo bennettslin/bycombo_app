@@ -1,4 +1,8 @@
 # TODO
+* Band page!
+* Plot next steps
+    * Practice?
+    * !@#$ Chrome bug?
 
 ### YB
 * Cubes no longer animate in Chrome?
