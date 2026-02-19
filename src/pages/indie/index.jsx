@@ -149,17 +149,9 @@ So I've long understood that, to belong in the canon next to the Beatles, my ban
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours THE rock canon… in which case, why would they belong in THE Rock Hall?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries who *can* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
-
-${'  ' || `
-// TODO: Review.
-`}
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: "Any artist can now flourish on the fringes!" Yet today, superstars are bigger than ever, while indie artists… have *lost* cultural relevance. Why is this?
 
