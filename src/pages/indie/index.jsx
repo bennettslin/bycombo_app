@@ -43,7 +43,11 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers?! What's needed, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
+${'  ' || `
+// TODO: Review.
+`}
+
+Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* forgives its rule breakers?! What's needed, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
 
@@ -305,7 +309,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine all the while. Which… is also more fun and fulfilling for *you*, no? Yet the indie tastemakers will never "forgive" you for breaking their rules; they're loyal to the hustlers— having hustled to get where they are themselves!
+So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine all the while. Which… is also more fun and fulfilling for *you*, no? Yet the indie tastemakers will never forgive you for breaking their rules; they're loyal to the hustlers— having hustled to get where they are themselves!
 
 But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced who *did*? Time, then, behaves like a *gatekeeper*— and this is the indie camp's fatal flaw! So let them discover those who'll be discarded tomorrow; with BYCombo, you can be *re*-discovered… by the future audiences you've cared for all along.
 
