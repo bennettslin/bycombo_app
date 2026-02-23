@@ -561,12 +561,6 @@ Plus, much like AI is blocked from chasing *good* ideas by the very guardrails t
 
 And this is crucial, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— maybe [even permanently](http://archive.today/2025.11.17/https://www.newyorker.com/culture/infinite-scroll/will-ai-trap-you-in-the-permanent-underclass)! So who'd ever try? No one… but us collectivists.
 
-${'  ' || `
-// TODO: Revise. Come up with link from this list: https://asatonline.org/for-parents/parents-share-their-stories/resources-for-siblings
-
-So far: https://www.thetransmitter.org/spectrum/how-autism-shapes-sibling-relationships
-`}
-
 Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](https://archive.ph/20231015192931/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=Our%20body%20of,influence%20take%20precedence.), *and* [family](https://www.thetransmitter.org/spectrum/how-autism-shapes-sibling-relationships). Coincidence? I think not. Sure, those old Romantics were individualists… but *only* because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
 ### ${++sectionCounter}. Consequentialists care about impact
