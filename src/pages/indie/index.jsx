@@ -279,6 +279,10 @@ You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
+${'  ' || `
+// TODO: Revise. Say "not *just* democracy."
+`}
+
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to *get* the job, rather than simply *deserve* it. But what if *your* vote all along was for elitist gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
@@ -372,7 +376,9 @@ Of course, it's *also* in the arts where this confusion has done much damage. As
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Make it more clear.
+
+Because, let's be clear, only the *privileged* can afford to be such moral purists about not selling out! So, might we understand the sideways horseshoe once again? Regarding politics, I can't say… but in the arts, it's a solid yes! Now that BYCombo lets you join the establishment to overcome your disadvantage, just like those alternative bands did in the '90s.
 `}
 
 Because, let's be clear, only the *privileged* can afford to be such moral purists about selling out! So, might we see another sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! With BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
