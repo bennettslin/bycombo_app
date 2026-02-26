@@ -257,7 +257,11 @@ But being indie is all about gaining public exposure— and this is a zero-sum g
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivism by *refusing* to help society advance.
 
-To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "But, as punishment, won't indie rock keep us low-status and unknown?" Yes, but fear not: With BYCombo, you can now plead for amnesty from artistic *progressives*… by appealing to their love of the craft.
+${'  ' || `
+// TODO: Review.
+`}
+
+To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "But, as punishment, won't the indie camp keep us low-status and unknown?" Yes, but have no fear: With BYCombo, you can now plead for amnesty from artistic *progressives*… by appealing to their love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -278,10 +282,6 @@ But here's the problem: Once a mark of verification becomes easy to attain, it c
 You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization forces each of us to decide: To hustle or not? Of course, we're all better off if *no one* hustles. But once *anyone* does… they'll hog up the public's attention. So now *all* of us must waste time and energy on the hustle!
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
-
-${'  ' || `
-// TODO: Revise. Say "not *just* democracy."
-`}
 
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to *get* the job, rather than simply *deserve* it. But what if *your* vote all along was for elitist gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
 
@@ -441,7 +441,11 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp sneered when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. Thus "poptimism" was born…
+${'  ' || `
+// TODO: Review.
+`}
+
+Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp smirked when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. Thus "poptimism" was born…
 
 "Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, Tin Pan Alley's patchwork of Jewish immigrants. Both are also rooted less in *aesthetics*, than in *ethics*— which lose all meaning if dissent is allowed.
 
@@ -521,7 +525,11 @@ Thankfully, some of you now *agree* with me that the arts have declined, and you
 
 Now that content is abundant, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this century's "windfall art"— which calls for betting it all on a *single* chance?
 
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?verse=10&annotation=17)— and so I set to [work on mine](https://yearlingsbobtail.com/16-cremated/?verse=1&annotation=4).
+${'  ' || `
+// TODO: Review.
+`}
+
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable by the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?verse=10&annotation=17)— and so I set to [work on mine](https://yearlingsbobtail.com/16-cremated/?verse=1&annotation=4).
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we [played a show](http://nymiscellany.blogspot.com/2007/09/dinner-and-show-or-three.html) for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
@@ -566,6 +574,10 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
 
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: superstars, influencers… and now, slop peddlers.
+
+${'  ' || `
+// TODO: Revise? Mention sideways horseshoe? So both favor the middle over the ends of a "sideways horseshoe"!
+`}
 
 Plus, much like AI is blocked from chasing *good* ideas by the very guardrails that block it from *bad* ones, the very rules that save indie rock from picking the worst artists *also* "save" it from the best. So even their stumbling blocks are alike! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* root for the *indie*-vidual at all, but rather for *us*— the collective.
 
