@@ -257,11 +257,7 @@ But being indie is all about gaining public exposure— and this is a zero-sum g
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivism by *refusing* to help society advance.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "But, as punishment, won't the indie camp keep us low-status and unknown?" Yes, but have no fear: With BYCombo, you can now plead for amnesty from artistic *progressives*… by appealing to their love of the craft.
+To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "But, as punishment, won't indie rock keep us low-status and unknown?" Yes, but fear not: With BYCombo, you can now plead for amnesty from artistic *progressives*… by appealing to their love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -441,10 +437,6 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp smirked when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. Thus "poptimism" was born…
 
 "Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, Tin Pan Alley's patchwork of Jewish immigrants. Both are also rooted less in *aesthetics*, than in *ethics*— which lose all meaning if dissent is allowed.
@@ -525,11 +517,7 @@ Thankfully, some of you now *agree* with me that the arts have declined, and you
 
 Now that content is abundant, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this century's "windfall art"— which calls for betting it all on a *single* chance?
 
-${'  ' || `
-// TODO: Review.
-`}
-
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable by the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?verse=10&annotation=17)— and so I set to [work on mine](https://yearlingsbobtail.com/16-cremated/?verse=1&annotation=4).
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?verse=10&annotation=17)— and so I set to [work on mine](https://yearlingsbobtail.com/16-cremated/?verse=1&annotation=4).
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we [played a show](http://nymiscellany.blogspot.com/2007/09/dinner-and-show-or-three.html) for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
