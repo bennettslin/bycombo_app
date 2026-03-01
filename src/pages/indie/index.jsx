@@ -373,6 +373,8 @@ Which explains why both politics *and* the arts are getting worse in our times: 
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Probably needs to be "Will we be able to bring back…"
 `}
 
 Because, let's be clear, only the *privileged* can afford to be such moral purists about selling out! So, will we bring back the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! With BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
