@@ -524,10 +524,10 @@ To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once c
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we [played a show](http://nymiscellany.blogspot.com/2007/09/dinner-and-show-or-three.html) for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
 ${'  ' || `
-// TODO: Revise. Make it more about counting on others to help you recreate it live.
+// TODO: Review.
 `}
 
-Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then this is an *asset*, not a *liability*! They're two distinct mediums— like cinema versus theatre. So ignore those who insist that "real" artists start out by playing shows; with BYCombo, you can make a stellar demo that *requires* a partner's help to be recreated live.
+Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then this is an *asset*, not a *liability*! They're two distinct mediums— like cinema versus theatre. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can make a stellar demo… with no clue for how you'll recreate it live.
 
 ### ${++sectionCounter}. Modern collaboration requires assembly
 

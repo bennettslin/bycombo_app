@@ -15,7 +15,6 @@
     * Gemini says 146 will be in stable release February 24 to 25
 
 ### BYC
-* Add broadcast to contrast with grassroots? 
 * Sentences with ellipsis in between instead of a third em-dash:
     * Sometime in the '00s…
     * So instead of weeding you out…
