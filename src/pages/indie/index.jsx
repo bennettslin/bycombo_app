@@ -372,7 +372,7 @@ Of course, it's *also* in the arts where this confusion has done much damage. As
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 After all, only the *privileged* can afford to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
@@ -566,7 +566,7 @@ The new Romantics wistfully recall those last few decades before the rise of sou
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: superstars, influencers… and now, slop peddlers.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Plus, much like AI is blocked from chasing *good* ideas by the very guardrails that block it from *bad* ones, the very rules that save indie rock from picking the worst artists *also* "save" it from the best. So they're alike even in how they stumble! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* root for the *indie*-vidual at all, but rather for *us*— the collective.
