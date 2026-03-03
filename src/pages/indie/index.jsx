@@ -363,11 +363,19 @@ Which explains why the disadvantaged tend to be *put off* by populism: It tells 
 
 ### ${++sectionCounter}. True progressives join the establishment
 
+${'  ' || `
+// TODO: Revise. Make second sentence better.
+`}
+
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) its elites instead.
 
-Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the [college-educated](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) indie camp— the supposed good guys— won't hear of it: "If *we* can afford not to sell out, then so can everyone *else*!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the [college-educated](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) indie camp— the supposed good guys— won't hear of it: "You don't see *us* selling out, do you?"
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
@@ -375,7 +383,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, only the *privileged* can afford to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
+After all, only the *privileged* can afford to be such moral purists about never selling out! So, will the sideways horseshoe ever return? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -481,7 +489,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan… even as none will be your *first*.
+If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan… even if none will be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
@@ -522,10 +530,6 @@ Now that content is abundant, the new Romantics long for a return to live shows.
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?verse=10&annotation=17)— and so I set to [work on mine](https://yearlingsbobtail.com/16-cremated/?verse=1&annotation=4).
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we [played a show](http://nymiscellany.blogspot.com/2007/09/dinner-and-show-or-three.html) for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then this is an *asset*, not a *liability*! They're two distinct mediums— like cinema versus theatre. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can make a stellar demo… with no clue for how you'll recreate it live.
 
