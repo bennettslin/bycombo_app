@@ -371,10 +371,6 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for e
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) its elites instead.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the [college-educated](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) indie camp— the supposed good guys— won't hear of it: "You don't see *us* selling out, do you?"
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
@@ -383,7 +379,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, only the *privileged* can afford to be such moral purists about never selling out! So, will the sideways horseshoe ever return? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
+After all, only the *privileged* can afford to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -485,10 +481,6 @@ Well, this *also* explains how an artist like me— who can't even gain *one* fa
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— assuming they're to be made at all— can *only* be made by those who dream of gaining a million fans at *once*, from the top down?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan… even if none will be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
@@ -572,10 +564,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
 
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: superstars, influencers… and now, slop peddlers.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Plus, much like AI is blocked from chasing *good* ideas by the very guardrails that block it from *bad* ones, the very rules that save indie rock from picking the worst artists *also* "save" it from the best. So they're alike even in how they stumble! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* root for the *indie*-vidual at all, but rather for *us*— the collective.
 
