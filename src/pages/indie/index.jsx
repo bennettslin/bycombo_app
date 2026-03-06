@@ -229,7 +229,7 @@ ${'  ' || `
 // TODO: Review title.
 `}
 
-### ${++sectionCounter}. Automation fails to adapt
+### ${++sectionCounter}. Automation stifles adaptation
 
 ${'  ' || `
 // TODO: Review full section.
