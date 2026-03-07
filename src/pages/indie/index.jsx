@@ -175,7 +175,11 @@ In essence, ignore the critics, or any others who think history making is all a 
 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
-To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting melodies and chords that hook you in with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+To get radio airplay in the '90s, alternative bands had to win over the casual listener who knew little about them— and the best did this by crafting works that hook you in with no further context. Being an awkward teen at the time, I knew my only hope was to pull off the same. So I studied every band whose talents I envied, dreaming that someday I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "One test of an enviable work," I noted, "is whether it's a joy just to hum its melody and strum its chords." Yet… no one bit. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 
@@ -183,7 +187,11 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 
 All demand for such craft, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at it: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
-Yet the past artists we love most *don't* require us to know of any surrounding context, do they? History, then… is like radio! So don't get complacent in this new online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Yet the past artists we love most *don't* require us to know of any surrounding context, do they? History, then… behaves like radio! So don't get complacent in our new online era: To be timeless, your music still needs to hook in casual listeners on its *own*. This is why BYCombo gives you the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
@@ -225,15 +233,7 @@ In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the co
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: By *not* knowing what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
-### ${++sectionCounter}. Automation stifles adaptation
-
-${'  ' || `
-// TODO: Review full section.
-`}
+### ${++sectionCounter}. Lean operations fail to adapt
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their words, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to free up "bandwidth," they just follow the instincts handed down by their forebears— like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
