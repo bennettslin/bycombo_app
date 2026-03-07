@@ -95,10 +95,6 @@ Here are fifty ways…
 
 In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, then, this [made them](https://substack.com/@bobtail/note/c-106073033) alternative, not indie— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now they're waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did they get so confused?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Simply put, indie rock isn't clear on what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture driven by anti-establishment grievances— and as such, it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to tear down the system!"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that [going viral](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=While%20a%20lot,supposed%20to%20work!) is the new word-of-mouth buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* benefit from a label deal?! Yes, I'm talking about the former [human statue](https://www.ted.com/talks/amanda_palmer_the_art_of_asking)!
@@ -180,7 +176,7 @@ In essence, ignore the critics, or any others who think history making is all a 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 To get radio airplay in the '90s, alternative bands had to win over the casual listener who knew little about them— and the best did this by crafting works that hook you in with no further context. Being an awkward teen at the time, I knew my only hope was to pull off the same. So I studied every band whose talents I envied, dreaming that someday I'd teach others.
@@ -189,10 +185,14 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) to discuss at length, while local fans— now online— like it when artists directly engage. So each, in their own way, is drawn more to a relatable persona than to any well-crafted hook or "hum-'n-strum."
 
-All demand for such craft, then, came *solely* from radio— which means the end of radio *also* wiped out those who excelled at it: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
+${'  ' || `
+// TODO: Review.
+`}
+
+All demand for such craft, then, came *solely* from radio— which means the dying of radio *also* wiped out those who excelled at it: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Yet the past artists we love most *don't* require us to know of any surrounding context, do they? History, then… behaves like radio! So don't get complacent in our new online era: To be timeless, your music still needs to hook in casual listeners on its *own*. This is why BYCombo gives you the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
@@ -244,10 +244,6 @@ Can the indie labels learn *not* to be led astray? No, they're overworked and un
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out every outlier. And social media makes engaging with fans routine; those who do it best— a.k.a. influencers— may earn *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to automate the government. Now even today's *major* labels are too overworked and underpaid to get with the times…
 
@@ -309,7 +305,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed from its original meaning of "all who attend a performance." So let's use it in a way that Bach— who made music for God!— would've understood: The ones you engage with online? That's a following. Those casually hearing you on the radio? Now *there's* your audience.
+Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed from its original meaning of "all who attend a performance." So let's use it in a way that Bach— who made music for God!— would've understood: The ones you engage with online? That's a following. Those casually listening on the radio? Now *there's* your audience.
 
 From there, we note that this vast majority only want the *best* artists… and it *isn't* their [job to know](https://youtu.be/SYSa4RzaH80) what "the best" entails! Thankfully, BYCombo can step up as a gatekeeper for the elites, if *you'll* pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
