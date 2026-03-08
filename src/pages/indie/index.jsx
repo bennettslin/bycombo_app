@@ -21,7 +21,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this here Xennial, who's had *zero* say until now? In which case… let the interdependence revolution begin!
+Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this here Xennial, who's had *zero* say up to now? In which case… let the interdependence revolution begin!
 
 ### The revolution will *not* be decentralized
 
@@ -179,10 +179,6 @@ In essence, ignore the critics, or any others who think history making is all a 
 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To get radio airplay in the '90s, alternative bands had to win over the casual listener who knew little about them— and the best did this by crafting works that hook you in with no further context. Being an awkward teen at the time, I knew my only hope was to pull off the same. So I studied every band whose talents I envied, dreaming that someday I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "One test of an enviable work," I noted, "is whether it's a joy just to hum its melody and strum its chords." Yet… no one bit. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
@@ -195,10 +191,6 @@ ${'  ' || `
 
 All demand for such craft, then, came *solely* from radio— which means the dying of radio *also* wiped out those who excelled at it: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet the past artists we love most *don't* require us to know of any surrounding context, do they? History, then… behaves like radio! So don't get complacent in our new online era: To be timeless, your music still needs to hook in casual listeners on its *own*. This is why BYCombo gives you the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
@@ -210,7 +202,7 @@ But in hindsight, it all *seemed* to be much ado about nothing— so Millennials
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly *win*, did it? So history *isn't* just "whatever happened"! Luckily, with BYCombo, Gen Z can now hold out for your works.
@@ -223,11 +215,7 @@ By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/
 
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](https://paulgraham.com/top.html#:~:text=I%20suspect%20a,to%20change%20something.) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
-${'  ' || `
-// TODO: Review.
-`}
-
-But… this won't happen if you're always multitasking. No wonder, then, that "indiefying" music has made it worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
+But… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -317,7 +305,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed from its original meaning of "all who attend a performance." So let's use it in a way that Bach— who made music for God!— would've understood: The ones you engage with online? That's a following. Those casually listening on the radio? Now *there's* your audience.
+Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed from its original meaning of "all who attend a performance." So let's use it in a way that Bach— who made music for God!— would've understood: The ones you engage with online? That's a following. Those casually hearing you on the radio? Now *there's* your audience.
 
 From there, we note that this vast majority only want the *best* artists… and it *isn't* their [job to know](https://youtu.be/SYSa4RzaH80) what "the best" entails! Thankfully, BYCombo can step up as a gatekeeper for the elites, if *you'll* pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
@@ -519,7 +507,11 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, getting punished for breaking their rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me. Why?
 
-I'll tell you my theory: Millennials only faced boredom long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which won [their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
+${'  ' || `
+// TODO: Review.
+`}
+
+I'll tell you my theory: Millennials faced boredom only long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and consume endless content— which won [their gratitude](https://xkcd.com/1601). And so they missed the obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only [ever faced](http://archive.today/2022.12.16/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) an *abundance* of content… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
