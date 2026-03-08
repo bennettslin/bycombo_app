@@ -17,7 +17,11 @@ By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, it's easier than *ever* to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does this say about your works?"
 
-Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this here Xennial, who's had *no* say up until now? In which case… let the interdependence revolution begin!
+${'  ' || `
+// TODO: Review.
+`}
+
+Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this here Xennial, who's had *zero* say until now? In which case… let the interdependence revolution begin!
 
 ### The revolution will *not* be decentralized
 
@@ -205,7 +209,11 @@ But in hindsight, it all *seemed* to be much ado about nothing— so Millennials
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
-It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly *win*, did it? So history *isn't* just "whatever happened"! Luckily, with BYCombo, Gen Z can now hold out for your works.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly *win*, did it? So history *isn't* just "whatever happened"! Luckily, with BYCombo, Gen Z can now hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -215,7 +223,11 @@ By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/
 
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](https://paulgraham.com/top.html#:~:text=I%20suspect%20a,to%20change%20something.) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
-But… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
+${'  ' || `
+// TODO: Review.
+`}
+
+But… this won't happen if you're always multitasking. No wonder, then, that "indiefying" music has made it worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
