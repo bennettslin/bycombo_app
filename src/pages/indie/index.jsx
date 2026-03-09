@@ -185,9 +185,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-All demand for such craft, then, came *solely* from radio— which means the dying of radio *also* wiped out those who excelled at it: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
+All demand for such craft, then, came *exclusively* from radio— which means the end of radio *also* spelled the end for those who'd mastered it: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
-Yet the past artists we love most *don't* require us to know of any surrounding context, do they? History, then… behaves like radio! So don't get complacent in our new online era: To be timeless, your music still needs to hook in casual listeners on its *own*. This is why BYCombo gives you the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet the past artists we love most *don't* require us to know of any surrounding context, do they? History, then… behaves like radio! So don't get complacent in our new online era: To be timeless, your music still needs to hook in casual listeners on its *own*. Which is why BYCombo gives you ample time to master the craft— as if you were an Xennial child hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
