@@ -637,9 +637,13 @@ But thanks to "indiefication," today's artists have no such reason to believe—
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
 
-Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build your one-to-*n* talents… in faith that a savior will then find you!
+${'  ' || `
+// TODO: Review.
+`}
 
-### ${++sectionCounter}. Victory is assured
+Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build your one-to-*n* talents… in faith that a savior will then find you.
+
+### Victory is assured!
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who engages with us, please— especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor!"
 
