@@ -17,10 +17,6 @@ By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, it's easier than *ever* to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does this say about your works?"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this here Xennial, who's had *zero* say up to now? In which case… let the interdependence revolution begin!
 
 ### The revolution will *not* be decentralized
@@ -245,10 +241,6 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out every outlier. And social media makes engaging with fans routine; those who do it best— a.k.a. influencers— may earn *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too overworked and underpaid to get with the times…
 
 So yes, middlemen might *seem* redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! This is why BYCombo tells you to be generous in splitting your earnings with bandmates and business partners: How else will *any* of us have the bandwidth to bring music into the present century?
@@ -304,10 +296,6 @@ Imagine this gripe: "When I play sports, it doesn't just benefit *me*; it benefi
 Uh… *we* would— the audience! Most of us only want the *best* athletes, and it's the *talent scout's* job to find them, not *ours*. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only ever come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-artist thinking might just be a generational fluke… and *not* the future of music.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed from its original meaning of "all who attend a performance." So let's use it in a way that Bach— who made music for God!— would've understood: The ones you engage with online? That's a following. Those casually hearing you on the radio? Now *there's* your audience.
 
@@ -645,11 +633,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build your one-to-*n* talents… in faith that a savior will then find you.
-
-${'  ' || `
-// TODO: Review title.
-`}
+Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past! So come join BYCombo, and build your one-to-*n* talents… in faith that a savior will then find you.
 
 ### Victory… is *assured*!
 
