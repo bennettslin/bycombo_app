@@ -333,10 +333,6 @@ Mr. Rogers told us to look for [the helpers](https://www.goodreads.com/quotes/12
 
 So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/p/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Except… now it made perfect sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will insist on keeping that culture as it is— no matter how broken it's become.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to waste even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
@@ -507,10 +503,6 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, getting punished for breaking their rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me. Why?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 I'll tell you my theory: Millennials faced boredom only long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and consume endless content— which won [their gratitude](https://xkcd.com/1601). And so they failed to see the obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only [ever faced](http://archive.today/2022.12.16/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) an *abundance* of content… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
@@ -575,12 +567,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
 
-${'  ' || `
-// TODO: Review.
-
-Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their own interest by leaving others worse off, thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: influencers, politicians… and now, slop peddlers.
-`}
-
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: superstars, influencers… and now, slop peddlers.
 
 Plus, much like AI is blocked from chasing *good* ideas by the very guardrails that block it from *bad* ones, the very rules that save indie rock from picking the worst artists *also* "save" it from the best. So they're alike even in how they stumble! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* root for the *indie*-vidual at all, but rather for *us*— the collective.
@@ -642,10 +628,6 @@ Let's return to the original question: How has indie rock made music worse? In s
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if not everyone joins me in calling it "workhorse" versus "windfall art."
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past! So come join BYCombo, and build your one-to-*n* talents… in faith that a savior will then find you.
 
