@@ -4,6 +4,7 @@
     * Practice?
 
 ### BYC
+* Revert superstars paragraph in collectivists section?
 * Add lazy genius section
     * Determine placement?
         * Between serendipity and modest standing?
