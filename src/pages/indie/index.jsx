@@ -629,6 +629,8 @@ ${'  ' || `
 // TODO: Review a few more times.
 
 — especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor.
+
+"With all that being said…"?
 `}
 
 Okay, there's just one sticking point to our little revolution: Once indie rock's ideals take root, they'll end up taking over. After all, with countless artists to choose from, *of course* any label will insist, "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore offers so much to discuss!" And any fan: "The one who engages with us, please!"
