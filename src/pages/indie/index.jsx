@@ -621,15 +621,37 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### Victory… is *assured*!
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who engages with us, please— especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor!"
+${'  ' || `
+// TODO: Review entire section.
+`}
+
+${'  ' || `
+// TODO: Review a few more times.
+
+— especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor.
+`}
+
+Okay, there's just one sticking point to our little revolution: Once indie rock's ideals take root, they'll end up taking over. After all, with countless artists to choose from, *of course* any label will insist, "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore offers so much to discuss!" And any fan: "The one who engages with us, please!"
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp), which states that 20% of the effort yields 80% of the results.
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results!
+${'  ' || `
+// TODO: Review.
+`}
 
-Let's call this the 4x Law of Interdependence, then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: Among interdependent bands, the greatest *ever* is the Beatles, who are *at least* four times better than whomever the indie camp has to offer!
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, for *100%* effort… that's *400%* results! In other words:
 
-So now, what potential partner *wouldn't* insist upon a BYCombo band like yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+**By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. So let's call this the 4x Law of Interdependence.**
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Which checks out, right? Among interdependent bands, the greatest *ever* is the Beatles… who are *at least* four times better than any indie artist! Victory, then, is *assured*— because, now, what elite *wouldn't* prefer a BYCombo band such as yours? Or, to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
             `,
         }}
     />
