@@ -653,7 +653,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Which checks out, no? Among interdependent bands, the greatest *ever* is the Beatles, who are *at least* four times better than the best indie artists! Victory, then, is *assured*— because, now, what elite *wouldn't* prefer a BYCombo band such as yours? Or, to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
+Which checks out, no? Among interdependent bands, the greatest *ever* is the Beatles, who are *at least* four times better than the best indie artists! Victory, then, is *assured*— because, in this light, what elite *wouldn't* prefer a BYCombo band such as yours? Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
             `,
         }}
     />
