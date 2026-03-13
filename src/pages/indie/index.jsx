@@ -629,7 +629,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Fifty ways! And yet, our revolution still faces the ultimate hurdle: Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who does the middleman's job!" And any critic: "We'll take the one whose lore offers much to discuss!" And any fan: "The one who engages with us, please!"
+Fifty ways! And yet, our revolution still faces the ultimate hurdle: Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who can do the middleman's job!" And any critic: "We'll take the one whose lore offers much to discuss!" And any fan: "The one who engages with us, please!"
 
 ${'  ' || `
 // TODO: Review.
@@ -647,7 +647,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-**By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. So let's call this the 4x Law of Interdependence.**
+**By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this BYCombo's 4x Law of Interdependence.**
 
 ${'  ' || `
 // TODO: Review.
