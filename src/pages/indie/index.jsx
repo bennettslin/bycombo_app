@@ -611,10 +611,6 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ### ${++sectionCounter}. Artists want faith in a savior
 
-${'  ' || `
-// TODO: Review new links.
-`}
-
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they quietly built the "one-to-*n*" talents that gave us "[Both Sides, Now](https://youtu.be/yXr2EFomFkU)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"… and "[Ordinary World](https://youtu.be/FqIACCH20JU)"…
 
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if not everyone joins me in calling it "workhorse" versus "windfall art."
@@ -623,7 +619,7 @@ But thanks to "indiefication," today's artists have no such reason to believe—
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past! So come join BYCombo, and build your one-to-*n* talents… in faith that a savior will then find you.
 
-### Victory… is *assured*!
+### Victory… is *assured*
 
 ${'  ' || `
 // TODO: Review entire section.
@@ -631,21 +627,21 @@ ${'  ' || `
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-— especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor.
-
-"With all that being said…"?
 `}
 
-Okay, our revolution faces one last hurdle: Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, any label is bound to insist, "Give us the one who does the middleman's job!" And any critic: "We'll take the one whose lore offers much to discuss!" And any fan: "The one who engages with us, please!"
-
-Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp), which states that 20% of the effort yields 80% of the results.
+Fifty ways! And yet, our revolution still faces the ultimate hurdle: Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who does the middleman's job!" And any critic: "We'll take the one whose lore offers much to discuss!" And any fan: "The one who engages with us, please!"
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Well, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, for *100%* effort… that's *400%* results! In other words:
+Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp)— which states that 20% of the effort yields 80% of the results.
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, no? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, for *100%* effort… that's *400%* results! In other words:
 
 ${'  ' || `
 // TODO: Review.
@@ -657,7 +653,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Which checks out, right? Among interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than the best indie artist! Victory, then, is *assured*— because, now, what elite *wouldn't* prefer a BYCombo band such as yours? Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
+Which checks out, right? Among interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than the best indie artist! Victory, then, is *assured*— because, now, what elite *wouldn't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
             `,
         }}
     />
