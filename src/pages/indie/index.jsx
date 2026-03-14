@@ -187,10 +187,6 @@ Yet the past artists we love most *don't* require us to know of any surrounding 
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock and roll renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were [glad to see](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) *anything* happen, and never wondered what might've happened *instead*, had they held out for better works. Still, why didn't more artists join with me, and try to *show* them how much better a work can be?
@@ -236,10 +232,6 @@ Can the indie labels learn *not* to be led astray? No, they're overworked and un
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out every outlier. And social media makes engaging with fans routine; those who do it best— a.k.a. influencers— may earn *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too overworked and underpaid to change with the times…
 
@@ -621,10 +613,6 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they quietly built the "one-to-*n*" talents that gave us "[Both Sides, Now](https://youtu.be/yXr2EFomFkU)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"… and "[Ordinary World](https://youtu.be/FqIACCH20JU)"…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if few others join me in calling it "workhorse" versus "windfall art."
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
@@ -638,32 +626,16 @@ ${'  ' || `
 `}
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Fifty ways! And yet, our revolution still faces the ultimate hurdle: Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who can do the middleman's job!" And any critic: "We'll take the one whose lore offers much to discuss!" And any fan: "The one who engages with us, please!"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp)— which states that 20% of the effort yields 80% of the results.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% of results, no? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results! In other words:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this BYCombo's 4x Law of Interdependence.**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Which checks out, right? Among interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than the best indie artist! Victory, then, is *assured*— because, now, what elite *wouldn't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
             `,
