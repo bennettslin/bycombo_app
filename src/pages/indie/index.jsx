@@ -621,7 +621,11 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they quietly built the "one-to-*n*" talents that gave us "[Both Sides, Now](https://youtu.be/yXr2EFomFkU)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"… and "[Ordinary World](https://youtu.be/FqIACCH20JU)"…
 
-But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if not everyone joins me in calling it "workhorse" versus "windfall art."
+${'  ' || `
+// TODO: Review.
+`}
+
+But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if few others join me in calling it "workhorse" versus "windfall art."
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
 
