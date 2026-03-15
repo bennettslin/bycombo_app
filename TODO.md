@@ -4,7 +4,6 @@
     * Practice?
 
 ### BYC
-* Make point that lower barriers to entry lead to greater cronyism?
 * Add lazy genius section
     * Determine placement?
         * Between serendipity and modest standing?
