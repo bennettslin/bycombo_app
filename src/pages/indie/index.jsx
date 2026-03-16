@@ -344,10 +344,10 @@ Don't be fooled, then, by those who merely *larp* as history makers! All your in
 While being alternative is an *artistic* choice, being indie is a *business* stance. Until the '90s, then, "indie" [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*— not *artists*. And that stance? It says, "We're *not* in this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-The thing is, these labels are run by White men— and to maintain inequality, White men *don't* need to harm others; they *only* need to help their own kind. But [helping their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.) is what any circle of friends will do— especially as the field gets crowded! Which means indie rock's inequality *can't* be fixed at the source; rather, its tastemakers just have to accept more of us as their own.
+The thing is, these labels are run by White men— and to prolong inequality, White men *don't* need to harm others; they *only* need to help their own kind. But [helping their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.) is what any circle of friends will do— especially as the field gets crowded! Which means indie rock's inequality *can't* be fixed at the source; rather, its tastemakers just have to accept more of us as their own.
 
 So far, though, their efforts have only helped women, not us minorities— or minority *men*, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
@@ -627,10 +627,6 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ${'  ' || `
 // TODO: Review entire section.
-`}
-
-${'  ' || `
-// TODO: Review.
 `}
 
 Fifty ways! And yet, our revolution still faces the ultimate hurdle: Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who can do the middleman's job!" And any critic: "We'll take the one whose lore offers much to discuss!" And any fan: "The one who engages with us, please!"
