@@ -209,6 +209,19 @@ Of course, the best artists *are* human— so how are such works possible? It's 
 
 But… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
+### ${++sectionCounter}. Lazy genius is a myth
+
+${'  ' || `
+// TODO: Keep working on.
+
+Favors the privileged, who can afford to be less ambitious.
+Undervalue work to deserve the job, overvalue work to get the job.
+`}
+
+As online tools for self-empowerment became readily available in the '00s, the indie camp would often pose this thought experiment: "Would you rather sign to a major label, and earn a penny each on millions of copies of your first, and likely only, album? Or else earn the full $10 by selling albums yourself to your tens of thousands of fans, again and again?
+
+The point, of course, was that, after doing the math, you'd realize you'd earn more money, by an order of magnitude, by staying indie.
+
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
