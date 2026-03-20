@@ -212,6 +212,7 @@ ${'  ' || `
 
 Favors the privileged, who can afford to be less ambitious.
 Undervalue work to deserve the job, overvalue work to get the job.
+Millennials grew up at the height of the self-esteem movement.
 `}
 
 As online tools for self-empowerment became readily available in the '00s, the indie camp would often pose this thought experiment: "Would you rather sign to a major label, and earn a penny each on millions of copies of your first, and likely only, album? Or else earn the full $10 by selling albums yourself to your tens of thousands of fans, again and again?
@@ -238,19 +239,31 @@ In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the co
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: By *not* knowing what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
-### ${++sectionCounter}. Lean operations fail to adapt
-
 ${'  ' || `
-// TODO: Revise? Include more about automation, autopilot, mental shortcuts?
+// TODO: Review title.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their words, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to free up "bandwidth," they just follow the instincts handed down by their forebears— like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+### ${++sectionCounter}. Lean operations struggle to adapt
 
-Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their words, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to save "bandwidth," they lean on mental shortcuts that worked well in the past— the same way moths evolved to fly with their [backs to starlight](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.).
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Of course, these shortcuts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out every outlier. And social media makes engaging with fans routine; those who do it best— a.k.a. influencers— may earn *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
 
-Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too overworked and underpaid to change with the times…
+${'  ' || `
+// TODO: Review.
+`}
+
+Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too short-staffed to change with the times…
 
 So yes, middlemen might *seem* redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! This is why BYCombo tells you to be generous in splitting your earnings with bandmates and business partners: How else will *any* of us have the bandwidth to bring music into the present century?
 
