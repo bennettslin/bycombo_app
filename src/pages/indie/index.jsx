@@ -249,7 +249,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their words, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to save "bandwidth," they lean on mental shortcuts that worked well in the past— the same way moths evolved to fly with their [backs to starlight](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.).
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their words, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to save "bandwidth," they bank on mental shortcuts that worked well in the past— sort of like how moths evolved to fly with their [backs to starlight](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.).
 
 ${'  ' || `
 // TODO: Review.
