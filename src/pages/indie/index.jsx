@@ -136,7 +136,7 @@ Yet… this can't end well. We obviously don't support artists of the *past*— 
 By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage to *every* artist.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way things were done *before*. So anyone hoping to shift the paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
@@ -246,10 +246,6 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Lean operations struggle to adapt
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to save "bandwidth," they rely on mental shortcuts that worked well in the past— much like how moths evolved to fly with their [backs to starlight](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.).
 
 Of course, these shortcuts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
@@ -321,10 +317,6 @@ From there, we note that this vast majority only want the *best* artists… and 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they judged his works! So there's a lesson here for all tastemakers: To discover an artist that future audiences will want to *re*-discover, simply… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even a low-status nobody, like Nick. Yet indie rock tells every artist to get themselves known… effectively saying they're each entitled to it. As a result, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known— simply by *deserving* it!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Because, sure, it's a proven way to get fans— or dates!— but does society *want* this to be the case? Besides, most of us have now grown wise to being "negged"; sooner or later, then, won't we *also* wise up to artists milking us for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)… and us [loving them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for it?
 
@@ -617,20 +609,20 @@ So if I could get every progressive— in both politics and the arts— to read 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets revolve around the *Sun*… turning these squiggles into circles. In time, his [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor) came to be seen as the correct one— and now typifies what we call a paradigm shift.
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets revolve around the *Sun*… turning these squiggles into circles. As the simpler explanation, this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… leading to a "tragedy of the commons." But now, 5% is our *baseline*… and soon, 10%… 15%… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance/#:~:text=People%20summon%20the,possible%20any%20more.)."
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa, everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To shift the paradigm, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
+With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa, everything lines up now! Yet the indie camp will oppose this [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so BYCombo won't get far by merely proposing it. To shift the paradigm, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
