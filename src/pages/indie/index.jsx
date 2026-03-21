@@ -213,6 +213,7 @@ ${'  ' || `
 Favors the privileged, who can afford to be less ambitious.
 Undervalue work to deserve the job, overvalue work to get the job.
 Millennials grew up at the height of the self-esteem movement.
+Devalues potential. Talents are born with, not built.
 `}
 
 As online tools for self-empowerment became readily available in the '00s, the indie camp would often pose this thought experiment: "Would you rather sign to a major label, and earn a penny each on millions of copies of your first, and likely only, album? Or else earn the full $10 by selling albums yourself to your tens of thousands of fans, again and again?
@@ -245,7 +246,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their words, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to save "bandwidth," they rely on mental shortcuts that worked well in the past— sort of like how moths evolved to fly with their [backs to starlight](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.).
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to save "bandwidth," they rely on mental shortcuts that worked well in the past— much like how moths evolved to fly with their [backs to starlight](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.).
 
 Of course, these shortcuts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
 
