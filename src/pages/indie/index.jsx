@@ -214,10 +214,13 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 ${'  ' || `
 // TODO: Keep working on.
 
-Favors the privileged, who can afford to be less ambitious.
-Undervalue work to deserve the job, overvalue work to get the job.
 Millennials grew up at the height of the self-esteem movement.
-Devalues potential. Talents are born with, not built. Status hierarchy.
+Favors the privileged, who can afford to be less ambitious.
+
+Gen Z raised with Carol Dweck's growth mindset.
+Devalues potential. Talents are born with, not built. Status hierarchy. Risk?
+
+Undervalue work to deserve the job, overvalue work to get the job.
 `}
 
 As online tools for self-empowerment became readily available in the '00s, the indie camp would often pose this thought experiment: "Would you rather sign to a major label, and earn a penny each on millions of copies of your first, and likely only, album? Or else earn the full $10 by selling albums yourself to your tens of thousands of fans, again and again?
