@@ -17,10 +17,6 @@ By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, it's easier than *ever* to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does this say about your works?"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this here Xennial, who's had *zero* say up till now? In which case… let the interdependence revolution begin!
 
 ### The revolution will *not* be decentralized
@@ -615,7 +611,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To explain the squiggles traversed by the planets as they revolve around the Earth, past astronomers mapped out a convoluted model of epicycles. Then Copernicus proposed that the planets actually orbit the *Sun*… turning these squiggles into smooth lines. As the simpler explanation, in time this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
+To explain the squiggles traversed by the planets as they revolve around the Earth, past astronomers mapped out a convoluted model of epicycles. Then Copernicus proposed that the planets actually orbit the *Sun*… turning these squiggles into smooth lines. As the simpler explanation, this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
