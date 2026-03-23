@@ -3,6 +3,9 @@
 * Plot next steps
     * Practice?
 
+### YB
+* Change "up until" to "up till"?
+
 ### BYC
 * Add lazy genius section
     * Determine placement?
