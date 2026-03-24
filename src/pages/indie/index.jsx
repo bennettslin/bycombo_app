@@ -219,7 +219,7 @@ Devalues potential. Talents are born with, not built. Status hierarchy. Risk?
 Undervalue work to deserve the job, overvalue work to get the job.
 `}
 
-As online tools for self-empowerment became readily available in the '00s, the indie camp would often pose this thought experiment: "Would you rather sign to a major label, and earn a penny each on millions of copies of your first, and likely only, album? Or else earn the full $10 by selling albums yourself to your tens of thousands of fans, again and again?
+As online tools for self-empowerment became readily available in the '00s, the indie camp would often pose this thought experiment: "Would you rather sign to a major label, and earn a penny each on millions of copies of your first, and also possibly last, album? Or else earn the full $10 by selling albums yourself to your tens of thousands of fans, again and again?
 
 The point, of course, was that, after doing the math, you'd realize you'd earn far more money by being indie.
 
@@ -569,7 +569,11 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
-### ${++sectionCounter}. Collectivists feel no self-entitlement
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Collectivists are literally selfless
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
 
