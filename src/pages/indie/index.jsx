@@ -573,7 +573,7 @@ ${'  ' || `
 // TODO: Review title.
 `}
 
-### ${++sectionCounter}. Collectivists are literally selfless
+### ${++sectionCounter}. Collectivists are selfless, in both senses
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
 
@@ -615,7 +615,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To explain the squiggles traversed by the planets as they revolve around the Earth, past astronomers mapped out a convoluted model of epicycles. Then Copernicus proposed that the planets actually orbit the *Sun*… turning these squiggles into smooth lines. As the simpler explanation, this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
+To explain the squiggles traversed by the planets as they revolve around the Earth, past astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually orbit the *Sun*… turning the squiggles into smooth lines. As the simpler explanation, this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
