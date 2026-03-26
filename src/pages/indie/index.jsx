@@ -205,7 +205,15 @@ Of course, the best artists *are* human— so how are such works possible? It's 
 
 But… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
+${'  ' || `
+// TODO: Review title.
+`}
+
 ### ${++sectionCounter}. Lazy genius is a myth
+
+${'  ' || `
+// TODO: Review full section.
+`}
 
 ${'  ' || `
 // TODO: Keep working on.
@@ -219,9 +227,13 @@ Devalues potential. Talents are born with, not built. Status hierarchy. Risk?
 Undervalue work to deserve the job, overvalue work to get the job.
 `}
 
-As online tools for self-empowerment became readily available in the '00s, the indie camp would often pose this thought experiment: "Would you rather sign to a major label, and earn a penny each on millions of copies of your first, and also possibly last, album? Or else earn the full $10 by selling albums yourself to your tens of thousands of fans, again and again?
+As online tools for self-empowerment became readily available in the '00s, the indie camp would pose this thought experiment: "Would you rather sign to a major label, and earn a penny each on millions of copies of your first, and also possibly last, album? Or else earn the full $10 by selling albums yourself to your tens of thousands of fans, again and again?
 
-The point, of course, was that, after doing the math, you'd realize you'd earn far more money by being indie.
+The point, of course, was that, after doing the math, you'd realize you'd earn far more money by being indie. And yet, as someone in it for the long haul, having millions know about me and judging my works is far more appealing. In other words, anyone with massive potential yet to be realized *won't* want to be indie! So how does the indie camp think they'll make history?
+
+By assuming it can still happen to those with the least ambition, simply by being a lazy genius, an archetype embodied by Pavement frontman Stephen Malkmus. Millennials readily embraced it; having been raised with high self-esteem, they naturally bought the argument that talents are born with, not built— what Carol Dweck calls the "fixed mindset," in her book Mindset.
+
+But there's good news: Since then, Gen Z was raised to have what Dweck calls the "growth mindset." They once again believe in potential.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
