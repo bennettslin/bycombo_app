@@ -372,10 +372,10 @@ But if our kind *isn't* desired as friends… we can still be valued as *investm
 While indie artists seek populist solidarity, rappers revel in [elitist snobbery](https://youtu.be/78SV9tguyVM). And yet, for Gen X, it's the *latter* who represent the true face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
 
 ${'  ' || `
-// TODO: Revise grammar?
+// TODO: Review a few more times.
 `}
 
-Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like [being unskilled](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) keeps you from noticing greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
+Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like how [being unskilled](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) keeps you from recognizing greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
 
 But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is [now a playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
@@ -591,7 +591,11 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 
 As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html#:~:text=Independence%20means%20giving,not%20a%20bug.) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
-Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=For%20mainstream%20rock,were%20overblown%20frauds%3B) to *spurn* these bands.
+${'  ' || `
+// TODO: Review.
+`}
+
+Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=For%20mainstream%20rock,were%20overblown%20frauds%3B) to *spurn* such bands.
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
@@ -611,7 +615,11 @@ So if I could get every progressive— in both politics and the arts— to read 
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-To explain the squiggles traversed by the planets as they revolve around the Earth, past astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually orbit the *Sun*… turning the squiggles into smooth lines. As the simpler explanation, this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
+${'  ' || `
+// TODO: Review.
+`}
+
+To explain the squiggles traversed by the planets in their orbits around the Earth, past astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually orbit the *Sun*… turning the squiggles into smooth lines. As the simpler explanation, this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
