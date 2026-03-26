@@ -372,7 +372,7 @@ But if our kind *isn't* desired as friends… we can still be valued as *investm
 While indie artists seek populist solidarity, rappers revel in [elitist snobbery](https://youtu.be/78SV9tguyVM). And yet, for Gen X, it's the *latter* who represent the true face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like how [being unskilled](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) keeps you from recognizing greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
@@ -381,7 +381,11 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a privileged artist's wins [as their own](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!)— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
-"Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" Regarding the kind based on "cred"? Sure. But *craft*-based snobbery raises the cost of entry the *right* way— and thus remains as valid as ever! Because, like it or not, public exposure *is* zero-sum. Now BYCombo lets you treat it as such… just like rockists and rappers always have.
+${'  ' || `
+// TODO: Review.
+`}
+
+"Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" Regarding the kind based on "cred"? Sure. But *craft*-based snobbery raises the cost of entry the *right* way— and thus remains as vital as ever! Because, like it or not, public exposure *is* zero-sum. Now BYCombo lets you treat it as such… just like rockists and rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -515,10 +519,6 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 
 I'll tell you my theory: Millennials faced boredom only long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and consume endless content— which won [their gratitude](https://xkcd.com/1601). And so they failed to see the obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *grunge*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.16/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this here Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Unity batters a lone dissident
@@ -595,10 +595,6 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 
 As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html#:~:text=Independence%20means%20giving,not%20a%20bug.) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=For%20mainstream%20rock,were%20overblown%20frauds%3B) to *spurn* such bands.
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
@@ -618,10 +614,6 @@ Which means we'll [need to quit](https://jasonpargin.substack.com/p/is-modern-ma
 So if I could get every progressive— in both politics and the arts— to read just one book, it'd be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their inputs, outputs, feedback loops, and delays. It's what led to many of the insights that shaped BYCombo's mission… and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, past astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually orbit the *Sun*… turning the squiggles into smooth lines. As the simpler explanation, this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
 
