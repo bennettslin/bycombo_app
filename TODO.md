@@ -4,7 +4,6 @@
     * Practice?
 
 ### YB
-* Change "up until" to "up till"?
 * Change to be about busing?
 
 ### BYC
