@@ -517,10 +517,6 @@ Sadly, with no dreamer in our times to serve as an exemplar, critics and fans ar
 
 Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even *after* I warned them. Why were they glad to simply "larp" the next revolution?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, getting punished for breaking their rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what do *I* know of courage? Yet no Millennials joined me. Why?
 
 I'll tell you my theory: Millennials faced boredom only long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and consume endless content— which won [their gratitude](https://xkcd.com/1601). And so they failed to see the obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
