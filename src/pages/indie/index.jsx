@@ -225,9 +225,11 @@ Devalues potential. Talents are born with, not built. Status hierarchy. Risk?
 Undervalue work to deserve the job, overvalue work to get the job.
 `}
 
-As online tools for self-empowerment became readily available in the '00s, the indie camp would pose this thought experiment: "Would you rather sign to a major label, and earn a penny each on millions of copies of your first, and also possibly last, album? Or else earn the full $10 by selling albums yourself to your tens of thousands of fans, again and again?
+As online tools of self-empowerment became available in the '00s, the indie camp would pose this thought experiment: "Would you rather release your album on a major label, sell millions of copies, but earn only a penny on each one? Or else put it out yourself, to your thousands of true fans, and keep the full $100 for every copy sold, plus ticket sales and merchandise?"
 
-The point, of course, was that, after doing the math, you'd realize you'd earn far more money by being indie. And yet, if you're in it for the long haul, having millions know about your and judging your works is far more appealing. In other words, anyone trying to realize massive potential *won't* want to be indie! So how does the indie camp think they'll make history?
+The point, of course, was for you to do the math, and thus realize you'd earn far more as an indie artist.
+
+And yet, if you're trying to make an impact, having millions know about you is clearly the way to go, even if it keeps you poor in the short term. In other words, anyone trying to realize massive potential *won't* want to be indie! So how does the indie camp think they'll make history?
 
 By assuming some simply make it without trying, simply by being a lazy genius, an archetype embodied by Pavement frontman Stephen Malkmus. Millennials readily embraced it; having been raised with high self-esteem, they naturally bought the argument that talent is what you're born with, not what you build— what Carol Dweck calls the "fixed mindset," in her book Mindset.
 
