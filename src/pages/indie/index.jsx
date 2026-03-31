@@ -173,6 +173,36 @@ For instance, during the Galant, a time that favored simplicity, Bach's music wa
 
 In essence, ignore the critics, or any others who think history making is all a crapshoot! There *is* a reliable measure of your chances: It's how much your talents, originality, and courage inspire the envy of fellow *artists*, relative to your fame. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out this century's own Galant era.
 
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Lazy genius is a myth
+
+${'  ' || `
+// TODO: Review location.
+`}
+
+${'  ' || `
+// TODO: Keep working on.
+
+Favors the privileged, who can afford to be less ambitious.
+
+Devalues potential. Talents are born with, not built. Status hierarchy. Risk?
+
+Undervalue work to deserve the job, overvalue work to get the job.
+`}
+
+As online tools of self-empowerment became available in the '00s, the indie camp would pose this thought experiment: "Would you rather release your album on a major label, sell a million copies, but earn only a penny on each one? Or else put it out yourself, to your thousand true fans, and keep the full $100 for every copy sold, plus ticket sales and merchandise?"
+
+The point, of course, was for you to do the math, and thus realize you'd earn far more as an indie artist.
+
+And yet, if you're trying to make an impact, having millions know about you is clearly the way to go, even if it keeps you poor in the short term. In other words, anyone trying to realize massive potential *won't* want to be indie! So how does the indie camp think they'll make history?
+
+By assuming some simply make it without trying, simply by being a lazy genius, an archetype embodied by Pavement frontman Stephen Malkmus. Millennials readily embraced it; having been raised with high self-esteem, they naturally bought the argument that talent is what you're born with, not what you build— what Carol Dweck calls the "fixed mindset," in her book Mindset.
+
+But there's good news: Since then, Gen Z was raised to have what Dweck calls the "growth mindset." They once again believe in potential.
+
 ### ${++sectionCounter}. Time is kind to craft, not context
 
 To get radio airplay in the '90s, alternative bands had to win over the casual listener who knew little about them— and the best did this by crafting works that hook you in with no further context. Being an awkward teen at the time, I knew my only hope was to pull off the same. So I studied every band whose talents I envied, dreaming that someday I'd teach others.
@@ -204,36 +234,6 @@ By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](https://paulgraham.com/top.html#:~:text=I%20suspect%20a,to%20change%20something.) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
 But… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
-
-${'  ' || `
-// TODO: Review title.
-`}
-
-### ${++sectionCounter}. Lazy genius is a myth
-
-${'  ' || `
-// TODO: Review full section.
-`}
-
-${'  ' || `
-// TODO: Keep working on.
-
-Favors the privileged, who can afford to be less ambitious.
-
-Devalues potential. Talents are born with, not built. Status hierarchy. Risk?
-
-Undervalue work to deserve the job, overvalue work to get the job.
-`}
-
-As online tools of self-empowerment became available in the '00s, the indie camp would pose this thought experiment: "Would you rather release your album on a major label, sell millions of copies, but earn only a penny on each one? Or else put it out yourself, to your thousands of true fans, and keep the full $100 for every copy sold, plus ticket sales and merchandise?"
-
-The point, of course, was for you to do the math, and thus realize you'd earn far more as an indie artist.
-
-And yet, if you're trying to make an impact, having millions know about you is clearly the way to go, even if it keeps you poor in the short term. In other words, anyone trying to realize massive potential *won't* want to be indie! So how does the indie camp think they'll make history?
-
-By assuming some simply make it without trying, simply by being a lazy genius, an archetype embodied by Pavement frontman Stephen Malkmus. Millennials readily embraced it; having been raised with high self-esteem, they naturally bought the argument that talent is what you're born with, not what you build— what Carol Dweck calls the "fixed mindset," in her book Mindset.
-
-But there's good news: Since then, Gen Z was raised to have what Dweck calls the "growth mindset." They once again believe in potential.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
