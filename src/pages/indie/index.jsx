@@ -85,10 +85,6 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 
 Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now serve as a gatekeeper for the elites— by helping them enforce a steep *cost* of entry.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in presenting their case for amnesty.
 
 **And finally, how has indie rock made music worse?**
@@ -588,10 +584,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their own interest by leaving others worse off, thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: politicians, influencers… and now, slop peddlers.
 
