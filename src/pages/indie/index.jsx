@@ -661,7 +661,11 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### Victory… is *assured*
 
-Fifty ways! And yet, our revolution still faces the ultimate hurdle: Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who can do the middleman's job!" And any critic: "We'll take the one whose lore offers much to discuss!" And any fan: "The one who engages with us, please!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Fifty ways! And yet, our revolution still faces the ultimate hurdle: Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who can do the middleman's job!" And any fan: "We'll support the one who engages with us!" And any critic: "The one whose lore offers much to discuss, pretty please!"
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp)— which states that 20% of the effort yields 80% of the results.
 
