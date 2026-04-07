@@ -411,10 +411,6 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for e
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) its elites instead.
 
-${'  ' || `
-// TODO: Review unlink.
-`}
-
 Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the college-educated indie camp— the supposed good guys— won't hear of it: "You don't see *us* selling out, do you?"
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
@@ -534,10 +530,6 @@ Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfill
 Sadly, with no dreamer in our times to serve as an exemplar, critics and fans are *happy* to mistake a striver's artsiness for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the notion of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect business partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even *after* I [warned them](https://bennettsamuellin.blogspot.com/2012/12/patent-trolls-of-indie-rock.html#:~:text=Like%20glam%20metal,on%20making%20art.). Why were they glad to simply "larp" the next revolution?
 
@@ -677,10 +669,6 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### Victory… is *assured*
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Fifty ways! And yet, our revolution still faces the ultimate hurdle: Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who can do the middleman's job!" And any fan: "We'll support the one who engages with us!" And any critic: "The one whose lore offers much to discuss, pretty please!"
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp)— which states that 20% of the effort yields 80% of the results.
@@ -688,10 +676,6 @@ Meanwhile, by refusing to be indie, an interdependent band can't compete on *any
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% of results, no? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results! In other words:
 
 **By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this BYCombo's 4x Law of Interdependence.**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Which checks out, right? Among interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than the best indie artist! Victory, then, is *assured*— because, now, what elite *wouldn't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence to… interdependence."
             `,
