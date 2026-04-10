@@ -193,6 +193,8 @@ Favors the privileged, who can afford to be less ambitious.
 Devalues potential. Talents are born with, not built. Status hierarchy. Risk?
 
 Undervalue work to deserve the job, overvalue work to get the job.
+
+Narcissism epidemic. Living in the age of entitlement.
 `}
 
 As online tools of self-empowerment became available in the '00s, the indie camp would pose this thought experiment: "Would you rather release your album on a major label, sell a million copies, but earn only a penny on each one? Or else put it out yourself, to your thousand true fans, and keep the full $100 for every copy sold, plus ticket sales and merchandise?"
@@ -263,7 +265,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they rely on mental shortcuts passed down by their forebears— like moths, which evolved to fly with their [backs to starlight](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.).
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they rely on mental shortcuts passed down by their forebears— just like moths, which evolved to fly with their [backs to starlight](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.).
 
 Of course, these shortcuts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
 
