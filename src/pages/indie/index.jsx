@@ -197,6 +197,8 @@ Undervalue work to deserve the job, overvalue work to get the job.
 Narcissism epidemic. Living in the age of entitlement.
 `}
 
+By the way, I write none of this in spite; I'm still friends with those in a few local scenes. My inability to fully belong never had to do with personal clashes, but rather with my ambitions.
+
 As online tools of self-empowerment became available in the '00s, the indie camp would pose this thought experiment: "Would you rather release your album on a major label, sell a million copies, but earn only a penny on each one? Or else put it out yourself, to your thousand true fans, and keep the full $100 for every copy sold, plus ticket sales and merchandise?"
 
 The point, of course, was for you to do the math, and thus realize you'd earn far more as an indie artist.
@@ -365,7 +367,13 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 "Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
+${'  ' || `
+// TODO: Review a few more times.
+
 Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* make history; it's just larping, to act like it will." Who'd win? So, regarding this century's indie rock thus far: Was it all a larp?
+`}
+
+Yet despite the poor fit, the indie camp sure is eager now to give us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? For instance, suppose an opposing camp were to argue: "No, this *won't* make history; it's just reenacting what took courage in the *past*, not whatever that'd be *today*." Who'd win? So, then: Was this century's indie rock all a larp?
 
 Some of you [now see](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in THE canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons I grew up on. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
