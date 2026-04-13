@@ -373,7 +373,7 @@ ${'  ' || `
 Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* make history; it's just larping, to act like it will." Who'd win? So, regarding this century's indie rock thus far: Was it all a larp?
 `}
 
-Yet despite the poor fit, the indie camp sure is eager now to give us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? For instance, suppose an opposing camp were to argue: "No, this *won't* make history; it's just reenacting what took courage in the *past*, not whatever that'd be *today*." Who'd win? So, then: Was this century's indie rock all a larp?
+Yet despite the poor fit, the indie camp sure is eager now to give us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? Like, suppose an opposing camp were to argue: "No, this *won't* make history; it's merely reenacting the courageous acts of the *past*— and not what that'd mean *today*." Who'd win? So… *was* this century's indie rock all a larp?
 
 Some of you [now see](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in THE canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons I grew up on. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
