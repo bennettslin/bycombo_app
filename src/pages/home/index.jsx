@@ -67,7 +67,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Sure enough, rock in the present century has made [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to winning back our interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; disgruntled "[rockists](/indie#elitism-is-the-great-equalizer)" will begin to mobilize the base; and future historians will know to regard our times as a mistake.
+Sure enough, rock in the present century has made [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to winning back our interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; disgruntled "[rockists](/indie#elitism-is-the-great-equalizer)" will try to rally the faithful; and future historians will know to regard our times as a mistake.
 
 ${'  ' || `
 // TODO: Review unlink.
