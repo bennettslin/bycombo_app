@@ -67,13 +67,9 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Sure enough, rock in the present century has made [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to winning back our interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; disgruntled "[rockists](/indie#elitism-is-the-great-equalizer)" will try to rally the faithful; and future historians will know to regard our times as a mistake.
+Sure enough, rock in the present century has made [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to winning back our interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; discerning patrons will try to save the arts; and future historians will know to regard our times as a mistake.
 
-${'  ' || `
-// TODO: Review unlink.
-`}
-
-These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules… but how? Any such band currently remains unknown for having done so, and with today's low barriers to entry, the field is more crowded than ever. The next step, then, is for elitist gatekeepers like BYCombo to enforce a steep *cost* of entry. Here's the idea:
+These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules… but how? Any such band currently remains unknown for having done so, and with today's low barriers to entry, the field is more crowded than ever. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's the idea:
 
 **BYCombo's assembled bands will each sacrifice a serious chunk of lifetime to make a demo that advances the art form, which they'll then show in our demo registry to build a case for partners to grant them amnesty.**
 
