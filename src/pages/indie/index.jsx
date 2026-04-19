@@ -409,7 +409,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or inside connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is [now a playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
+But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now [a playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a privileged artist's wins [as their own](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!)— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
