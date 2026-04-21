@@ -3,11 +3,7 @@
 * Plot next steps
     * Practice?
 
-### YB
-* Change to be about busing?
-
 ### BYC
-* Grownup link? "Adults are useless"
 * Add lazy genius section
     * Determine placement?
         * Between serendipity and modest standing?
