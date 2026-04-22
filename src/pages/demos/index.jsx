@@ -15,10 +15,10 @@ const Component = () => (
             body: [
                 `
 ${'  ' || `
-// TODO: Revise. Mention rockism, then replace with proper "rockism" link once published.
+// TODO: Review a few more times, then replace with proper "rockism" link once published.
 `}
 
-At BYCombo, we blame "[indiefication](/indie#the-revolution-will-not-be-decentralized)" for causing the arts to decline. And to reverse this? The best artists must now martyr themselves by making art for untold years, all the while remaining low-status and unknown, until you— as a budding entrepreneur, discerning patron, or future historian— decide to grant them amnesty. Here's the deal:
+At BYCombo, we blame "[indiefication](/indie#the-revolution-will-not-be-decentralized)" for causing the arts to decline. And to reverse this? The best artists must now martyr themselves by making art for untold years, all the while remaining low-status and unknown, until you, our ally in "[rockism](https://open.substack.com/pub/bobtail/p/raw-illustrated-bodies)"— whether as a budding entrepreneur, discerning patron, or future historian— decide to grant them amnesty. Here's the deal:
 
 **Every band in this demo registry has pledged *not* to be indie— that is, *not* to get themselves known. Instead, they've each sacrificed a serious chunk of lifetime— 25,000 hours or more— on a demo that advances the art form.**
 
