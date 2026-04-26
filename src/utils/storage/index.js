@@ -4,6 +4,10 @@ export const getWindowStorage = () => {
     return getWindow().localStorage
 }
 
+export const getIsWindowNewSession = () => (
+    getWindow().sessionStorage.length <= 1
+)
+
 export const setInStorage = (key, value) => {
     getWindowStorage()[key] = value
 }
