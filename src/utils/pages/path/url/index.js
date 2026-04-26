@@ -1,3 +1,4 @@
+// FIXME: Unused page
 import { getInternalLinkForPath } from '..'
 import { DOMAIN_NAME, HOME_PAGE } from '../../../../constants/pages'
 

@@ -14,37 +14,39 @@ export const getIsTabbedPath = path => (
     TABBED_PAGES_SET.has(getTopLevelPageFromPath(path))
 )
 
+export const getPathParameters = path => {
+    const
+        pathArray = (
+            path === HOME_PAGE ? '' : path
+        ).split('#'),
+
+        /**
+         * Add query string to know it's a link from text on an internal page.
+         * My approach is to include '#' even if no section id is specified.
+         */
+        search = path.includes('#') ? qs.stringify(
+            { [ID_LINK_KEY]: true },
+            { addQueryPrefix: true },
+        ) : '',
+
+        // Keep '#' only if section id is specified.
+        hash = pathArray.length > 1 && pathArray[1] ? `#${pathArray[1]}` : ''
+
+    return {
+        pagePath: `/${pathArray[0]}`,
+        search,
+        hash,
+    }
+}
+
 export const getInternalLinkForPath = path => {
-    let pathString = path
+    const {
+        pagePath,
+        search,
+        hash,
+    } = getPathParameters(path)
 
-    if (path === HOME_PAGE) {
-        pathString = ''
-    }
-
-    /**
-     * Add query string to know it's a link from text on an internal page. My
-     * approach is to always include '#' even if no section id is specified.
-     */
-    if (path.includes('#')) {
-        const
-            pathArray = pathString.split('#'),
-
-            // Get section id.
-            fragment = pathArray[1],
-
-            queryString = qs.stringify(
-                { [ID_LINK_KEY]: true },
-                { addQueryPrefix: true },
-            )
-
-        pathString = `${pathArray[0]}${queryString}${
-
-            // Include section id only if specified.
-            fragment && `#${fragment}`
-        }`
-    }
-
-    return `/${pathString}`
+    return `${pagePath}${search}${hash}`
 }
 
 export const getUrlFromPath = path => {
