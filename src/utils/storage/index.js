@@ -27,3 +27,8 @@ export const getBoolFromStorage = key => {
 export const setBoolInStorage = (key, value) => {
     getWindowStorage()[key] = value ? 'true' : 'false'
 }
+
+export const setWindowLocationPath = (pagePath, hash) => {
+    // Remove search query from window location once it's set in Redux state.
+    getWindow().history.replaceState({}, '', `${pagePath}${hash}`)
+}

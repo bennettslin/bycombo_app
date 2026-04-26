@@ -1,6 +1,9 @@
 const SAFE_WINDOW = {
     localStorage: {},
     sessionStorage: { length: 0 },
+    history: {
+        replaceState: () => {},
+    },
 }
 
 export const getIsServerSide = () => (
