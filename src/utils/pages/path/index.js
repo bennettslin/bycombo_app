@@ -21,16 +21,27 @@ export const getInternalLinkForPath = path => {
         pathString = ''
     }
 
-    // Add query string to know it's a link to an id on an internal page.
+    /**
+     * Add query string to know it's a link from text on an internal page. My
+     * approach is to always include '#' even if no section id is specified.
+     */
     if (path.includes('#')) {
         const
             pathArray = pathString.split('#'),
+
+            // Get section id.
+            fragment = pathArray[1],
+
             queryString = qs.stringify(
                 { [ID_LINK_KEY]: true },
                 { addQueryPrefix: true },
             )
 
-        pathString = `${pathArray[0]}${queryString}#${pathArray[1]}`
+        pathString = `${pathArray[0]}${queryString}${
+
+            // Include section id only if specified.
+            fragment && `#${fragment}`
+        }`
     }
 
     return `/${pathString}`
