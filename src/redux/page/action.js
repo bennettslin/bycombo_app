@@ -11,8 +11,8 @@ export const updateSelectedPagePath = () => {
         } = getWindow().location,
         selectedPagePath = getPathFromWindowLocation(pathname)
 
-    // Search query is no longer needed once it's set in state.
-    setWindowLocationPath(selectedPagePath, selectedHash)
+    // Search query and section id hash are no longer needed once set in state.
+    setWindowLocationPath(selectedPagePath)
 
     return {
         type: PAGE_STORE,

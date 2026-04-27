@@ -28,7 +28,16 @@ export const setBoolInStorage = (key, value) => {
     getWindowStorage()[key] = value ? 'true' : 'false'
 }
 
-export const setWindowLocationPath = (pagePath, hash) => {
-    // Remove search query from window location once it's set in Redux state.
-    getWindow().history.replaceState(null, '', `/${pagePath}${hash}`)
+export const setWindowLocationPath = (pagePath) => {
+    /**
+     * Remove search query from window location once it's set in Redux state.
+     * Also remove section id such that back button will return to most recent
+     * scrolled position rather than section id heading.
+     */
+    getWindow().history.replaceState(
+        // eslint-disable-next-line no-undef
+        structuredClone(
+            // Clone of window history state retains original scroll position.
+            getWindow().history.state,
+        ), '', `/${pagePath}`)
 }
