@@ -6,10 +6,15 @@ import { PAGE_STORE } from '../../constants/store'
 import { ID_LINK_KEY } from '../../constants/pages'
 
 export const mapDoShowBackButton = (
-    { [PAGE_STORE]: { selectedSearch } },
+    {
+        [PAGE_STORE]: {
+            selectedSearch,
+            isFirstSession,
+        },
+    },
 ) => getBoolFromTextValue(
     qs.parse(selectedSearch, { ignoreQueryPrefix: true })[ID_LINK_KEY],
-)
+) && !isFirstSession
 
 export const mapSelectedPagePath = (
     { [PAGE_STORE]: { selectedPagePath } },

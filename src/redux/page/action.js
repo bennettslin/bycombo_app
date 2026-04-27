@@ -5,11 +5,15 @@ import { setWindowLocationPath } from '../../utils/storage'
 
 export const updateSelectedPagePath = () => {
     const {
-            hash: selectedHash,
-            search: selectedSearch,
-            pathname,
-        } = getWindow().location,
-        selectedPagePath = getPathFromWindowLocation(pathname)
+            location: {
+                hash: selectedHash,
+                search: selectedSearch,
+                pathname,
+            },
+            sessionStorage,
+        } = getWindow(),
+        selectedPagePath = getPathFromWindowLocation(pathname),
+        isFirstSession = sessionStorage.length <= 1
 
     // Search query and section id hash are no longer needed once set in state.
     setWindowLocationPath(selectedPagePath)
@@ -20,6 +24,7 @@ export const updateSelectedPagePath = () => {
             selectedHash,
             selectedSearch,
             selectedPagePath,
+            isFirstSession,
         },
     }
 }

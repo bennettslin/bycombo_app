@@ -7,4 +7,5 @@ export const getPageDefaults = ({
     selectedHash: initialHash, // No longer used.
     selectedSearch: initialSearch,
     selectedPagePath: initialPage,
+    isFirstSession: false,
 })
