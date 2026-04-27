@@ -11,7 +11,6 @@ import PageFooter from './Footer'
 import Flex from '../../components/Flex'
 import Helmet from '../../components/Helmet'
 import { updateSelectedPagePath } from '../../redux/page/action'
-import { getPathFromWindowLocation } from '../../utils/pages/path'
 import './style'
 
 const Page = ({
@@ -23,14 +22,8 @@ const Page = ({
     const dispatch = useDispatch()
 
     useEffect(() => {
-        const { hash, search, pathname } = window.location
-
         dispatch(
-            updateSelectedPagePath({
-                selectedHash: hash,
-                selectedSearch: search,
-                selectedPagePath: getPathFromWindowLocation(pathname),
-            }),
+            updateSelectedPagePath(),
         )
     }, [])
 
