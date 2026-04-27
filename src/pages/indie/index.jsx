@@ -405,7 +405,7 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for e
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) its elites instead.
 
-Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the college-educated indie camp— the supposed good guys— won't hear of it: "You don't see *us* selling out, do you?"
+Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the [college-educated](/highlights/college-educated#) indie camp— the supposed good guys— won't hear of it: "You don't see *us* selling out, do you?"
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
