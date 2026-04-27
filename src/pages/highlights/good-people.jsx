@@ -21,7 +21,7 @@ const Component = () => (
                     />
                 ),
                 `
-Clem, Mitch. "[Hippies](http://www.mitchclem.com/nothingnice/196)." *Nothing Nice to Say*, August 2003.
+Clem, Mitch. "[Hippies.](http://www.mitchclem.com/nothingnice/196)" *Nothing Nice to Say*, August 2003.
             `,
             ],
         }}

@@ -15,7 +15,7 @@ const Component = () => (
 
 > Thus, if history were to be somehow rerun many times, seemingly identical universes with the same set of competitors and the same overall market tastes would quickly generate different winners: Madonna would have been popular in this world, but in some other version of history, she would be a nobody, and someone we have never heard of would be in her place.
 
-Watts, Duncan J. "[Is Justin Timberlake a Product of Cumulative Advantage?](https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html)." *New York Times*, April 2007.
+Watts, Duncan J. "[Is Justin Timberlake a Product of Cumulative Advantage?](https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html)" *New York Times*, April 2007.
             `,
         }}
     />

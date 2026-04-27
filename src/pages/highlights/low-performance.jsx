@@ -15,7 +15,7 @@ const Component = () => (
 
 > Drift to low performance feeds upon itself. As everyone gets used to mediocrity it's easy for standards to slip still further— which lowers expectations and allows even worse performance. I offer you the United States public schools. The state of our highways. Once a slide downhill gets going, it's hard to stop, because no one believes that what was once possible is possible any more.
 
-Meadows, Donella. "[Drift to Low Performance](https://donellameadows.org/archives/drift-to-low-performance)." *The Donella Meadows Project*, August 1991.
+Meadows, Donella. "[Drift to Low Performance.](https://donellameadows.org/archives/drift-to-low-performance)" *The Donella Meadows Project*, August 1991.
             `,
         }}
     />

@@ -15,7 +15,7 @@ const Component = () => (
 
 > Now psychologists have evidence that our ancestors planted some of these cultural differences hundreds of years ago when they chose which grains to sow.
 
-Doucleff, Michaeleen. "[Rice Theory: Why Eastern Cultures Are More Cooperative](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative)." *NPR*, May 2014.
+Doucleff, Michaeleen. "[Rice Theory: Why Eastern Cultures Are More Cooperative.](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative)" *NPR*, May 2014.
             `,
         }}
     />

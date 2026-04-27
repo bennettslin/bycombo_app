@@ -17,7 +17,7 @@ const Component = () => (
 
 > The mismatch between institutions' cultural ideal of independence and the interdependent norms common among working-class individuals can reduce their opportunity to succeed. In higher education, for example, students from working-class backgrounds (i.e., students whose parents do not have four-year degrees) report wanting to help their families and give back to their communities, yet they confront a college setting that stresses paving one's own path and exploring personal passions.
 
-Stephens, Nicole M. and Sarah Townsend. "[Research: How You Feel About Individualism Is Influenced by Your Social Class](https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class)." *Harvard Business Review*, May 2017.
+Stephens, Nicole M. and Sarah Townsend. "[Research: How You Feel About Individualism Is Influenced by Your Social Class.](https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class)" *Harvard Business Review*, May 2017.
             `,
         }}
     />

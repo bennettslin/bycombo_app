@@ -15,7 +15,7 @@ const Component = () => (
 
 > But in fact startups do have a different sort of DNA from other businesses. Google is not just a barbershop whose founders were unusually lucky and hard-working. Google was different from the beginning.
 
-Graham, Paul. "[Startup = Growth](https://paulgraham.com/growth.html)." September 2012.
+Graham, Paul. "[Startup = Growth.](https://paulgraham.com/growth.html)" September 2012.
             `,
         }}
     />

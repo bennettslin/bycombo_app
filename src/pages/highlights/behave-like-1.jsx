@@ -19,7 +19,7 @@ const Component = () => (
 
 > 4. But the moment musicians become capable of doing this, they don't need record labels anymore.
 
-Gioia, Ted. "[Record Labels Dig Their Own Grave. And the Shovel is Called TikTok](https://www.honest-broker.com/p/record-labels-dig-their-own-grave)." *The Honest Broker*, June 2022.
+Gioia, Ted. "[Record Labels Dig Their Own Grave. And the Shovel is Called TikTok.](https://www.honest-broker.com/p/record-labels-dig-their-own-grave)" *The Honest Broker*, June 2022.
             `,
         }}
     />

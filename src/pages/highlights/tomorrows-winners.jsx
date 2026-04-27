@@ -21,7 +21,7 @@ And there's no tellin' who that it's namin'${'  '}
 For the loser now will be later to win${'  '}
 For the times they are a-changin'
 
-Dylan, Bob. "[The Times They Are A-Changin'](https://youtu.be/90WD_ats6eE)." *The Times They Are A-Changin'*, March 1965.
+Dylan, Bob. "[The Times They Are A-Changin'.](https://youtu.be/90WD_ats6eE)" *The Times They Are A-Changin'*, March 1965.
             `,
         }}
     />
