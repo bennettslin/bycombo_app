@@ -1,7 +1,7 @@
 import React from 'react'
 import Page from '../../containers/Page'
 
-const TITLE = `"random boost"`
+const TITLE = `"their identities"`
 const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
