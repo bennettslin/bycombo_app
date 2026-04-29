@@ -15,7 +15,7 @@ const Component = () => (
             body: [
                 `
 ${'  ' || `
-// TODO: Review, then replace with proper "rockism" link once published.
+// TODO: Replace with proper "rockism" link once published.
 `}
 
 At BYCombo, we blame "[indiefication](/indie#the-revolution-will-not-be-decentralized)" for causing the arts to decline. And to reverse this? The best artists must now martyr themselves by making art for untold years, all the while remaining low-status and unknown, until you, our ally in "[rockism](https://open.substack.com/pub/bobtail/p/raw-illustrated-bodies)"— whether as a budding entrepreneur, discerning patron, or future historian— decide to grant them amnesty. Here's the deal:
