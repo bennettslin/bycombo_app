@@ -1,7 +1,7 @@
 import React from 'react'
 import Page from '../../containers/Page'
 import Image from '../../components/Image'
-import hippiesImage from '../../assets/images/highlights/good-people/20030808.gif'
+import goodPeopleImage from '../../assets/images/highlights/goodPeople.gif'
 
 const TITLE = `"good people"`
 const DESCRIPTION = `Highlighted text from linked source.`
@@ -16,7 +16,7 @@ const Component = () => (
                 (
                     <Image
                         {...{
-                            src: hippiesImage,
+                            src: goodPeopleImage,
                         }}
                     />
                 ),
