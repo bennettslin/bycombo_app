@@ -15,6 +15,7 @@ const Component = () => (
             body: [
                 (
                     <Image
+                        isSquare
                         {...{
                             src: elitistSnobsImage,
                         }}

@@ -6,29 +6,46 @@ import './style'
 
 const Image = ({
     className,
+    isSquare,
+    isPortrait,
     src,
     onLoad = () => {},
 
-}) => (
-    <Flex
-        {...{
-            className: cx(
-                'Image',
-                className,
-            ),
-        }}
-    >
-        <img
+}) => {
+    let width = 100
+
+    if (isSquare) {
+        width = 80
+    } else if (isPortrait) {
+        width = 60
+    }
+
+    return (
+        <Flex
             {...{
-                src,
-                onLoad,
+                className: cx(
+                    'Image',
+                    className,
+                ),
             }}
-        />
-    </Flex>
-)
+        >
+            <img
+                {...{
+                    style: {
+                        width: `${width}%`,
+                    },
+                    src,
+                    onLoad,
+                }}
+            />
+        </Flex>
+    )
+}
 
 Image.propTypes = {
     className: PropTypes.string,
+    isSquare: PropTypes.bool,
+    isPortrait: PropTypes.bool,
     src: PropTypes.string.isRequired,
     onLoad: PropTypes.func,
 }

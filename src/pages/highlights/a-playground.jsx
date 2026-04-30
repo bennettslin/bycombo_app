@@ -15,6 +15,7 @@ const Component = () => (
             body: [
                 (
                     <Image
+                        isPortrait
                         {...{
                             src: aPlaygroundImage,
                         }}
