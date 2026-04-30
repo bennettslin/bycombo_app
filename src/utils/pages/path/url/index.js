@@ -11,5 +11,5 @@ export const getUrlForPath = (path = '') => {
         path.includes('.')
     ) ? '' : '/'
 
-    return `${DOMAIN_NAME}${getInternalLinkForPath(path)}${finalSlash}`
+    return `${DOMAIN_NAME}${getInternalLinkForPath({ path })}${finalSlash}`
 }

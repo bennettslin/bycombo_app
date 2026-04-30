@@ -14,7 +14,7 @@ export const getIsTabbedPath = path => (
     TABBED_PAGES_SET.has(getTopLevelPageFromPath(path))
 )
 
-export const getPathParameters = path => {
+export const getPathParameters = ({ path, isPointerDown }) => {
     const
         pathArray = (
             path === HOME_PAGE ? '' : path
@@ -24,7 +24,7 @@ export const getPathParameters = path => {
          * Add query string to know it's a link from text on an internal page.
          * My approach is to include '#' even if no section id is specified.
          */
-        search = path.includes('#') ? qs.stringify(
+        search = isPointerDown && path.includes('#') ? qs.stringify(
             { [ID_LINK_KEY]: true },
             { addQueryPrefix: true },
         ) : '',
@@ -39,12 +39,12 @@ export const getPathParameters = path => {
     }
 }
 
-export const getInternalLinkForPath = path => {
+export const getInternalLinkForPath = ({ path, isPointerDown = false }) => {
     const {
         pagePath,
         search,
         hash,
-    } = getPathParameters(path)
+    } = getPathParameters({ path, isPointerDown })
 
     return `${pagePath}${search}${hash}`
 }
@@ -58,7 +58,7 @@ export const getUrlFromPath = path => {
         path.includes('.')
     ) ? '' : '/'
 
-    return `${DOMAIN_NAME}${getInternalLinkForPath(path)}${finalSlash}`
+    return `${DOMAIN_NAME}${getInternalLinkForPath({ path })}${finalSlash}`
 }
 
 export const getUrlFromPathAndLinkId = (path, linkId) => (

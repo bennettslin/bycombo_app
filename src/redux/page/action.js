@@ -28,3 +28,8 @@ export const updateSelectedPagePath = () => {
         },
     }
 }
+
+export const updateIsPointerDown = (isPointerDown = false) => ({
+    type: PAGE_STORE,
+    payload: { isPointerDown },
+})

@@ -62,7 +62,7 @@ const Button = forwardRef(({
                 },
                 onClick,
                 ...isInternalLink && {
-                    to: getInternalLinkForPath(pagePath),
+                    to: getInternalLinkForPath({ path: pagePath }),
                 },
                 ...isTooltipEnabled && {
                     'data-for': tooltipId,

@@ -12,9 +12,13 @@ export const mapDoShowBackButton = (
             isFirstSession,
         },
     },
-) => getBoolFromTextValue(
+) => !isFirstSession && getBoolFromTextValue(
     qs.parse(selectedSearch, { ignoreQueryPrefix: true })[ID_LINK_KEY],
-) && !isFirstSession
+)
+
+export const mapIsPointerDown = (
+    { [PAGE_STORE]: { isPointerDown } },
+) => isPointerDown
 
 export const mapSelectedPagePath = (
     { [PAGE_STORE]: { selectedPagePath } },

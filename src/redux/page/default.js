@@ -8,4 +8,5 @@ export const getPageDefaults = ({
     selectedSearch: initialSearch,
     selectedPagePath: initialPage,
     isFirstSession: false,
+    isPointerDown: false,
 })

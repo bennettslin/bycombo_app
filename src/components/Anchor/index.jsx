@@ -1,7 +1,10 @@
 import React from 'react'
-import cx from 'classnames'
 import PropTypes from 'prop-types'
+import cx from 'classnames'
+import { useDispatch, useSelector } from 'react-redux'
 import { Link } from 'gatsby'
+import { updateIsPointerDown } from '../../redux/page/action'
+import { mapIsPointerDown } from '../../redux/page/selector'
 import { getInternalLinkForPath } from '../../utils/pages/path'
 import { getFinalHref, getInternalLink } from './helper'
 
@@ -16,12 +19,26 @@ const Anchor = ({
 
 }) => {
     const
+        dispatch = useDispatch(),
+        isPointerDown = useSelector(mapIsPointerDown),
         internalLink = getInternalLink({
             href,
             pagePath,
         }),
         finalHref = getFinalHref(href),
         Tag = internalLink ? Link : 'a'
+
+    const onPointerDown = () => {
+        dispatch(
+            updateIsPointerDown(true),
+        )
+    }
+
+    const handlePointerReset = () => {
+        dispatch(
+            updateIsPointerDown(),
+        )
+    }
 
     const onClick = () => {
         if (analyticsLabel || internalLink) {
@@ -32,6 +49,7 @@ const Anchor = ({
         }
 
         handleAnchorClick()
+        handlePointerReset()
     }
 
     return (
@@ -44,7 +62,10 @@ const Anchor = ({
                     className,
                 ),
                 ...internalLink && {
-                    to: getInternalLinkForPath(internalLink),
+                    to: getInternalLinkForPath({
+                        path: internalLink,
+                        isPointerDown,
+                    }),
                 },
                 ...!internalLink && finalHref && {
                     href: finalHref,
@@ -54,6 +75,11 @@ const Anchor = ({
                     },
                 },
                 onClick,
+
+                // Don't call onPointerUp, because it fires before onClick.
+                onPointerDown,
+                onPointerCancel: handlePointerReset,
+                onPointerLeave: handlePointerReset,
             }}
         >
             {children}
