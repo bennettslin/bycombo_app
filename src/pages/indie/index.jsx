@@ -106,7 +106,7 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 ### ${++sectionCounter}. Populism trampled the underground
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Does the point still stand well?
 `}
 
 We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back in the day, the underground was a shelter both for [rock's underclass](https://www.hachettebookgroup.com/titles/ted-gioia/music/9781541617971)— who *subverted* the people's will— and for those exclusive snobs who championed their works; it *wasn't* for everyone.
@@ -389,7 +389,7 @@ But if our kind *isn't* desired as friends… we can still be valued as *investm
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-While indie artists seek populist solidarity, [rappers revel](https://youtu.be/78SV9tguyVM) in elitist snobbery. And yet, for Gen X, it's the *latter* who represent the true face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
+While indie artists seek populist solidarity, [rappers revel](/highlights/rappers-revel#) in elitist snobbery. And yet, for Gen X, it's the *latter* who represent the true face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
 
 ${'  ' || `
 // TODO: Replace with proper "rockism" link once published.
