@@ -389,7 +389,7 @@ But if our kind *isn't* desired as friends… we can still be valued as *investm
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-While indie artists seek populist solidarity, rappers revel in [elitist snobbery](https://youtu.be/78SV9tguyVM). And yet, for Gen X, it's the *latter* who represent the true face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
+While indie artists seek populist solidarity, [rappers revel](https://youtu.be/78SV9tguyVM) in elitist snobbery. And yet, for Gen X, it's the *latter* who represent the true face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
 
 ${'  ' || `
 // TODO: Replace with proper "rockism" link once published.
@@ -397,7 +397,7 @@ ${'  ' || `
 
 Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like how [being unskilled](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) keeps you from recognizing greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "[rockism](https://open.substack.com/pub/bobtail/p/raw-illustrated-bodies)"— implying that such snobbery is akin to racism.
 
-But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now [a playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
+But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now [a playground](/highlights/a-playground#) for the privileged!
 
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a privileged artist's wins [as their own](/highlights/as-their-own#)— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
@@ -405,7 +405,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-"Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" No, you're thinking of *exclusive* snobbery— the kind that's based on "cred." Elitist snobs value *craft*, which raises the cost of entry in the *right* way. Because, like it or not, public exposure *is* zero-sum; now BYCombo lets you treat it as such… just like rockists and rappers always have.
+"Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" No, you're thinking of [*exclusive* snobbery](/highlights/exclusive-snobbery#)— the kind that's based on "cred." [Elitist snobs](/highlights/elitist-snobs#) value *craft*, which raises the cost of entry in the *right* way. Because, like it or not, public exposure *is* zero-sum; now BYCombo lets you treat it as such… just like rockists and rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -537,7 +537,7 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead; plus, getting "punished" for breaking their rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what do *I* know of courage? Yet no Millennials joined me. Why?
 
-I'll tell you my theory: Millennials faced boredom only long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and consume endless content— which won [their gratitude](https://xkcd.com/1601). And so they failed to see the obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
+I'll tell you my theory: Millennials faced boredom only long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and consume endless content— which won [their gratitude](/highlights/their-gratitude#). And so they failed to see the obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *grunge*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this here Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
