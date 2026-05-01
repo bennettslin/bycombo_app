@@ -106,14 +106,18 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 ### ${++sectionCounter}. Populism trampled the underground
 
 ${'  ' || `
-// TODO: Review a few more times. Does the point still stand well?
+// TODO: Revise. Put subversion of people's will earlier to make the contrast clear. A shelter for those who subverted the people's will— rock's underclass, you might say— as well as those exclusive snobs…
 `}
 
-We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back in the day, the underground was a shelter both for [rock's underclass](https://www.hachettebookgroup.com/titles/ted-gioia/music/9781541617971)— who *subverted* the people's will— and for those exclusive snobs who championed their works; it *wasn't* for everyone.
+We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the *people*." Well, actually… this is yet more Millennial confusion. Back in the day, the underground was a *shelter*— both for rock's underclass, [who subverted](https://www.hachettebookgroup.com/titles/ted-gioia/music/9781541617971) the people's will, and for those exclusive snobs who championed their works. It *wasn't* for everyone.
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=alternative+rock%2Cindie+rock&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
-But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](https://bennettsamuellin.blogspot.com/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock disavowed its snobbery and became a [populist movement](https://bennettsamuellin.blogspot.com/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
 Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](/highlights/judicial-safeguard#)… making it *tyranny* [for the underclass](/highlights/for-the-underclass#). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
 
