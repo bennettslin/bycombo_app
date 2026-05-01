@@ -106,15 +106,15 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 ### ${++sectionCounter}. Populism trampled the underground
 
 ${'  ' || `
-// TODO: Revise. Put subversion of people's will earlier to make the contrast clear. A shelter for those who subverted the people's will— rock's underclass, you might say— as well as those exclusive snobs…
+// TODO: Review a few more times.
 `}
 
-We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the *people*." Well, actually… this is yet more Millennial confusion. Back in the day, the underground was a *shelter*— both for rock's underclass, [who subverted](https://www.hachettebookgroup.com/titles/ted-gioia/music/9781541617971) the people's will, and for those exclusive snobs who championed their works. It *wasn't* for everyone.
+We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the *people*." Well, actually… this is yet more Millennial confusion. Back in the day, the underground was a shelter for all those who *subverted* the people's will— [rock's underclass](https://www.hachettebookgroup.com/titles/ted-gioia/music/9781541617971), you might say— as well as for the exclusive snobs who championed their works; it *wasn't* for everyone.
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=alternative+rock%2Cindie+rock&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock disavowed its snobbery and became a [populist movement](https://bennettsamuellin.blogspot.com/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
@@ -409,7 +409,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-"Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" No, you're thinking of [*exclusive* snobbery](/highlights/exclusive-snobbery#)— the kind that's based on "cred." [Elitist snobs](/highlights/elitist-snobs#) value *craft*, which raises the cost of entry in the *right* way. Because, like it or not, public exposure *is* zero-sum; now BYCombo lets you treat it as such… just like rockists and rappers always have.
+"Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" No, you're thinking of [*exclusive* snobbery](/highlights/exclusive-snobbery#)— the kind that's based on "cred"; [elitist snobs](/highlights/elitist-snobs#) value *craft*, which remains timeless in its cost of entry. Because public exposure *is* zero-sum, like it or not! Now BYCombo lets you treat it as such… just like rockists and rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
