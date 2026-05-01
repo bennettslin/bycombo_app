@@ -611,7 +611,7 @@ Plus, much like AI is blocked from chasing *good* ideas by the very guardrails t
 
 And this is crucial, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— maybe [even permanently](/highlights/even-permanently#)! So who'd ever try? No one… but us collectivists.
 
-Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](/highlights/collectivist-race#), [class](/highlights/collectivist-class#), *and* [generation](https://www.psychologicalscience.org/news/releases/individualistic-practices-and-values-increasing-around-the-world.html). Coincidence? I say no. Sure, the old Romantics were individualists… but *only* because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
+Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](/highlights/collectivist-race#), [class](/highlights/collectivist-class#), *and* [generation](/highlights/collectivist-generation#). Coincidence? I say no. Sure, the old Romantics were individualists… but *only* because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
