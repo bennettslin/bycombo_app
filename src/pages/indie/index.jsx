@@ -109,7 +109,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the *people*." Well, actually… this is yet more Millennial confusion. Back in the day, the underground was a shelter for all those who *subverted* the people's will— [rock's underclass](https://www.hachettebookgroup.com/titles/ted-gioia/music/9781541617971), you might say— as well as for the exclusive snobs who championed their works; it *wasn't* for everyone.
+We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the *people*." Well, actually… this is yet more Millennial confusion. Back in the day, the underground provided shelter to those who *subverted* the people's will— [rock's underclass](https://www.hachettebookgroup.com/titles/ted-gioia/music/9781541617971), you might say— as well as to the exclusive snobs who championed their works; it *wasn't* for everyone.
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=alternative+rock%2Cindie+rock&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
