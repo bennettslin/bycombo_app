@@ -106,16 +106,12 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 ### ${++sectionCounter}. Populism trampled the underground
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the *people*." Well, actually… this is yet more Millennial confusion. Back in the day, the underground provided shelter to those who *subverted* the people's will— [rock's underclass](https://www.hachettebookgroup.com/titles/ted-gioia/music/9781541617971), you might say— as well as to the exclusive snobs who championed their works; it *wasn't* for everyone.
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=alternative+rock%2Cindie+rock&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock disavowed its snobbery and became a [populist movement](https://bennettsamuellin.blogspot.com/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
@@ -227,7 +223,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-All demand for such craft, then, came *solely* from radio— which means the end of radio *also* spelled the end for those who'd mastered it: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
+All demand for such craft, then, came *solely* from radio— which means the end of radio *also* spelled the end for those who'd mastered it: bands such as the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
 Yet the past artists we love most *don't* require us to know of any surrounding context, do they? History, then… behaves like radio! So don't get complacent in our new online era: To be timeless, your music still needs to hook in casual listeners on its *own*. Which is why BYCombo gives you ample time to master the craft— as if you were an Xennial child hoping to get on the radio one day.
 
@@ -410,7 +406,7 @@ But once competition takes place *away* from the public eye— as populism deman
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](/highlights/privileged-artists#) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 "Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" No, you're thinking of [*exclusive* snobbery](/highlights/exclusive-snobbery#)— the kind that's based on "cred"; [elitist snobs](/highlights/elitist-snobs#) value *craft*, which remains timeless in its cost of entry. Because public exposure *is* zero-sum, like it or not! Now BYCombo lets you treat it as such… just like rockists and rappers always have.
@@ -666,10 +662,10 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ### ${++sectionCounter}. Artists want faith in a savior
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they quietly built the "one-to-*n*" talents that gave us "[Mr. Sandman](https://youtu.be/eU5UkSP7u2Y)"… and "[It's My Party](https://youtu.be/RjdH_NmmO0I)"… and "[Both Sides, Now](https://youtu.be/yXr2EFomFkU)"…
+Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they quietly built the "one-to-*n*" talents that gave us "[Mr. Sandman](https://youtu.be/eU5UkSP7u2Y)"… and "[Both Sides, Now](https://youtu.be/yXr2EFomFkU)"… and "[O-o-h Child](https://youtu.be/dguz0IsCuKU)"…
 
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if few others join me in calling it "workhorse" versus "windfall art."
 
