@@ -14,11 +14,11 @@ const Component = () => (
             metaDescription: DESCRIPTION,
             body: [
                 `
-As we all know, most people in the arts sit on the political *left*— and among the indie camp, even more so. Given such, some of you might push back on my claim that, if there's an artistic spectrum to mirror the political one, then the indie camp sits on its *right*. I may expand upon this in a future blog post, but for now, here's my go-to explanation.
+As we all know, most people in the arts sit on the political *left*— and those in the indie camp, even more so. Given such, some of you might push back on my claim that, if there's an artistic spectrum to mirror the political one, then the indie camp sits on its *right*. I may expand upon this in a future blog post, but for now, here's my go-to explanation.
 
 Let's begin by observing that some jobs allow you to "do what you love," and thus they offer meaning and fulfillment directly. Whereas, with others, you "work hard, play hard"; that is to say, they afford you all the things that offer meaning and fulfillment *outside* of work. Neither is better; it's just a matter of which you prefer, based on the kind of person you are. We need all kinds!
 
-Now, you'll notice that people with the former type of job tend to sit on the political left; and those with the latter, the right. Why? Part of it, I suspect, is because the latter compels you to care more about punishing freeloaders— namely, those who neglect to pay their dues to society. And this outlook is associated with the *right*.
+Now, you'll notice that people with the former type of job tend to sit on the political left; and those with the latter, the right. Why? Part of it, I suspect, is because the latter causes you to care deeply about punishing freeloaders— namely, those who neglect to pay their dues to society. And this outlook is associated with the *right*.
             `,
                 (
                     <Image
