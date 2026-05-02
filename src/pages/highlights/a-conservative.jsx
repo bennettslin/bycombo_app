@@ -28,7 +28,7 @@ Now, you'll notice that people with the former type of job tend to sit on the po
                     />
                 ),
                 `
-Well, "indiefication" tasks the artist with doing more of the administrative work themselves; as a result, it's made their job less do-what-you-love, and more work-hard-play-hard, no? So we'd expect those today to have more of an outlook associated with the right— the *artistic* right! And as an Xennial, I'll attest that, relative to the past I remember, this does seem to be so.
+Well, "indiefication" tasks the artist with doing more of the administrative work themselves; as a result, it's made their job less do-what-you-love, and more work-hard-play-hard, no? So we'd expect those today to have more of an outlook associated with the right— the *artistic* right! And as an Xennial, I'll attest that, relative to the past I remember, this does seem to be true.
 
 "[Democratic vs. Republican Occupations.](https://verdantlabs.com/politics_of_professions)" *Verdant Labs*.
             `,

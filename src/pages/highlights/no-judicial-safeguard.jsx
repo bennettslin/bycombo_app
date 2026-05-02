@@ -1,7 +1,7 @@
 import React from 'react'
 import Page from '../../containers/Page'
 
-const TITLE = `"judicial safeguard"`
+const TITLE = `"no judicial safeguard"`
 const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (

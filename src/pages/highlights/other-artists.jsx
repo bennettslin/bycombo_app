@@ -1,7 +1,7 @@
 import React from 'react'
 import Page from '../../containers/Page'
 
-const TITLE = `"come closest"`
+const TITLE = `"other artists"`
 const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
