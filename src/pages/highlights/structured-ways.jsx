@@ -3,7 +3,7 @@ import Page from '../../containers/Page'
 import Image from '../../components/Image'
 import theirGratitudeImage from '../../assets/images/highlights/theirGratitude.png'
 
-const TITLE = `"their gratitude"`
+const TITLE = `"structured ways"`
 const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (

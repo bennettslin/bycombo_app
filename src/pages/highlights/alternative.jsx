@@ -2,7 +2,7 @@ import React from 'react'
 import Page from '../../containers/Page'
 
 const TITLE = `"alternative"`
-const DESCRIPTION = `Highlighted text from linked source.`
+const DESCRIPTION = `Some personal commentary.`
 
 const Component = () => (
     <Page

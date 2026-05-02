@@ -25,7 +25,7 @@ First, we raise *awareness*. Since so many of us treat the indie camp as "good g
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The gatekeeper agrees to be a *grownup*— and thus sits *outside* our [status hierarchy](https://www.harpercollins.com/products/the-status-game-will-storr). Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic *progressive*.
 
-By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status as an artist. If they're ever to pick you, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… making them [a *conservative*](/highlights/a-conservative#)! So here's what needs to be explained:
+By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status as an artist. If they're ever to pick you, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… making them a [*conservative*](/highlights/conservative#)! So here's what needs to be explained:
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
@@ -317,11 +317,11 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a [small fee](/highlights/small-fee#); he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a portion of one's time and energy.
+To "democratize" Twitter, Elon Musk made the [blue checkmark](/highlights/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a portion of one's time and energy.
 
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal of who's worth hearing from. On top of that, the field then gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who'd rather hustle to *get* themselves known, than wait on elites to say they *deserve* it. Seems bad, no? Well, it's even worse…
 
-You see, pollution is [an example](/highlights/an-example#) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization forces each of us to decide: To hustle or not? Of course, we're all better off if *no one* hustles. But once *anyone* does… they'll hog up the public's attention. So now *all* of us must waste time and energy on the hustle!
+You see, pollution is an example of the famous "[prisoner's dilemma](/highlights/prisoners-dilemma#)," where each player must decide: To squeal or not? Similarly, then, democratization forces each of us to decide: To hustle or not? Of course, we're all better off if *no one* hustles. But once *anyone* does… they'll hog up the public's attention. So now *all* of us must waste time and energy on the hustle!
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
@@ -419,7 +419,7 @@ ${'  ' || `
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
-Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the disadvantaged among us [side with](/highlights/side-with#) its elites instead.
+Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to [watch in confusion](/highlights/watch-in-confusion#) as the disadvantaged among us side with its elites instead.
 
 Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the [college-educated](/highlights/college-educated#) indie camp— the supposed good guys— won't hear of it: "You don't see *us* selling out, do you?"
 
@@ -463,7 +463,7 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 ### ${++sectionCounter}. Identity is a resort of the privileged
 
-Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on [their identities](/highlights/their-identities#) as society's underdogs…
+Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on their identities as [society's underdogs](/highlights/societys-underdogs#)…
 
 Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](https://bennettsamuellin.blogspot.com/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=While%20mentioning%20privilege,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "[wokeness](/highlights/wokeness#)."
 
@@ -485,7 +485,7 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-Given [their disdain](/highlights/their-disdain#) for well-crafted hooks, the indie camp smirked when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. Thus "poptimism" was born…
+Given their disdain for [well-crafted hooks](/highlights/well-crafted-hooks#), the indie camp smirked when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. Thus "poptimism" was born…
 
 "Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, Tin Pan Alley's patchwork of Jewish immigrants. Both are also rooted less in *aesthetics*, than in *ethics*— which lose all meaning if dissent is allowed.
 
@@ -545,7 +545,7 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead; plus, getting "punished" for breaking their rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what do *I* know of courage? Yet no Millennials joined me. Why?
 
-I'll tell you my theory: Millennials faced boredom only long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and consume endless content— which won [their gratitude](/highlights/their-gratitude#). And so they failed to see the obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
+I'll tell you my theory: Millennials faced boredom only long enough to hate it. Then, before they could learn to daydream, they were given [structured ways](/highlights/structured-ways#) to create and consume endless content— which won their gratitude. And so they failed to see the obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *grunge*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this here Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
