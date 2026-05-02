@@ -281,7 +281,7 @@ But today, algorithms have turned word of mouth into wisdom of the crowd— whic
 
 Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too short-staffed to change with the times…
 
-So yes, middlemen might *seem* redundant— but redundancy keeps a system resilient, allowing it [to adapt](/highlights/to-adapt#)! This is why BYCombo tells you to be generous in splitting your earnings with bandmates and business partners: How else will *any* of us have the brainpower to bring music into the present century?
+So yes, middlemen might *seem* redundant— [but redundancy](/highlights/but-redundancy#) keeps a system resilient, allowing it to adapt! This is why BYCombo tells you to be generous in splitting your earnings with bandmates and business partners: How else will *any* of us have the brainpower to bring music into the present century?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -299,7 +299,7 @@ Want even *more* absurdity? Any "trust fund baby" can simply pay *others* to do 
 
 It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself), or DIY, movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no dissent and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
-But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and having privilege is the [greatest predictor](/highlights/greatest-predictor#) of this belief.
+But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and [having privilege](/highlights/having-privilege#) is the greatest predictor of this belief.
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivism by *refusing* to help society advance.
 
@@ -311,7 +311,7 @@ In game theory, the "[stag hunt](https://en.wikipedia.org/wiki/Stag_hunt)" is a 
 
 The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The opposite is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
-Indie artists strive *not* to need a label, and some [keep at it](/highlights/keep-at-it#) even after signing to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day prosper, the past proves that rock can be interdependent once again!
+Indie artists strive *not* to need a label, and some keep at it even after signing to one— on the [label's dime](/highlights/labels-dime#)! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day prosper, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others [finally reciprocate](/highlights/finally-reciprocate#) the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
@@ -407,7 +407,7 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 
 But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now [a playground](/highlights/a-playground#) for the privileged!
 
-Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a privileged artist's wins [as their own](/highlights/as-their-own#)— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
+Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](/highlights/privileged-artists#) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -505,7 +505,7 @@ By contrast, the indie labels simply pick what the people want, going by the siz
 
 So when the tech platforms arrived to disrupt the majors using data-driven methods, the indie camp was [*fully* on board](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). I still recall how they rushed to defend file sharing: "Real artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social networks: "Real artists engage with their fans after a show— and now they can at *any* time!"
 
-To sum up, it was the *indie camp* who gave us today's data-driven industry! Thanks to them— and their grievances— even the *majors* [behave like](/highlights/behave-like-1#) indies now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers… but to pursue a vision that few others see.
+To sum up, it was the *indie camp* who gave us today's data-driven industry! Thanks to them— and their grievances— even the *majors* [behave like indies](/highlights/behave-like-indies#) now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers… but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
@@ -645,7 +645,7 @@ So if I could get every progressive— in both politics and the arts— to read 
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, past astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually orbit the *Sun*… turning the squiggles into smooth lines. As the simpler explanation, this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
 
-Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](/highlights/behave-like-2#) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave [like indie labels](/highlights/like-indie-labels#), by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… leading to a "tragedy of the commons." But now, 5% is our *baseline*… and soon, 10%… 15%… as we "drift to [low performance](/highlights/low-performance#)."
 

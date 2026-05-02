@@ -1,7 +1,7 @@
 import React from 'react'
 import Page from '../../containers/Page'
 
-const TITLE = `"to adapt"`
+const TITLE = `"but redundancy"`
 const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (

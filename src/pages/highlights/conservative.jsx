@@ -28,7 +28,7 @@ Now, you'll notice that people with the former type of job tend to sit on the po
                     />
                 ),
                 `
-Well, "indiefication" puts it on every artist to do the work of promotion and sales themselves; as a result, it's made their job less do-what-you-love, and more work-hard-play-hard, no? So we'd expect the outlook of today's artists to lean more to the right— the *artistic* right, to be exact! And as an Xennial, I can attest that, relative to the past I remember, this seems to hold true.
+Well, "indiefication" puts it on every artist to do the work of promotion and sales themselves; as a result, it's made their job less do-what-you-love, and more work-hard-play-hard, no? So we'd expect the outlook of today's artists to lean more to the right— the *artistic* right, to be exact! And as an Xennial, I can attest that, relative to the past I remember, this seems to be the case.
 
 "[Democratic vs. Republican Occupations.](https://verdantlabs.com/politics_of_professions)" *Verdant Labs*.
             `,
