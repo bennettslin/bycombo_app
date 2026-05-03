@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"behave like indies"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > 1. Record labels have lost their ability to launch new careers.
 

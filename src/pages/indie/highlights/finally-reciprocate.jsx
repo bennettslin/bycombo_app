@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"finally reciprocate"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > One worrying outcome of that research is the discovery that it is very hard to move from the low-trust situation, in which each hunter chases his own rabbits, to the more trusting situation, in which both team up to bring down the stag. Any move to the high-trust equilibrium is going to require its own, possibly costly, attempt at coordination. Perhaps we should not be surprised that trust is difficult to regain once lost.
 

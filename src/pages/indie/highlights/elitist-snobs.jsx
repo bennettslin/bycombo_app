@@ -2,16 +2,16 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import Image from '../../../components/Image'
 import elitistSnobsImage from '../../../assets/images/highlights/elitistSnobs.jpg'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"elitist snobs"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: [
                 (
                     <Image

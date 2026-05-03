@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"branched off"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > For mainstream rock fans like myself, the popular alternative music of the early '90s really did seem like a legitimate insurgence from the underground. But when Pavement's Stephen Malkmus indifferently mocked Smashing Pumpkins and Stone Temple Pilots in the lyrics to "Range Life," one of the breakout songs from 1994's *Crooked Rain Crooked Rain*, it was an early sign that this was no longer true— or, worse, had never been true in the first place. Unwittingly or not, "Range Life" taught me that the alternative rock bands I liked were overblown frauds […]
 

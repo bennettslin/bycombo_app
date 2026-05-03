@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"Kurt Cobain"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > "I don't blame the average seventeen-year-old punk-rock kid for calling me a sellout," Cobain adds. "I understand that. And maybe when they grow up a little bit, they'll realize there's more things to life than living out your rock and roll identity so righteously."
 

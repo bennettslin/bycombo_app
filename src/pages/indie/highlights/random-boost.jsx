@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"random boost"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > [W]hen people tend to like what other people like, differences in popularity are subject to what is called "cumulative advantage," or the "rich get richer" effect. This means that if one object happens to be slightly more popular than another at just the right point, it will tend to become more popular still. As a result, even tiny, random fluctuations can blow up, generating potentially enormous long-run differences among even indistinguishable competitors […]
 

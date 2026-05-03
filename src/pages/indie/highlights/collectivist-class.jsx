@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"collectivist class"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > [P]eople from working-class backgrounds tend to understand themselves as interdependent with and highly connected to others. Parents teach their children the importance of following the rules and adjusting to the needs of others, in part because there is no economic safety net to fall back on. Common sayings include "You can't always get what you want" and "It's not all about you"; values such as solidarity, humility, and loyalty take precedence.
 

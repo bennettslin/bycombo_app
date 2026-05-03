@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"prisoner's dilemma"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > Using the example of pollution, the options of cooperate and not cooperate would become to not pollute and pollute, respectively. The optimal outcome would be for both players to cooperate and not pollute, resulting in a cleaner planet that benefits everybody.
 

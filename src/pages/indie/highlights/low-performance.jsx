@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"low performance"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > People summon the energy to solve a problem when they sense a gap between their goal and their present state. In a drift to low performance that gap closes, not because performance improves, but because the goal is allowed to slip. Standards erode. The kind of performance that used to cause consternation begins to be defined as normal. Lower expectations, no discrepancy between goal and actuality, no action. Everyone goes to sleep.
 

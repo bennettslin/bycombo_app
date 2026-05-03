@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"watch in confusion"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > Sanders […] believed his calls for a "political revolution" to fight the power of corporations and the wealthy would have natural appeal across racial lines. […] Here was his chance to prove that he really was breaking through with black voters— and that he really did have a chance of winning the nomination. Instead, he got crushed. […]
 

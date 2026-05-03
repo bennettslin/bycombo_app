@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"label's dime"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > I've built up such an independent empire while being signed up to a major label that it hasn't even mattered what kind of label I'm on because I'm functioning independently anyway. […] That's the paradox: I'm signed to this major label but I'm a totally DIY operation.
 

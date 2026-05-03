@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"well-crafted hooks"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > In spite of making two of the most durable albums of the grunge era (and one of the most ridiculously named), 1994's *Purple* and 1996's *Tiny Music… Songs From The Vatican Gift Shop*, Stone Temple Pilots are not yet recognized as one of the best mainstream rock bands of their era. Which is wrong, and somewhat surprising. STP's B-level status in '90s rock history has practically nothing to do with the music and almost everything to do with the misfortune of coming out during one of the most annoyingly cred-conscious periods in the history of mainstream rock.
 

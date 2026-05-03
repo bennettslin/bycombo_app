@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"rappers revel"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
 > TREVIN JONES: Welcome back! We're here on Bad Boy Television, and I'm Trevin Jones. I've been conversing with the Mad Rapper, and quite frankly, he's very mad. We're going to try to find out why— so we'll take some questions at this point from our studio audience. Yes, ma'am— please stand and state your name, and where you're from.
 

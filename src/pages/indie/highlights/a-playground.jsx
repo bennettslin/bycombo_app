@@ -2,16 +2,16 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import Image from '../../../components/Image'
 import aPlaygroundImage from '../../../assets/images/highlights/aPlayground.jpg'
+import { HIGHLIGHTS_DESCRIPTION } from './constants'
 
 const TITLE = `"a playground"`
-const DESCRIPTION = `Highlighted text from linked source.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: [
                 (
                     <Image
