@@ -14,7 +14,7 @@ const Component = () => (
             metaDescription: DESCRIPTION,
             body: [
                 `
-As we all know, most people in the arts sit on the political *left*— and those in the indie camp, even more so. Given such, some of you might push back on my claim that, if there's an artistic spectrum to mirror the political one, then the indie camp sits on its *right*. I may expand upon this in a future blog post, but for now, here's my go-to explanation.
+As we all know, people in the arts largely sit on the political *left*— and within the indie camp, even more so. Given such, some of you might push back on my claim that, if there's an artistic spectrum to mirror the political one, then the indie camp sits on its *right*. My reasoning will be made clear as you read on, but I can offer a hint of it here and now.
 
 Let's begin by observing that some jobs allow you to "do what you love," and thus they offer meaning and fulfillment directly. Whereas, with others, you "work hard, play hard"; that is to say, they afford you all the things that offer meaning and fulfillment *outside* of work. Neither is better; it's just a matter of which you prefer, based on the kind of person you are. We need all kinds!
 
@@ -28,7 +28,7 @@ Now, you'll notice that people with the former type of job tend to sit on the po
                     />
                 ),
                 `
-Well, "indiefication" puts it on every artist to do the work of promotion and sales themselves; as a result, it's made their job less do-what-you-love, and more work-hard-play-hard, no? So we'd expect the outlook of today's artists to lean more to the right— the *artistic* right, to be exact! And as an Xennial, I can attest that, relative to the past I remember, this seems to be the case.
+Well, "indiefication" puts it on every artist to do the work of promotion and sales themselves. As a result, it's made their job less do-what-you-love, and more work-hard-play-hard, no? So we'd expect the outlook of today's artists to lean more to the right— the *artistic* right, to be exact! And as an Xennial, I can attest that, relative to the past I remember, this seems to be the case.
 
 "[Democratic vs. Republican Occupations.](https://verdantlabs.com/politics_of_professions)" *Verdant Labs*.
             `,
