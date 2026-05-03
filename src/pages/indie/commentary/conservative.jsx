@@ -1,7 +1,7 @@
 import React from 'react'
 import Page from '../../../containers/Page'
 import Image from '../../../components/Image'
-import conservativeImage from '../../../assets/images/highlights/conservative.png'
+import conservativeImage from '../../../assets/images/commentary/conservative.png'
 
 const TITLE = `"conservative"`
 const DESCRIPTION = `Some personal commentary.`
