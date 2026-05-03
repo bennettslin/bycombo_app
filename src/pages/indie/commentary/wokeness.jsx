@@ -1,15 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import { COMMENTARY_DESCRIPTION } from './constants'
 
 const TITLE = `"wokeness"`
-const DESCRIPTION = `Some personal commentary.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: COMMENTARY_DESCRIPTION,
             body: `
 Lorem ipsum.
             `,

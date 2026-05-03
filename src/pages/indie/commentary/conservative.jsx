@@ -2,16 +2,16 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import Image from '../../../components/Image'
 import conservativeImage from '../../../assets/images/commentary/conservative.png'
+import { COMMENTARY_DESCRIPTION } from './constants'
 
 const TITLE = `"conservative"`
-const DESCRIPTION = `Some personal commentary.`
 
 const Component = () => (
     <Page
         {...{
             title: TITLE,
             metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            metaDescription: COMMENTARY_DESCRIPTION,
             body: [
                 `
 As we all know, people in the arts largely sit on the political *left*— and within the indie camp, even more so. Given such, some of you might push back on my claim that, if there's an artistic spectrum to mirror the political one, then the indie camp sits on its *right*. My reasoning behind this will be made clear as you read on, but I can give a hint of it here and now.
