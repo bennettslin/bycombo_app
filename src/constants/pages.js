@@ -16,3 +16,6 @@ export const ID_LINK_KEY = 'idLink'
 export const TABBED_PAGES_SET = new Set([
     HIGHLIGHTS_PAGE,
 ])
+
+export const COMMENTARY_DESCRIPTION = `Some personal commentary.`
+export const HIGHLIGHTS_DESCRIPTION = `Highlighted text from linked source.`

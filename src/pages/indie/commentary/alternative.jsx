@@ -1,6 +1,6 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import { COMMENTARY_DESCRIPTION } from './constants'
+import { COMMENTARY_DESCRIPTION } from '../../../constants/pages'
 
 const TITLE = `"alternative"`
 

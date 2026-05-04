@@ -2,7 +2,7 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import Image from '../../../components/Image'
 import conservativeImage from '../../../assets/images/commentary/conservative.png'
-import { COMMENTARY_DESCRIPTION } from './constants'
+import { COMMENTARY_DESCRIPTION } from '../../../constants/pages'
 
 const TITLE = `"conservative"`
 

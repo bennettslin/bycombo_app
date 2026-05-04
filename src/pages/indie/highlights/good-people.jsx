@@ -2,7 +2,7 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import Image from '../../../components/Image'
 import goodPeopleImage from '../../../assets/images/highlights/goodPeople.gif'
-import { HIGHLIGHTS_DESCRIPTION } from './constants'
+import { HIGHLIGHTS_DESCRIPTION } from '../../../constants/pages'
 
 const TITLE = `"good people"`
 

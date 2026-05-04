@@ -1,6 +1,6 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import { HIGHLIGHTS_DESCRIPTION } from './constants'
+import { HIGHLIGHTS_DESCRIPTION } from '../../../constants/pages'
 
 const TITLE = `"prisoner's dilemma"`
 

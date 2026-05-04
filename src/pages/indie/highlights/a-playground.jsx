@@ -2,7 +2,7 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import Image from '../../../components/Image'
 import aPlaygroundImage from '../../../assets/images/highlights/aPlayground.jpg'
-import { HIGHLIGHTS_DESCRIPTION } from './constants'
+import { HIGHLIGHTS_DESCRIPTION } from '../../../constants/pages'
 
 const TITLE = `"a playground"`
 
