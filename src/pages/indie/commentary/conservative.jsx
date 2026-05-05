@@ -14,7 +14,7 @@ const Component = () => (
             metaDescription: COMMENTARY_DESCRIPTION,
             body: [
                 `
-As we all know, people in the arts largely sit on the political *left*— and within the indie camp, even more so. Given such, some of you might push back on my claim that, if there's an artistic spectrum to mirror the political one, then the indie camp sits on its *right*. Fear not: My reasoning will be made clear as you read on! Still, I can give a hint of it here and now.
+As we all know, people in the arts largely sit on the political *left*— and within the indie camp, even more so. Given such, some of you might push back on my claim that, if there's an artistic spectrum to mirror the political one, then the indie camp sits on its *right*. Well, have no fear: My reasoning will be made clear as you read on! Still, I can give a hint of it here and now.
 
 Let's begin by observing that some jobs allow you to "do what you love," and thus they offer meaning and fulfillment directly. Whereas, with others, you "work hard, play hard"; that is to say, they afford you all the things that offer meaning and fulfillment *outside* of work. Neither is best; it's just a matter of which you prefer, based on the kind of person you are. We need all kinds!
 

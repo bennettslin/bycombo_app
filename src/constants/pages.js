@@ -13,9 +13,7 @@ export const HIGHLIGHTS_PAGE = 'highlights'
 export const ID_LINK_KEY = 'idLink'
 
 // This prevents rendering of the "Back to" anchor.
-export const TABBED_PAGES_SET = new Set([
-    HIGHLIGHTS_PAGE,
-])
+export const TABBED_PAGES_SET = new Set([])
 
 export const COMMENTARY_DESCRIPTION = `Some personal commentary.`
 export const HIGHLIGHTS_DESCRIPTION = `Highlighted text from linked source.`
