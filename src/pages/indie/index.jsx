@@ -650,10 +650,10 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ### ${++sectionCounter}. Artists want faith in a savior
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd then advocate for them by spreading their works from the top down. And thus secure in this faith, they built the "one-to-*n*" talents that gave us "[It's My Party](https://youtu.be/RjdH_NmmO0I)"… and "[Down on Me](https://youtu.be/lnjZ4IUD6Tg)"… and "[Court and Spark](https://youtu.be/_1Z6I62yvfg)"…
+Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites, who'd then advocate for them by spreading their works from the top down. And thus secure in this faith, they built the "one-to-*n*" talents that gave us "[It's My Party](https://youtu.be/RjdH_NmmO0I)"… and "[Down on Me](https://youtu.be/lnjZ4IUD6Tg)"… and "[Court and Spark](https://youtu.be/_1Z6I62yvfg)"…
 
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if few others join me in calling it "workhorse" versus "windfall art."
 
