@@ -14,7 +14,7 @@ const Component = () => (
             metaDescription: COMMENTARY_DESCRIPTION,
             body: [
                 `
-As we all know, those in the indie camp largely sit on the political *left*. Given this, some of you might push back on my claim that, if the same dynamics found in politics also exist in the arts, then indie rock is a movement of the artistic *right*. Well, sit tight: My reasoning will be made clear as you read on! Still, I can give a hint of it here and now.
+As we all know, those in the indie camp largely sit on the political *left*. Given this, some of you might push back on my claim that, if the same dynamics found in politics also exist in the arts, then indie rock is a movement of the artistic *right*. Well, sit tight: My reasoning will become clear as you read on! Still, I can give a hint of it here and now.
 
 Let's begin by observing that some jobs allow you to "do what you love," and thus they offer meaning and fulfillment directly. Whereas, with others, you "work hard, play hard"; that is to say, they afford you all the things that offer meaning and fulfillment *outside* of work. Neither is best; it's just a matter of which you prefer, based on the kind of person you are. We need all kinds!
 
@@ -28,7 +28,7 @@ Now, you'll notice that people with the former type of job tend to sit on the po
                     />
                 ),
                 `
-Well, "indiefication" puts it on the artist to do all the work of promotion and sales themselves. As a result, it's made their job less do-what-you-love, and more work-hard-play-hard, no? So we'd expect the outlook of today's artists to lean more to the right— the *artistic* right, to be exact! And as an Xennial, I can attest that, relative to the past I remember, this seems to be the case.
+Well, "indiefication" puts it on the artist to do all the work of promotion and sales themselves. As a result, it's made their job less do-what-you-love, and more work-hard-play-hard, no? So we'd expect them to demand that others pay the same dues— to indie rock, or whatever— and that this, in turn, would push them further to the right… the *artistic* right, to be precise!
 
 "[Democratic vs. Republican Occupations.](https://verdantlabs.com/politics_of_professions)" *Verdant Labs*.
             `,
