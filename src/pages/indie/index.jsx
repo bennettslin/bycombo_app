@@ -251,7 +251,7 @@ Back in the day, you needed a *partner* to take you "from zero to one"— that i
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots for unknown artists— some of whom went on to make history's most creative works!
 
-By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect@](/indie/highlights/know-to-expect#)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
+By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](/indie/highlights/know-to-expect#)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -265,7 +265,7 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Lean operations struggle to adapt
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they rely on mental shortcuts passed down by their forebears— just like moths, which evolved to fly with their [backs to starlight@](/indie/highlights/backs-to-starlight#).
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they rely on mental shortcuts passed down by their forebears— just like moths, which evolved to fly with their [backs to starlight](/indie/highlights/backs-to-starlight#).
 
 Of course, these shortcuts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
 
@@ -273,7 +273,7 @@ But today, algorithms have turned word of mouth into wisdom of the crowd— whic
 
 Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too short-staffed to change with the times…
 
-So yes, middlemen might *seem* redundant— [but redundancy@](/indie/highlights/but-redundancy#) keeps a system resilient, allowing it to adapt! This is why BYCombo tells you to be generous in splitting your earnings with bandmates and business partners: How else will *any* of us have the brainpower to bring music into the present century?
+So yes, middlemen might *seem* redundant— [but redundancy](/indie/highlights/but-redundancy#) keeps a system resilient, allowing it to adapt! This is why BYCombo tells you to be generous in splitting your earnings with bandmates and business partners: How else will *any* of us have the brainpower to bring music into the present century?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -291,7 +291,7 @@ Want even *more* absurdity? Any "trust fund baby" can simply pay *others* to do 
 
 It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself), or DIY, movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no dissent and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
-But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and [having privilege@](/indie/highlights/having-privilege#) is the greatest predictor of this belief.
+But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and [having privilege](/indie/highlights/having-privilege#) is the greatest predictor of this belief.
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivism by *refusing* to help society advance.
 
