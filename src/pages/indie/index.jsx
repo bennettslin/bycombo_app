@@ -351,7 +351,7 @@ So what *should* artistic welfare look like? Basically, a centralized institutio
 
 Unfortunately, *all* welfare is fragile: Instead of feeling grateful to be given a chance at all, the unsuccessful often resent not getting *more* support… while the successful tend to assume they'd have done just as well on their own, and thus resent "paying it forward." So those on the *right*— including indie rock's artistic conservatives— find it easy to turn the people against welfare.
 
-Yet others *happily* pay it forward: "Paying more means we [succeeded more@](/indie/highlights/succeeded-more#)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
+Yet others *happily* pay it forward: "Paying more means we [succeeded more](/indie/highlights/succeeded-more#)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -381,7 +381,7 @@ Don't be fooled, then, by those who merely *larp* as history makers! All your in
 
 While being alternative is an *artistic* choice, being indie is a *business* stance. Until the '90s, then, "indie" [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*— not *artists*. And that stance? It says, "We're *not* in this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
-The thing is, these labels are run by White men— and to prolong inequality, White men *don't* need to harm others; they *only* need to help their own kind. But [helping their own@](/indie/highlights/helping-their-own#) is what any circle of friends will do— especially as the field gets crowded! Which means indie rock's inequality *can't* be fixed at the source; rather, its tastemakers just have to accept more of us as their own.
+The thing is, these labels are run by White men— and to prolong inequality, White men *don't* need to harm others; they *only* need to help their own kind. But [helping their own](/indie/highlights/helping-their-own#) is what any circle of friends will do— especially as the field gets crowded! Which means indie rock's inequality *can't* be fixed at the source; rather, its tastemakers just have to accept more of us as their own.
 
 So far, though, their efforts have only helped women, not us minorities— or minority *men*, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
