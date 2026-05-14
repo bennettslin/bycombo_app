@@ -11,7 +11,7 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: COMMENTARY_DESCRIPTION,
             body: `
-*Whatever Happened to Alternative Nation?* is a ten-part A.V. Club series by Steven Hyden that's helpful reading for anyone trying to understand rock music in the '90s. The URLs have changed since they were first published, and the new ones aren't collated in a single location anywhere else. So I'm doing that here.
+*Whatever Happened to Alternative Nation?* is a ten-part A.V. Club series by Steven Hyden that's helpful reading for anyone trying to understand rock music of the '90s. The URLs have changed since they were first published, and the new ones aren't collated in a single location anywhere else. So I'm doing that here.
 
 * [1990: "Once upon a time, I could love you"](https://www.avclub.com/part-1-1990-once-upon-a-time-i-could-love-you-1798221947)
 * [1991: "What's so civil about war anyway?"](https://www.avclub.com/part-2-1991-what-s-so-civil-about-war-anyway-1798222320)
