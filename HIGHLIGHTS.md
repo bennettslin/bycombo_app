@@ -2,7 +2,7 @@
 
 * Change at will
     * Fix typos and grammatical errors
-    * Disregard where paragraphs break
+    * Disregard where paragraphs do or don't break
     * Switch between lowercase and uppercase
     * Add, remove, or change punctuation
     * Contractions, based on my own rules
