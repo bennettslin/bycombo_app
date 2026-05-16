@@ -11,7 +11,7 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
-> In the Communist world, the underground joke is often the best index of conditions. "What is Communism?" asks one that has recently been making the rounds.
+> In the Communist world, the underground joke is often the best index of conditions. "What's Communism?" asks one that's recently been making the rounds.
 
 > "Communism," goes the reply, "is the longest and most painful route from capitalism to capitalism."
 

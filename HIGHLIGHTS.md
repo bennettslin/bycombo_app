@@ -10,5 +10,6 @@
     * Remove unnecessary "by" or "that"
 
 * Brackets
-    * Ellipsis when excluding words
+    * Ellipsis when omitting words within my paragraphs
+        * Ignore omissions between my paragraphs
     * Adding words
