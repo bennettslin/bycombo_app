@@ -11,9 +11,11 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
-> TREVIN JONES: Welcome back! We're here on Bad Boy Television, and I'm Trevin Jones. I've been conversing with the Mad Rapper, and quite frankly, he's very mad. We're going to try to find out why— so we'll take some questions at this point from our studio audience. Yes, ma'am— please stand and state your name, and where you're from.
+> TREVIN JONES: Welcome back! We're here on Bad Boy Television, and I'm Trevin Jones. I've been conversing with the Mad Rapper, and quite frankly, he's very mad. We're going to try to find out why— so we'll take some questions at this point from our studio audience.
 
-> SHAY: Hi, my name is Shay, and I'm from New Rochelle. And I just don't understand— why are you so mad? […]
+> Yes, ma'am— please stand and state your name, and where you're from.
+
+> SHAY: Hi, my name is Shay, and I'm from New Rochelle. And I just don't understand— why are you so mad?
 
 > THE MAD RAPPER: Yo, you wanna know why? First of all, you can't be askin' me no question, youknowhatI'msayin'? Who the fuck is you? I'ma tell you why I'm mad. These n****s is makin' $500,000 videos, they drivin' around in hot cars, they got bitches, they got all that shit. I'm still livin' with my moms! That's my word.
 

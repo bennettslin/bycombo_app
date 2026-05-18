@@ -7,7 +7,7 @@
     * Add, remove, or change punctuation
     * Remove periods from acronyms
     * Contractions, based on my own rules
-    * Remove unnecessary "by" or "that"
+    * Remove or add "that" and other similar words for clarity
 
 * Brackets
     * Ellipsis when omitting words within my paragraphs

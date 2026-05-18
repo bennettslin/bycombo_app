@@ -309,7 +309,7 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-To "democratize" Twitter, Elon Musk made the [blue checkmark@](/indie/highlights/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a portion of one's time and energy.
+To "democratize" Twitter, Elon Musk made the [blue checkmark](/indie/highlights/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a portion of one's time and energy.
 
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal of who's worth hearing from. On top of that, the field then gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who'd rather hustle to *get* themselves known, than wait on elites to say they *deserve* it. Seems bad, no? Well, it's even worse…
 
@@ -389,7 +389,7 @@ But if our kind *isn't* desired as friends… we can still be valued as *investm
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-While indie artists seek populist solidarity, [rappers revel@](/indie/highlights/rappers-revel#) in elitist snobbery. And yet, for Gen X, it's the *latter* who represent the true face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
+While indie artists seek populist solidarity, [rappers revel](/indie/highlights/rappers-revel#) in elitist snobbery. And yet, for Gen X, it's the *latter* who represent the true face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
 
 ${'  ' || `
 // TODO: Replace with proper "rockism" link once published.
