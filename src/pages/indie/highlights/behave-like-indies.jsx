@@ -13,7 +13,7 @@ const Component = () => (
             body: `
 > 1. Record labels have lost their ability to launch new careers.
 
-> 2. Like Bartleby the scrivener, they really prefer not to deal with this whole issue because career development is such a hassle.
+> 2. […] They really prefer not to deal with this whole issue, because career development is such a hassle.
 
 > 3. So they demand that musicians build their own audience via TikTok and other social media platforms.
 
