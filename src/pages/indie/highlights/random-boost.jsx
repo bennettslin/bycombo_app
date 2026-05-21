@@ -11,7 +11,7 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
-> When people [like what others] like, differences in popularity are subject to […] "cumulative advantage," or the "rich get richer" effect. This means […] if one object [is] slightly more popular than another at just the right point, it'll tend to become more popular still.
+> When people [like what others] like, differences in popularity are subject to […] "cumulative advantage," or the "rich get richer" effect. This means if one object [is] slightly more popular than another at just the right point, it'll tend to become more popular still.
 
 > As a result, even tiny, random fluctuations can blow up, generating […] enormous long-run differences among even indistinguishable competitors.
 
