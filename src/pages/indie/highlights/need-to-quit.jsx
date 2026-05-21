@@ -11,9 +11,11 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
-> The reality is that the amount of focus and desire required to blow up the occasional building or pipeline is nothing compared to the lifetime of quiet labor required to understand the system well enough to actually build a better one.
+> The system wants you to equate tedious work with neutered slavery, and […] liberation with sexy drama, because it knows the opposite is true— [namely,] that if you restrict yourself to flashy and dramatic solutions, you'll [pose no more of a threat] to the status quo than any other sedentary daydreamer.
 
-> And that better world, if it arrives, will require the cooperation of some truly unpleasant people, because all of civilization is nothing but truly unpleasant people learning to peacefully cooperate.
+> There's a reason the system has no problem feeding you a steady stream of fantasies about violently overthrowing it.
+
+> The reality is, the amount of focus and desire required to blow up the occasional building or pipeline is nothing compared to the lifetime of quiet labor required to understand the system well enough to […] build a better one.
 
 Pargin, Jason. "[Is Modern Mass Media a Mind Prison?](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison)" *Jason Pargin's Newsletter*, March 2024.
             `,

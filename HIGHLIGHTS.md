@@ -10,6 +10,7 @@
     * Remove or add "that" and other similar words for clarity
 
 * Brackets
+    * Include only one bracket if too close together
     * Ellipsis when omitting words within my paragraphs
         * Ignore omissions between my paragraphs
     * Adding words
