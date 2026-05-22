@@ -259,10 +259,6 @@ In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the co
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: By *not* knowing what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Lean operations fail to adapt
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they rely on mental shortcuts passed down by their forebears— just like moths, which evolved to fly with their [backs to starlight](/indie/highlights/backs-to-starlight#).
@@ -453,7 +449,7 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on their identities as [society's underdogs](/indie/highlights/societys-underdogs#)…
 
-Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](https://bennettsamuellin.blogspot.com/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=While%20mentioning%20privilege,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "[wokeness@](/indie/commentary/wokeness#)."
+Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](https://bennettsamuellin.blogspot.com/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=While%20mentioning%20privilege,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "[wokeness](/indie/commentary/wokeness#)."
 
 But while White men *easily* gain from their identities without admitting to it— like when it [lends authenticity](/indie/highlights/lends-authenticity#) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
@@ -603,7 +599,11 @@ Plus, much like AI is blocked from chasing *good* ideas by the very guardrails t
 
 And this is crucial, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— maybe [even permanently](/indie/highlights/even-permanently#)! So who'd ever try? No one… but us collectivists.
 
-Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](/indie/highlights/collectivist-race#), [class](/indie/highlights/collectivist-class#), *and* [generation@](/indie/highlights/collectivist-generation#). Coincidence? I say no. Sure, the old Romantics were individualists… but *only* because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
+${'  ' || `
+// TODO: Review.
+`}
+
+Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](/indie/highlights/collectivist-race#), [class](/indie/highlights/collectivist-class#), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but *only* because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
@@ -653,10 +653,6 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ### ${++sectionCounter}. Artists want faith in a savior
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built the "one-to-*n*" talents that gave us "[It's My Party](https://youtu.be/RjdH_NmmO0I)"… and "[Down on Me](https://youtu.be/lnjZ4IUD6Tg?t=12)"… and "[Court and Spark](https://youtu.be/_1Z6I62yvfg)"…
 
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if few others join me in calling it "workhorse" versus "windfall art."
@@ -672,10 +668,6 @@ Fifty ways! And yet, our revolution still faces the ultimate hurdle: Once indie 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp)— which states that 20% of the effort yields 80% of the results.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% of results, no? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results! In other words:
-
-${'  ' || `
-// TODO: Review.
-`}
 
 **By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this the 4x Law of Interdependence.**
 
