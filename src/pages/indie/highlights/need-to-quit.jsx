@@ -11,9 +11,9 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
-> The system wants you to equate tedious work with neutered slavery, and […] liberation with sexy drama, because it knows the opposite is true— [namely,] that if you restrict yourself to flashy and dramatic solutions, you'll [pose no more of a threat] to the status quo than any other sedentary daydreamer.
+> [Those in charge want] you to equate tedious work with neutered slavery, and […] liberation with sexy drama, because [they know] the opposite [to be] true— [namely,] that if you restrict yourself to flashy and dramatic solutions, then you'll [pose no more of a threat] to the status quo than any […] sedentary daydreamer.
 
-> There's a reason the system has no problem feeding you a steady stream of fantasies about violently overthrowing it.
+> There's a reason [they have] no problem feeding you a steady stream of fantasies about violently overthrowing [them].
 
 > The reality is, the amount of focus and desire required to blow up the occasional building or pipeline is nothing compared to the lifetime of quiet labor required to understand the system well enough to […] build a better one.
 
