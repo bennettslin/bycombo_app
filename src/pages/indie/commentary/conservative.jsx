@@ -14,7 +14,7 @@ const Component = () => (
             metaDescription: COMMENTARY_DESCRIPTION,
             body: [
                 `
-As we all know, those in the indie camp largely sit on the political *left*. Given this, some of you might push back on my claim that, if the same dynamics found in politics also exist in the arts, then indie rock is a movement of the artistic *right*. Well, sit tight: My reasoning will become clear as you read on! Still, I can give a hint of it here and now.
+As we all know, those in the indie camp largely sit on the political *left*. Given this, some of you might push back on my claim that, if the same dynamics found in politics also exist in the arts, then indie rock is a movement of the artistic *right*. Well, sit tight: My reasoning will be made clear as you read on! Still, I can give a hint of it here and now.
 
 Let's begin by observing that some jobs allow you to "do what you love," and thus they offer meaning and fulfillment directly. Whereas, with others, you "work hard, play hard"; that is to say, they afford you all the things that offer meaning and fulfillment *outside* of work. Neither is best; it's just a matter of which you prefer, based on the kind of person you are. We need all kinds!
 
