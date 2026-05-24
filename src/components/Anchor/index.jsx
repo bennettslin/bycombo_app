@@ -40,7 +40,7 @@ const Anchor = ({
         )
     }
 
-    const onClick = () => {
+    const onClick = e => {
         if (analyticsLabel || internalLink) {
             logEvent(
                 'Anchor',
@@ -48,7 +48,7 @@ const Anchor = ({
             )
         }
 
-        handleAnchorClick()
+        handleAnchorClick(e)
         handlePointerReset()
     }
 

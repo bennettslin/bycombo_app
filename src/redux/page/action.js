@@ -13,7 +13,7 @@ export const updateSelectedPagePath = () => {
             sessionStorage,
         } = getWindow(),
         selectedPagePath = getPathFromWindowLocation(pathname),
-        isFirstSession = sessionStorage.length <= 1
+        isFirstSession = !sessionStorage.length
 
     // Search query and section id hash are no longer needed once set in state.
     setWindowLocationPath(selectedPagePath)
