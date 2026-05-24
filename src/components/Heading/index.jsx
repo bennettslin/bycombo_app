@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import { useSelector } from 'react-redux'
 import Flex from '../Flex'
 import HeadingButton from './HeadingButton'
-import { mapDoShowBackButton } from '../../redux/page/selector'
+import { getMapDoShowHeadingBackButton } from '../../redux/page/selector'
 import { getLinkId } from '../../utils/format/markdown'
 import './style'
 
@@ -18,7 +18,7 @@ const Heading = ({
     }
 
     const
-        doShowBackButton = useSelector(mapDoShowBackButton),
+        doShowHeadingBackButton = useSelector(getMapDoShowHeadingBackButton),
         Tag = `h${level}`,
         linkId = !noId && getLinkId(children),
         headingElement = (
@@ -37,7 +37,7 @@ const Heading = ({
 
     return !noId && (
         // H1 headings only ever show back button.
-        (level === 1 && doShowBackButton) ||
+        (level === 1 && doShowHeadingBackButton) ||
         // H3 headings have a copy URL button by default.
         level === 3
     ) ? (
@@ -51,7 +51,7 @@ const Heading = ({
                 <HeadingButton
                     {...{
                         linkId,
-                        doShowBackButton,
+                        doShowHeadingBackButton,
                     }}
                 />
             </Flex>
