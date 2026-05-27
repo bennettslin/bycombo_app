@@ -23,7 +23,7 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than wait on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The gatekeeper agrees to be a *grownup*— and thus sits *outside* our [status hierarchy](https://www.harpercollins.com/products/the-status-game-will-storr). Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic *progressive*.
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The [gatekeeper](/indie/commentary/gatekeeper#) agrees to be a *grownup*— and thus sits *outside* our status hierarchy. Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic *progressive*.
 
 By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status as an artist. If they're ever to pick you, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… making them a [*conservative*](/indie/commentary/conservative#)! So here's what needs to be explained:
 
@@ -323,7 +323,7 @@ Uh… *we* would— the audience! Most of us only want the *best* athletes, and 
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-artist thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed from its original meaning of "all who attend a performance." So let's use it in a way that Bach— who made music for God!— would've understood: The ones you engage with online? That's a following. Those casually hearing you on the radio? Now *there's* your audience.
+Still, how do we become pro-*audience* once more? First, we observe that the word "[audience](/indie/commentary/audience#)" has strayed from its original meaning of "all who attend a performance." So let's use it in a way that Bach— who made music for God!— would've understood: The ones you engage with online? That's a following. Those casually hearing you on the radio? Now *there's* your audience.
 
 From there, we note that this vast majority only want the *best* artists… and it *isn't* their [job to know](https://youtu.be/SYSa4RzaH80) what "the best" entails! Thankfully, BYCombo can step up as a gatekeeper for the elites, if *you'll* pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
