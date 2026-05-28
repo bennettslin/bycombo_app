@@ -11,9 +11,9 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: COMMENTARY_DESCRIPTION,
             body: `
-For many, "gatekeeping" refers to any selection process that doesn't favor them. But then they'll apply their *own* criteria— which disfavor *others*!— creating confusion all around. So let's agree that the gatekeeper isn't some universal bogeyman— that some of us stand with them, and others against. The question now is: Who's on which side?
+For many, "gatekeeping" refers to *any* selection process that rejects them… even as they differ wildly on how it should work instead. But this makes the gatekeeper a bogeyman: at once reviled by all, yet impossible to defeat! So let's clarify what gatekeeping means, in a way that allows each of us to take action— with some for, and others against. Now, who's on which side?
 
-It helps if we think of a literal gate— the purpose of which is to permit those who'd otherwise be shut out, while preventing others who'd march right in. Without gatekeepers, then, we'd revert to the natural order of "might makes right"— and in the arts, such might comes from hard numbers. So the indie camp, which judges you on the size of your fanbase, stands *against*.
+It helps if we think of a literal gate— the purpose of which is to permit those who'd otherwise be shut out, while preventing others who'd march right in. Without gatekeepers, then, we'd revert to the natural order of "might makes right"… and in the arts, such might comes from hard numbers. So the indie camp, which judges you on the size of your fanbase, stands *against*.
 
 ${'  ' || `
 // TODO: Keep working on. Explicitly state that the indie camp is on the side of "might makes right."
