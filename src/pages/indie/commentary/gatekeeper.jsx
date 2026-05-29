@@ -16,7 +16,7 @@ For many, "gatekeeping" refers to *any* selection process that rejects them… e
 It helps if we think of a literal gate— the purpose of which is to permit those who'd otherwise be shut out, while preventing others who'd march right in. Without gatekeepers, then, we'd revert to the natural order of "might makes right"… and in the arts, such might comes from hard numbers. So the indie camp, which judges you on the size of your fanbase, stands *against*.
 
 ${'  ' || `
-// TODO: Keep working on. Explicitly state that the indie camp is on the side of "might makes right."
+// TODO: Keep working on. Finish up this point.
 `}
 
 But if, like me, you *despair* over being judged by the number of fans you have, then you're *not* opposed to gatekeeping— but rather, the lack of it!
