@@ -12,7 +12,7 @@ const Component = () => (
             metaDescription: COMMENTARY_DESCRIPTION,
             body: `
 ${'  ' || `
-// TODO: Review commentary a few more times.
+// TODO: Review commentary.
 `}
 
 For many, "gatekeeping" refers to *any* selection process that rejects them… even as they differ wildly on how it should work instead. But this makes the gatekeeper a mere *stand-in* for villainy, against which nothing can be done! Let's redefine gatekeeping, then, in a way that *some* of us can support— thus allowing each of us to act, in accordance with our side. So now, who's for it?
