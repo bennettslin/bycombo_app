@@ -243,13 +243,13 @@ ${'  ' || `
 // TODO: Review title a few more times.
 `}
 
-### ${++sectionCounter}. Moderate status leads to risk aversion
+### ${++sectionCounter}. Modest status leads to risk aversion
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant tells us it's both the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. This explains why indie rock is so *un*-original: Its artists *seek* further status while its labels *cede* it— so *no one* takes any risks!
+Who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant shows us it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. This explains why indie rock is so *un*-original: Its artists *seek* further status while its labels *cede* it— so *no one* takes any risks!
 
 Back in the day, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. And so, as a "zero," you'd explore at will, hoping to spark creative ideas that could take you "from one to *n*," and thus convince others to partner with you. But today, indie artists get to "one" on their *own*… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
@@ -609,7 +609,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Which matters, because every status hierarchy is self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves… and under "indieocracy," this means the ones who strive most to *get* the job. To double down instead on *deserving* it, then, is to be stuck in the underclass— maybe [even permanently](/indie/highlights/even-permanently#)! So who'd ever try? No one… but us collectivists.
+Because, keep in mind, status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others who behave as they do— which, under "indieocracy," means striving hardest to *get* the job. To double down instead on *deserving* it, then, is to be stuck in the underclass— maybe [even permanently](/indie/highlights/even-permanently#)! So who'd ever try? No one… but us collectivists.
 
 Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](/indie/highlights/collectivist-race#), [class](/indie/highlights/collectivist-class#), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but *only* because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
