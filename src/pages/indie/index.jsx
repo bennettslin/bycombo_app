@@ -137,10 +137,6 @@ By supporting artists, then, we're both needlessly kind to the ones at the top, 
 
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way things were done *before*. So anyone hoping to shift the paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of unsung preparation… will be paying their own way the *whole* time.
 
 To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
@@ -244,13 +240,13 @@ Of course, the best artists *are* human— so how are such works possible? It's 
 But… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ${'  ' || `
-// TODO: Review title a few more times.
+// TODO: Review title.
 `}
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant shows us it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. This explains why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
@@ -610,14 +606,10 @@ Think about it: Like indie rock, AI poses a collective action problem— which, 
 Plus, much like AI is blocked from chasing *good* ideas by the very guardrails that block it from *bad* ones, the very rules that save indie rock from picking the worst artists *also* "save" it from the best. So they're alike even in how they stumble! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* root for the *indie*-vidual at all, but rather for *us*— the collective.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Because, keep in mind, status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others who behave as they do— which, under "indieocracy," means striving hardest to *get* the job. To double down instead on *deserving* it, then, is to be stuck in the underclass— maybe [even permanently](/indie/highlights/even-permanently#)! So who'd ever try? No one… but us collectivists.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](/indie/highlights/collectivist-race#), [class](/indie/highlights/collectivist-class#), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but only because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
