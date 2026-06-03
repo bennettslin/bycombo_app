@@ -239,15 +239,7 @@ Of course, the best artists *are* human— so how are such works possible? It's 
 
 But… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Modest status leads to risk aversion
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant shows us it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. This explains why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
 
@@ -604,10 +596,6 @@ The new Romantics wistfully recall those last few decades before the rise of sou
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: superstars, influencers… and now, slop peddlers.
 
 Plus, much like AI is blocked from chasing *good* ideas by the very guardrails that block it from *bad* ones, the very rules that save indie rock from picking the worst artists *also* "save" it from the best. So they're alike even in how they stumble! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* root for the *indie*-vidual at all, but rather for *us*— the collective.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Because, keep in mind, status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others who behave as they do— which, under "indieocracy," means striving hardest to *get* the job. To double down instead on *deserving* it, then, is to be stuck in the underclass— maybe [even permanently](/indie/highlights/even-permanently#)! So who'd ever try? No one… but us collectivists.
 
