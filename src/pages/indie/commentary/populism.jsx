@@ -15,7 +15,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-At its core, populism promises that sheer numerical might will always get its way. Yet every racial minority belongs to a *numerical* minority, which means we tend to oppose populism out of principle, even if we agree with some particular policy. I suppose this isn't obvious if you've always belonged to the majority, yet it still surprises me when people fail to understand this.
+At its core, populism promises that sheer numerical might will always get its way. Yet every racial minority belongs to a *numerical* minority, which means we'll oppose populism out of principle, even if we agree with a movement's policies. I suppose this isn't obvious if you've always belonged to the majority, yet I'm still surprised when people fail to understand it.
             `,
         }}
     />
