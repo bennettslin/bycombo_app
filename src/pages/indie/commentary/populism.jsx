@@ -12,10 +12,10 @@ const Component = () => (
             metaDescription: COMMENTARY_DESCRIPTION,
             body: `
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Review a few more times.
 `}
 
-At its core, populism promises that sheer numerical might will always get its way. Yet every racial minority belongs to a *numerical* minority, which means we'll oppose populism out of principle, even if we agree with a movement's policies. I suppose this isn't obvious if you've always belonged to the majority, yet I'm still surprised when people fail to understand it.
+At its core, populism promises to get its way through sheer numerical might. Yet every one of us minorities also experiences life as a *numerical* minority— which means we'll oppose populism as a principle, even if we like its policies. After all, whose side will the numbers favor in the *future*? It astounds me that so many fail to consider this.
             `,
         }}
     />
