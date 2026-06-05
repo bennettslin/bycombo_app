@@ -11,6 +11,10 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: COMMENTARY_DESCRIPTION,
             body: `
+${'  ' || `
+// TODO: Keep working on.
+`}
+
 Everyone has their own idea of the origin of wokeness.
 
 Long story short, "indiefication" favors those who hustle to get the job, over those who wait on elites to say they deserve it— thus negating the power of trying much harder, to be much better— the one path taken by outsiders throughout history to overcome their disadvantage.
