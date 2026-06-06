@@ -12,10 +12,10 @@ const Component = () => (
             metaDescription: COMMENTARY_DESCRIPTION,
             body: `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise? Does "yet" make sense for second sentence? And would third sentence be better off as, "we fear seeing populism win"? Maybe put back in elitism section?
 `}
 
-At its core, populism promises to get its way through sheer numerical might. Yet every one of us minorities also experiences life as a *numerical* minority— which means we'll oppose populism as a principle, even if we like its policies. After all, whose side will the numbers favor in the *future*? It astounds me that so many fail to consider this.
+At its core, populism promises to get its way through sheer numerical might. Yet every one of us minorities also experiences life as a *numerical* minority— which means we'll still oppose populism as a principle, even when we like its policies. After all, whose side will the numbers favor in the *future*? It amazes me that so many fail to see this.
             `,
         }}
     />
