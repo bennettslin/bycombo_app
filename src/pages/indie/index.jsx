@@ -358,7 +358,7 @@ So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/
 Except… now it made perfect sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will insist on keeping that culture as it is— no matter how broken it's become.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Moreover, once a dues payer has wasted their best years building up "[cred](/indie/commentary/cred#)" instead of mastering the craft, they can never feel secure enough to watch others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](/indie/highlights/vicious-circle#) of brokenness.
