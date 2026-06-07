@@ -15,7 +15,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Everyone has their own idea of the origin of wokeness.
+Everyone has their own theory about the origin of wokeness, based on their own experiences. So here's mine.
 
 Long story short, "indiefication" favors those who hustle to get the job, over those who wait on elites to say they deserve it— thus negating the power of trying much harder, to be much better— the one path taken by outsiders throughout history to overcome their disadvantage.
 
