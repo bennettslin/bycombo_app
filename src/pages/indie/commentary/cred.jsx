@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Here, then, is another reason why "elite capture" is poorly named, as stated in my previous commentary: It keeps us from noticing the same pattern play out in *anti*-elitist movements like indie rock. So let's shorten *all* of it to "cred," and let context determine whether we're talking about the bottom-up dues paid to the underground, or the top-down ones paid to formal institutions.
+Here, then, is another reason why "elite capture" is poorly named, as stated in my previous commentary: It keeps us from noticing the same pattern play out in *anti*-elitist movements like indie rock! So let's call *all* of it "cred"— after all, what's the difference between bottom-up dues paid to the underground, and top-down ones to formal institutions, once both have been "captured"?
             `,
         }}
     />
