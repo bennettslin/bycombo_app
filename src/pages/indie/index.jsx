@@ -357,10 +357,6 @@ So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/
 
 Except… now it made perfect sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will insist on keeping that culture as it is— no matter how broken it's become.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Moreover, once a dues payer has wasted their best years building up "[cred](/indie/commentary/cred#)" instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those willing to squander even *more* potential. But any such newcomer will then feel even *less* secure— thus widening the [vicious circle](/indie/highlights/vicious-circle#) of brokenness.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
@@ -608,13 +604,13 @@ Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a 
 ### ${++sectionCounter}. Consequentialists care about impact
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman observes that Gen X didn't reject *capitalism*, just *commercialism*. That is to say: "You can *sell*, but don't sell *out*." Still, indie rock told Millennials to take it further: "Sell it *yourself*." Which they did… until the hustle burned them out. Yet instead of blaming "indiefication," they pinned it on the need to sell at all— or, capitalism *itself*!
 
 ${'  ' || `
-// TODO: Review a few more times. Review new link as well.
+// TODO: Review.
 `}
 
 Now Millennials *readily* sell out, insisting that survival today depends on it… despite retaining the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html#:~:text=For%20Generation%20X,who%20you%20are.) that underlay Gen X's *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
