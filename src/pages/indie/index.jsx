@@ -313,7 +313,7 @@ You see, pollution is an example of the famous "[prisoner's dilemma](/indie/high
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
-The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. But what if *your* vote all along was for elitist gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
+The moral, then, is that low barriers to entry *don't* lead to democracy, but to "[indieocracy](/indie/commentary/indieocracy#)"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. But what if *your* vote all along was for elitist gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
