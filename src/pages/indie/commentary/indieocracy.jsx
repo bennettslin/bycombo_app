@@ -15,9 +15,9 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Given that intellect is shaped by both nature and nurture, what's the fate of a world in which idiots have the most children, who inherit their genes and are also raised by them? The movie [*Idiocracy*](https://en.wikipedia.org/wiki/Idiocracy) has an answer: Its main character— an average Joe in our own times— is placed in hibernation and wakes up five hundred years later, only to discover he's now the smartest person alive.
+Intellect is shaped by both nature and nurture… so what's the fate of a world in which idiots have the most children, who inherit their genes and are also raised by them? The movie [*Idiocracy*](https://en.wikipedia.org/wiki/Idiocracy) offers one answer: Its main character— an average Joe in our own times— is placed in hibernation and wakes up five hundred years later, only to discover he's now the smartest person alive.
 
-Likewise, in an "indiefied" world, success now goes to those who divert more effort toward *getting* the job, away from simply *deserving* it— and, of course, it's their works that'll then live on to influence the next generation. So what's *our* fate? We could explore this answer in a movie as well… except, instead of a fictional comedy, it'd just be a documentary of our times.
+Similarly, in an "indiefied" world, success goes to those who divert the most effort toward *getting* the job, away from simply *deserving* it— and it's their works that'll then live on to inspire the next generation. So what's *our* fate? We could explore this answer in a movie as well… except, of course, instead of a fictional comedy, it'd be a documentary of our times.
             `,
         }}
     />
