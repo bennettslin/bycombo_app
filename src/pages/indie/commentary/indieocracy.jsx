@@ -15,6 +15,8 @@ ${'  ' || `
 // TODO: Review a few more times.
 
 Maybe structure first paragraph more like second paragraph? So, having to do with "living on"? Avoid talk of nature versus nurture?
+
+Survival of the fittest no longer punishes the worst traits, allowing them to live on.
 `}
 
 Whether intellect comes from nature or nurture… what's the fate of a world in which idiots have the most children, who both inherit their genes and are raised by them? The movie [*Idiocracy*](https://en.wikipedia.org/wiki/Idiocracy) offers one answer: Its main character— an average Joe in our own times— is placed in hibernation and wakes up five hundred years later, only to discover he's now the smartest person alive.
