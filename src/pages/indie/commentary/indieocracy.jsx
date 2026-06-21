@@ -12,7 +12,7 @@ const Component = () => (
             metaDescription: COMMENTARY_DESCRIPTION,
             body: `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 What's the fate of a society in which natural selection no longer weeds out those with the worst traits, allowing them to live on and flood our collective gene pool? The movie [*Idiocracy*](https://en.wikipedia.org/wiki/Idiocracy) offers a glimpse: Its hero— an average Joe in our own times— is placed in hibernation and wakes up five hundred years later, only to discover he's now the smartest person alive.
