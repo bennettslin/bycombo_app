@@ -63,7 +63,11 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 
 **Why partners?**
 
-To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. To put it another way, history makers *need* to work with a label— or some other business partner!— and a quick glance through the historical canon bears this out.
+${'  ' || `
+// TODO: Review.
+`}
+
+To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. To put it another way, history makers *need* to work with a label— or some other business partner!— and a quick glance through the canon bears this out.
 
 **Why interdependence?**
 
@@ -147,13 +151,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Growing up as a child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had their own rock canons. Yet, since each was merely "larping," or live-action role-playing, what they saw in ours— namely, the Anglosphere's— we paid them no mind. Which made ours "the" canon! And not least when any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+Growing up a child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had their own rock canons. Yet, since each was merely "larping," or live-action role-playing, what they heard in ours— ours being the Anglosphere's— we paid them no mind. Which made ours "the" canon! And not least because, whenever a foreign band *could* rival us, like ABBA… they'd join us instead.
 
 ${'  ' || `
-// TODO: Revise. Make it more like, to belong in the canon, my band needs to be better than any foreigner, and since foreigners larp, I need to not larp.
+// TODO: Review a few more times.
 `}
 
-So I've long made a conscious effort not to larp; larping is for foreigners, and to belong in the canon alongside the Beatles, I need to be better than any foreigner. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over other countries? Let a thousand canons bloom, with ours being just one of them!"
+So I've long warned those around me not to larp; after all, to belong in the canon alongside the Beatles, we need to surpass every foreign band— and larping is what foreigners do. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over the rest of the world? Let a thousand canons bloom, with ours being just one of them!"
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
@@ -161,7 +165,7 @@ ${'  ' || `
 // TODO: Revise. Add final mention of larping. Make it more like, BYCombo was founded by someone determined not to larp. Better than any foreigner.
 `}
 
-Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries who *can* rival you… but will join your band instead.
+Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
