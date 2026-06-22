@@ -143,11 +143,23 @@ To be clear, I'm not against subsidizing, let's say, music education. But when w
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-Growing up as a child of Asian immigrants, I knew that the rock canon of our English-speaking world wasn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. And yet, since they merely imitated ours, we cared little for theirs— making ours "the" canon! Especially since any of their bands who *could* rival us, like ABBA… would simply join us instead.
+${'  ' || `
+// TODO: Review a few more times.
+`}
 
-So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
+Growing up as a child of Asian immigrants, I knew there wasn't just one rock canon; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. Yet each of theirs was a mere "larp," or live-action role play, of what they heard in ours— and thus we paid them no mind. Which made ours "the" canon! Especially since any of their bands who *could* rival us, like ABBA… would simply join us instead.
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+So I've long understood that, to belong in the canon alongside the Beatles, it isn't enough to larp; my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over all other countries? Let a thousand canons bloom, with ours being just one of them!"
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
+
+${'  ' || `
+// TODO: Revise. Add final mention of larping.
+`}
 
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries who *can* rival you… but will join your band instead.
 
