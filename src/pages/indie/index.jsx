@@ -147,13 +147,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Growing up as a child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had their own rock canons. Yet, since each was merely "larping," or live-action role-playing, what they saw in ours— namely, the Anglosphere's— we paid them no mind. Which made ours "the" canon! And not least when any band of theirs who *could* rival us, like ABBA… would simply join us instead.
+Growing up as a child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had their own rock canons. Yet, since each was merely "larping," or live-action role-playing, what they saw in ours— namely, the Anglosphere's— we paid them no mind. Which made ours "the" canon! And not least when any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 ${'  ' || `
 // TODO: Revise. Make it more like, to belong in the canon, my band needs to be better than any foreigner, and since foreigners larp, I need to not larp.
 `}
 
-So I've long understood that larping is for foreigners; to belong in the canon alongside the Beatles, my band needs to be one of the world's best. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over other countries? Let a thousand canons bloom, with ours being just one of them!"
+So I've long made a conscious effort not to larp; larping is for foreigners, and to belong in the canon alongside the Beatles, I need to be better than any foreigner. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over other countries? Let a thousand canons bloom, with ours being just one of them!"
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
@@ -273,11 +273,7 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Limited brainpower fails to adapt
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they rely on mental shortcuts passed down by their forebears— like moths, which evolved to fly with their [backs to starlight](/indie/highlights/backs-to-starlight#).
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they rely on mental shortcuts passed down by their forebears— just like moths, which evolved to fly with their [backs to starlight](/indie/highlights/backs-to-starlight#).
 
 Of course, these shortcuts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
 
