@@ -147,18 +147,18 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Growing up as a child of Asian immigrants, I knew there wasn't just one rock canon; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. Yet each of theirs was a mere "larp," or live-action role play, of what they heard in ours— and thus we paid them no mind. Which made ours "the" canon! Especially since any of their bands who *could* rival us, like ABBA… would simply join us instead.
+Growing up as a child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had their own rock canons. Yet, since each was merely "larping," or live-action role-playing, what they saw in ours— namely, the Anglosphere's— we paid them no mind. Which made ours "the" canon! And not least when any band of theirs who *could* rival us, like ABBA… would simply join us instead.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Make it more like, to belong in the canon, my band needs to be better than any foreigner, and since foreigners larp, I need to not larp.
 `}
 
-So I've long understood that, to belong in the canon alongside the Beatles, it isn't enough to larp; my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over all other countries? Let a thousand canons bloom, with ours being just one of them!"
+So I've long understood that larping is for foreigners; to belong in the canon alongside the Beatles, my band needs to be one of the world's best. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over other countries? Let a thousand canons bloom, with ours being just one of them!"
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 ${'  ' || `
-// TODO: Revise. Add final mention of larping.
+// TODO: Revise. Add final mention of larping. Make it more like, BYCombo was founded by someone determined not to larp. Better than any foreigner.
 `}
 
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries who *can* rival you… but will join your band instead.
