@@ -63,10 +63,6 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 
 **Why partners?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. To put it another way, history makers *need* to work with a label— or some other business partner!— and a quick glance through the canon bears this out.
 
 **Why interdependence?**
@@ -142,10 +138,6 @@ By supporting artists, then, we're both needlessly kind to the ones at the top, 
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way things were done *before*. So anyone hoping to shift the paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of unsung preparation… will be paying their own way the *whole* time.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Fortunately, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
 
@@ -439,7 +431,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a revolutionary.
+Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to "larp" as a revolutionary.
 
 After all, only the *privileged* can afford to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
@@ -558,7 +550,7 @@ Sadly, with no dreamer in our times to serve as an exemplar, critics and fans ar
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even *after* I [cautioned them](https://bennettsamuellin.blogspot.com/2012/12/patent-trolls-of-indie-rock.html#:~:text=Like%20glam%20metal,on%20making%20art.). Why were they glad to merely "larp" as innovators?
