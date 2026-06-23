@@ -155,19 +155,19 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Growing up a child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had their own rock canons. Yet, since each was merely "larping," or live-action role-playing, what they heard in ours— ours being the Anglosphere's— we paid them no mind. Which made ours "the" canon! And not least because, whenever a foreign band *could* rival us, like ABBA… they'd join us instead.
+Growing up a child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had their own rock canons. Yet, since each was merely "larping," or live-action role-playing, what they heard in ours— ours being the Anglosphere's— we paid them no mind. Which made ours "the" canon! And not least because, anytime a foreign band *could* rival us, like ABBA… they'd join us instead.
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-So I've long cautioned those around me not to larp; after all, to belong in the canon next to the Beatles, you need to surpass every foreigner— and larping is what *foreigners* do. But the indie camp scorns this way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over the entire world? Let a thousand canons bloom, with ours being just one of them!"
+So I've long cautioned those around me not to larp; after all, to belong in the canon alongside the Beatles, you first need to surpass every foreigner— and larping is what *foreigners* do. But the indie camp scorns this way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over the world? Let a thousand canons bloom, with ours being just one of them!"
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *don't* surpass all foreign contemporaries— who've got *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
+Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *don't* surpass their foreign contemporaries— who have *zero* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 ${'  ' || `
 // TODO: Revise. Make it more like, BYCombo was founded by someone determined not to larp.
@@ -391,7 +391,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 Yet despite the poor fit, the indie camp sure is eager now to give us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? Like, suppose an opposing camp were to argue, "No, this *won't* make history; it's merely reenacting what took courage in the *past*— not whatever that'd be *today*." Who'd win? Okay, so: Was this century's indie rock all a larp?
 
-Some of you [now see](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in "the" canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons I grew up on. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+${'  ' || `
+// TODO: Review.
+`}
+
+Some of you [now see](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in "the" canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons of my youth. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like *us*— and specifically, the *hungriest*.
 
