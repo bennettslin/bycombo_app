@@ -157,7 +157,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-So I've long warned those around me not to larp; after all, to belong in the canon alongside the Beatles, we need to surpass every foreign band— and larping is what foreigners do. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over the rest of the world? Let a thousand canons bloom, with ours being just one of them!"
+So I've long cautioned those around me not to larp; after all, to belong in the canon next to the Beatles, we need to surpass every foreigner— and larping is what *foreigners* do. But the indie camp scorns this way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over the entire world? Let a thousand canons bloom, with ours being just one of them!"
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
@@ -423,7 +423,11 @@ Now, our forebears didn't need to coin such a term; they intuitively grasped why
 
 Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the [college-educated](/indie/highlights/college-educated#) indie camp— the supposed good guys— won't hear of it: "You don't see *us* selling out, do you?"
 
-Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
+${'  ' || `
+// TODO: Review.
+`}
+
+Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a revolutionary.
 
 After all, only the *privileged* can afford to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
@@ -541,7 +545,11 @@ Sadly, with no dreamer in our times to serve as an exemplar, critics and fans ar
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even *after* I [warned them](https://bennettsamuellin.blogspot.com/2012/12/patent-trolls-of-indie-rock.html#:~:text=Like%20glam%20metal,on%20making%20art.). Why were they glad to simply "larp" the next revolution?
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even *after* I [cautioned them](https://bennettsamuellin.blogspot.com/2012/12/patent-trolls-of-indie-rock.html#:~:text=Like%20glam%20metal,on%20making%20art.). Why were they glad to merely "larp" as innovators?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead; plus, getting "punished" for breaking their rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what do *I* know of courage? Yet no Millennials joined me. Why?
 
