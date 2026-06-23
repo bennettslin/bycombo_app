@@ -143,7 +143,11 @@ Well… we're *all* free to make art, right? Which means the government must fir
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of unsung preparation… will be paying their own way the *whole* time.
 
-To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
+${'  ' || `
+// TODO: Review.
+`}
+
+To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Fortunately, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -157,15 +161,19 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-So I've long cautioned those around me not to larp; after all, to belong in the canon next to the Beatles, we need to surpass every foreigner— and larping is what *foreigners* do. But the indie camp scorns this way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over the entire world? Let a thousand canons bloom, with ours being just one of them!"
-
-Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
+So I've long cautioned those around me not to larp; after all, to belong in the canon next to the Beatles, you need to surpass every foreigner— and larping is what *foreigners* do. But the indie camp scorns this way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over the entire world? Let a thousand canons bloom, with ours being just one of them!"
 
 ${'  ' || `
-// TODO: Revise. Add final mention of larping. Make it more like, BYCombo was founded by someone determined not to larp. Better than any foreigner.
+// TODO: Review a few more times.
 `}
 
-Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *don't* surpass all foreign contemporaries— who've got *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
+
+${'  ' || `
+// TODO: Revise. Make it more like, BYCombo was founded by someone determined not to larp.
+`}
+
+Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, I've spent my whole life pondering what it takes *not* to larp. BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
