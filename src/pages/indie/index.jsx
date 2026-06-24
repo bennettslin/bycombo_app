@@ -139,7 +139,11 @@ Well… we're *all* free to make art, right? Which means the government must fir
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of unsung preparation… will be paying their own way the *whole* time.
 
-To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Fortunately, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this pretty quickly— having only *ever* been treated as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -147,7 +151,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Growing up a child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had their own rock canons. Yet, since each was merely "larping," or live-action role-playing, what they heard in ours— ours being the Anglosphere's— we paid them no mind. Which made ours "the" canon! And not least because, anytime a foreign band *could* rival us, like ABBA… they'd join us instead.
+As the child of Asian immigrants, I learned early on that [other countries](https://youtu.be/QhOFg_3RV5Q) had rock canons of their own. Yet, since each was merely "larping," or live-action role-playing, what they heard in ours— us being the Anglosphere— we paid them no mind. Which made ours "the" canon! And not least when, anytime a foreign band *could* rival us, like ABBA… they'd join us instead.
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -162,10 +166,10 @@ ${'  ' || `
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *don't* surpass their foreign contemporaries— who have *zero* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 ${'  ' || `
-// TODO: Revise. Make it more like, BYCombo was founded by someone determined not to larp.
+// TODO: Review a few more times.
 `}
 
-Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, I've spent my whole life pondering what it takes *not* to larp. BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, having spent my whole life pondering what it means *not* to larp, I started BYCombo to make us the world's best once more! How? In the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -550,7 +554,7 @@ Sadly, with no dreamer in our times to serve as an exemplar, critics and fans ar
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review. Do I need to change "warning" later?
 `}
 
 Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even *after* I [cautioned them](https://bennettsamuellin.blogspot.com/2012/12/patent-trolls-of-indie-rock.html#:~:text=Like%20glam%20metal,on%20making%20art.). Why were they glad to merely "larp" as innovators?
