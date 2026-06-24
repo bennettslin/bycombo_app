@@ -139,7 +139,11 @@ Yet… this can't end well. We obviously don't support artists of the *past*— 
 
 By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage to *every* artist.
 
-Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way things were done *before*. So anyone hoping to shift the paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
+${'  ' || `
+// TODO: Review.
+`}
+
+Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way things were done *before*. So anyone hoping to shift the paradigm— to rethink how art can be made, or by whom— will be seen as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of unsung preparation… will be paying their own way the *whole* time.
 
@@ -147,7 +151,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this pretty quickly— having only *ever* been treated as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
+To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Fortunately, I realized this from the start— having only *ever* been dismissed as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -170,10 +174,10 @@ ${'  ' || `
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *don't* surpass their foreign contemporaries— who have *zero* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, having spent my whole life pondering what it means not to larp, I started BYCombo to make us the world's best once more! How? In the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, BYCombo will get us to quit larping and become the world's best once more! How? In the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -593,7 +597,11 @@ Luckily, having struggled for half my life to attract bandmates, I anticipated t
 
 ### ${++sectionCounter}. Advances are made in aesthetics, not logistics
 
-When's it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that disrupted the industry too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
+${'  ' || `
+// TODO: Review.
+`}
+
+When's it a "larp"? Here's a test: Could it've been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that disrupted the industry too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
