@@ -13,11 +13,7 @@ const Component = ({ sectionCounter = 0 }) => (
             metaDescription: DESCRIPTION,
             date: { year: 2026, month: 6 },
             body: `
-${'  ' || `
-// TODO: Review.
-`}
-
-By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only ever signed artists with a proven fanbase, who were thus empowered to hold out for the *fairest* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
+By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only ever signed artists with a *proven* fanbase, who were thus empowered to hold out for the *fairest* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, it's easier than *ever* to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does this say about your works?"
 
@@ -139,19 +135,11 @@ Yet… this can't end well. We obviously don't support artists of the *past*— 
 
 By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage to *every* artist.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way things were done *before*. So anyone hoping to shift the paradigm— to rethink how art can be made, or by whom— will be treated as a hobbyist!
+Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way things were done *before*. So anyone hoping to shift the paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of unsung preparation… will be paying their own way the *whole* time.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Fortunately, I realized this from the start— having only *ever* been dismissed as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
+To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -159,11 +147,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-As the child of Asian immigrants, I learned early on that [other countries](https://youtu.be/QhOFg_3RV5Q) had rock canons of their own. Yet, since each was merely "larping," or live-action role-playing, what they heard in ours— us being the Anglosphere— we paid them no mind. Which made ours "the" canon! And not least when, anytime a foreign band *could* rival us, like ABBA… they'd join us instead.
-
-${'  ' || `
-// TODO: Review.
-`}
+Growing up the child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had rock canons of their own. Yet, since each was merely "larping," or live-action role-playing, what they heard in ours— us being the Anglosphere— we paid them no mind. Which made ours "the" canon! And not least when, anytime a foreign band *could* rival us, like ABBA… they'd join us instead.
 
 So I've long cautioned those around me not to larp; after all, to belong in the canon alongside the Beatles, you first need to surpass every foreigner— and larping is what *foreigners* do. But the indie camp scorns this way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over the world? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -177,7 +161,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries who *could* rival you… but will join your band instead.
+Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -399,7 +383,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Some of you [now see](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in "the" canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as inconsequential today as any foreign canon. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+Some of you [now see](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in "the" canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons of my youth. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like *us*— and specifically, the *hungriest*.
 
@@ -596,10 +580,6 @@ Here's my point: Suppose an indie label were willing to sign me *before* my band
 Luckily, having struggled for half my life to attract bandmates, I anticipated that the best musicians would come to favor being *assembled* into bands— and that this, in turn, could open up a new frontier to explore! So relax, and focus all your efforts on simply *deserving* the most dedicated bandmates… secure in the knowledge that BYCombo will then help you find them.
 
 ### ${++sectionCounter}. Advances are made in aesthetics, not logistics
-
-${'  ' || `
-// TODO: Review.
-`}
 
 When's it a "larp"? Here's a test: Could it've been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that disrupted the industry too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
