@@ -161,7 +161,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. So leave the foreigners and the indie artists to their larps! BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. So leave the larping to foreigners and indie artists! With BYCombo, we'll be the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
