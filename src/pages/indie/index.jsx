@@ -158,10 +158,10 @@ ${'  ' || `
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *don't* surpass their foreign contemporaries— who have *zero* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. So leave the foreigners and the indie artists to their larps! BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -169,7 +169,7 @@ By the '00s, the major labels had gutted the local scenes in their search for th
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into power laws. Since it's hard to say whose works are best, we often just like what others like. Right? Well… they do the same! As a result, any [random boost](/indie/highlights/random-boost#) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
-Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes; they simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who'd signed first with the indies for this very reason!
+Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes; they simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who'd signed with the indies for this very reason!
 
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Thankfully, BYCombo is here to build a *new* path to stardom. Because, once you've gone above and beyond to make the best art, you *won't* just settle for "a thousand [true fans](https://kk.org/thetechnium/1000-true-fans)." And if superstars are inevitable, then why can't *you* get a chance to be one?
 
