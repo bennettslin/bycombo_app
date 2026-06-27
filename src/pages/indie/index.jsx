@@ -149,10 +149,6 @@ So I've long cautioned those around me not to larp; after all, to belong in the 
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *don't* surpass their foreign peers— who've got *zero* chance! So then, they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. So leave the larping to foreigners and indie artists! With BYCombo, we'll be the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
@@ -271,10 +267,6 @@ ${'  ' || `
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they rely on the same instincts that worked so well for their forebears— like moths, which fly with their [backs to starlight](/indie/highlights/backs-to-starlight#).
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out every outlier. And social media makes engaging with fans routine; those who do it best— a.k.a. influencers— may earn *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
@@ -376,10 +368,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
 "Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history is any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](/indie/highlights/labels-and-producers#). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet despite the poor fit, indie rock sure is eager now to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? Like, suppose an opposing camp were to argue, "No, this *won't* make history; it's merely reenacting what took courage in the *past*— not whatever that'd be *today*." Who'd win? Okay, so: Was this century's indie rock all a larp?
 
