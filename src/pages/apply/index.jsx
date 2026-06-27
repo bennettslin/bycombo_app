@@ -34,23 +34,11 @@ If so, then come be part of the interdependence revolution! We're looking for th
 
 We'll select each applicant based on their talents and creative ideas. If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you regularly in person. After settling in, each of you will put in enough time on your band project for the sum total to reach 25,000 hours— or, twelve full-time years.
 
 ### A lifetime of band projects
 
-${'  ' || `
-// TODO: Review.
-`}
-
 BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to potential partners by adding it to our demo registry and including it in our latest newsletter. As an alum, you'll also have a chance to "pay it forward" and work with future cohorts.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 And for your next band project, we want you to set the bar even *higher*! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and all BYCombo bands are family!
 
@@ -90,14 +78,10 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-- Whether you're able to relocate to Los Angeles, if you aren't here already. (If not, you won't be eligible for the pilot cohort, but we'll keep you on file for later ones.)
+- Whether you can relocate to Los Angeles, if you aren't here already. (If not, you won't be eligible for the pilot cohort, but we'll keep you on file for later ones.)
 - An acknowledgment that you've read "[The Problem with Indie Rock](/indie#)" in its entirety. (You don't need to agree with all of it; we just want to make sure you understand what drives the BYCombo mission.)
 
 Feel free to include any of the following as well:
-
-${'  ' || `
-// TODO: Review.
-`}
 
 - Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experience with "doublespeaker rhyme": When you're a low-status nobody, no one even *wants* to steal from you!)
 - Links to social media or video demonstrations.
