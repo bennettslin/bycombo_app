@@ -42,9 +42,17 @@ Once everyone agrees to form a band, those who can relocate to the same city wil
 
 ### A lifetime of band projects
 
-BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to potential partners by adding it to our demo registry and including it in our latest newsletter. As an alum, you'll also have a chance to "pay it forward" and work with the next cohort.
+${'  ' || `
+// TODO: Review.
+`}
 
-And for your next band project, we want you to set the bar even *higher*! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and every BYCombo band is family!
+BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to potential partners by adding it to our demo registry and including it in our latest newsletter. As an alum, you'll also have a chance to "pay it forward" and work with future cohorts.
+
+${'  ' || `
+// TODO: Review.
+`}
+
+And for your next band project, we want you to set the bar even *higher*! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and all BYCombo bands are family!
 
 Of course, we're just getting started, so to thank you for your patience during these early years:
 
