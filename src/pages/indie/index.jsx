@@ -57,10 +57,6 @@ Indie rock encourages artists to retain their earnings— which, today, means ha
 
 **Why band *assembly*?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always do so on their own, in a decentralized free-for-all. But let's ditch this notion. What if musicians hoping to form history-making bands could flock from across the world to a single hub? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
@@ -150,10 +146,6 @@ To be clear, I'm not against subsidizing, let's say, music education. But when w
 Growing up the child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had rock canons of their own. Yet, since each was merely "larping," or live-action role-playing, what they heard in ours— us being the Anglosphere— we paid them no mind. Which made ours "the" canon! And not least when, anytime a foreign band *could* rival us, like ABBA… they'd join us instead.
 
 So I've long cautioned those around me not to larp; after all, to belong in the canon alongside the Beatles, you first need to surpass every foreigner— and larping is what *foreigners* do. But the indie camp scorns this way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over the world? Let a thousand canons bloom, with ours being just one of them!"
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *don't* surpass their foreign peers— who've got *zero* chance! So then, they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
