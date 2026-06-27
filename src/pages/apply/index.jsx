@@ -34,7 +34,11 @@ If so, then come be part of the interdependence revolution! We're looking for th
 
 We'll select each applicant based on their talents and creative ideas. If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
 
-Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you in person regularly. After settling in, each of you will put in enough time on your band project for the sum total to reach 25,000 hours— or, twelve full-time years.
+${'  ' || `
+// TODO: Review.
+`}
+
+Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you regularly in person. After settling in, each of you will put in enough time on your band project for the sum total to reach 25,000 hours— or, twelve full-time years.
 
 ### A lifetime of band projects
 
@@ -73,12 +77,21 @@ We'll also need each of the following:
 - A statement that you're of legal age: eighteen years or older.
 - Your gender. (This *only* determines whom we'll place you in a band with. It *doesn't* affect your chances of being accepted.)
 - Total hours you'll spend each week to earn a living, including commute. (We'll use this as a proxy for economic class. Also, the same condition as above applies, so just make an honest guess if you aren't sure.)
-- Whether you're able and willing to relocate to Los Angeles, for anyone who isn't here already. (If not, you won't be eligible for the pilot cohort, but we'll keep you on file for later ones.)
+
+${'  ' || `
+// TODO: Review.
+`}
+
+- Whether you're able to relocate to Los Angeles, if you aren't here already. (If not, you won't be eligible for the pilot cohort, but we'll keep you on file for later ones.)
 - An acknowledgment that you've read "[The Problem with Indie Rock](/indie#)" in its entirety. (You don't need to agree with all of it; we just want to make sure you understand what drives the BYCombo mission.)
 
 Feel free to include any of the following as well:
 
-- Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experiences with "doublespeaker rhyme": When you're a low-status nobody, no one even *wants* to steal from you!)
+${'  ' || `
+// TODO: Review.
+`}
+
+- Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experience with "doublespeaker rhyme": When you're a low-status nobody, no one even *wants* to steal from you!)
 - Links to social media or video demonstrations.
 - Other circumstances you'd like us to consider.
 
