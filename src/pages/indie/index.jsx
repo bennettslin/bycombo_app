@@ -57,7 +57,11 @@ Indie rock encourages artists to retain their earnings— which, today, means ha
 
 **Why band *assembly*?**
 
-Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always do so on their own, in a decentralized free-for-all. But let's ditch this notion. What if musicians hoping to form history-making bands could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
+${'  ' || `
+// TODO: Review.
+`}
+
+Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always do so on their own, in a decentralized free-for-all. But let's ditch this notion. What if musicians hoping to form history-making bands could flock from across the world to a single hub? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
