@@ -147,7 +147,11 @@ To be clear, I'm not against subsidizing, let's say, music education. But when w
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-Growing up the child of Asian immigrants, I knew that [other countries](https://youtu.be/QhOFg_3RV5Q) had rock canons of their own. Yet, since each was merely "larping," or live-action role-playing, what they heard in ours— us being the Anglosphere— we paid them no mind. Which made ours "the" canon! And not least when, anytime a foreign band *could* rival us, like ABBA… they'd join us instead.
+${'  ' || `
+// TODO: Review link move.
+`}
+
+Growing up the child of Asian immigrants, I knew that other countries had rock canons of their own. Yet, since each was merely "larping," or live-action role-playing, what they [heard in ours](https://youtu.be/QhOFg_3RV5Q)— us being the Anglosphere— we paid them no mind. Which made ours "the" canon! And not least when, anytime a foreign band *could* rival us, like ABBA… they'd join us instead.
 
 So I've long cautioned those around me not to larp; after all, to belong in the canon alongside the Beatles, you first need to surpass every foreigner— and larping is what *foreigners* do. But the indie camp scorns this way of thinking, saying it reeks of cultural chauvinism: "Who are we to lord it over the world? Let a thousand canons bloom, with ours being just one of them!"
 
