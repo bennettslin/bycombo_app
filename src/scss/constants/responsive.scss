@@ -6,11 +6,11 @@ $multiplier__size: 1.25;
 $width__default: 800px;
 
 /**
-* The math isn't perfect, unfortunately. These hard-coded multipliers are meant
-* to keep the ratio of font size to page width consistent across screens. I've
-* verified they're correct, at least for the text I have now. They should only
-* ever decrease in size.
-*/
+ * The math isn't perfect, unfortunately. These hard-coded multipliers are meant
+ * to keep the ratio of font size to page width consistent across screens. I've
+ * verified they're correct, at least for the text I have now. They should only
+ * ever decrease in size.
+ */
 $hardcoded__multiplier__md: 0.9899;
 $hardcoded__multiplier__sm: 0.9810;
 
