@@ -1,5 +1,11 @@
 import React from 'react'
 import Page from '../../containers/Page'
+import {
+    BOBTAIL_DOMINOES_PATH,
+    BOBTAIL_METHOD_PATH,
+    BOBTAIL_YEARLINGS_PATH,
+    YEARLINGS_BOBTAIL_PATH,
+} from '../../constants/website'
 
 const TITLE = `The BYCombo mission`
 const DESCRIPTION = `We're here to lead the interdependence revolution!`
@@ -13,7 +19,7 @@ const Component = () => (
             body: `
 **As a nonprofit, BYCombo promotes amnesty for interdependence-seeking artists who advance the art form. Our approach is to assemble them into rock bands ourselves, and then expose them to potential partners.**
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You might be wondering why an amnesty program is needed in the arts— or why we favor *inter*-dependence, when *indie*-pendence is the primary way of thinking today. Let me explain…
+Hi, I'm Bennett from the [Bobtail Yearlings](${BOBTAIL_YEARLINGS_PATH})! You might be wondering why an amnesty program is needed in the arts— or why we favor *inter*-dependence, when *indie*-pendence is the primary way of thinking today. Let me explain…
 
 ### Tools… are *rules*
 
@@ -43,7 +49,7 @@ Yes! You see, indie rock has a glaring weakness: It doesn't *actually* separate 
 
 **Interdependent bands must spend *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
-The downside is clear… So who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours— or, twelve full-time years— making [*Yearling's Bobtail*](https://yearlingsbobtail.com), which included coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I could do so. Surely, then, I'd be given amnesty!
+The downside is clear… So who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours— or, twelve full-time years— making [*Yearling's Bobtail*](${YEARLINGS_BOBTAIL_PATH}), which included coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I could do so. Surely, then, I'd be given amnesty!
 
 ### Who makes the tastemakers?
 
@@ -51,7 +57,7 @@ Well… not so fast. The indie camp assumes that every artist faces the same hur
 
 So even as you build up *objective* strengths to win over a skeptical public, the indie tastemakers tip the scale toward the underdog by keeping their criteria *subjective*. Which is why they favor music that *lacks* [enviable hooks](/indie#time-is-kind-to-craft-not-context), and why they refuse to acknowledge our human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
-Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: my songwriting book [*Bobtail Method*](https://bobtailmethod.com), and my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). So even *altruism* is a losing strategy for the outsider! And now I finally understood:
+Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: my songwriting book [*Bobtail Method*](${BOBTAIL_METHOD_PATH}), and my musical tile game [*Bobtail Dominoes*](${BOBTAIL_DOMINOES_PATH}). So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
 **Indie rock will *never* give amnesty to interdependent bands, because *being* interdependent is what brands them as outsiders— and a movement that's kind to the underdog *must* be cruel to the outsider!**
 

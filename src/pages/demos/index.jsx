@@ -2,6 +2,7 @@ import React from 'react'
 import DemoLink from '../../components/DemoLink'
 import Page from '../../containers/Page'
 import bobtailYearlings from '../../content/demos/2023/bobtail-yearlings/yearlings-bobtail'
+import { BOBTAIL_SUBSTACK_PATH } from '../../constants/website'
 
 const TITLE = `Return of the rock martyrs… and *saviors*!`
 const DESCRIPTION = `A registry of demos made by our interdependent rock bands.`
@@ -14,7 +15,7 @@ const Component = () => (
             metaDescription: DESCRIPTION,
             body: [
                 `
-At BYCombo, we blame "[indiefication](/indie#the-revolution-will-not-be-decentralized)" for causing the arts to decline. And to reverse this? The best artists must now martyr themselves by making art for untold years, all the while remaining low-status and unknown, until you, our ally in "[rockism](https://bobtail.substack.com/p/in-defense-of-rockism)"— whether as a budding entrepreneur, discerning patron, or future historian— decide to grant them amnesty. Here's the deal:
+At BYCombo, we blame "[indiefication](/indie#the-revolution-will-not-be-decentralized)" for causing the arts to decline. And to reverse this? The best artists must now martyr themselves by making art for untold years, all the while remaining low-status and unknown, until you, our ally in "[rockism](${BOBTAIL_SUBSTACK_PATH}/in-defense-of-rockism)"— whether as a budding entrepreneur, discerning patron, or future historian— decide to grant them amnesty. Here's the deal:
 
 **Every band in this demo registry has pledged *not* to be indie— that is, *not* to get themselves known. Instead, they've each sacrificed a serious chunk of lifetime— 25,000 hours or more— on a demo that advances the art form.**
 
