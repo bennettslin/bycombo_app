@@ -6,7 +6,13 @@ import { Link } from 'gatsby'
 import { updateIsPointerDown } from '../../redux/page/action'
 import { mapIsPointerDown } from '../../redux/page/selector'
 import { getInternalLinkForPath } from '../../utils/pages/path'
-import { getFinalHref, getInternalLink } from './helper'
+import {
+    getFinalHref,
+    getInternalLink,
+    getIsBobtailLink,
+    getIsCommentaryLink,
+    getIsHighlightsLink,
+} from './helper'
 
 const Anchor = ({
     noVisited,
@@ -26,6 +32,9 @@ const Anchor = ({
             pagePath,
         }),
         finalHref = getFinalHref(href),
+        isCommentaryLink = getIsCommentaryLink(href),
+        isHighlightsLink = getIsHighlightsLink(href),
+        isBobtailLink = getIsBobtailLink(href),
         Tag = internalLink ? Link : 'a'
 
     const onPointerDown = () => {
@@ -58,6 +67,9 @@ const Anchor = ({
                 className: cx(
                     'Anchor',
                     'colour__link',
+                    isCommentaryLink && 'colour__commentary',
+                    isHighlightsLink && 'colour__highlights',
+                    isBobtailLink && 'colour__bobtail',
                     !noVisited && 'Anchor__showVisited',
                     className,
                 ),

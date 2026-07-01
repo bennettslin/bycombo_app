@@ -8,16 +8,53 @@
     &:not([disabled]):active {
         color: $colour__link__light;
     }
+}
 
-    &.Anchor__showVisited:visited {
-        color: $colour__visited__dark;
+.colour__commentary {
+    color: $colour__commentary__dark;
 
-        &:not([disabled]):hover {
-            color: $colour__visited__medium;
-        }
+    &:not([disabled]):hover {
+        color: $colour__commentary__medium;
+    }
 
-        &:not([disabled]):active {
-            color: $colour__visited__light;
-        }
+    &:not([disabled]):active {
+        color: $colour__commentary__light;
+    }
+}
+
+.colour__highlights {
+    color: $colour__highlights__dark;
+
+    &:not([disabled]):hover {
+        color: $colour__highlights__medium;
+    }
+
+    &:not([disabled]):active {
+        color: $colour__highlights__light;
+    }
+}
+
+.colour__bobtail {
+    color: $colour__bobtail__dark;
+
+    &:not([disabled]):hover {
+        color: $colour__bobtail__medium;
+    }
+
+    &:not([disabled]):active {
+        color: $colour__bobtail__light;
+    }
+}
+
+.Anchor__showVisited {
+    text-decoration: underline;
+
+    &:visited {
+        /**
+         * NOTE: This is a dumb workaround. Browsers don't allow you to add or
+         * remove underline based on visited status, due to malicious websites
+         * using it to deduce your browsing history.
+         */
+        text-decoration-color: $colour__background__light;
     }
 }
