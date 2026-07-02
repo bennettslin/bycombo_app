@@ -35,7 +35,8 @@ const Anchor = ({
         isCommentaryLink = getIsCommentaryLink(href),
         isHighlightsLink = getIsHighlightsLink(href),
         isBobtailLink = getIsBobtailLink(href),
-        Tag = internalLink ? Link : 'a'
+        isInternalLink = Boolean(internalLink),
+        Tag = isInternalLink ? Link : 'a'
 
     const onPointerDown = () => {
         dispatch(
@@ -50,7 +51,7 @@ const Anchor = ({
     }
 
     const onClick = e => {
-        if (analyticsLabel || internalLink) {
+        if (analyticsLabel || isInternalLink) {
             logEvent(
                 'Anchor',
                 analyticsLabel || internalLink,
@@ -67,7 +68,10 @@ const Anchor = ({
                 className: cx(
                     'Anchor',
                     'colour__link',
-                    isCommentaryLink && 'colour__commentary',
+                    (
+                        isCommentaryLink ||
+                        isInternalLink
+                    ) && 'colour__commentary',
                     isHighlightsLink && 'colour__highlights',
                     isBobtailLink && 'colour__bobtail',
                     !noVisited && 'Anchor__showVisited',
