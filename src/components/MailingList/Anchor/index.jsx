@@ -10,7 +10,7 @@ const MailingListAnchor = () => (
                 'MailingListAnchor',
                 'font__heading',
                 'fontSize__lg',
-                'colour__link',
+                'colour__commentary',
             ),
             analyticsLabel: 'BYComboSubstack',
             href: MAILING_LIST_WEBSITE,

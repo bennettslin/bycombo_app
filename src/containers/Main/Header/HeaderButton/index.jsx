@@ -14,7 +14,7 @@ const HeaderButton = ({ className, pagePath, children }) => {
             {...{
                 className: cx(
                     'HeaderButton',
-                    'colour__link',
+                    'colour__commentary',
                     'font__heading',
                     className,
                 ),
