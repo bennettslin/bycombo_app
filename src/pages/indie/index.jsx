@@ -391,10 +391,6 @@ The thing is, these labels are run by White men— and to prolong inequality, Wh
 
 So far, though, their efforts have only helped women, not us minorities— or minority *men*, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But if our kind *isn't* desired as friends… we can still be prized as *investments*! After all, a [smart investor](${HIGHLIGHTS_PATH}/smart-investor#) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So if you've been shut out by both indie rock's "old-boy network" *and* its good intentions, then join BYCombo… and let the market's "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" help you instead!
 
 ### ${++sectionCounter}. Elitism is the great equalizer
