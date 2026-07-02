@@ -14,6 +14,7 @@ const DemoLink = ({
     ...rest
 }) => (
     <Anchor
+        noVisited
         {...{
             className: cx(
                 'DemoLink',
