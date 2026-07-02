@@ -35,8 +35,12 @@ export const getFinalHref = (href = '') => {
     return href
 }
 
-export const getIsCommentaryLink = (href = '') => (
+const getIsCommentaryLink = (href = '') => (
     href.startsWith(COMMENTARY_PATH)
+)
+
+export const getIsCommentaryOrInternalLink = ({ href = '', internalLink }) => (
+    getIsCommentaryLink(href) || Boolean(internalLink)
 )
 
 export const getIsHighlightsLink = (href = '') => (
@@ -50,4 +54,16 @@ export const getIsBobtailLink = (href = '') => (
     href.startsWith(BOBTAIL_SUBSTACK_PATH) ||
     href.startsWith(BOBTAIL_YEARLINGS_PATH) ||
     href.startsWith(YEARLINGS_BOBTAIL_PATH)
+)
+
+export const getIsNoVisitedInternalLink = ({
+    href = '',
+    internalLink,
+    noVisited,
+}) => (
+    noVisited || (
+        internalLink &&
+        !getIsCommentaryLink(href) &&
+        !getIsHighlightsLink(href)
+    )
 )
