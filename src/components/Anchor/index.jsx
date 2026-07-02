@@ -74,7 +74,7 @@ const Anchor = ({
                     ) && 'colour__commentary',
                     isHighlightsLink && 'colour__highlights',
                     isBobtailLink && 'colour__bobtail',
-                    !noVisited && 'Anchor__showVisited',
+                    !isInternalLink && !noVisited && 'Anchor__showVisited',
                     className,
                 ),
                 ...internalLink && {
