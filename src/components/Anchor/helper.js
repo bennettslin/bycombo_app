@@ -24,12 +24,12 @@ export const getInternalLink = ({ href = '', pagePath }) => {
 }
 
 export const getFinalHref = (href = '') => {
-    // In runtime builds, use localhost for links to my own projects.
-    if (IS_RUNTIME) {
-
-        if (href.startsWith(YEARLINGS_BOBTAIL_PATH)) {
-            return href.replace(YEARLINGS_BOBTAIL_PATH, `${LOCALHOST}1112`)
-        }
+    /**
+     * TODO: In runtime builds, use localhost for links to my own projects for
+     * now. This won't be needed once everything is published.
+     */
+    if (IS_RUNTIME && href.startsWith(YEARLINGS_BOBTAIL_PATH)) {
+        return href.replace(YEARLINGS_BOBTAIL_PATH, `${LOCALHOST}1112`)
     }
 
     return href
