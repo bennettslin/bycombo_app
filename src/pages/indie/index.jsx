@@ -451,15 +451,27 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
-So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they crave interdependence as much as you do!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+There's one final point: When you're an outsider, being unlike everyone else is your *only* chance. So if your dream was *never* to be well-rounded, but to be strong in the ways of art, and thus weak in matters of business… now what? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa— because they crave interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
 Indie rock's ideals are rooted in *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be "indiefied" from the *beginning*? Imagine, then, that we go back in time to the '50s and announce, "Artists, as your own best advocate, you'll now be judged on self-reliance— that is, on how well you get *yourself* known, without a partner's help. The playing field is finally level!"
 
-Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By indiefying rock in the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
+${'  ' || `
+// TODO: Review a few more times.
+`}
 
-It's simple: Historically, victims of prejudice relied on a centralized judiciary to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to [end segregation](https://www.theguardian.com/society/2021/may/06/ruby-bridges-the-six-year-old-who-defied-a-mob-and-desegregated-her-school). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it'll always *reinforce* the prejudices of its times.
+Every Black artist would stare glumly at us. Why? It's because, being society's outsiders back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would thus work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. So, by indiefying rock in the '50s… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
+
+${'  ' || `
+// TODO: Review.
+`}
+
+It's simple: Historically, victims of prejudice relied on a centralized judiciary to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force its Southern states to [end segregation](https://www.theguardian.com/society/2021/may/06/ruby-bridges-the-six-year-old-who-defied-a-mob-and-desegregated-her-school). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it'll always *reinforce* the prejudices of its times.
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have shown that you *aren't* your own best advocate? Why, BYCombo can restore your artistic civil rights— by letting you partner with elites who'll advocate on your behalf!
 
