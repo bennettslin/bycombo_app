@@ -237,7 +237,11 @@ But in hindsight, it all *seemed* to be much ado about nothing— so Millennials
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
-It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly *win*, did it? So history *isn't* just "whatever happened"! Luckily, with BYCombo, Gen Z can now hold out for your works.
+${'  ' || `
+// TODO: Review.
+`}
+
+It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly *win*, did it? So history *isn't* just "whatever happened"! Fortunately, with BYCombo, Gen Z can now hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -247,11 +251,19 @@ By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/
 
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](${HIGHLIGHTS_PATH}/thoughts-drift#) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
-But… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between many hats: the promoter hat, the publicist hat… So keep the artist hat on, and have partners wear the others. Sure, this will risk alienating the indie camp— but *you* want your works to surpass you, no? Luckily, so does BYCombo.
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
-Who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant shows us it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. This explains why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. This explains why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
 
 Back in the day, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. And so, as a "zero," you'd explore at will, hoping to spark creative ideas that could take you "from one to *n*," and thus convince others to partner with you. But today, indie artists get to "one" on their *own*… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
