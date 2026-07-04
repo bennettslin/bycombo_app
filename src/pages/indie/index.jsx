@@ -255,7 +255,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between many hats: the promoter hat, the publicist hat… So keep the artist hat on, and have partners wear the others. Sure, this will risk alienating the indie camp— but *you* want your works to surpass you, no? Luckily, so does BYCombo.
+Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Yes, this risks alienating the indie camp— but *you* want your works to be better than you, no? Well, so does BYCombo.
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
