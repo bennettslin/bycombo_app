@@ -237,10 +237,6 @@ But in hindsight, it all *seemed* to be much ado about nothing— so Millennials
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly *win*, did it? So history *isn't* just "whatever happened"! Fortunately, with BYCombo, Gen Z can now hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
@@ -252,7 +248,7 @@ By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](${HIGHLIGHTS_PATH}/thoughts-drift#) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Still don't like it.
 `}
 
 Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep the artist hat on, and let partners wear the others. Yes, without talent scouts around, it's a huge risk— but *you* want your works to be better than you, and so does BYCombo.
@@ -260,7 +256,7 @@ Yet… this won't happen if you're always multitasking. No wonder, then, that "i
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. This explains why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
@@ -452,7 +448,7 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Still don't like it. Make it more like, when you're an outsider, you simply will have weaknesses.
 `}
 
 There's one final point: When you're an outsider, being unlike everyone else is your *only* chance. So if your dream was *never* to be well-rounded, but to be strong in the ways of art, and thus weak in matters of business… now what? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa— because they crave interdependence as much as you do!
@@ -465,13 +461,9 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Every Black artist would stare glumly at us. Why? It's because, being society's outsiders back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would thus work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. So, by indiefying rock in the '50s… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
+Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would thus work like an artistic poll tax, shutting them out in *effect*— without ever admitting to this *intent*. By indiefying rock in the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
-${'  ' || `
-// TODO: Review.
-`}
-
-It's simple: Historically, victims of prejudice relied on a centralized judiciary to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force its Southern states to [end segregation](https://www.theguardian.com/society/2021/may/06/ruby-bridges-the-six-year-old-who-defied-a-mob-and-desegregated-her-school). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it'll always *reinforce* the prejudices of its times.
+It's simple: Historically, victims of prejudice relied on a centralized judiciary to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to [end segregation](https://www.theguardian.com/society/2021/may/06/ruby-bridges-the-six-year-old-who-defied-a-mob-and-desegregated-her-school). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it'll always *reinforce* the prejudices of its times.
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have shown that you *aren't* your own best advocate? Why, BYCombo can restore your artistic civil rights— by letting you partner with elites who'll advocate on your behalf!
 
