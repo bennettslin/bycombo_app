@@ -248,10 +248,10 @@ By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](${HIGHLIGHTS_PATH}/thoughts-drift#) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
 ${'  ' || `
-// TODO: Revise. Still don't like it.
+// TODO: Review a few more times.
 `}
 
-Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep the artist hat on, and let partners wear the others. Yes, without talent scouts around, it's a huge risk— but *you* want your works to be better than you, and so does BYCombo.
+Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep the artist hat on, and let partners wear the others. Yes, with no talent scouts left, it's a huge risk— but *you* want your works to surpass you, no? Luckily, BYCombo wants this for you as well.
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
