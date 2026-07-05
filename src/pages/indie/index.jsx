@@ -251,7 +251,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: promoter hat, publicist hat… So keep your artist hat on, and let *partners* wear the others. Yes, with no talent scouts left, it's a huge risk— but *you* want your works to surpass you, and BYCombo wants this for you too.
+Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: promoter hat, publicist hat… So keep your artist hat on, and let *partners* wear the others. Yes, you'll risk alienating the indie camp— but *you* want your works to surpass you, no? Luckily, BYCombo wants it for you too.
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
@@ -438,10 +438,10 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Review a few more times.
 `}
 
-Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met the same one… a hundred times over! After all, independence requires you to have no weaknesses, and thus no real strengths— to be [well-rounded](${BOBTAIL_BLOG_PATH}/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since all rounded objects converge on the same shape, this makes the indie camp all think alike…
+Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met the same one… a hundred times over! You see, the first rule of independence is to have no weaknesses, and thus no real strengths— to be [well-rounded](${BOBTAIL_BLOG_PATH}/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since all rounded objects converge on the same shape, this makes the indie camp all think alike…
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
