@@ -21,7 +21,7 @@ const Component = ({ sectionCounter = 0 }) => (
             title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
-            date: { year: 2026, month: 6 },
+            date: { year: 2026, month: 7 },
             body: `
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only ever signed artists with a *proven* fanbase, who were thus empowered to hold out for the *fairest* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
@@ -251,7 +251,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep the artist hat on, and let partners wear the others. Yes, with no talent scouts left, it's a huge risk— but *you* want your works to surpass you, no? Luckily, BYCombo wants this for you as well.
+Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep the artist hat on, and let partners wear the others. Yes, with no talent scouts left, it's a huge risk— but *you* want your works to surpass you, no? Well, BYCombo wants this for you as well.
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
@@ -448,10 +448,10 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
 ${'  ' || `
-// TODO: Revise. Still don't like it. Make it more like, when you're an outsider, you simply will have weaknesses.
+// TODO: Review a few more times.
 `}
 
-There's one final point: When you're an outsider, being unlike everyone else is your *only* chance. So if your dream was *never* to be well-rounded, but to be strong in the ways of art, and thus weak in matters of business… now what? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa— because they crave interdependence as much as you do!
+One final point: As an outsider, you *can't* be well-rounded; your low place in society leaves you with ongoing weaknesses… and thus your *only* chance is to build up your few strengths to dizzying heights. Thankfully, BYCombo lets you find partners who are just as lopsided— only strong where you're weak, and vice versa— because they *need* interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -461,7 +461,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would thus work like an artistic poll tax, shutting them out in *effect*— without ever admitting to this *intent*. By indiefying rock in the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
+Every Black artist would stare glumly at us, no? As society's outsiders back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would thus work like an artistic poll tax, shutting them out in *effect*— while admitting to no such *intent*. By indiefying rock in the '50s, then, we'd look like racists. But… this *wasn't* our intent! So where'd we go wrong?
 
 It's simple: Historically, victims of prejudice relied on a centralized judiciary to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to [end segregation](https://www.theguardian.com/society/2021/may/06/ruby-bridges-the-six-year-old-who-defied-a-mob-and-desegregated-her-school). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it'll always *reinforce* the prejudices of its times.
 
