@@ -251,13 +251,9 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep the artist hat on, and let partners wear the others. Yes, with no talent scouts left, it's a huge risk— but *you* want your works to surpass you, no? Well, BYCombo wants this for you as well.
+Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: promoter hat, publicist hat… So keep your artist hat on, and let *partners* wear the others. Yes, with no talent scouts left, it's a huge risk— but *you* want your works to surpass you, and BYCombo wants this for you too.
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. This explains why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
 
@@ -455,14 +451,14 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-One last point: As an outsider, you *won't* be well-rounded; your low place in society leaves you with ongoing weaknesses… and thus your *only* chance is to build up your few strengths to dizzying heights. Thankfully, BYCombo lets you find partners who are just as lopsided— only strong where you're weak, and vice versa— because they crave interdependence as much as you do!
+One last point: As an outsider, you *won't* be well-rounded; your low place in society leaves you with glaring weaknesses… and thus your *only* hope is to build up your few strengths to dizzying heights. Thankfully, BYCombo helps you find partners who are just as lopsided— only strong where you're weak, and vice versa— because they crave interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
 Indie rock's ideals are rooted in *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be "indiefied" from the *beginning*? Imagine, then, that we go back in time to the '50s and announce, "Artists, as your own best advocate, you'll now be judged on self-reliance— that is, on how well you get *yourself* known, without a partner's help. The playing field is finally level!"
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Every Black artist would stare glumly at us, no? As society's outsiders back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would thus work like an artistic poll tax, shutting them out in *effect*— while admitting to no such *intent*. By indiefying rock in the '50s, then, we'd look like racists. But… this *wasn't* our intent! So where'd we go wrong?
@@ -675,10 +671,6 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ### ${++sectionCounter}. Artists want faith in a savior
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built the "one-to-*n*" talents that gave us "[It's My Party](https://youtu.be/RjdH_NmmO0I)"… and "[Down on Me](https://youtu.be/lnjZ4IUD6Tg?t=12)"… and "[Court and Spark](https://youtu.be/_1Z6I62yvfg)"… and "[Violet](https://youtu.be/cH_rfGBwamc)"…
 
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if few others join me in calling it "workhorse" versus "windfall art."
@@ -696,10 +688,6 @@ Meanwhile, by refusing to be indie, an interdependent band can't compete on *any
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% of results, no? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results! In other words:
 
 **By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this the 4x Law of Interdependence.**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Which checks out, right? Among interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than the best indie artists! Victory, then, is *assured*— because, now, what elite *wouldn't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](${HIGHLIGHTS_PATH}/soviet-joke#): "Indie rock is the longest and most painful route from interdependence to… interdependence."
             `,
