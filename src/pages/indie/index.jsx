@@ -251,7 +251,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: promoter hat, publicist hat… So keep your artist hat on, and let *partners* wear the others. Yes, you'll risk alienating the indie camp— but *you* want your works to surpass you, no? Luckily, BYCombo wants it for you too.
+Yet… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: promoter hat, publicist hat… So keep your artist hat on, and let *partners* wear the others. Yes, you'll risk alienating the indie camp— but *you* want your works to surpass you, no? Luckily, BYCombo wants this for you too.
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
@@ -451,7 +451,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-One last point: As an outsider, you *won't* be well-rounded; your low place in society leaves you with glaring weaknesses… and thus your *only* hope is to build up your few strengths to dizzying heights. Thankfully, BYCombo helps you find partners who are just as lopsided— only strong where you're weak, and vice versa— because they crave interdependence as much as you do!
+One last point: As an outsider, you *won't* be well-rounded; your low place in society leaves you with glaring weaknesses… and thus your *only* chance is to build up your few strengths to dizzying heights. Thankfully, BYCombo helps you find partners as lopsided as you— only strong where you're weak, and vice versa— who thus crave interdependence like you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
