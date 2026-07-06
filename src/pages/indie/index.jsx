@@ -457,7 +457,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met the same one… a hundred times over! You see, the first rule of independence is to have no weaknesses, and thus no real strengths— to be [well-rounded](${BOBTAIL_BLOG_PATH}/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since all rounded objects converge on the same shape, this makes the indie camp all think alike…
+Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met the same one… a hundred times over! See, the first rule of *indie*-pendence is to have no weaknesses, and thus no real strengths— to be [well-rounded](${BOBTAIL_BLOG_PATH}/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since all rounded objects converge on the same shape, this makes the indie camp all think alike…
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
@@ -467,7 +467,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-One last point: As an outsider, you *won't* be well-rounded; your low place in society leaves you with glaring weaknesses… and thus your *only* chance is to build up your few strengths to dizzying heights. Thankfully, BYCombo helps you find partners as lopsided as you— only strong where you're weak, and vice versa— who thus crave interdependence like you do!
+One last point: As an outsider, you *won't* be well-rounded; your low place in society leaves you with glaring weaknesses… and thus your *only* chance is to build up your few strengths to dizzying heights. Thankfully, BYCombo helps you find partners as lopsided as you— only strong where you're weak, and vice versa— because we grasp the concept of *inter*-dependence like you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
