@@ -487,7 +487,11 @@ So if seeking to gain from one's identity— one's *self*, if you will— is the
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
 
-Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal. Now *all* of us could excel at— and thus be judged on— what critics and fans value most: a compelling persona.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal. Now *all* of us could excel at— and thus be judged on— what fans and critics value most: a compelling persona.
 
 And so I had *no* lifeline… but then, [as it happens](${BOBTAIL_BLOG_PATH}/2011/07/resistible-canaanites-request-for.html#:~:text=But%20really%2C%20how,from%20me.), Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* find underdogs to favor, based on "safe" criteria like [place of origin](${HIGHLIGHTS_PATH}/place-of-origin#). For a clear conscience, then, we *must* toss a lifeline to the rest— whom we've now made *worse* off in this zero-sum game.
 
@@ -547,7 +551,11 @@ See, us dreamers, we're not grounded in reality— which makes our visions hard 
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
-Sadly, with no dreamer in our times to serve as an exemplar, critics and fans are *happy* to mistake a striver's artsiness for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the notion of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect business partner: a striver!
+${'  ' || `
+// TODO: Review.
+`}
+
+Sadly, with no dreamer in our times to serve as an exemplar, fans and critics are *happy* to mistake a striver's artsiness for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the notion of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect business partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
