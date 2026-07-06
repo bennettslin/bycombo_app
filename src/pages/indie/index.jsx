@@ -135,7 +135,11 @@ By recasting itself as a populist movement, then, indie rock didn't just adopt t
 
 In the past, we didn't "support" artists— [outside of](https://en.wikipedia.org/wiki/Outsider_music) the *true* charity cases, like amateurs, recluses, the mentally ill… Yet today's fans will charitably support *any* artist, even a superstar— in a trend known as "poptimism." How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
-Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the [same honors](https://pitchfork.com/news/41559-arcade-fire-win-the-album-of-the-year-grammy).
+${'  ' || `
+// TODO: Review.
+`}
+
+Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, *is* it? It's a supreme advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the [same honors](https://pitchfork.com/news/41559-arcade-fire-win-the-album-of-the-year-grammy).
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
@@ -227,7 +231,11 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 
 All demand for such craft, then, came *solely* from radio— which means the end of radio *also* spelled the end for those who'd mastered it: bands such as the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
-Yet the past artists we love most *don't* require us to know of any surrounding context, do they? History, then… behaves like radio! So don't get complacent in our new online era: To be timeless, your music still needs to hook in casual listeners on its *own*. Which is why BYCombo gives you ample time to master the craft— as if you were an Xennial child hoping to get on the radio one day.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet the past artists we love most *don't* require us to know of any surrounding context, *do* they? History, then… behaves like radio! So don't get complacent in our new online era: To be timeless, your music still needs to hook in casual listeners on its *own*. Which is why BYCombo gives you ample time to master the craft— as if you were an Xennial child hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
@@ -237,7 +245,11 @@ But in hindsight, it all *seemed* to be much ado about nothing— so Millennials
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
-It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly *win*, did it? So history *isn't* just "whatever happened"! Fortunately, with BYCombo, Gen Z can now hold out for your works.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. Yet indie rock didn't exactly *win*, now, *did* it? So history *isn't* just "whatever happened"! Fortunately, with BYCombo, Gen Z can hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -251,7 +263,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet… this won't happen if you're forever multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep the artist hat on, and let partners wear all others. Sure, you risk losing the indie camp… but *they're* not holding out for your works to surpass you, are they? Only you and BYCombo are.
+Yet… this won't happen if you're forever multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep the artist hat on, and let partners wear all others. Sure, you risk losing the indie camp… but *they're* not holding out for your works to surpass you, only *we* are— you and BYCombo.
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
