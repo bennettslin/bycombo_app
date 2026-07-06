@@ -135,10 +135,6 @@ By recasting itself as a populist movement, then, indie rock didn't just adopt t
 
 In the past, we didn't "support" artists— [outside of](https://en.wikipedia.org/wiki/Outsider_music) the *true* charity cases, like amateurs, recluses, the mentally ill… Yet today's fans will charitably support *any* artist, even a superstar— in a trend known as "poptimism." How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, *is* it? It's a supreme advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the [same honors](https://pitchfork.com/news/41559-arcade-fire-win-the-album-of-the-year-grammy).
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
@@ -231,10 +227,6 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 
 All demand for such craft, then, came *solely* from radio— which means the end of radio *also* spelled the end for those who'd mastered it: bands such as the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet the past artists we love most *don't* require us to know of any surrounding context, *do* they? History, then… behaves like radio! So don't get complacent in our new online era: To be timeless, your music still needs to hook in casual listeners on its *own*. Which is why BYCombo gives you ample time to master the craft— as if you were an Xennial child hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
@@ -246,10 +238,10 @@ But in hindsight, it all *seemed* to be much ado about nothing— so Millennials
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. Yet indie rock didn't exactly *win*, now, *did* it? So history *isn't* just "whatever happened"! Fortunately, with BYCombo, Gen Z can hold out for your works.
+It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. Yet indie rock didn't exactly *win*, now, *did* it? So history *isn't* just "whatever happened"! Fortunately, with BYCombo, Gen Z can finally hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -260,7 +252,7 @@ By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](${HIGHLIGHTS_PATH}/thoughts-drift#) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Yet… this won't happen if you're forever multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep your artist hat on, and let partners wear the others. Sure, you risk losing the indie camp… but *they're* not holding out for your works to surpass you; only *we* are— you and us at BYCombo.
@@ -454,7 +446,7 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met the same one… a hundred times over! See, the first rule of *indie*-pendence is to have no weaknesses, and thus no real strengths— to be [well-rounded](${BOBTAIL_BLOG_PATH}/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since all rounded objects converge on the same shape, this makes the indie camp all think alike…
@@ -464,18 +456,14 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-One last point: As an outsider, you *won't* be well-rounded; your low place in society leaves you with glaring weaknesses… and thus your *only* chance is to build up your few strengths to dizzying heights. Thankfully, BYCombo helps you find partners as lopsided as you— only strong where you're weak, and vice versa— because we grasp the concept of *inter*-dependence like you do!
+One last point: As an outsider, you *won't* be well-rounded; your low place in society leaves you with glaring weaknesses… and thus your *only* chance is to build up your few strengths to dizzying heights. Thankfully, BYCombo helps you find partners as lopsided as you— only strong where you're weak, and vice versa— because, like you, we grasp the concept of *inter*-dependence!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
 Indie rock's ideals are rooted in *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be "indiefied" from the *beginning*? Imagine, then, that we go back in time to the '50s and announce, "Artists, as your own best advocate, you'll now be judged on self-reliance— that is, on how well you get *yourself* known, without a partner's help. The playing field is finally level!"
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Every Black artist would stare glumly at us, no? As society's outsiders back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would thus work like an artistic poll tax, shutting them out in *effect*— while admitting to no such *intent*. By indiefying rock in the '50s, then, we'd look like racists. But… this *wasn't* our intent! So where'd we go wrong?
 
