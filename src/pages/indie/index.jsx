@@ -447,7 +447,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Finally, as an outsider, you *can't* be well-rounded; your disadvantages in life leave you with glaring weaknesses… and thus your one hope is to build up a few strengths to dizzying heights. Luckily, BYCombo lets you find partners as lopsided as you— only strong where you're weak, and vice versa— because, like you, we grasp the concept of interdependence!
+Finally, as an outsider, you *can't* be well-rounded; your disadvantages in life leave you with glaring weaknesses… and thus your one hope is to build up a few strengths to dizzying heights. Luckily, BYCombo lets you find partners as lopsided as you— only strong where you're weak, and vice versa— because, like you, we *too* grasp the concept of interdependence!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -513,7 +513,11 @@ As stated earlier, we humans dislike creative ideas… but we're *also* biased a
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for those in tech to take over: They just had to speak of "empowering the people," or "freeing the human spirit"… and we fell for the cliché every time.
 
-So yes, the arts have declined— but it *isn't* because the tech platforms follow the science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the [research says](https://www.businessinsider.com/cognitive-biases-2015-10) it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
+${'  ' || `
+// TODO: Review link removal.
+`}
+
+So yes, the arts have declined— but it *isn't* because the tech platforms follow the science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
 
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
