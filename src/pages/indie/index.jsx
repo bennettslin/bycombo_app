@@ -451,7 +451,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Finally, as an outsider, you *can't* be well-rounded; your disadvantages in life leave you with glaring weaknesses… and thus your one hope is to build up a few strengths to dizzying heights. Luckily, BYCombo lets you find partners as lopsided as you— only strong where you're weak, and vice versa— because, like you, we *too* grasp the concept of interdependence!
+Finally, as an outsider, you *won't* be well-rounded; your disadvantages in life leave you with glaring weaknesses… and thus your one hope is to build up a few strengths to dizzying heights. Luckily, BYCombo lets you find partners as lopsided as you— only strong where you're weak, and vice versa— because, like you, we *too* grasp the concept of interdependence!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
