@@ -255,7 +255,11 @@ Yet… this won't happen if you're forever multitasking. No wonder, then, that "
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
-Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. This explains why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
+${'  ' || `
+// TODO: Review.
+`}
+
+Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. Which solves the mystery of why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
 
 Back in the day, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. And so, as a "zero," you'd explore at will, hoping to spark creative ideas that could take you "from one to *n*," and thus convince others to partner with you. But today, indie artists get to "one" on their *own*… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
