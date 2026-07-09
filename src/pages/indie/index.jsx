@@ -245,7 +245,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. Yet indie rock didn't exactly *win*, now, *did* it? So history *isn't* just "whatever happens"! Fortunately, with BYCombo, Gen Z can finally hold out for your works.
+It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly win, *did* it? So history *isn't* just "whatever happens"! Fortunately, with BYCombo, Gen Z can now hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
