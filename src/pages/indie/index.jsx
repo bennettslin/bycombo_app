@@ -233,11 +233,19 @@ Yet the past artists we love most *don't* require us to know of any surrounding 
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock and roll renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
-But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "History is just whatever happens!" As a result, they were [glad to see](${BOBTAIL_BLOG_PATH}/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) *anything* happen, and never asked what might've happened *instead*, had they held out for better works. Still, why didn't more artists join with me, and try to *show* them how much better a work can be?
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens, that's what'll make history!" As a result, [they were glad](${BOBTAIL_BLOG_PATH}/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) for *anything* to happen, and never asked what might've happened *instead*, had they held out for better works. Still… why didn't more artists join with me, and try to *show* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
-It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. Yet indie rock didn't exactly *win*, now, *did* it? So history *isn't* just "whatever happened"! Fortunately, with BYCombo, Gen Z can finally hold out for your works.
+${'  ' || `
+// TODO: Review.
+`}
+
+It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. Yet indie rock didn't exactly *win*, now, *did* it? So history *isn't* just "whatever happens"! Fortunately, with BYCombo, Gen Z can finally hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
