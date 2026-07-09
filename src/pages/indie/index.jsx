@@ -455,7 +455,11 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
-Finally, as an outsider, you *won't* be well-rounded; your disadvantages in life leave you with glaring weaknesses… and thus your one hope is to build up a few strengths to dizzying heights. Luckily, BYCombo lets you find partners as lopsided as you— only strong where you're weak, and vice versa— because, like you, we *too* grasp the concept of interdependence!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+In any case, as an outsider, you *can't* be well-rounded; your disadvantages in life leave you with incurable weaknesses… and thus your one hope is to build up a few strengths to lofty heights. Luckily, BYCombo helps you find partners as lopsided as you— only strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
