@@ -167,7 +167,11 @@ By the '00s, the major labels had gutted the local scenes in their search for th
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into power laws. Since it's hard to say whose works are best, we often just like what others like. Right? Well… they do the same! As a result, any [random boost](${HIGHLIGHTS_PATH}/random-boost#) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
-Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes; they simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who'd signed with the indies for this very reason!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes; they simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who'd signed with the indies first for this very reason!
 
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Thankfully, BYCombo is here to build a *new* path to stardom. Because, once you've gone above and beyond to make the best art, you *won't* just settle for "a thousand [true fans](https://kk.org/thetechnium/1000-true-fans)." And if superstars are inevitable, then why can't *you* get a chance to be one?
 
@@ -260,7 +264,7 @@ Yet… this won't happen if you're forever multitasking. No wonder, then, that "
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
 Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. Which explains why indie rock is so *un*-original: While its artists *seek* greater status, its labels *cede* it— so *no one* takes any risks!
