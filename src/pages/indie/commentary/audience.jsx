@@ -19,7 +19,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-While we're at it, ditto for the term "[elite capture](https://openw0rld.substack.com/p/the-elite-capture-of-substack)." In high school, the theme of my graduating class was, "The next elites." Because, again, there's just no other word to describe those who *should* be at the top! So yes, an institution can be captured by its most privileged, its most ideological… But as for "elite," let's leave it to mean what a teen would take it to mean.
+While we're at it, ditto for the term "[elite capture](https://openw0rld.substack.com/p/the-elite-capture-of-substack)." In high school, the theme of my graduating class was, "The next elites." Because, again, there's just no other word to describe those who *should* be at the top! So yes, an institution can be captured by its most privileged, its most ideological… But as for "elite," let's leave it to mean what a *teen* would take it to mean.
             `,
         }}
     />
