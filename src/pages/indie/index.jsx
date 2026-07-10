@@ -104,7 +104,7 @@ Here are fifty ways…
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, then, this made them [alternative](${COMMENTARY_PATH}/alternative#), not indie— as Gen X knows. To Millennials, however, music is indie if it *sounds* indie… so now we're all waiting on the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
@@ -170,10 +170,6 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: "Any artist can now flourish on the fringes!" Yet today, superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into power laws. Since it's hard to say whose works are best, we often just like what others like. Right? Well… they do the same! As a result, any [random boost](${HIGHLIGHTS_PATH}/random-boost#) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes; they simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who'd signed with the indies first for this very reason!
 
@@ -241,17 +237,9 @@ Yet the past artists we love most *don't* require us to know of any surrounding 
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock and roll renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens, that's what'll make history!" As a result, [they were glad](${BOBTAIL_BLOG_PATH}/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) for *anything* to happen, and never asked what might've happened *instead*, had they held out for better works. Still… why didn't more artists join with me, and try to *show* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly win, *did* it? So history *isn't* just "whatever happens"! Fortunately, with BYCombo, Gen Z can now hold out for your works.
 
@@ -268,7 +256,7 @@ Yet… this won't happen if you're forever multitasking. No wonder, then, that "
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. All of which explains why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
@@ -453,7 +441,11 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
-Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met the same one… a hundred times over! You see, the first rule of independence is to have no weaknesses, and thus no real strengths— to be [well-rounded](${BOBTAIL_BLOG_PATH}/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since all rounded objects converge on the same shape, this makes the indie camp all think alike…
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met the same one… a hundred times over! See, the first rule of independence is to have no weaknesses, and thus no real strengths— to be [well-rounded](${BOBTAIL_BLOG_PATH}/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since rounded objects converge on the same shape, this makes the indie camp all think alike…
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
@@ -463,7 +455,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-In any case, as an outsider, you *can't* be well-rounded; your disadvantages in life leave you with incurable weaknesses… and thus your one hope is to build up a few strengths to lofty heights. Luckily, BYCombo helps you find partners as lopsided as you— only strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
+In any case, as an outsider, you *won't* be well-rounded; your disadvantages in life leave you with incurable weaknesses… and thus your one hope is to build up a few strengths to lofty heights. Luckily, BYCombo helps you find partners as lopsided as you— only strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -684,7 +676,7 @@ Let's return to the original question: How has indie rock made music worse? In s
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if few others join me in calling it "workhorse" versus "windfall art."
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for business partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
