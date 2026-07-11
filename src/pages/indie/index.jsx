@@ -107,7 +107,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, then, this made them [alternative](${COMMENTARY_PATH}/alternative#), not indie— as Gen X knows. To Millennials, however, music is indie if it *sounds* indie… so now we're all waiting on the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
+In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, then, this made them [alternative](${COMMENTARY_PATH}/alternative#), not indie— as Gen X knows. To Millennials, however, music is indie if it *sounds* indie… so now we're all waiting on the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get so confused?
 
 Simply put, indie rock isn't clear on what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture driven by anti-establishment grievances— and as such, it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to tear down the system!"
 
@@ -254,10 +254,6 @@ Of course, the best artists *are* human— so how are such works possible? It's 
 Yet… this won't happen if you're forever multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep your artist hat on, and let partners wear the others. Sure, you risk losing the indie camp… but *they're* not holding out for your works to surpass you; only *we* are— you and us at BYCombo.
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. All of which explains why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
 
@@ -442,17 +438,17 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met the same one… a hundred times over! See, the first rule of independence is to have no weaknesses, and thus no real strengths— to be [well-rounded](${BOBTAIL_BLOG_PATH}/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since rounded objects converge on the same shape, this makes the indie camp all think alike…
+Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met the same one… a hundred times over! See, the first rule of independence is to have no weaknesses, and thus no real strengths— to be [well-rounded](${BOBTAIL_BLOG_PATH}/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since rounded objects converge on the same shape, this makes the indie camp all think alike.
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 In any case, as an outsider, you *won't* be well-rounded; your disadvantages in life leave you with incurable weaknesses… and thus your one hope is to build up a few strengths to lofty heights. Luckily, BYCombo helps you find partners as lopsided as you— only strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
@@ -674,10 +670,6 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built the "one-to-*n*" talents that gave us "[It's My Party](https://youtu.be/RjdH_NmmO0I)"… and "[Down on Me](https://youtu.be/lnjZ4IUD6Tg?t=12)"… and "[Court and Spark](https://youtu.be/_1Z6I62yvfg)"… and "[Violet](https://youtu.be/cH_rfGBwamc)"…
 
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if few others join me in calling it "workhorse" versus "windfall art."
-
-${'  ' || `
-// TODO: Review.
-`}
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for business partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
 
