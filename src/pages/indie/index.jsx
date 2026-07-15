@@ -415,9 +415,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands who *readily* signed with the major labels in the '90s. Yet the [college-educated](${HIGHLIGHTS_PATH}/college-educated#) indie camp— the supposed good guys— won't hear of it: "Real artists *refuse* to sell out; instead, they build up cred by touring at a loss for years and years!"
+Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to the major labels despite being derided as sellouts. Yet the [college-educated](${HIGHLIGHTS_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Real artists build up cred by touring! And if it's at a loss… who's to know?"
 
-Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to "larp" as a revolutionary.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to "larp" as a modern-day rebel.
 
 After all, only the *privileged* can afford to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
