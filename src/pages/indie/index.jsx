@@ -415,7 +415,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being criticized as sellouts. Yet the [college-educated](${HIGHLIGHTS_PATH}/college-educated#) indie camp— the supposed good guys— won't hear of it: "Real artists build up cred by touring! And if it's at a loss… who's to know?"
+Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being criticized as sellouts. Yet the [college-educated](${HIGHLIGHTS_PATH}/college-educated#) indie camp— the supposed good guys— won't hear of it: "Real artists build a fanbase by touring! And if it's at a loss… who's to know?"
 
 ${'  ' || `
 // TODO: Review a few more times.
