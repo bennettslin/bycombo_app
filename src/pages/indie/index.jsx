@@ -367,10 +367,6 @@ So I took a coding bootcamp, and for [seven years](${BOBTAIL_SUBSTACK_PATH}/zill
 
 Except… now it made perfect sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will insist on keeping that culture as it is— no matter how broken it's become.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Moreover, once a dues payer has wasted their best years racking up "[cred](${COMMENTARY_PATH}/cred#)" instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those willing to squander even *more* potential. But any such newcomer will then feel even *less* secure— thus widening the [vicious circle](${HIGHLIGHTS_PATH}/vicious-circle#) of brokenness.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
@@ -419,13 +415,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being criticized as sellouts. Yet the [college-educated](${HIGHLIGHTS_PATH}/college-educated#) indie camp— the supposed good guys— won't hear of it: "Just keep touring at a loss, and rack up the cred needed to win our support!"
+Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being seen as sellouts. Yet the [college-educated](${HIGHLIGHTS_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Just keep touring at a loss! Once you rack up enough cred, we'll support you."
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as some courageous rebel.
+Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a modern-day rebel.
 
 After all, only the *privileged* can afford to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
