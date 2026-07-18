@@ -407,7 +407,11 @@ Which explains why the disadvantaged tend to be *put off* by [populism](${COMMEN
 
 ### ${++sectionCounter}. True progressives join the establishment
 
-In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
+${'  ' || `
+// TODO: Review.
+`}
+
+In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the defeated rebels. This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
 ${'  ' || `
 // TODO: Review a few more times.
