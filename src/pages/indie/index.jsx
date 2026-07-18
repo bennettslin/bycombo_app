@@ -414,13 +414,13 @@ ${'  ' || `
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the defeated rebels. This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${HIGHLIGHTS_PATH}/watch-in-confusion#) as the disadvantaged among us side with the establishment instead.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being seen as sellouts. Yet the [college-educated](${HIGHLIGHTS_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Just keep touring at a loss! Once you rack up enough cred, we'll support you."
