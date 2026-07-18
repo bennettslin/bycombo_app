@@ -409,7 +409,11 @@ Which explains why the disadvantaged tend to be *put off* by [populism](${COMMEN
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
-Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${HIGHLIGHTS_PATH}/watch-in-confusion#) as the disadvantaged among us side with its elites instead.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${HIGHLIGHTS_PATH}/watch-in-confusion#) as the disadvantaged among us side with the establishment instead.
 
 ${'  ' || `
 // TODO: Review a few more times.
