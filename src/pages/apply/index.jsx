@@ -1,5 +1,6 @@
 import React from 'react'
 import Page from '../../containers/Page'
+import { BOBTAIL_SUBSTACK_PATH } from '../../constants/website'
 
 const TITLE = `Join the interdependence revolution!`
 const DESCRIPTION = `Sacrifice a serious chunk of lifetime to advance the art form.`
@@ -20,7 +21,11 @@ Furthermore, the only measure trusted by the indie tastemakers is the size of yo
 
 ### Who we're looking for
 
-Are you eager to be remembered by future generations? Are you willing to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Are you a "[rockist](${BOBTAIL_SUBSTACK_PATH}/in-defense-of-rockism)" who hopes to be remembered by future generations? Are you willing to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
 
 Most importantly, are you ready to defy the indie tastemakers, even as they have the power to shut you out for good? In other words, do you understand that, after sacrificing a serious chunk of lifetime, you might *still* be denied amnesty— leaving you with nothing but the work you've done, the talents you've built, and the friends you've made?
 
@@ -32,13 +37,27 @@ If so, then come be part of the interdependence revolution! We're looking for th
 
 ### How you'll form a band
 
-We'll select each applicant based on their talents and creative ideas. If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
+${'  ' || `
+// TODO: Review.
+`}
+
+We'll select each applicant based on their talents and creative ideas. If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill level. Upon reviewing each other's links and videos, you'll meet online.
 
 Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you regularly in person. After settling in, each of you will put in enough time on your band project for the sum total to reach 25,000 hours— or, twelve full-time years.
 
 ### A lifetime of band projects
 
-BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to potential partners by adding it to our demo registry and including it in our latest newsletter. As an alum, you'll also have a chance to "pay it forward" and work with future cohorts.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. You'll perform for each other at house parties, where any guests will be welcome; however, in accordance with your pledge, you *won't* be promoting these live shows to the public.
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Once your demo is complete, we'll add it to our demo registry and feature it in our latest newsletter, thus exposing you to future partners. As an alum, you'll also have a chance to "pay it forward" and work with future cohorts.
 
 And for your next band project, we want you to set the bar even *higher*! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and all BYCombo bands are family!
 
