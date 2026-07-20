@@ -407,27 +407,11 @@ Which explains why the disadvantaged tend to be *put off* by [populism](${COMMEN
 
 ### ${++sectionCounter}. True progressives join the establishment
 
-${'  ' || `
-// TODO: Review.
-`}
-
-In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the defeated rebels. This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
-
-${'  ' || `
-// TODO: Review.
-`}
+In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${HIGHLIGHTS_PATH}/watch-in-confusion#) as the disadvantaged among us side with the establishment instead.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being seen as sellouts. Yet the [college-educated](${HIGHLIGHTS_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Just keep touring at a loss! Once you rack up enough cred, we'll support you."
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a modern-day rebel.
 
