@@ -55,7 +55,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. You'll gain live experience by playing for each other at house parties, where any guests will be welcome; in accordance with your pledge, however, you *won't* be promoting these shows to the public.
+BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. You'll gain live experience by playing for each other at house parties, where any guests will be welcome; in accordance with your pledge, however, you *won't* be promoting these shows to the greater public.
 
 ${'  ' || `
 // TODO: Review.
