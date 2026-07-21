@@ -21,7 +21,11 @@ Furthermore, the only measure trusted by the indie tastemakers is the size of yo
 
 ### Who we're looking for
 
-Are you a "[rockist](${BOBTAIL_SUBSTACK_PATH}/in-defense-of-rockism)" who hopes to be remembered by future generations? Are you willing to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
+${'  ' || `
+// TODO: Review.
+`}
+
+Are you a "[rockist](${BOBTAIL_SUBSTACK_PATH}/in-defense-of-rockism)" who hopes to be remembered by future generations? Are you willing to join an assembled band whose members get equal credit and royalties? And are you able to devote at least thirty hours each week to your band project?
 
 Most importantly, are you ready to defy the indie tastemakers, even as they have the power to shut you out for good? In other words, do you understand that, after sacrificing a serious chunk of lifetime, you might *still* be denied amnesty— leaving you with nothing but the work you've done, the talents you've built, and the friends you've made?
 
