@@ -21,10 +21,6 @@ Furthermore, the only measure trusted by the indie tastemakers is the size of yo
 
 ### Who we're looking for
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Are you a "[rockist](${BOBTAIL_SUBSTACK_PATH}/in-defense-of-rockism)" who hopes to be remembered by future generations? Are you willing to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
 
 Most importantly, are you ready to defy the indie tastemakers, even as they have the power to shut you out for good? In other words, do you understand that, after sacrificing a serious chunk of lifetime, you might *still* be denied amnesty— leaving you with nothing but the work you've done, the talents you've built, and the friends you've made?
@@ -37,29 +33,13 @@ If so, then come be part of the interdependence revolution! We're looking for th
 
 ### How you'll form a band
 
-${'  ' || `
-// TODO: Review.
-`}
-
 We'll judge each applicant based on talents and creative ideas. If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill level. Upon reviewing each other's links and videos, you'll all meet online.
 
 Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you regularly in person. After settling in, each of you will put in enough time on your band project for the sum total to reach 25,000 hours— or, twelve full-time years.
 
-${'  ' || `
-// TODO: Review new section and title.
-`}
-
 ### The unsung years
 
-${'  ' || `
-// TODO: Review.
-`}
-
 BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. You'll gain live experience by playing for each other at house parties, where any guests will be welcome; in accordance with your pledge, however, you *won't* be promoting these shows to the greater public.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Once your demo is complete, we'll add it to our demo registry and feature it in our latest newsletter, thus exposing you to business partners. As an alum, you'll also have a chance to "pay it forward" and work with future cohorts.
 
