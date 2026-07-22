@@ -22,6 +22,8 @@ ${'  ' || `
 
 Mention:
 Our latest musical invention, which we call a "corkscrew modulation." Bennett will gladly offer a private demonstration to anyone giving serious thought to partnering with us.
+
+Make it more like, how does this compete with AI?
 `}
 
 **How does this advance the art form?**
@@ -36,18 +38,12 @@ Once our demo is known to the public, other bands will be encouraged to spend al
 
 **What else does our band have to offer?**
 
-[*Bobtail Method*](${BOBTAIL_METHOD_PATH}) is a lesson book that teaches artists to write melodies and chords as a single, organic whole. We plan to release an app version.
+[*Bobtail Method*](${BOBTAIL_METHOD_PATH}) is a songwriting lesson book that teaches artists to write melodies and chords as a single, organic whole.
 
-[*Bobtail Dominoes*](${BOBTAIL_DOMINOES_PATH}) is a tile game that trains musicians to visualize chordal space. We'll create both an app and a tabletop version.
+[*Bobtail Dominoes*](${BOBTAIL_DOMINOES_PATH}) is a tile game that trains musicians to visualize chordal space.
 
 We've already written all the songs for the second album, as well as the melodies and chords for the third album. And they're some of our best!
 
 [Amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566) is a theory for composing tonal music in multidimensional virtual spaces. We'll continue to develop it in the long term.
-
-**Who are we looking for?**
-
-We're looking for someone to join our band in a full-time admin position, as an equally paid member. You would handle our administrative work, take on a leadership role at BYCombo, and oversee development of Bobtail Method and Bobtail Dominoes.
-
-We also hope to hear from those who'd like to work with our band in any way: managers, publicists, and labels!
     `,
 }
