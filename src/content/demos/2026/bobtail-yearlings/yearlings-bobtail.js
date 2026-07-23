@@ -28,10 +28,6 @@ Make it more like, how does this compete with AI?
 
 **How does this advance the art form?**
 
-Our hope was to do for music what James Joyce's *Ulysses* did for literature. Lyrical experiments include [stream of consciousness](${YEARLINGS_BOBTAIL_PATH}/8-good-night-sita/?annotation=2), [neologistic puns](${YEARLINGS_BOBTAIL_PATH}/10-constellations/?annotation=9), and a literary device we invented called [doublespeaker rhyme](${YEARLINGS_BOBTAIL_PATH}/4-odin/?annotation=7).
-
-Musical experiments include [Tuvan throat singing](${YEARLINGS_BOBTAIL_PATH}/5-pchelkas-starry-journey/?annotation=4), [Arabic quarter tones](${YEARLINGS_BOBTAIL_PATH}/6-ash-wednesday/?annotation=17), and [Shepard tones](${YEARLINGS_BOBTAIL_PATH}/16-cremated/?annotation=4).
-
 The audio webcomic explores the possibilities of combining music with visual storytelling, beyond what the conventional platforms allow.
 
 Once our demo is known to the public, other bands will be encouraged to spend all *their* time and energy on the craft as well. This will lead to a rock renaissance!
