@@ -169,10 +169,6 @@ For starters, the winner-take-all aspect of stardom *isn't* caused by corporate 
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes; they simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who'd signed with the indies first for this very reason!
 
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Thankfully, BYCombo is here to pave a *new* path to stardom. Because, once you've gone above and beyond to make the best art, you *won't* just settle for "a thousand [true fans](https://kk.org/thetechnium/1000-true-fans)." And if superstars are inevitable, then why can't *you* get a chance to be one?
 
 ### ${++sectionCounter}. Posterity is awarded by peer review
@@ -204,7 +200,7 @@ Yet the past artists we love most *don't* require us to know of any surrounding 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock and roll renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens, history *has* to remember!" As a result, [they were glad](${BOBTAIL_BLOG_PATH}/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) for *anything* to happen, and never asked what might've happened *instead*, had they held out for better works. Still… why didn't more artists join with me, and try to *show* them how much better a work can be?
@@ -574,7 +570,7 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: superstars, politicians… and now, slop peddlers.
@@ -637,14 +633,10 @@ Let's return to the original question: How has indie rock made music worse? In s
 
 But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if few others join me in calling it "workhorse" versus "windfall art."
 
-${'  ' || `
-// TODO: Review.
-`}
-
 "Is it *worse*, though?" Yes, insofar as it won't *last*! Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for business partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past! So come join BYCombo, and make a stellar demo… in faith that a savior will then find you.
@@ -652,7 +644,7 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 ### Victory… is *assured*
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Fifty ways indie rock has left us worse off! Yet our revolution faces one last hurdle: Once "indiefication" takes root… it'll then take over. After all, with so many artists to pick from, *of course* any label will insist, "Give us the one who does the middleman's job!" And any fan: "We'll support the one who engages with us!" And any critic: "The one whose lore offers much to discuss, please!"
