@@ -37,17 +37,33 @@ We'll judge each applicant based on talents and creative ideas. If we accept you
 
 Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you regularly in person. After settling in, each of you will put in enough time on your band project for the sum total to reach 25,000 hours— or, twelve full-time years.
 
-### The unsung years
+${'  ' || `
+// TODO: Review title.
+`}
 
-BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. You'll gain live experience by playing for each other at house parties, where any guests will be welcome; in accordance with your pledge, however, you *won't* be promoting these shows to the greater public.
+### The years of self-sacrifice
 
-Once your demo is complete, we'll add it to our demo registry and feature it in our latest newsletter, thus exposing you to business partners. As an alum, you'll also have a chance to "pay it forward" and work with future cohorts.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. You'll gain live experience by playing at each other's house parties, where all guests will be welcome. We'll also share your progress in our newsletter— which won't violate your pledge, as this work will be done solely by us.
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Once your demo is complete, we'll add it to our demo registry, thus exposing you to business partners. As an alum now, you'll also be encouraged to "pay it forward" and work with future cohorts.
 
 ### A lifetime of band projects
 
 And for your next band project, we want you to set the bar even *higher*! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and all BYCombo bands are family!
 
-Of course, we're just getting started, so to thank you for your patience during these early years:
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Of course, we're just getting started, so to thank you for your patience as we iron out any kinks in these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our first few cohorts to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
