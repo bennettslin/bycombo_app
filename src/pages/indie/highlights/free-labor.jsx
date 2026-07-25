@@ -15,7 +15,7 @@ const Component = () => (
             body: [
                 `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 > It's easy to laugh, less easy to recognize the way that milking fans of devotion and dollars has been an explicit business aim for decades. […] Information silos and micro-targeting make it harder [still] to see when fans are being taken advantage of.
