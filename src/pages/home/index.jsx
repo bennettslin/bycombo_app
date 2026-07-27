@@ -18,7 +18,7 @@ const Component = () => (
             metaDescription: DESCRIPTION,
             body: `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 **As a nonprofit, BYCombo promotes amnesty for interdependence-seeking artists who advance the art form. Our approach is to assemble them into rock bands ourselves, and then expose them to business partners.**

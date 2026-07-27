@@ -203,10 +203,6 @@ But in hindsight, it all *seemed* to be much ado about nothing— so Millennials
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 It's clear, then, why music was better in the past, before it got "indiefied": The *only* option was to try and be the best. Today? Pick this option, and you'll have *zero* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly win, *did* it? So history *isn't* just "whatever happened"! Fortunately, with BYCombo, Gen Z can now hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
@@ -216,7 +212,7 @@ Are you unconvinced that music is now worse? Okay, then ask this about any of th
 By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/Ixrje2rXLMA)" after another? Or [Stephen Sondheim](${BOBTAIL_YEARLINGS_PATH}/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? I highly doubt it. These are what I call "windfall art"— namely, works that are even *better* than those who make them. In fact, some of them seem to surpass what's humanly possible at *all*— and for this reason, they're the kind that fellow artists envy most.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Of course, the best artists *are* human. So… how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind, and thus can't be sparked at will. In other words, spend enough time letting your [thoughts drift](${HIGHLIGHTS_PATH}/thoughts-drift#) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
