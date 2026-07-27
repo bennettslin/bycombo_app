@@ -635,7 +635,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past! So come join BYCombo, and make a stellar demo… in faith that a savior will then find you.
+Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past! So come join BYCombo, and sacrifice it all to make a stellar demo… in faith that a savior will listen.
 
 ### Victory… is *assured*
 
