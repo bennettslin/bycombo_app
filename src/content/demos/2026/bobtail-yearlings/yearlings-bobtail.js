@@ -34,11 +34,9 @@ Once our demo is known to the public, other bands will be encouraged to spend al
 
 **What else does our band have to offer?**
 
-[*Bobtail Method*](${BOBTAIL_METHOD_PATH}) is a songwriting lesson book that teaches artists to write melodies and chords as a single, organic whole.
+[*Bobtail Method*](${BOBTAIL_METHOD_PATH}) is a songwriting lesson book that teaches artists to write melodies and chords as a single, organic whole. [*Bobtail Dominoes*](${BOBTAIL_DOMINOES_PATH}) is a tile game that trains musicians to visualize chordal space.
 
-[*Bobtail Dominoes*](${BOBTAIL_DOMINOES_PATH}) is a tile game that trains musicians to visualize chordal space.
-
-We've already written all the songs for the second album, as well as the melodies and chords for the third album. And they're some of our best!
+All the music and lyrics are written for our second album, a concept album about English biochemist Rosalind Franklin, as well as all the music for our third album.
 
 [Amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566) is a theory for composing tonal music in multidimensional virtual spaces. We'll continue to develop it in the long term.
     `,
