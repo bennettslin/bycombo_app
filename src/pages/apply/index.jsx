@@ -18,7 +18,7 @@ As an artist, do you sense that the indie camp has it *backward*? Why do they fo
 Furthermore, the only measure trusted by the indie tastemakers is the size of your fanbase. But the surest way to gain the most fans, here and now, is to create *content*— which has no lasting value for *future* audiences. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 **To join BYCombo as an artist, you must pledge *not* to be indie— that is, *not* to get yourself known. Instead, your band will be *made* known, by partners, whose trust you'll earn by self-sacrificing to advance the art form.**
@@ -41,15 +41,7 @@ We'll judge each applicant based on talents and creative ideas. If we accept you
 
 Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you regularly in person. After settling in, each of you will put in enough time on your band project for the sum total to reach 25,000 hours— or, twelve full-time years.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### Your years of self-sacrifice
-
-${'  ' || `
-// TODO: Review.
-`}
 
 BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. You'll gain live experience by playing at each other's house parties, where all guests will be welcome. We'll also share your progress in our newsletter— which won't violate your pledge, as this work will be done solely by us.
 
@@ -57,7 +49,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once your demo is complete, we'll add it to our demo registry, thus exposing you to business partners. As an alum now, you'll also be encouraged to "pay it forward" and work with future cohorts.
+Once your demo is complete, we'll add it to our demo registry, thus exposing you to business partners. As an alum now, you'll also be encouraged to "pay it forward" and help out future cohorts.
 
 ### A lifetime of band projects
 
@@ -67,7 +59,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, we're just getting started, so to thank you for your patience as we iron out any kinks in these early years:
+Of course, we're just getting started, so to thank you for your patience as we iron out all the kinks in these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our first few cohorts to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
