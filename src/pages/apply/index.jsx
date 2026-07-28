@@ -17,10 +17,6 @@ As an artist, do you sense that the indie camp has it *backward*? Why do they fo
 
 Furthermore, the only measure trusted by the indie tastemakers is the size of your fanbase. But the surest way to gain the most fans, here and now, is to create *content*— which has no lasting value for *future* audiences. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **To join BYCombo as an artist, you must pledge *not* to be indie— that is, *not* to get yourself known. Instead, your band will be *made* known, by partners, whose trust you'll earn by self-sacrificing to advance the art form.**
 
 ### Who we're looking for
@@ -45,19 +41,11 @@ Once everyone agrees to form a band, those who can relocate to the same city wil
 
 BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. You'll gain live experience by playing at each other's house parties, where all guests will be welcome. We'll also share your progress in our newsletter— which won't violate your pledge, as this work will be done solely by us.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Once your demo is complete, we'll add it to our demo registry, thus exposing you to business partners. As an alum now, you'll also be encouraged to "pay it forward" and help out future cohorts.
 
 ### A lifetime of band projects
 
 And for your next band project, we want you to set the bar even *higher*! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and all BYCombo bands are family!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Of course, we're just getting started, so to thank you for your patience as we iron out all the kinks in these early years:
 
