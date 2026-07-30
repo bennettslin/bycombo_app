@@ -147,7 +147,11 @@ Yet… this can't end well. We obviously don't support artists of the *past*— 
 
 ### ${++sectionCounter}. History making is now a mere hobby
 
-By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage to *every* artist.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because under this arrangement, the history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage to every working artist.
 
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way things were done *before*. So anyone hoping to shift the paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 

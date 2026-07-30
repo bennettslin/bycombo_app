@@ -26,11 +26,11 @@ Our latest musical invention, which we call a "corkscrew modulation." Bennett wi
 Make it more like, how does this compete with AI?
 `}
 
-**How does this advance the art form?**
+**In an age of algorithms and AI, how does this advance the art form?**
 
-The audio webcomic explores the possibilities of combining music with visual storytelling, beyond what the conventional platforms allow.
+- The audio webcomic combines music with visual storytelling.
 
-Once our demo is known to the public, other bands will be encouraged to spend all *their* time and energy on the craft as well. This will lead to a rock renaissance!
+- "Doublespeaker rhyme" 
 
 **What else does our band have to offer?**
 
