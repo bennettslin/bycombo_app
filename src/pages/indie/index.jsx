@@ -57,7 +57,11 @@ Sadly, once the good guys are in charge, the generation who put them there will 
 
 **Why the historical canon?**
 
-If tastemakers are good guys, it's because they're *not* capitalists. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to consider future audiences, they cater solely to present-day *fans*.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Indie tastemakers are good guys because they're *not* capitalists. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to consider future audiences, they cater solely to present-day *fans*.
 
 Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art… it loses once its *own* time has passed! To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll default to pleasing the tastemakers… and create content instead.
 
