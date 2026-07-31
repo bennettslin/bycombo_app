@@ -49,7 +49,11 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now we support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now we're charitable to *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the "punishment" for those who try?
 
@@ -58,7 +62,7 @@ Sadly, once the good guys are in charge, the generation who put them there will 
 **Why the historical canon?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Indie tastemakers are good guys because they're *not* capitalists. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to consider future audiences, they cater solely to present-day *fans*.
@@ -98,10 +102,6 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 **Why serious chunks of lifetime?**
 
 Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now serve as a gatekeeper for the elites— by helping them enforce a steep *cost* of entry.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in pleading their case for amnesty.
 
@@ -152,10 +152,10 @@ Yet… this can't end well. We obviously don't support artists of the *past*— 
 ### ${++sectionCounter}. History making is now a mere hobby
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because under this arrangement, the history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage to every working artist.
+By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because under this arrangement, the history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage to *every* working artist.
 
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way things were done *before*. So anyone hoping to shift the paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
