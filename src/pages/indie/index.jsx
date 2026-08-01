@@ -50,7 +50,7 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now we're charitable to *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
@@ -62,7 +62,7 @@ Sadly, once the good guys are in charge, the generation who put them there will 
 **Why the historical canon?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 If indie tastemakers are good guys, it's because they're *not* capitalists. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which is why, in hindsight, their picks rarely make history: With no need to consider future audiences, they cater solely to present-day *fans*.
@@ -150,10 +150,6 @@ So indie rock set off a chain reaction, forcing the next tier of artists above t
 Yet… this can't end well. We obviously don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can keep your dignity instead… knowing it's the *only* way to make history.
 
 ### ${++sectionCounter}. History making is now a mere hobby
-
-${'  ' || `
-// TODO: Review.
-`}
 
 By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because under this arrangement, the history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage to *every* working artist.
 
