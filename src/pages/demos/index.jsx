@@ -1,7 +1,7 @@
 import React from 'react'
 import DemoLink from '../../components/DemoLink'
 import Page from '../../containers/Page'
-import bobtailYearlings from '../../content/demos/2026/bobtail-yearlings/yearlings-bobtail'
+import bobtailYearlings from '../../content/demos/2026/bobtail-yearlings'
 import { BOBTAIL_SUBSTACK_PATH } from '../../constants/website'
 
 const TITLE = `Return of the rock martyrs… and *saviors*!`

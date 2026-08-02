@@ -13,7 +13,7 @@ const DemoHeader = ({
     band,
     project,
     bandUrl,
-    projectUrl,
+    profileUrl,
     onesheetUrl,
     email,
     src,
@@ -55,7 +55,7 @@ const DemoHeader = ({
                     <Anchor
                         noVisited
                         {...{
-                            href: projectUrl,
+                            href: profileUrl,
                         }}
                     >
                         <i>{getFormattedText(project)}</i>
@@ -91,7 +91,7 @@ DemoHeader.propTypes = {
     project: PropTypes.string.isRequired,
     description: PropTypes.string.isRequired,
     bandUrl: PropTypes.string.isRequired,
-    projectUrl: PropTypes.string.isRequired,
+    profileUrl: PropTypes.string.isRequired,
     onesheetUrl: PropTypes.string.isRequired,
     email: PropTypes.string.isRequired,
     src: PropTypes.string.isRequired,
