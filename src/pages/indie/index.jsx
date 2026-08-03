@@ -235,7 +235,11 @@ In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the co
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: By *not* knowing what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
-### ${++sectionCounter}. Lean operations struggle to adapt
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Limited brainpower struggles to adapt
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they simply rely on the same instincts that guided their forebears— like moths flying with their [backs to starlight](${HIGHLIGHTS_PATH}/backs-to-starlight#).
 
