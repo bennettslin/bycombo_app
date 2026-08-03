@@ -11,10 +11,6 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: HIGHLIGHTS_DESCRIPTION,
             body: `
-${'  ' || `
-// TODO: Review.
-`}
-
 > You can hear Kurt's tremulous nervousness and bumbling desire to belong, to be part of it. […] But at the same time, he started to resent […] these twee college-kid followers of the new indie ideology.
 
 > It seems like half the songs on *Nevermind* were the result of a […] hostility that grew in Kurt toward [the indie scene in Olympia] that he desperately wanted the approval of, but by [his working-class] disposition, wasn't suited to somehow.
