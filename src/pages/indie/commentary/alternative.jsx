@@ -11,10 +11,6 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: COMMENTARY_DESCRIPTION,
             body: `
-${'  ' || `
-// TODO: Review.
-`}
-
 *Whatever Happened to Alternative Nation?* is a ten-part A.V. Club series by Steven Hyden that's helpful reading for anyone hoping to understand the state of rock music in the '90s. The links have changed since they were first published, and the new ones aren't collated in a single location anywhere else. So I'm doing that here.
 
 - [1990: "Once upon a time, I could love you"](https://www.avclub.com/part-1-1990-once-upon-a-time-i-could-love-you-1798221947)
