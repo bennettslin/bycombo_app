@@ -29,7 +29,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Bennett from the [Bobtail Yearlings](${BOBTAIL_YEARLINGS_PATH}) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "With all these new tech platforms, it's easier than *ever* to gain fans on your own; and the better your works, the farther the hustle will take you! So if you hate it… well, what does this say about your works?"
+Bennett from the [Bobtail Yearlings](${BOBTAIL_YEARLINGS_PATH}) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, you can now hustle to build a fanbase on your own; and the better your works, the easier a time you'll have of it! So if you hate it… then what does this say about your works?"
 
 Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this here Xennial, who's had *zero* say up till now? In which case… let the interdependence revolution begin!
 
