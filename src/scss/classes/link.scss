@@ -22,15 +22,15 @@
     }
 }
 
-.colour__highlights {
-    color: $colour__highlights__dark;
+.colour__reference {
+    color: $colour__reference__dark;
 
     &:not([disabled]):hover {
-        color: $colour__highlights__medium;
+        color: $colour__reference__medium;
     }
 
     &:not([disabled]):active {
-        color: $colour__highlights__light;
+        color: $colour__reference__light;
     }
 }
 

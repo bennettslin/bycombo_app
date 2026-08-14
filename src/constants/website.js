@@ -1,7 +1,7 @@
 export const MAILING_LIST_WEBSITE = 'https://bycombo.substack.com'
 
 export const COMMENTARY_PATH = '/indie/commentary'
-export const HIGHLIGHTS_PATH = '/indie/highlights'
+export const REFERENCE_PATH = '/indie/reference'
 
 export const BOBTAIL_BLOG_PATH = 'https://bennettsamuellin.blogspot.com'
 export const BOBTAIL_DOMINOES_PATH = 'https://bobtaildominoes.com'

@@ -8,7 +8,7 @@ import {
     BOBTAIL_SUBSTACK_PATH,
     BOBTAIL_YEARLINGS_PATH,
     COMMENTARY_PATH,
-    HIGHLIGHTS_PATH,
+    REFERENCE_PATH,
     YEARLINGS_BOBTAIL_PATH,
 } from '../../constants/website'
 
@@ -111,7 +111,7 @@ In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed t
 
 Simply put, indie rock isn't clear on what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture driven by anti-establishment grievances— and as such, it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to tear down the system!"
 
-For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that [going viral](${HIGHLIGHTS_PATH}/going-viral#) is the new word-of-mouth buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* benefit from a label deal?! Yes, I'm talking about the former [human statue](https://www.ted.com/talks/amanda_palmer_the_art_of_asking)!
+For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that [going viral](${REFERENCE_PATH}/going-viral#) is the new word-of-mouth buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* benefit from a label deal?! Yes, I'm talking about the former [human statue](https://www.ted.com/talks/amanda_palmer_the_art_of_asking)!
 
 Let's face it, in every early example of online success… chance, privilege, or sheer opportunism played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an indie artist fails to do so… the public *has* to assume they're unworthy!
 
@@ -125,7 +125,7 @@ In the '90s, though, as bands began to leave for the major labels, "alternative"
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock disavowed its snobbery and became a [populist movement](${BOBTAIL_BLOG_PATH}/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
-Yet in *obeying* the people's will at all times, populism is just democracy with [no judicial safeguard](${HIGHLIGHTS_PATH}/no-judicial-safeguard#)… thus [making it *tyranny*](${HIGHLIGHTS_PATH}/making-it-tyranny#) for the underclass. We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
+Yet in *obeying* the people's will at all times, populism is just democracy with [no judicial safeguard](${REFERENCE_PATH}/no-judicial-safeguard#)… thus [making it *tyranny*](${REFERENCE_PATH}/making-it-tyranny#) for the underclass. We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
 
 ### ${++sectionCounter}. The grassroots have become a lottery
 
@@ -169,7 +169,7 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: "Any artist can now flourish on the fringes!" Yet today, superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
-For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into power laws. Since it's hard to say whose works are best, we often just like what others like. Right? Well… they do the same! As a result, any [random boost](${HIGHLIGHTS_PATH}/random-boost#) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
+For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into power laws. Since it's hard to say whose works are best, we often just like what others like. Right? Well… they do the same! As a result, any [random boost](${REFERENCE_PATH}/random-boost#) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes; they simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who'd signed with the indies first for this very reason!
 
@@ -181,7 +181,7 @@ The reverse is also true, of course: Those who'd settle for "a thousand true fan
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They rarely consider how things look to us *other* artists.
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is merely artsy, not innovative. And also fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to carry them through. In short, what historians will see in *time*… [other artists](${HIGHLIGHTS_PATH}/other-artists#) come closest to seeing *today*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is merely artsy, not innovative. And also fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to carry them through. In short, what historians will see in *time*… [other artists](${REFERENCE_PATH}/other-artists#) come closest to seeing *today*.
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](${BOBTAIL_YEARLINGS_PATH}/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
@@ -215,7 +215,7 @@ Are you unconvinced that music is now worse? Okay, then ask this about any of th
 
 By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/Ixrje2rXLMA)" after another? Or [Stephen Sondheim](${BOBTAIL_YEARLINGS_PATH}/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? I highly doubt it. These are what I call "windfall art"— namely, works that are even *better* than those who make them. In fact, some of them seem to surpass what's humanly possible at *all*— and for this reason, they're the kind that fellow artists envy most.
 
-Of course, the best artists *are* human. So… how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind, and thus can't be sparked at will. In other words, spend enough time letting your [thoughts drift](${HIGHLIGHTS_PATH}/thoughts-drift#) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
+Of course, the best artists *are* human. So… how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind, and thus can't be sparked at will. In other words, spend enough time letting your [thoughts drift](${REFERENCE_PATH}/thoughts-drift#) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
 Yet… this won't happen if you're forever multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep your artist hat on, and let partners wear the others. Sure, you risk losing the indie camp… but *they're* not holding out for your works to surpass you; only *we* are— you and us at BYCombo.
 
@@ -227,7 +227,7 @@ Back in the day, you needed a *partner* to take you "from zero to one"— that i
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots for unknown artists— some of whom went on to make history's most creative works!
 
-By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](${HIGHLIGHTS_PATH}/know-to-expect#)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
+By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](${REFERENCE_PATH}/know-to-expect#)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -241,7 +241,7 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Limited brainpower fails to adapt
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they simply rely on the same instincts that guided their forebears— like moths flying with their [backs to starlight](${HIGHLIGHTS_PATH}/backs-to-starlight#).
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, as they'd put it, "lean and scrappy"— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to conserve brainpower, they simply rely on the same instincts that guided their forebears— like moths flying with their [backs to starlight](${REFERENCE_PATH}/backs-to-starlight#).
 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's *because* word of mouth only traveled locally, for example, that the indies came to think of it so highly. And likewise with their respect for fan engagement: Back then, it only *ever* took place at local gatherings.
 
@@ -249,7 +249,7 @@ But today, algorithms have turned word of mouth into wisdom of the crowd— whic
 
 Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too short-staffed to change with the times…
 
-So yes, middlemen might *seem* redundant— [but redundancy](${HIGHLIGHTS_PATH}/but-redundancy#) keeps a system resilient, allowing it to adapt! This is why BYCombo tells you to be generous in splitting your earnings with bandmates and business partners: How else will *any* of us have the brainpower to bring music into the present century?
+So yes, middlemen might *seem* redundant— [but redundancy](${REFERENCE_PATH}/but-redundancy#) keeps a system resilient, allowing it to adapt! This is why BYCombo tells you to be generous in splitting your earnings with bandmates and business partners: How else will *any* of us have the brainpower to bring music into the present century?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -267,7 +267,7 @@ Want even *more* absurdity? Any "trust fund baby" can simply pay *others* to do 
 
 It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself), or DIY, movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no dissent and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
-But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and [having privilege](${HIGHLIGHTS_PATH}/having-privilege#) is the greatest predictor of this belief.
+But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and [having privilege](${REFERENCE_PATH}/having-privilege#) is the greatest predictor of this belief.
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivism by *refusing* to help society advance.
 
@@ -277,19 +277,19 @@ To oppose "indiefication," then, interdependent bands can "cross the picket line
 
 In game theory, the "[stag hunt](https://en.wikipedia.org/wiki/Stag_hunt)" is a game in which you and another player must decide, each on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
-The [richest nations](${HIGHLIGHTS_PATH}/richest-nations#) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The opposite is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
+The [richest nations](${REFERENCE_PATH}/richest-nations#) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The opposite is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
-Indie artists strive *not* to need a label, and some keep at it even after signing to one— on the [label's dime](${HIGHLIGHTS_PATH}/labels-dime#)! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day prosper, the past proves that rock can be interdependent once again!
+Indie artists strive *not* to need a label, and some keep at it even after signing to one— on the [label's dime](${REFERENCE_PATH}/labels-dime#)! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day prosper, the past proves that rock can be interdependent once again!
 
-BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others [finally reciprocate](${HIGHLIGHTS_PATH}/finally-reciprocate#) the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others [finally reciprocate](${REFERENCE_PATH}/finally-reciprocate#) the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-To "democratize" Twitter, Elon Musk made the [blue checkmark](${HIGHLIGHTS_PATH}/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
+To "democratize" Twitter, Elon Musk made the [blue checkmark](${REFERENCE_PATH}/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
 
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal of who's worth hearing from. On top of that, the field then gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who'd rather hustle to *get* themselves known, than wait on elites to say they *deserve* it. Seems bad, no? Well, it's even worse…
 
-You see, pollution is an example of the famous "[prisoner's dilemma](${HIGHLIGHTS_PATH}/prisoners-dilemma#)," where each player must decide: To squeal or not? Similarly, then, democratization forces each of us to decide: To hustle or not? Of course, we're all better off if *no one* hustles. But once *anyone* does… they'll hog up the public's attention. So now *all* of us must waste time and energy on the hustle!
+You see, pollution is an example of the famous "[prisoner's dilemma](${REFERENCE_PATH}/prisoners-dilemma#)," where each player must decide: To squeal or not? Similarly, then, democratization forces each of us to decide: To hustle or not? Of course, we're all better off if *no one* hustles. But once *anyone* does… they'll hog up the public's attention. So now *all* of us must waste time and energy on the hustle!
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
@@ -313,7 +313,7 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even a low-status nobody, like Nick. Yet indie rock tells every artist to get themselves known… effectively saying they're each entitled to it. As a result, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known— simply by *deserving* it!
 
-Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Because, sure, it's a proven way to get fans— or dates!— but does society *want* this to be the case? Besides, most of us have now grown wise to being "negged"; sooner or later, then, won't we *also* wise up to artists milking us for [free labor](${HIGHLIGHTS_PATH}/free-labor#)… and us [loving them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for it?
+Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Because, sure, it's a proven way to get fans— or dates!— but does society *want* this to be the case? Besides, most of us have now grown wise to being "negged"; sooner or later, then, won't we *also* wise up to artists milking us for [free labor](${REFERENCE_PATH}/free-labor#)… and us [loving them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for it?
 
 So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](${YEARLINGS_BOBTAIL_PATH}/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine all the while. Which… is also more fun and fulfilling for *you*, no? Yet the indie tastemakers will never "forgive" you for breaking their rules; they're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -327,23 +327,23 @@ So what *should* artistic welfare look like? Basically, a centralized institutio
 
 Unfortunately, *all* welfare is fragile: Instead of feeling grateful to be given a chance at all, the unsuccessful often resent not getting *more* support… while the successful tend to assume they'd have done just as well on their own, and thus resent "paying it forward." So those on the *right*— including indie rock's artistic conservatives— find it easy to turn the people against welfare.
 
-Yet others *happily* pay it forward: "Paying more means we [succeeded more](${HIGHLIGHTS_PATH}/succeeded-more#)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
+Yet others *happily* pay it forward: "Paying more means we [succeeded more](${REFERENCE_PATH}/succeeded-more#)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-Mr. Rogers told us to look for [the helpers](${HIGHLIGHTS_PATH}/the-helpers#) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
+Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
 
 So I took a coding bootcamp, and for [seven years](${BOBTAIL_SUBSTACK_PATH}/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 Except… now it made perfect sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will insist on keeping that culture as it is— no matter how broken it's become.
 
-Moreover, once a dues payer has wasted their best years racking up "[cred](${COMMENTARY_PATH}/cred#)" instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those willing to squander even *more* potential. But any such newcomer will then feel even *less* secure— thus widening the [vicious circle](${HIGHLIGHTS_PATH}/vicious-circle#) of brokenness.
+Moreover, once a dues payer has wasted their best years racking up "[cred](${COMMENTARY_PATH}/cred#)" instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those willing to squander even *more* potential. But any such newcomer will then feel even *less* secure— thus widening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of brokenness.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-"Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history is any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](${HIGHLIGHTS_PATH}/labels-and-producers#). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
+"Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history is any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](${REFERENCE_PATH}/labels-and-producers#). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
 Yet despite the poor fit, indie rock sure is eager now to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? Like, suppose an opposing camp were to argue, "No, this *won't* make history; it's merely reenacting what took courage in the *past*— not whatever that'd be *today*." Who'd win? Okay, so: Was this century's indie rock all a larp?
 
@@ -361,31 +361,31 @@ ${'  ' || `
 
 While "alternative" is an *aesthetic* choice, "indie" is a *logistical* stance. Until the '90s, then, the latter [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*, not their *artists*. And that stance? It says, "We're *not* in this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
-The thing is, these labels are run by White men— and to prolong inequality, White men *don't* need to harm others; they *only* need to help their own kind. But [helping their own](${HIGHLIGHTS_PATH}/helping-their-own#) is what any circle of friends will do— especially as the field gets crowded! Which means indie rock's inequality *can't* be fixed at the source; rather, its tastemakers just have to accept more of us as their own.
+The thing is, these labels are run by White men— and to prolong inequality, White men *don't* need to harm others; they *only* need to help their own kind. But [helping their own](${REFERENCE_PATH}/helping-their-own#) is what any circle of friends will do— especially as the field gets crowded! Which means indie rock's inequality *can't* be fixed at the source; rather, its tastemakers just have to accept more of us as their own.
 
 So far, though, their efforts have only helped women, not us minorities— or minority *men*, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
-But if our kind *isn't* desired as friends… we can still be prized as *investments*! After all, a [smart investor](${HIGHLIGHTS_PATH}/smart-investor#) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So if you've been shut out by both indie rock's "old-boy network" *and* its good intentions, then join BYCombo… and let the market's "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" help you instead!
+But if our kind *isn't* desired as friends… we can still be prized as *investments*! After all, a [smart investor](${REFERENCE_PATH}/smart-investor#) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So if you've been shut out by both indie rock's "old-boy network" *and* its good intentions, then join BYCombo… and let the market's "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" help you instead!
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-While indie artists seek populist solidarity, [rappers revel](${HIGHLIGHTS_PATH}/rappers-revel#) in elitist snobbery. And yet, for Gen X, it's the *latter* who represent the true face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
+While indie artists seek populist solidarity, [rappers revel](${REFERENCE_PATH}/rappers-revel#) in elitist snobbery. And yet, for Gen X, it's the *latter* who represent the true face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
 
 Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like how [being unskilled](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) keeps you from recognizing greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "[rockism](${BOBTAIL_SUBSTACK_PATH}/in-defense-of-rockism)"— implying that such snobbery is akin to racism.
 
-But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now [a playground](${HIGHLIGHTS_PATH}/a-playground#) for the privileged!
+But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now [a playground](${REFERENCE_PATH}/a-playground#) for the privileged!
 
-Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](${HIGHLIGHTS_PATH}/privileged-artists#) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
+Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](${REFERENCE_PATH}/privileged-artists#) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
-"Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" No, you're thinking of [*exclusive* snobbery](${HIGHLIGHTS_PATH}/exclusive-snobbery#)— the kind that's based on "cred"; [elitist snobs](${HIGHLIGHTS_PATH}/elitist-snobs#) value *craft*, which remains timeless in its cost of entry. Because public exposure *is* zero-sum, like it or not! Now BYCombo lets you treat it as such… just like rockists and rappers always have.
+"Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" No, you're thinking of [*exclusive* snobbery](${REFERENCE_PATH}/exclusive-snobbery#)— the kind that's based on "cred"; [elitist snobs](${REFERENCE_PATH}/elitist-snobs#) value *craft*, which remains timeless in its cost of entry. Because public exposure *is* zero-sum, like it or not! Now BYCombo lets you treat it as such… just like rockists and rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
-Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${HIGHLIGHTS_PATH}/watch-in-confusion#) as the disadvantaged among us side with the establishment instead.
+Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${REFERENCE_PATH}/watch-in-confusion#) as the disadvantaged among us side with the establishment instead.
 
-Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being seen as sellouts. Yet the [college-educated](${HIGHLIGHTS_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Just keep touring at a loss! Once you rack up enough cred, we'll support you."
+Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being seen as sellouts. Yet the [college-educated](${REFERENCE_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Just keep touring at a loss! Once you rack up enough cred, we'll support you."
 
 ${'  ' || `
 // TODO: Review link.
@@ -393,7 +393,7 @@ ${'  ' || `
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking [populism](${COMMENTARY_PATH}/populism#) for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a modern-day rebel.
 
-After all, only the *privileged* [can afford](${HIGHLIGHTS_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
+After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -405,7 +405,7 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](${HIGHLIGHTS_PATH}/tomorrows-winners#)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can plead for amnesty, after betting it all on the craft— your low-status "hobby."
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](${REFERENCE_PATH}/tomorrows-winners#)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can plead for amnesty, after betting it all on the craft— your low-status "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
@@ -431,11 +431,11 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 ### ${++sectionCounter}. Identity is a resort of the privileged
 
-Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on our affection for them as [society's underdogs](${HIGHLIGHTS_PATH}/societys-underdogs#)…
+Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on our affection for them as [society's underdogs](${REFERENCE_PATH}/societys-underdogs#)…
 
 Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](${BOBTAIL_BLOG_PATH}/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=While%20mentioning%20privilege,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "wokeness."
 
-But while White men *readily* benefit from their identities without having to admit it— like when it [lends authenticity](${HIGHLIGHTS_PATH}/lends-authenticity#) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+But while White men *readily* benefit from their identities without having to admit it— like when it [lends authenticity](${REFERENCE_PATH}/lends-authenticity#) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when all those indie labels rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of the *arts*, it's *I* who sit on the left— and *they*, the right!
 
@@ -447,21 +447,21 @@ No, Silents weren't rooting for a Black crooner… but this is *exactly* why the
 
 Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal. Now *all* of us could excel at— and thus be judged on— what fans and critics value most: a compelling persona.
 
-And so I had *no* lifeline… but then, [as it happens](${BOBTAIL_BLOG_PATH}/2011/07/resistible-canaanites-request-for.html#:~:text=But%20really%2C%20how,from%20me.), Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* find underdogs to favor, based on "safe" criteria like [place of origin](${HIGHLIGHTS_PATH}/place-of-origin#). For a clear conscience, then, we *must* toss a lifeline to the rest— whom we've now made *worse* off in this zero-sum game.
+And so I had *no* lifeline… but then, [as it happens](${BOBTAIL_BLOG_PATH}/2011/07/resistible-canaanites-request-for.html#:~:text=But%20really%2C%20how,from%20me.), Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* find underdogs to favor, based on "safe" criteria like [place of origin](${REFERENCE_PATH}/place-of-origin#). For a clear conscience, then, we *must* toss a lifeline to the rest— whom we've now made *worse* off in this zero-sum game.
 
 There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that the arts declined under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-Given their disdain for [well-crafted hooks](${HIGHLIGHTS_PATH}/well-crafted-hooks#), the indie camp smirked when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. Thus "poptimism" was born…
+Given their disdain for [well-crafted hooks](${REFERENCE_PATH}/well-crafted-hooks#), the indie camp smirked when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *formulaic* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. Thus "poptimism" was born…
 
 "Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, Tin Pan Alley's patchwork of Jewish immigrants. Both are also rooted less in *aesthetics*, than in *ethics*— which lose all meaning if dissent is allowed.
 
 And so both protect their chosen underdogs by never once asking: "Wouldn't a hungry outsider— one who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times… then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
-This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](${HIGHLIGHTS_PATH}/original-outsiders#)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
+This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](${REFERENCE_PATH}/original-outsiders#)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-And yet, underdog movements are here to stay, because it's a *privilege* to be treated as an underdog— and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo toss you a lifeline, by bringing back "rockism"— rock and roll's original spirit, courtesy of its [founding underclass](${HIGHLIGHTS_PATH}/founding-underclass#)!
+And yet, underdog movements are here to stay, because it's a *privilege* to be treated as an underdog— and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo toss you a lifeline, by bringing back "rockism"— rock and roll's original spirit, courtesy of its [founding underclass](${REFERENCE_PATH}/founding-underclass#)!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
@@ -473,7 +473,7 @@ By contrast, the indie labels simply pick what the people want, going by the siz
 
 So when the tech platforms arrived to disrupt the majors using data-driven methods, the indie camp was [*fully* on board](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). I still recall how they rushed to defend file sharing: "Real artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social networks: "Real artists engage with their fans after a show— and now they can at *any* time!"
 
-To sum up, it was the *indie camp* who gave us today's data-driven industry! Thanks to them— and their grievances— even the *majors* [behave like indies](${HIGHLIGHTS_PATH}/behave-like-indies#) now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers… but to pursue a vision that few others see.
+To sum up, it was the *indie camp* who gave us today's data-driven industry! Thanks to them— and their grievances— even the *majors* [behave like indies](${REFERENCE_PATH}/behave-like-indies#) now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers… but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
@@ -489,7 +489,7 @@ So yes, the arts have declined— but it *isn't* because the tech platforms foll
 
 In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked, "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one wants to be its *first*?" "Well, it's my *Ulysses*," I'd reply. "Surely an unknown James Joyce would've faced the same dilemma?" I just didn't have a better answer… until my years as a coder exposed me to startup culture.
 
-Within the past few decades, we've come to learn that startups are uniquely positioned to innovate because of [how they grow](${HIGHLIGHTS_PATH}/how-they-grow#): Unlike a retail store, which can't scale into a chain if it's unprofitable, a startup with few users might lose money on each user— yet *still* hope to turn a profit upon gaining millions of them! How? Through network effects and economies of scale.
+Within the past few decades, we've come to learn that startups are uniquely positioned to innovate because of [how they grow](${REFERENCE_PATH}/how-they-grow#): Unlike a retail store, which can't scale into a chain if it's unprofitable, a startup with few users might lose money on each user— yet *still* hope to turn a profit upon gaining millions of them! How? Through network effects and economies of scale.
 
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](${YEARLINGS_BOBTAIL_PATH}/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](${YEARLINGS_BOBTAIL_PATH}/2-willy-the-cocoa/?verse=37&annotation=45), new bandmates won't commit to fully learning them until an audience is guaranteed: economies of scale!
 
@@ -513,13 +513,13 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead; plus, getting "punished" for breaking their rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what do *I* know of courage? Yet no Millennials joined me. Why?
 
-I'll tell you my theory: Millennials faced boredom only long enough to hate it. Then, before they could learn to daydream, they were given [structured ways](${HIGHLIGHTS_PATH}/structured-ways#) to create and consume endless content— which won their gratitude. And so they failed to see the obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
+I'll tell you my theory: Millennials faced boredom only long enough to hate it. Then, before they could learn to daydream, they were given [structured ways](${REFERENCE_PATH}/structured-ways#) to create and consume endless content— which won their gratitude. And so they failed to see the obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *grunge*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this here Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Unity brutalizes the lone dissident
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](${HIGHLIGHTS_PATH}/good-people#). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such freedom… must be fiercely opposed by *all*.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](${REFERENCE_PATH}/good-people#). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such freedom… must be fiercely opposed by *all*.
 
 Furthermore: "If 99% of us can see we're all in this together, then you'd best believe the other 1% is *that* awful. Still, we can beat them on size alone!" So Millennials never learned to disagree, but instead to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists against the left's elites! And in the arts, it's the same muddled thinking…
 
@@ -581,9 +581,9 @@ Think about it: Like indie rock, AI poses a collective action problem— which, 
 
 Plus, much like AI is blocked from chasing *good* ideas by the very guardrails that block it from *bad* ones, the very rules that save indie rock from picking the worst artists *also* "save" it from the best. So they're alike even in how they stumble! Our only hope to oppose slop, then, is for a counterculture to arise that *doesn't* root for the *indie*-vidual at all, but rather for *us*— the collective.
 
-Because, keep in mind, status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others who behave as they do— which, under "indieocracy," means striving hardest to *get* the job. To double down instead on *deserving* it, then, is to be stuck in the underclass— maybe [even permanently](${HIGHLIGHTS_PATH}/even-permanently#)! So who'd ever try? No one… but us collectivists.
+Because, keep in mind, status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others who behave as they do— which, under "indieocracy," means striving hardest to *get* the job. To double down instead on *deserving* it, then, is to be stuck in the underclass— maybe [even permanently](${REFERENCE_PATH}/even-permanently#)! So who'd ever try? No one… but us collectivists.
 
-Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](${HIGHLIGHTS_PATH}/collectivist-race#), [class](${HIGHLIGHTS_PATH}/collectivist-class#), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but only because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
+Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](${REFERENCE_PATH}/collectivist-race#), [class](${REFERENCE_PATH}/collectivist-class#), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but only because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
@@ -591,11 +591,11 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 
 Now Millennials *readily* sell out, insisting that survival today depends on it… even as they retain the [core belief](${BOBTAIL_BLOG_PATH}/2013/06/unjamming-next-generation.html#:~:text=For%20Generation%20X,who%20you%20are.) underlying Gen X's *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
-Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](${HIGHLIGHTS_PATH}/branched-off#) to *spurn* such bands.
+Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](${REFERENCE_PATH}/branched-off#) to *spurn* such bands.
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
-Still, since our troubles began when we accepted indiefication and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as [Kurt Cobain](${HIGHLIGHTS_PATH}/kurt-cobain#) knew. Now BYCombo lets you act on this knowledge as well.
+Still, since our troubles began when we accepted indiefication and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as [Kurt Cobain](${REFERENCE_PATH}/kurt-cobain#) knew. Now BYCombo lets you act on this knowledge as well.
 
 ### ${++sectionCounter}. Solutions come from systems thinking
 
@@ -605,7 +605,7 @@ So the anti-elitists among us topple the system by joining with libertarians… 
 
 In other words, the [popular model](https://en.wikipedia.org/wiki/Horseshoe_theory) of an "upside-down horseshoe," in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase! Once the "building" phase begins, our best chance as progressives— whether political or artistic— is to *work* with our side's elites.
 
-Which means we'll [need to quit](${HIGHLIGHTS_PATH}/need-to-quit#) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
+Which means we'll [need to quit](${REFERENCE_PATH}/need-to-quit#) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 
 So if I could get every progressive— in both politics and the arts— to read just one book, it'd be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their inputs, outputs, feedback loops, and delays. It's what led to many of the insights that shaped BYCombo's mission… and hopefully, it can lead to some of your own!
 
@@ -613,9 +613,9 @@ So if I could get every progressive— in both politics and the arts— to read 
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, past astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually orbit the *Sun*… turning the squiggles into smooth lines. As the simpler explanation, this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
 
-Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave [like indie labels](${HIGHLIGHTS_PATH}/like-indie-labels#), by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave [like indie labels](${REFERENCE_PATH}/like-indie-labels#), by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… leading to a "tragedy of the commons." But now, 5% is our *baseline*… and soon, 10%… 15%… as we "drift to [low performance](${HIGHLIGHTS_PATH}/low-performance#)."
+Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… leading to a "tragedy of the commons." But now, 5% is our *baseline*… and soon, 10%… 15%… as we "drift to [low performance](${REFERENCE_PATH}/low-performance#)."
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa, everything lines up now! Yet the indie camp will oppose this [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so BYCombo won't get far by merely proposing it. To shift the paradigm, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
@@ -651,7 +651,7 @@ Now, since indie artists do it all themselves, they must put in a further 80% ef
 
 **By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this the 4x Law of Interdependence.**
 
-Which checks out, right? Among interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than the best indie artists! Victory, then, is *assured*— because, now, what elite *wouldn't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](${HIGHLIGHTS_PATH}/soviet-joke#): "Indie rock is the longest and most painful route from interdependence to… interdependence."
+Which checks out, right? Among interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than the best indie artists! Victory, then, is *assured*— because, now, what elite *wouldn't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](${REFERENCE_PATH}/soviet-joke#): "Indie rock is the longest and most painful route from interdependence to… interdependence."
             `,
         }}
     />

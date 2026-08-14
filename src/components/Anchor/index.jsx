@@ -11,7 +11,7 @@ import {
     getInternalLink,
     getIsBobtailLink,
     getIsCommentaryOrInternalLink,
-    getIsHighlightsLink,
+    getIsReferenceLink,
     getIsNoVisitedInternalLink,
 } from './helper'
 
@@ -37,7 +37,7 @@ const Anchor = ({
             href,
             internalLink,
         }),
-        isHighlightsLink = getIsHighlightsLink(href),
+        isReferenceLink = getIsReferenceLink(href),
         isBobtailLink = getIsBobtailLink(href),
         isNoVisitedInternalLink = getIsNoVisitedInternalLink({
             href,
@@ -77,7 +77,7 @@ const Anchor = ({
                     'Anchor',
                     'colour__link',
                     isCommentaryOrInternalLink && 'colour__commentary',
-                    isHighlightsLink && 'colour__highlights',
+                    isReferenceLink && 'colour__reference',
                     isBobtailLink && 'colour__bobtail',
                     !isNoVisitedInternalLink && 'Anchor__showVisited',
                     className,

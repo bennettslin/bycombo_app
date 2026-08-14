@@ -5,7 +5,7 @@ import {
     BOBTAIL_SUBSTACK_PATH,
     BOBTAIL_YEARLINGS_PATH,
     COMMENTARY_PATH,
-    HIGHLIGHTS_PATH,
+    REFERENCE_PATH,
     YEARLINGS_BOBTAIL_PATH,
 } from '../../constants/website'
 
@@ -43,8 +43,8 @@ export const getIsCommentaryOrInternalLink = ({ href = '', internalLink }) => (
     getIsCommentaryLink(href) || Boolean(internalLink)
 )
 
-export const getIsHighlightsLink = (href = '') => (
-    href.startsWith(HIGHLIGHTS_PATH)
+export const getIsReferenceLink = (href = '') => (
+    href.startsWith(REFERENCE_PATH)
 )
 
 export const getIsBobtailLink = (href = '') => (
@@ -64,6 +64,6 @@ export const getIsNoVisitedInternalLink = ({
     noVisited || (
         internalLink &&
         !getIsCommentaryLink(href) &&
-        !getIsHighlightsLink(href)
+        !getIsReferenceLink(href)
     )
 )
