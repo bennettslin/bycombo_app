@@ -1,17 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import commentaryMap from '../../../content/commentary'
+import commentaryMap, { GATEKEEPER } from '../../../content/commentary'
 import { COMMENTARY_DESCRIPTION } from '../../../constants/pages'
-
-const TITLE = `gatekeeper`
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
+            title: GATEKEEPER,
+            metaTitle: GATEKEEPER,
             metaDescription: COMMENTARY_DESCRIPTION,
-            body: commentaryMap.get(TITLE),
+            body: commentaryMap.get(GATEKEEPER),
         }}
     />
 )

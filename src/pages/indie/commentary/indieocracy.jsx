@@ -1,17 +1,15 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import commentaryMap from '../../../content/commentary'
+import commentaryMap, { INDIEOCRACY } from '../../../content/commentary'
 import { COMMENTARY_DESCRIPTION } from '../../../constants/pages'
-
-const TITLE = `indieocracy`
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
+            title: INDIEOCRACY,
+            metaTitle: INDIEOCRACY,
             metaDescription: COMMENTARY_DESCRIPTION,
-            body: commentaryMap.get(TITLE),
+            body: commentaryMap.get(INDIEOCRACY),
         }}
     />
 )
