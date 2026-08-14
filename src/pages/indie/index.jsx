@@ -26,7 +26,7 @@ const Component = ({ sectionCounter = 0 }) => (
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only ever signed artists with a *proven* fanbase, who were thus empowered to hold out for the *fairest* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Bennett from the [Bobtail Yearlings](${BOBTAIL_YEARLINGS_PATH}) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, you can now hustle to build a fanbase on your own; and the better your works, the easier a time you'll have of it! So if you hate it… then what does this say about your works?"
@@ -180,10 +180,6 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 The reverse is also true, of course: Those who'd settle for "a thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They rarely consider how things look to us *other* artists.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is merely artsy, not innovative. And also fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to carry them through. In short, what historians will see in *time*… [other artists](${HIGHLIGHTS_PATH}/other-artists#) come closest to seeing *today*.
 
