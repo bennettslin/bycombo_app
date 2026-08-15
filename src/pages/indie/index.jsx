@@ -653,7 +653,7 @@ Now, since indie artists do it all themselves, they must put in a further 80% ef
 
 Which checks out, right? Among interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than the best indie artists! Victory, then, is *assured*— because, now, what elite *wouldn't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](${REFERENCE_PATH}/soviet-joke#): "Indie rock is the longest and most painful route from interdependence to… interdependence."
 
-[All commentaries](${COMMENTARY_PATH}/all#)
+- [All commentaries](${COMMENTARY_PATH}/all#)
             `,
         }}
     />

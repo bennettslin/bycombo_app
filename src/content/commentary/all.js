@@ -5,6 +5,7 @@ import indieocracyCommentary from './indieocracy'
 import audienceCommentary from './audience'
 import credCommentary from './cred'
 import populismCommentary from './populism'
+import { addNewEntryToArray } from '../helper'
 
 const commentaries = [
     gatekeeperCommentary,
@@ -18,7 +19,9 @@ const commentaries = [
 
 export default {
     title: 'all commentaries',
-    body: commentaries.map(({ title, body }) => {
-        return [`### ${title}`, body]
-    }).flat(),
+    body: commentaries.reduce((newArray, { title, body }) => {
+        addNewEntryToArray(newArray, `\n### ${title}`)
+        addNewEntryToArray(newArray, body)
+        return newArray
+    }, [``]).flat(),
 }

@@ -16,6 +16,4 @@ const Component = () => (
     />
 )
 
-console.log(body)
-
 export default Component
