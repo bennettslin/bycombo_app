@@ -1,17 +1,24 @@
-import gatekeeperCommentary, { GATEKEEPER } from './gatekeeper'
-import conservativeCommentary, { CONSERVATIVE } from './conservative'
-import alternativeCommentary, { ALTERNATIVE } from './alternative'
-import indieocracyCommentary, { INDIEOCRACY } from './indieocracy'
-import audienceCommentary, { AUDIENCE } from './audience'
-import credCommentary, { CRED } from './cred'
-import populismCommentary, { POPULISM } from './populism'
+import gatekeeperCommentary from './gatekeeper'
+import conservativeCommentary from './conservative'
+import alternativeCommentary from './alternative'
+import indieocracyCommentary from './indieocracy'
+import audienceCommentary from './audience'
+import credCommentary from './cred'
+import populismCommentary from './populism'
 
-export default new Map([
-    [GATEKEEPER],
-    [CONSERVATIVE],
-    [ALTERNATIVE],
-    [INDIEOCRACY],
-    [AUDIENCE],
-    [CRED],
-    [POPULISM],
-])
+const commentaries = [
+    gatekeeperCommentary,
+    conservativeCommentary,
+    alternativeCommentary,
+    indieocracyCommentary,
+    audienceCommentary,
+    credCommentary,
+    populismCommentary,
+]
+
+export default {
+    title: 'all commentaries',
+    body: commentaries.map(({ title, body }) => {
+        return [`### ${title}`, body]
+    }).flat(),
+}

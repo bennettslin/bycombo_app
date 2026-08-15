@@ -1,15 +1,17 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import commentary, { CRED } from '../../../content/commentary/cred'
+import commentary from '../../../content/commentary/cred'
 import { COMMENTARY_DESCRIPTION } from '../../../constants/pages'
+
+const { title, body } = commentary
 
 const Component = () => (
     <Page
         {...{
-            title: CRED,
-            metaTitle: CRED,
+            title,
+            metaTitle: title,
             metaDescription: COMMENTARY_DESCRIPTION,
-            body: commentary,
+            body,
         }}
     />
 )

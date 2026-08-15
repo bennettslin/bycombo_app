@@ -1,15 +1,17 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import commentary, { CONSERVATIVE } from '../../../content/commentary/conservative'
+import commentary from '../../../content/commentary/conservative'
 import { COMMENTARY_DESCRIPTION } from '../../../constants/pages'
+
+const { title, body } = commentary
 
 const Component = () => (
     <Page
         {...{
-            title: CONSERVATIVE,
-            metaTitle: CONSERVATIVE,
+            title,
+            metaTitle: title,
             metaDescription: COMMENTARY_DESCRIPTION,
-            body: commentary,
+            body,
         }}
     />
 )
