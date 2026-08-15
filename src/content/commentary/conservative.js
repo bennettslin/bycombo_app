@@ -3,7 +3,7 @@ import Image from '../../components/Image'
 import conservativeImage from '../../assets/images/commentary/conservative.png'
 
 export default {
-    title: 'conservative',
+    title: '"conservative"',
     body: [`
 As we all know, those in the indie camp largely sit on the political *left*. Given this, some of you might push back on my claim that, if the same dynamics found in politics also exist in the arts, then indie rock is a movement of the artistic *right*. Well, sit tight: My reasoning will be made clear as you read on! Still, I can give a hint of it here and now.
 

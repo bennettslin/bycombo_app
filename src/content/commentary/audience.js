@@ -1,5 +1,5 @@
 export default {
-    title: 'audience',
+    title: '"audience"',
     body: `
 I'd like to push back against the term "[audience capture](https://www.gurwinder.blog/p/the-perils-of-audience-capture)," which has gained some traction recently. Mind you, I'm on board with the underlying concept; I just wish more thought had gone into choosing a better first word! After all, there are plenty of others to describe a crowd whose fickle tastes and selfish demands you should be wary of: "followers," "subscribers"…
 

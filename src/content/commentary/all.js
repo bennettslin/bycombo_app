@@ -18,7 +18,7 @@ const commentaries = [
 ]
 
 export default {
-    title: 'all commentaries',
+    title: '"all commentaries"',
     body: commentaries.reduce((newArray, { title, body }) => {
         addNewEntryToArray(newArray, `\n### ${title}`)
         addNewEntryToArray(newArray, body)
