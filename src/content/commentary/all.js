@@ -4,7 +4,9 @@ import alternativeCommentary from './alternative'
 import indieocracyCommentary from './indieocracy'
 import audienceCommentary from './audience'
 import credCommentary from './cred'
+import logisticsCommentary from './logistics'
 import populismCommentary from './populism'
+import wokenessCommentary from './wokeness'
 import { addNewEntryToArray } from '../helper'
 
 const commentaries = [
@@ -14,7 +16,9 @@ const commentaries = [
     indieocracyCommentary,
     audienceCommentary,
     credCommentary,
+    logisticsCommentary,
     populismCommentary,
+    wokenessCommentary,
 ]
 
 export default {
