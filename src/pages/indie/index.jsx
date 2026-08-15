@@ -356,7 +356,7 @@ Don't be fooled, then, by those who merely *larp* as history makers! All your in
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 While "alternative" is a choice in aesthetics, "indie" is a stance on logistics. Until the '90s, then, the latter [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*, not *artists*. And that stance? It says, "We're *not* in this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
@@ -386,10 +386,6 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for e
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${REFERENCE_PATH}/watch-in-confusion#) as the disadvantaged among us side with the establishment instead.
 
 Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being seen as sellouts. Yet the [college-educated](${REFERENCE_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Just keep touring at a loss! Once you rack up enough cred, we'll support you."
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking [populism](${COMMENTARY_PATH}/populism#) for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a modern-day rebel.
 
