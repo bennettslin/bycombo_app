@@ -1,6 +1,6 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import commentaryMap, { POPULISM } from '../../../content/commentary'
+import commentary, { POPULISM } from '../../../content/commentary/populism'
 import { COMMENTARY_DESCRIPTION } from '../../../constants/pages'
 
 const Component = () => (
@@ -9,7 +9,7 @@ const Component = () => (
             title: POPULISM,
             metaTitle: POPULISM,
             metaDescription: COMMENTARY_DESCRIPTION,
-            body: commentaryMap.get(POPULISM),
+            body: commentary,
         }}
     />
 )
