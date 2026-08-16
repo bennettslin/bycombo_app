@@ -2,7 +2,7 @@ export default {
     title: '"logistics"',
     body: `
 ${'  ' || `
-// TODO: Review whole commentary a few more times.
+// TODO: Keep working on.
 `}
 
 Blah.
