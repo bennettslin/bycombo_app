@@ -25,10 +25,6 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only ever signed artists with a *proven* fanbase, who were thus empowered to hold out for the *fairest* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Bennett from the [Bobtail Yearlings](${BOBTAIL_YEARLINGS_PATH}) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, you can now hustle to build a fanbase on your own; and the better your works, the easier a time you'll have of it! So if you hate it… then what does this say about your works?"
 
 Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this here Xennial, who's had *zero* say up till now? In which case… let the interdependence revolution begin!
@@ -359,10 +355,6 @@ Don't be fooled, then, by those who merely *larp* as history makers! All your in
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
-${'  ' || `
-// TODO: Review. Also review link.
-`}
-
 While "alternative" is a choice in aesthetics, "indie" is a stance on [logistics](${COMMENTARY_PATH}/logistics#). Until the '90s, then, the latter [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*, not *artists*. And that stance? It says, "We're *not* in this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The thing is, these labels are run by White men— and to prolong inequality, White men *don't* need to harm others; they *only* need to help their own kind. But [helping their own](${REFERENCE_PATH}/helping-their-own#) is what any circle of friends will do— especially as the field gets crowded! Which means indie rock's inequality *can't* be fixed at the source; rather, its tastemakers just have to accept more of us as their own.
@@ -432,10 +424,6 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 ### ${++sectionCounter}. Identity is a resort of the privileged
 
 Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on our affection for them as [society's underdogs](${REFERENCE_PATH}/societys-underdogs#)…
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](${BOBTAIL_BLOG_PATH}/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=While%20mentioning%20privilege,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "[wokeness](${COMMENTARY_PATH}/wokeness#)."
 
