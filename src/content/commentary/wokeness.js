@@ -13,6 +13,6 @@ ${'  ' || `
 
 - Each movement began with the best of intentions— namely, to lift up the underdogs of their times.
 - In doing so, however, each consistently benefited certain demographics over others.
-- Eventually, then, each collapsed under the weight of its own hypocrisy, thus exposing the inherent paradox of *every* underdog movement: Once you lift up the underdogs… they're no longer underdogs.
+- Eventually, then, each collapsed under the weight of its own hypocrisy, thus exposing the paradox at the heart of *every* underdog movement: Once you lift up the underdogs… they're no longer underdogs.
     `,
 }

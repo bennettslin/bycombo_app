@@ -5,7 +5,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-How did indie rock, which had originally *subverted* the people's will, become a populist movement that now *obeys* it instead? I've finally solved the puzzle: Populism doesn't so much rebel against *economic* elites as against *cognitive* ones. That is, it trusts the people's intuition for seeing the world in concrete terms, over the elite's way of reasoning through abstract concepts.
+Why did indie rock, which had originally *subverted* the people's will, become a populist movement that now *obeys* it instead? I've finally solved the puzzle: Populism doesn't so much rebel against *economic* elites as against *cognitive* ones. That is, it trusts the people's intuition for seeing the world in concrete terms, over the elite's way of reasoning through abstract concepts.
 
 ${'  ' || `
 // TODO: Review.
