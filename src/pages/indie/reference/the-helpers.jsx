@@ -1,20 +1,17 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import reference from '../../../content/reference/the-helpers'
 import { REFERENCE_DESCRIPTION } from '../../../constants/pages'
 
-const TITLE = `"the helpers"`
+const { title, body } = reference
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
+            title,
+            metaTitle: title,
             metaDescription: REFERENCE_DESCRIPTION,
-            body: `
-> When I was a boy and I'd see scary things in the news, my mother would say to me, "Look for the helpers. You'll always find people who're helping."
-
-Rogers, Fred. "[Quotable Quote.](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary)" *Goodreads*.
-            `,
+            body,
         }}
     />
 )

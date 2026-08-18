@@ -20,7 +20,7 @@ const addNewEntryToArray = (baseArray, newEntry) => {
     }
 }
 
-export const getAllCommentariesBody = commentaries => (
+export const getAllNotesBody = commentaries => (
     commentaries.reduce((newArray, { title, body }) => {
         addNewEntryToArray(newArray, `\n### ${title}`)
         addNewEntryToArray(newArray, body)

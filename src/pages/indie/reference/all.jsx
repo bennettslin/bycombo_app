@@ -1,6 +1,6 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import reference from '../../../content/reference/labels-and-producers'
+import reference from '../../../content/reference/all'
 import { REFERENCE_DESCRIPTION } from '../../../constants/pages'
 
 const { title, body } = reference

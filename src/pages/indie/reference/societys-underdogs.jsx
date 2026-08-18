@@ -1,22 +1,17 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import reference from '../../../content/reference/societys-underdogs'
 import { REFERENCE_DESCRIPTION } from '../../../constants/pages'
 
-const TITLE = `"society's underdogs"`
+const { title, body } = reference
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
+            title,
+            metaTitle: title,
             metaDescription: REFERENCE_DESCRIPTION,
-            body: `
-> The idea of being outdone by a [dead] pop star frustrated Carney at the time. "For me, it was like, the underdog band from Akron trying to accomplish this," he told me. "That's where it came from."
-
-> But his perspective has softened somewhat. "We [saw ourselves as being] up against Michael Jackson's estate. But really, what we're up against is, like, the dude from Gary, Indiana, who once had the same aspirations we did."
-
-Abdurraqib, Hanif. "[Are the Black Keys Still Underdogs?](https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html)" *New York Times*, May 2021.
-            `,
+            body,
         }}
     />
 )

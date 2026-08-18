@@ -1,24 +1,17 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import reference from '../../../content/reference/how-they-grow'
 import { REFERENCE_DESCRIPTION } from '../../../constants/pages'
 
-const TITLE = `"how they grow"`
+const { title, body } = reference
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
+            title,
+            metaTitle: title,
             metaDescription: REFERENCE_DESCRIPTION,
-            body: `
-> [Here's] why there's a distinct word, "startup," for companies designed to grow fast.
-
-> If all companies were essentially similar, [and] some— [simply by] luck, or [through] the efforts of their founders— ended up growing very fast, then we wouldn't need a separate word; we could just talk about super successful companies, and less successful ones.
-
-> But, in fact, startups do have a different sort of DNA from other businesses. Google isn't just a barbershop whose founders were unusually lucky and hard-working; Google was different from the beginning.
-
-Graham, Paul. "[Startup = Growth.](https://paulgraham.com/growth.html)" September 2012.
-            `,
+            body,
         }}
     />
 )

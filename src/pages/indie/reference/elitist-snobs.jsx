@@ -1,30 +1,17 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import Image from '../../../components/Image'
-import elitistSnobsImage from '../../../assets/images/reference/elitistSnobs.jpg'
+import reference from '../../../content/reference/elitist-snobs'
 import { REFERENCE_DESCRIPTION } from '../../../constants/pages'
 
-const TITLE = `"elitist snobs"`
+const { title, body } = reference
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
+            title,
+            metaTitle: title,
             metaDescription: REFERENCE_DESCRIPTION,
-            body: [
-                (
-                    <Image
-                        isSquare
-                        {...{
-                            src: elitistSnobsImage,
-                        }}
-                    />
-                ),
-                `
-"[Your Music's Bad and You Should Feel Bad.](https://knowyourmeme.com/memes/your-musics-bad-and-you-should-feel-bad)" *Know Your Meme*, November 2010.
-            `,
-            ],
+            body,
         }}
     />
 )

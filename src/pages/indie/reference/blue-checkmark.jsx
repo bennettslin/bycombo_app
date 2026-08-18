@@ -1,20 +1,17 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import reference from '../../../content/reference/blue-checkmark'
 import { REFERENCE_DESCRIPTION } from '../../../constants/pages'
 
-const TITLE = `"blue checkmark"`
+const { title, body } = reference
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
+            title,
+            metaTitle: title,
             metaDescription: REFERENCE_DESCRIPTION,
-            body: `
-> Twitter's current "lords and peasants" system for who has or doesn't have a blue checkmark is bullshit. Power to the people! Blue for $8 [per] month.
-
-Musk, Elon. "[Twitter's current lords & peasants system…](https://x.com/elonmusk/status/1587498907336118274)" *X*, November 2022.
-            `,
+            body,
         }}
     />
 )

@@ -1,29 +1,17 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import Image from '../../../components/Image'
-import theirGratitudeImage from '../../../assets/images/reference/theirGratitude.png'
+import reference from '../../../content/reference/structured-ways'
 import { REFERENCE_DESCRIPTION } from '../../../constants/pages'
 
-const TITLE = `"structured ways"`
+const { title, body } = reference
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
+            title,
+            metaTitle: title,
             metaDescription: REFERENCE_DESCRIPTION,
-            body: [
-                (
-                    <Image
-                        {...{
-                            src: theirGratitudeImage,
-                        }}
-                    />
-                ),
-                `
-Munroe, Randall. "[Isolation.](https://xkcd.com/1601)" *XKCD*, November 2015.
-            `,
-            ],
+            body,
         }}
     />
 )

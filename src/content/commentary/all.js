@@ -6,11 +6,11 @@ import credCommentary from './cred'
 import logisticsCommentary from './logistics'
 import populismCommentary from './populism'
 import wokenessCommentary from './wokeness'
-import { getAllCommentariesBody } from '../helper'
+import { getAllNotesBody } from '../helper'
 
 export default {
     title: '"all commentaries"',
-    body: getAllCommentariesBody([
+    body: getAllNotesBody([
         gatekeeperCommentary,
         conservativeCommentary,
         indieocracyCommentary,

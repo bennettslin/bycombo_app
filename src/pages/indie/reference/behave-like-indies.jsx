@@ -1,26 +1,17 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import reference from '../../../content/reference/behave-like-indies'
 import { REFERENCE_DESCRIPTION } from '../../../constants/pages'
 
-const TITLE = `"behave like indies"`
+const { title, body } = reference
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
+            title,
+            metaTitle: title,
             metaDescription: REFERENCE_DESCRIPTION,
-            body: `
-> 1. Record labels have lost their ability to launch new careers.
-
-> 2. […] They really prefer not to deal with this whole issue, because career development is such a hassle.
-
-> 3. So they demand that musicians build their own audience via TikTok and other social media platforms.
-
-> 4. But the moment musicians become capable of doing this, they don't need record labels anymore.
-
-Gioia, Ted. "[Record Labels Dig Their Own Grave. And the Shovel Is Called TikTok.](https://www.honest-broker.com/p/record-labels-dig-their-own-grave)" *The Honest Broker*, June 2022.
-            `,
+            body,
         }}
     />
 )

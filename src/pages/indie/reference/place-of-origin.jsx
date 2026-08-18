@@ -1,20 +1,17 @@
 import React from 'react'
 import Page from '../../../containers/Page'
+import reference from '../../../content/reference/place-of-origin'
 import { REFERENCE_DESCRIPTION } from '../../../constants/pages'
 
-const TITLE = `"place of origin"`
+const { title, body } = reference
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
+            title,
+            metaTitle: title,
             metaDescription: REFERENCE_DESCRIPTION,
-            body: `
-> They're from Wisconsin and I'll always cape for Wisco rock.
-
-Hyden, Steven. "[I interviewed Emily from @slowpulpband…](https://x.com/Steven_Hyden/status/1708868954741977173)" *X*, October 2023.
-            `,
+            body,
         }}
     />
 )
