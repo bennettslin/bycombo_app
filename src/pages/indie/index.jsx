@@ -365,10 +365,6 @@ While indie artists seek populist solidarity, [rappers revel](${REFERENCE_PATH}/
 
 Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like how [being unskilled](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) keeps you from recognizing greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "[rockism](${BOBTAIL_SUBSTACK_PATH}/in-defense-of-rockism)"— implying that such snobbery is akin to racism.
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is [now a playground](${REFERENCE_PATH}/now-a-playground#) for the privileged!
 
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](${REFERENCE_PATH}/privileged-artists#) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
