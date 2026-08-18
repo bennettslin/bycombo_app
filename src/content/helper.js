@@ -1,4 +1,4 @@
-export const addNewEntryToArray = (baseArray, newEntry) => {
+const addNewEntryToArray = (baseArray, newEntry) => {
     const lastEntry = baseArray.at(-1)
     if (
         typeof lastEntry.valueOf() === 'string' &&
@@ -19,3 +19,11 @@ export const addNewEntryToArray = (baseArray, newEntry) => {
         baseArray.push(newEntry)
     }
 }
+
+export const getAllCommentariesBody = commentaries => (
+    commentaries.reduce((newArray, { title, body }) => {
+        addNewEntryToArray(newArray, `\n### ${title}`)
+        addNewEntryToArray(newArray, body)
+        return newArray
+    }, [``]).flat()
+)

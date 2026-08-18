@@ -6,24 +6,18 @@ import credCommentary from './cred'
 import logisticsCommentary from './logistics'
 import populismCommentary from './populism'
 import wokenessCommentary from './wokeness'
-import { addNewEntryToArray } from '../helper'
-
-const commentaries = [
-    gatekeeperCommentary,
-    conservativeCommentary,
-    indieocracyCommentary,
-    audienceCommentary,
-    credCommentary,
-    logisticsCommentary,
-    populismCommentary,
-    wokenessCommentary,
-]
+import { getAllCommentariesBody } from '../helper'
 
 export default {
     title: '"all commentaries"',
-    body: commentaries.reduce((newArray, { title, body }) => {
-        addNewEntryToArray(newArray, `\n### ${title}`)
-        addNewEntryToArray(newArray, body)
-        return newArray
-    }, [``]).flat(),
+    body: getAllCommentariesBody([
+        gatekeeperCommentary,
+        conservativeCommentary,
+        indieocracyCommentary,
+        audienceCommentary,
+        credCommentary,
+        logisticsCommentary,
+        populismCommentary,
+        wokenessCommentary,
+    ]),
 }
