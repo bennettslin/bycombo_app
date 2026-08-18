@@ -1,0 +1,10 @@
+export default {
+    title: `"society's underdogs"`,
+    body: `
+> The idea of being outdone by a [dead] pop star frustrated Carney at the time. "For me, it was like, the underdog band from Akron trying to accomplish this," he told me. "That's where it came from."
+
+> But his perspective has softened somewhat. "We [saw ourselves as being] up against Michael Jackson's estate. But really, what we're up against is, like, the dude from Gary, Indiana, who once had the same aspirations we did."
+
+Abdurraqib, Hanif. "[Are the Black Keys Still Underdogs?](https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html)" *New York Times*, May 2021.
+    `,
+}
