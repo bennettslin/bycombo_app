@@ -103,10 +103,6 @@ Here are fifty ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, then, this made them [alternative](${COMMENTARY_PATH}/alternative#), not indie— as Gen X knows. To Millennials, however, music is indie if it *sounds* indie… so now we're all waiting on the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get so confused?
 
 Simply put, indie rock isn't clear on what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture driven by anti-establishment grievances— and as such, it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to tear down the system!"
@@ -355,10 +351,6 @@ Don't be fooled, then, by those who merely *larp* as history makers! All your in
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
-${'  ' || `
-// TODO: Review. Also review link removal.
-`}
-
 While "alternative" is a choice in *aesthetics*, "indie" is a stance on *logistics*. Until the '90s, then, the latter [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*, not *artists*. And that stance? It says, "We're *not* in this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The thing is, these labels are run by White men— and to prolong inequality, White men *don't* need to harm others; they *only* need to help their own kind. But [helping their own](${REFERENCE_PATH}/helping-their-own#) is what any circle of friends will do— especially as the field gets crowded! Which means indie rock's inequality *can't* be fixed at the source; rather, its tastemakers just have to accept more of us as their own.
@@ -572,10 +564,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: influencers, politicians… and now, slop peddlers.
 
