@@ -103,7 +103,11 @@ Here are fifty ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, then, this made them alternative, not indie— as Gen X knows. To Millennials, however, music is indie if it *sounds* indie… so now we're all waiting on the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get so confused?
+${'  ' || `
+// TODO: Review link.
+`}
+
+In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, then, this made them [alternative](${COMMENTARY_PATH}/alternative#), not indie— as Gen X knows. To Millennials, however, music is indie if it *sounds* indie… so now we're all waiting on the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get so confused?
 
 Simply put, indie rock isn't clear on what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture driven by anti-establishment grievances— and as such, it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to tear down the system!"
 
@@ -351,7 +355,11 @@ Don't be fooled, then, by those who merely *larp* as history makers! All your in
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
-While "alternative" is a choice in aesthetics, "indie" is a stance on [logistics](${COMMENTARY_PATH}/logistics#). Until the '90s, then, the latter [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*, not *artists*. And that stance? It says, "We're *not* in this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+${'  ' || `
+// TODO: Review link removal.
+`}
+
+While "alternative" is a choice in aesthetics, "indie" is a stance on logistics. Until the '90s, then, the latter [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*, not *artists*. And that stance? It says, "We're *not* in this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The thing is, these labels are run by White men— and to prolong inequality, White men *don't* need to harm others; they *only* need to help their own kind. But [helping their own](${REFERENCE_PATH}/helping-their-own#) is what any circle of friends will do— especially as the field gets crowded! Which means indie rock's inequality *can't* be fixed at the source; rather, its tastemakers just have to accept more of us as their own.
 

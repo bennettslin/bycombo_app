@@ -1,6 +1,6 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import commentary from '../../../content/commentary/logistics'
+import commentary from '../../../content/commentary/alternative'
 import { COMMENTARY_DESCRIPTION } from '../../../constants/pages'
 
 const { title, body } = commentary

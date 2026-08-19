@@ -1,5 +1,5 @@
 export default {
-    title: '"logistics"',
+    title: '"alternative"',
     body: `
 ${'  ' || `
 // TODO: Keep working on.
