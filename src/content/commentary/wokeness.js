@@ -7,8 +7,8 @@ ${'  ' || `
 // TODO: Review a few more times. Does this, with the section, all make sense?
 `}
 
-- Each movement began with the best of intentions— namely, to lift up the underdogs of their times. In doing so, however, each benefited the same demographics over others, time and time again.
-- Those of us who protested were ignored, mocked, or vilified— and this was seen as justified, given that we'd chosen to take sides *against* good intentions. Still, what we *did* have on our side was reason.
-- Eventually, then, each movement collapsed under the weight of its own hypocrisy, thus revealing the paradox at the heart of *all* good intentions: Once you lift up the underdog… they're no longer an underdog.
+- Each movement began with the best of intentions— namely, to lift up the underdogs of their times.
+- In doing so, however, each benefited certain demographics over others, time and time again.
+- Eventually, then, each collapsed under the weight of its own hypocrisy, thus exposing the paradox at the heart of *every* underdog movement: Once you lift up the underdogs… they're no longer underdogs.
     `,
 }
