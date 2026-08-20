@@ -121,7 +121,11 @@ In the '90s, though, as bands began to leave for the major labels, "alternative"
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock disavowed its snobbery and became a [populist movement](${BOBTAIL_BLOG_PATH}/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
-Yet in *obeying* the people's will at all times, populism is just democracy with [no judicial safeguard](${REFERENCE_PATH}/no-judicial-safeguard#)… thus [making it *tyranny*](${REFERENCE_PATH}/making-it-tyranny#) for the underclass. We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
+${'  ' || `
+// TODO: Review link removal.
+`}
+
+Yet in *obeying* the people's will at all times, populism is just democracy with [no judicial safeguard](${REFERENCE_PATH}/no-judicial-safeguard#)… thus making it *tyranny* for the underclass. We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
 
 ### ${++sectionCounter}. The grassroots have become a lottery
 
@@ -375,7 +379,11 @@ Which explains why the disadvantaged tend to be *put off* by populism: It tells 
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
-Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${REFERENCE_PATH}/watch-in-confusion#) as the disadvantaged among us side with the establishment instead.
+${'  ' || `
+// TODO: Review a few more times. Also review reference link.
+`}
+
+Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should [distrust populism](${REFERENCE_PATH}/distrust-populism)— but Millennials have since lost this intuition. As a result, the progressives among them keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${REFERENCE_PATH}/watch-in-confusion#) as our most disadvantaged groups side with the establishment instead.
 
 Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being seen as sellouts. Yet the [college-educated](${REFERENCE_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Just keep touring at a loss! Once you rack up enough cred, we'll support you."
 

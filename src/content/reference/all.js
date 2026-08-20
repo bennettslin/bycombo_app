@@ -1,6 +1,5 @@
 import goingViralReference from './going-viral'
 import noJudicialSafeguardReference from './no-judicial-safeguard'
-import makingItTyrannyReference from './making-it-tyranny'
 import randomBoostReference from './random-boost'
 import otherArtistsReference from './other-artists'
 import thoughtsDriftReference from './thoughts-drift'
@@ -25,6 +24,7 @@ import nowAPlaygroundReference from './now-a-playground'
 import privilegedArtistsReference from './privileged-artists'
 import exclusiveSnobberyReference from './exclusive-snobbery'
 import elitistSnobsReference from './elitist-snobs'
+import distrustPopulismReference from './distrust-populism'
 import watchInConfusionReference from './watch-in-confusion'
 import collegeEducatedReference from './college-educated'
 import canAffordReference from './can-afford'
@@ -55,7 +55,6 @@ export default {
     body: getAllNotesBody([
         goingViralReference,
         noJudicialSafeguardReference,
-        makingItTyrannyReference,
         randomBoostReference,
         otherArtistsReference,
         thoughtsDriftReference,
@@ -80,6 +79,7 @@ export default {
         privilegedArtistsReference,
         exclusiveSnobberyReference,
         elitistSnobsReference,
+        distrustPopulismReference,
         watchInConfusionReference,
         collegeEducatedReference,
         canAffordReference,
