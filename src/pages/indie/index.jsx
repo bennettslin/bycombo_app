@@ -383,7 +383,7 @@ ${'  ' || `
 // TODO: Review a few more times. Also review reference link.
 `}
 
-Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should [distrust populism](${REFERENCE_PATH}/distrust-populism)— but Millennials have since lost this intuition. As a result, the progressives among them keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${REFERENCE_PATH}/watch-in-confusion#) as our most disadvantaged groups side with the establishment instead.
+Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should [distrust populism](${REFERENCE_PATH}/distrust-populism#)— but Millennials have since lost this intuition. As a result, the progressives among them keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${REFERENCE_PATH}/watch-in-confusion#) as our most disadvantaged groups side with the establishment instead.
 
 Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being seen as sellouts. Yet the [college-educated](${REFERENCE_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Just keep touring at a loss! Once you rack up enough cred, we'll support you."
 

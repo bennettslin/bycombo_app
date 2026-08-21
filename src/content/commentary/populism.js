@@ -1,7 +1,11 @@
 export default {
     title: '"populism"',
     body: `
-Why did indie rock, which had originally *subverted* the people's will, become a populist movement that now *obeys* it instead? I've finally solved the puzzle: Populism doesn't so much rebel against *economic* elites as against *cognitive* ones. That is, it trusts the people's intuition for seeing the world in concrete terms, over the elite's way of reasoning through abstract concepts.
+${'  ' || `
+// TODO: Review.
+`}
+
+Why did indie rock, which had originally *subverted* the people's will, become a populist movement that now *obeys* it instead? I've finally solved the puzzle: Populism doesn't so much rebel against *economic* elites as against *cognitive* ones. That is, it trusts the people's intuition for understanding the world in concrete terms, over the elite's way of reasoning through abstract concepts.
 
 Well, as stated earlier, the indie labels are all about conserving brainpower, while indie tastemakers pride themselves on being "in the know," right? So both rely on gut instincts and concrete metrics, like populists do. And since indie rock's original snobbery had always been based on exclusivity rather than elitism, it was never loyal to any system of elites in the first place.
 
