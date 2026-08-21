@@ -24,7 +24,7 @@ import nowAPlaygroundReference from './now-a-playground'
 import privilegedArtistsReference from './privileged-artists'
 import exclusiveSnobberyReference from './exclusive-snobbery'
 import elitistSnobsReference from './elitist-snobs'
-import distrustPopulismReference from './distrust-populism'
+import shyAwayReference from './shy-away'
 import watchInConfusionReference from './watch-in-confusion'
 import collegeEducatedReference from './college-educated'
 import canAffordReference from './can-afford'
@@ -79,7 +79,7 @@ export default {
         privilegedArtistsReference,
         exclusiveSnobberyReference,
         elitistSnobsReference,
-        distrustPopulismReference,
+        shyAwayReference,
         watchInConfusionReference,
         collegeEducatedReference,
         canAffordReference,

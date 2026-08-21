@@ -1,5 +1,5 @@
 export default {
-    title: `"distrust populism"`,
+    title: `"shy away"`,
     body: `
 > Jackson's populism was [a ploy] for pro-slavery, pro-states-rights interests. He was a wealthy slaveholder himself, with no qualms about African-American bondage, and deep hostility to [both] abolitionism [and] the early movement for women's rights.
 
