@@ -376,7 +376,7 @@ Which explains why the disadvantaged tend to be *put off* by populism: It tells 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
 ${'  ' || `
-// TODO: Review a few more times. Also review link change.
+// TODO: Review.
 `}
 
 Now, our forebears didn't need to coin such a term: They intuitively grasped why the underclass should [shy away](${REFERENCE_PATH}/shy-away#) from populism. But Millennials never developed this intuition; as a result, their progressives keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${REFERENCE_PATH}/watch-in-confusion#) as the disadvantaged among us side with the establishment instead.
@@ -449,11 +449,7 @@ Given their disdain for [well-crafted hooks](${REFERENCE_PATH}/well-crafted-hook
 
 "Wait, indie rock set the stage for poptimism?" Yup! Think about it: Both are underdog movements that replaced an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, Tin Pan Alley's patchwork of Jewish immigrants. Both are also rooted less in *aesthetics*, than in *ethics*— which lose all meaning if dissent is allowed.
 
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
-And so both protect their chosen underdogs by never once asking: "Wouldn't a hungry outsider— one who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times… then they'll also need history to *remember* them as the underdog. Yet future generations will know of every opportunity they were given that was denied to the outsider!
+And so both protect their chosen underdogs by never once asking: "Wouldn't a hungry outsider— one who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times… then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](${REFERENCE_PATH}/original-outsiders#)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
