@@ -265,7 +265,11 @@ It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedi
 
 But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and [having privilege](${REFERENCE_PATH}/having-privilege#) is the greatest predictor of this belief.
 
-The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivism by *refusing* to help society advance.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivization by *refusing* to help society advance.
 
 To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "But, as punishment, won't indie rock keep us low-status and unknown?" Yes, but fear not: With BYCombo, you can now plead for amnesty from artistic *progressives*… by appealing to their love of the craft.
 
