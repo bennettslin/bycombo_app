@@ -374,14 +374,10 @@ Which explains why the disadvantaged tend to be *put off* by populism: It tells 
 ### ${++sectionCounter}. True progressives join the establishment
 
 ${'  ' || `
-// TODO: Review a few more times. Also review link.
+// TODO: Review.
 `}
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the [defeated rebels](https://youtu.be/J5b_-TZwQ0I?t=421). This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Now, our forebears didn't need to coin such a term: They intuitively grasped why the underclass should [shy away](${REFERENCE_PATH}/shy-away#) from populism. But Millennials never developed this intuition; as a result, their progressives keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${REFERENCE_PATH}/watch-in-confusion#) as the more disadvantaged among us side with the establishment instead.
 
