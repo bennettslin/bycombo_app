@@ -266,7 +266,7 @@ It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedi
 But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and [having privilege](${REFERENCE_PATH}/having-privilege#) is the greatest predictor of this belief.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivization by *refusing* to help society advance.
@@ -377,10 +377,6 @@ Which explains why the disadvantaged tend to be *put off* by populism: It tells 
 
 ### ${++sectionCounter}. True progressives join the establishment
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for exploiting the [defeated rebels](https://youtu.be/J5b_-TZwQ0I?t=421). This surprised me, since I saw them as "good guys"— for defending the freed slaves. Clearly, he stood on the people's side, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
 Now, our forebears didn't need to coin such a term: They intuitively grasped why the underclass should [shy away](${REFERENCE_PATH}/shy-away#) from populism. But Millennials never developed this intuition; as a result, their progressives keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${REFERENCE_PATH}/watch-in-confusion#) as the more disadvantaged among us side with the establishment instead.
@@ -414,7 +410,7 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
 ${'  ' || `
-// TODO: Review a few more times. Also review link.
+// TODO: Review.
 `}
 
 Anyhow, as an outsider, you *can't* be well-rounded: Since your disadvantages leave you with incurable weaknesses, your one hope is to build up a strength or two to dizzying heights… thus creating a [*new* taste](${REFERENCE_PATH}/new-taste#). Luckily, BYCombo lets you find partners as lopsided as you— except strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
@@ -576,10 +572,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: celebrities, influencers… and now, slop peddlers.
 
