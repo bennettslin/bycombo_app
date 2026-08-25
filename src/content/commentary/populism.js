@@ -11,13 +11,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Well, as stated earlier, the indie labels are all about conserving brainpower, right? So they trust concrete metrics, while relying on gut instincts to make sense of it all, as the people do. And since indie rock's snobbery was always based on exclusivity rather than elitism, it was never loyal to any system of elites to begin with. Which is how indie rock came to embrace populism!
+Well, as stated earlier, the indie labels are all about conserving brainpower, right? So they trust concrete metrics, while relying on gut instincts to make sense of it all, as the people do. And since indie rock's snobbery was always based on exclusivity rather than elitism, it wasn't loyal to any system of elites to begin with. All of which is how indie rock came to embrace its populism!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-This leads to my final point: As with gatekeepers, if *all* of us oppose the elites, yet differ wildly on who they even *are*… then we're united against nothing! So let's go with the right's understanding— including those on the *artistic* right, like the indie camp— since they do populism best: The true elite is a *cognitive* one. Which means we on the *left* are better off embracing elitism!
+This leads to a final point: As with gatekeepers, if *everyone* opposes the elites, yet differs wildly on who they even *are*… then we've united against nothing! So let's all go with the *right's* definition— including those on the *artistic* right, like the indie camp— since they do populism best: The true elite is a *cognitive* one. In which case, we on the *left* are better off embracing our elitism!
 
 Heath, Joseph. "[The Populist Revolt Against Cognitive Elites.](https://www.theatlantic.com/ideas/2025/12/populism-left-wing-mamdani/685238)" *The Atlantic*, December 2025.
     `,
