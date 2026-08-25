@@ -265,10 +265,6 @@ It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedi
 
 But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and [having privilege](${REFERENCE_PATH}/having-privilege#) is the greatest predictor of this belief.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivization by *refusing* to help society advance.
 
 To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "But, as punishment, won't indie rock keep us low-status and unknown?" Yes, but fear not: With BYCombo, you can now plead for amnesty from artistic *progressives*… by appealing to their love of the craft.
@@ -408,10 +404,6 @@ Then one day it clicked: I *haven't* met with a hundred such tastemakers. For al
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Anyhow, as an outsider, you *can't* be well-rounded: Since your disadvantages leave you with incurable weaknesses, your one hope is to build up a strength or two to dizzying heights… thus creating a [*new* taste](${REFERENCE_PATH}/new-taste#). Luckily, BYCombo lets you find partners as lopsided as you— except strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
 
