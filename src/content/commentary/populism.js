@@ -5,7 +5,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-How did indie rock, which had originally *subverted* the people's will, become a populist movement that now *obeys* it instead? I've finally solved the puzzle: Populism doesn't so much rebel against *economic* elites as against *cognitive* ones. That is to say, it favors common sense and intuition grounded in what's plain to see, over deliberate reasoning by way of abstract concepts.
+How did indie rock, which had originally *subverted* the people's will, become a populist movement that now *obeys* it instead? The answer lies in this claim: Populism doesn't so much rebel against *economic* elites as against *cognitive* ones. That is to say, it favors common sense and intuition grounded in what's plain to see, over deliberate reasoning by way of abstract concepts.
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Which leads to a final point: As with gatekeepers, if *all* of us oppose the elites, yet differ wildly on who they even *are*… then we're united against nothing! So let's agree, the truest elite is a *cognitive* one— as the artistic and the political *right* both see it— since it's their side that does populism best. In which case, those of us on the *left* would be better off *embracing* our elitism!
+Which leads to a final point: As with gatekeepers, if *all* of us oppose the elites, yet differ wildly on who they even *are*… then we're united against nothing! So let's go with the right's understanding— including those on the *artistic* right, like the indie camp— since they do populism best: The true elite is a *cognitive* one. In turn, this means we on the left are better off *embracing* elitism!
 
 Heath, Joseph. "[The Populist Revolt Against Cognitive Elites.](https://www.theatlantic.com/ideas/2025/12/populism-left-wing-mamdani/685238)" *The Atlantic*, December 2025.
     `,
