@@ -26,10 +26,10 @@ const Component = ({ sectionCounter = 0 }) => (
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only ever signed artists with a *proven* fanbase, who were thus empowered to hold out for the *fairest* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-Bennett from the [Bobtail Yearlings](${BOBTAIL_YEARLINGS_PATH}) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "With all these new tech platforms, *anyone* can now hustle to build a fanbase on their own; and the better their works, the easier a time they'll have of it! So if *you* hate it… then what does this say about your works?"
+Bennett from the [Bobtail Yearlings](${BOBTAIL_YEARLINGS_PATH}) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "With all these new tech platforms, *anyone* can now hustle to build a fanbase on their own; and the better your works, the easier a time you'll have of it! So if *you* hate it… then what does this say about your works?"
 
 Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this here Xennial, who's had *zero* say up till now? In which case… let the interdependence revolution begin!
 
