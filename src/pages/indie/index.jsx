@@ -163,7 +163,11 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
-By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: "Any artist can now flourish on the fringes!" Yet today, superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" detached from the rat race for stardom, indie rock went all in: "Anyone can now flourish in the creative middle class!" Yet today, superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into power laws. Since it's hard to say whose works are best, we often just like what others like. Right? Well… they do the same! As a result, any [random boost](${REFERENCE_PATH}/random-boost#) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
@@ -217,7 +221,11 @@ Yet… this won't happen if you're forever multitasking. No wonder, then, that "
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
-Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk-*averse*. All of which explains why indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which explains why, in hindsight, this creative middle class promised by indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
 
 Back in the day, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. And so, as a "zero," you'd explore at will, hoping to spark creative ideas that could take you "from one to *n*," and thus convince others to partner with you. But today, indie artists get to "one" on their *own*… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
@@ -367,10 +375,6 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 
 But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is [now a playground](${REFERENCE_PATH}/now-a-playground#) for the privileged!
 
-${'  ' || `
-// TODO: Revise. Say more like, "in hopes of"? They aren't necessarily able to join. But don't make it like they're being useful idiots.
-`}
-
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](${REFERENCE_PATH}/privileged-artists#) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
 "Okay. Still… isn't elitist snobbery passé, now that the Internet makes it trivial to be in the know?" No, you're thinking of [*exclusive* snobbery](${REFERENCE_PATH}/exclusive-snobbery#)— the kind that's based on "cred"; [elitist snobs](${REFERENCE_PATH}/elitist-snobs#) value *craft*, which remains timeless in its cost of entry. Because public exposure *is* zero-sum, like it or not! Now BYCombo lets you treat it as such… just like rockists and rappers always have.
@@ -386,10 +390,10 @@ Of course, it's *also* in the arts where this confusion has done its damage. As 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking [populism](${COMMENTARY_PATH}/populism#) for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a modern-day rebel.
 
 ${'  ' || `
-// TODO: Revise. Mention using countercultural ideas as your golden ticket to join the establishment.
+// TODO: Review a few more times.
 `}
 
-After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because, with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
+After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because with BYCombo, you can skip the creative middle class, and jump straight from the counterculture to the establishment instead— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
