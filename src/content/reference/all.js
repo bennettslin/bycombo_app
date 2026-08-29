@@ -37,6 +37,7 @@ import wellCraftedHooksReference from './well-crafted-hooks'
 import originalOutsidersReference from './original-outsiders'
 import foundingUnderclassReference from './founding-underclass'
 import behaveLikeIndiesReference from './behave-like-indies'
+import ratherOurselvesReference from './rather-ourselves'
 import howTheyGrowReference from './how-they-grow'
 import structuredWaysReference from './structured-ways'
 import goodPeopleReference from './good-people'
@@ -93,6 +94,7 @@ export default {
         originalOutsidersReference,
         foundingUnderclassReference,
         behaveLikeIndiesReference,
+        ratherOurselvesReference,
         howTheyGrowReference,
         structuredWaysReference,
         goodPeopleReference,
