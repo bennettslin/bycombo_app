@@ -225,7 +225,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which explains why, in hindsight, this creative middle class promised by indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
+Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which explains why, in hindsight, this "creative middle class" promised by indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
 
 Back in the day, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. And so, as a "zero," you'd explore at will, hoping to spark creative ideas that could take you "from one to *n*," and thus convince others to partner with you. But today, indie artists get to "one" on their *own*… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
@@ -323,7 +323,11 @@ In the past, the major labels did just that: Their talent scouts would sign any 
 
 Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Because, sure, it's a proven way to get fans— or dates!— but does society *want* this to be the case? Besides, most of us have now grown wise to being "negged"; sooner or later, then, won't we *also* wise up to artists milking us for [free labor](${REFERENCE_PATH}/free-labor#)… and us [loving them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for it?
 
-So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](${YEARLINGS_BOBTAIL_PATH}/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine all the while. Which… is also more fun and fulfilling for *you*, no? Yet the indie tastemakers will never "forgive" you for breaking their rules; they're loyal to the hustlers— having hustled to get where they are themselves!
+${'  ' || `
+// TODO: Review link change and new link.
+`}
+
+So instead, you [build yourself up](${YEARLINGS_BOBTAIL_PATH}/7-m/?verse=2&annotation=4) into what a future audience— or romantic partner!— *would* want you to be, based on theories that you [revise and refine](${YEARLINGS_BOBTAIL_PATH}/7-m/?verse=46&annotation=41) all the while. Which… is also more fun and fulfilling for *you*, no? Yet the indie tastemakers will never "forgive" you for breaking their rules; they're loyal to the hustlers— having hustled to get where they are themselves!
 
 But if *we* were the next generation, why would we side with past tastemakers who *didn't* care what we'd want, over the gatekeepers they replaced who *did*? Time, then, behaves like a *gatekeeper*— and this is the indie camp's fatal flaw! So let them discover those who'll be discarded tomorrow; with BYCombo, you can be *re*-discovered… by the future audiences you've cared for all along.
 
@@ -397,7 +401,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because with BYCombo, you can skip the creative middle class, and jump straight from the counterculture to the establishment— just like those alternative bands did in the '90s.
+After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because with BYCombo, you can skip this "creative middle class," and jump straight from the counterculture to the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
