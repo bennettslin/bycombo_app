@@ -5,6 +5,10 @@ export default {
 
 > This trickle-down effect causes bozo explosions in companies.
 
-Kawasaki, Guy. "[Quotable Quote.](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a)" *Goodreads*.
+${'  ' || `
+// TODO: Review reference.
+`}
+
+Kawasaki, Guy. "[What I Learned from Steve Jobs.](https://guykawasaki.com/what-i-learned-from-steve-jobs)" October 2016.
     `,
 }
