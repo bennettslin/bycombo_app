@@ -7,6 +7,6 @@ ${'  ' || `
 // TODO: Review reference.
 `}
 
-Tharpe, Sister Rosetta, as quoted by Bruce Warren and Alex Lewis. "[Sister Rosetta Tharpe Gets Her Day in the Rock & Roll Hall of Fame.](https://www.npr.org/sections/world-cafe/2018/04/12/601808069/sister-rosetta-tharpe-gets-her-day-in-the-rock-roll-hall-of-fame)" *NPR*, April 2018.
+Sister Rosetta Tharpe, as quoted in Warren, Bruce and Lewis, Alex. "[Sister Rosetta Tharpe Gets Her Day in the Rock & Roll Hall of Fame.](https://www.npr.org/sections/world-cafe/2018/04/12/601808069/sister-rosetta-tharpe-gets-her-day-in-the-rock-roll-hall-of-fame)" *NPR*, April 2018.
     `,
 }
