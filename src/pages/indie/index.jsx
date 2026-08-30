@@ -397,7 +397,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because with BYCombo, you can skip this "creative middle class," and jump straight from the counterculture to the establishment— just like those alternative bands did in the '90s.
+After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because BYCombo lets you skip indie rock's "creative middle class," and go straight from the counterculture to the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
