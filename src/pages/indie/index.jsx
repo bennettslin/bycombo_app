@@ -40,7 +40,7 @@ By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 From there, we take *action*. Rebelling against a centralized institution would be easy, right? We'd just… rip it down! But against indie rock's *de*-centralized structures, we must *build*— and this is far more difficult. After all, build *what*, exactly? Luckily, I've also spent half my Xennial life coming up with a plan:
@@ -167,10 +167,6 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" detached from the rat race for stardom, indie rock went all in: "Anyone can now flourish in the creative middle class!" Yet today, superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into power laws. Since it's hard to say whose works are best, we often just like what others like. Right? Well… they do the same! As a result, any [random boost](${REFERENCE_PATH}/random-boost#) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
@@ -223,15 +219,7 @@ Of course, the best artists *are* human. So… how are such works possible? It's
 
 Yet… this won't happen if you're forever multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep your artist hat on, and let partners wear the others. Sure, you risk losing the indie camp… but *they're* not holding out for your works to surpass you; only *we* are— you and us at BYCombo.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
-### ${++sectionCounter}. Mid-tier status leads to risk aversion
-
-${'  ' || `
-// TODO: Review.
-`}
+### ${++sectionCounter}. Modest status leads to risk aversion
 
 Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which explains why, in hindsight, this "creative middle class" promised by indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
 
@@ -397,10 +385,6 @@ Of course, it's *also* in the arts where this confusion has done its damage. As 
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking [populism](${COMMENTARY_PATH}/populism#) for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a modern-day rebel.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because BYCombo lets you skip indie rock's "creative middle class," and go straight from the counterculture to the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
@@ -484,10 +468,6 @@ So when the tech platforms arrived to disrupt the majors using data-driven metho
 To sum up, it was the *indie camp* who gave us today's data-driven industry! Thanks to them— and their grievances— even the *majors* [behave like indies](${REFERENCE_PATH}/behave-like-indies#) now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers… but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Are we due for a new Romanticism? Some foresee a revolt [against science](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash), as tech platforms take over the arts with their algorithms. Yet algorithms simply reflect what the people want, just like word of mouth does; it's why indie rock defended them for as long as it did. In this light, then, maybe we *shouldn't* blame those in tech, but [rather *ourselves*](${REFERENCE_PATH}/rather-ourselves#)— the people!
 
