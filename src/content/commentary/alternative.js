@@ -2,20 +2,30 @@ export default {
     title: '"alternative"',
     body: `
 ${'  ' || `
-// TODO: Keep working on.
-
-Make it clear in first paragraph that, while all will be made clear as you read on, I want to hammer home that this distinction is key, so once again, I'll offer a brief taste here of what I mean.
+// TODO: Review a few more times.
 `}
 
-At its core, what's the difference between alternative and indie rock? While "alternative" is an *aesthetic* choice, "indie" is a *logistical* stance. I'm not being pedantic: This distinction is key to understanding why the indie takeover of music in the '00s has left us worse off. Once again, all this will be made clear as you read on, but here's a brief taste of what I mean…
+At its core, what's the difference between alternative and indie rock? While "alternative" is a choice in *aesthetics*, "indie" is a stance on *logistics*. I'm not being pedantic here: This distinction is key to understanding why the indie takeover of music in the '00s has done so much damage. Once again, you'll get the full picture as you read on, but I can offer an overview for now…
 
-Unlike the macroculture, there's no single microculture; as explained by W. David Marx, the counterculture is just one of many. And now the Internet has given us one more: the "macro-taste micro"— as typified by MrBeast— which caters to mainstream *tastes*, but goes through independent *distribution*. In other words, it differs not in aesthetics… but in logistics!
+${'  ' || `
+// TODO: Review a few more times.
+`}
 
-This means indie rock was *always* fated to turn into a macro-taste micro— and so it did, in the early '00s, when the Internet finally made this possible. Once we grasp this, we can read Marx's critique of the macro-taste micro as criticism of indie rock instead. To paraphrase:
+Unlike the macroculture, there's no single microculture; as explained by W. David Marx, the counterculture is just one of several. Well, the Internet has now given us one more: the "macro-taste micro"— think, let's say, MrBeast— which feeds mainstream tastes, yet goes through independent distribution. In other words, it offers nothing new *aesthetically*… only *logistically*!
 
-- The alternative takeover in the '90s was the last time mainstream rock was infused with new artistic forms and styles. Alternative, then, was rock's last true counterculture. (Talk about how and where these new forms and styles came to be. Avant-garde? Reference Marx.)
+${'  ' || `
+// TODO: Review a few more times.
+`}
 
-- By contrast, this century's indie artists are like the MrBeasts of music, in that they compete directly with the mainstream *without* being a source of innovation. As such, they still struggle for respect— not just from the elites, but even from today's young folks. (Point out they share the same tastes.)
+Given that indie rock is defined solely by its stance on logistics, then, it was *always* likely to merge with this macro-taste micro— and so it did, starting in the early '00s. Now, with our newfound insight, we can read Marx's critique of the macro-taste micro as criticism of indie rock as well. To paraphrase:
+
+${'  ' || `
+// TODO: Keep working on.
+`}
+
+- The alternative takeover in the '90s was the last time rock's mainstream was infused with new artistic forms and styles. Alternative, then, was rock's last true counterculture. (Talk about how and where these new forms and styles came to be. Avant-garde? Reference Marx.)
+
+- By contrast, this century's indie artists are like the MrBeasts of music, in that they share the mainstream's tastes. Since they aren't a source of innovation, the macroculture has no use for them, doesn't respect them, and only sees them as a direct threat. As such, they still struggle for respect— not just from the elites, but even from today's young folks. (Point out they share the same tastes.)
 
 - Still, since many assume there's a single microculture— which they then equate with the counterculture— they support indie rock, believing it to be that counterculture. Sadly, this prevents a true counterculture from emerging in our times.
 
