@@ -3,6 +3,8 @@ export default {
     body: `
 ${'  ' || `
 // TODO: Keep working on.
+
+Make it clear in first paragraph that, while all will be made clear as you read on, I want to hammer home that this distinction is key, so once again, I'll offer a brief taste here of what I mean.
 `}
 
 At its core, what's the difference between alternative and indie rock? While "alternative" is an *aesthetic* choice, "indie" is a *logistical* stance. I'm not being pedantic: This distinction is key to understanding why the indie takeover of music in the '00s has left us worse off. Once again, all this will be made clear as you read on, but here's a brief taste of what I mean…
