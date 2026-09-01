@@ -9,7 +9,7 @@ At its core, what's the difference between alternative and indie rock? While "al
 
 Unlike the macroculture, there's no single microculture; as explained by W. David Marx, the counterculture is just one of many. And now the Internet has given us one more: the "macro-taste micro"— as typified by MrBeast— which caters to mainstream *tastes*, but goes through independent *distribution*. In other words, it differs not in aesthetics… but in logistics!
 
-This tells us, indie rock was *always* fated to devolve into a macro-taste micro, once the Internet made this possible— and so it did, starting in the early '00s. Once we grasp this, we can read Marx's critique of the macro-taste micro as criticism of indie rock instead. To paraphrase:
+This means indie rock was *always* fated to turn into a macro-taste micro— and so it did, in the early '00s, when the Internet finally made this possible. Once we grasp this, we can read Marx's critique of the macro-taste micro as criticism of indie rock instead. To paraphrase:
 
 - The alternative takeover in the '90s was the last time mainstream rock was infused with new artistic forms and styles. Alternative, then, was rock's last true counterculture. (Talk about how and where these new forms and styles came to be. Avant-garde? Reference Marx.)
 
