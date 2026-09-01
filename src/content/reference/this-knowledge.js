@@ -1,5 +1,5 @@
 export default {
-    title: `"Kurt Cobain"`,
+    title: `"this knowledge"`,
     body: `
 > I don't blame the average seventeen-year-old punk-rock kid for calling me a sellout. I understand that. And maybe when they grow up a little bit, they'll realize there's more […] to life than living out your rock and roll identity so righteously.
 

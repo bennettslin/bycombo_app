@@ -46,7 +46,7 @@ import evenPermanentlyReference from './even-permanently'
 import collectivistRaceReference from './collectivist-race'
 import collectivistClassReference from './collectivist-class'
 import branchedOffReference from './branched-off'
-import kurtCobainReference from './kurt-cobain'
+import thisKnowledgeReference from './this-knowledge'
 import needToQuitReference from './need-to-quit'
 import likeIndieLabelsReference from './like-indie-labels'
 import lowPerformanceReference from './low-performance'
@@ -104,7 +104,7 @@ export default {
         collectivistRaceReference,
         collectivistClassReference,
         branchedOffReference,
-        kurtCobainReference,
+        thisKnowledgeReference,
         needToQuitReference,
         likeIndieLabelsReference,
         lowPerformanceReference,

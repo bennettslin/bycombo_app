@@ -591,7 +591,11 @@ Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They 
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
-Still, since our troubles began when we accepted indiefication and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as [Kurt Cobain](${REFERENCE_PATH}/kurt-cobain#) knew. Now BYCombo lets you act on this knowledge as well.
+${'  ' || `
+// TODO: Review link move and change.
+`}
+
+Still, since our troubles began when we accepted indiefication and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](${REFERENCE_PATH}/this-knowledge#) as well.
 
 ### ${++sectionCounter}. Solutions come from systems thinking
 
