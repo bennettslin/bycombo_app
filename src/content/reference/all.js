@@ -2,6 +2,7 @@ import goingViralReference from './going-viral'
 import noJudicialSafeguardReference from './no-judicial-safeguard'
 import randomBoostReference from './random-boost'
 import otherArtistsReference from './other-artists'
+import alreadyWorseReference from './already-worse'
 import thoughtsDriftReference from './thoughts-drift'
 import knowToExpectReference from './know-to-expect'
 import backsToStarlightReference from './backs-to-starlight'
@@ -59,6 +60,7 @@ export default {
         noJudicialSafeguardReference,
         randomBoostReference,
         otherArtistsReference,
+        alreadyWorseReference,
         thoughtsDriftReference,
         knowToExpectReference,
         backsToStarlightReference,
