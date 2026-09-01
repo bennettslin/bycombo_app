@@ -5,10 +5,6 @@ export default {
 
 > People don't know what they want until you show it to them. That's why I never rely on market research. Our task is to read things that aren't yet on the page.
 
-${'  ' || `
-// TODO: Review reference.
-`}
-
 Jobs, Steve. "[There's Sanity Returning.](https://www.bloomberg.com/news/articles/1998-05-25/steve-jobs-theres-sanity-returning)" *BusinessWeek*, May 1998.
     `,
 }

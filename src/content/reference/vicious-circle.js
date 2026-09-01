@@ -5,10 +5,6 @@ export default {
 
 > This trickle-down effect causes bozo explosions in companies.
 
-${'  ' || `
-// TODO: Review reference.
-`}
-
 Kawasaki, Guy. "[What I Learned from Steve Jobs.](https://guykawasaki.com/what-i-learned-from-steve-jobs)" October 2016.
     `,
 }

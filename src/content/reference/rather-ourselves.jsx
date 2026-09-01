@@ -14,10 +14,6 @@ export default {
             />
         ),
         `
-${'  ' || `
-// TODO: Review reference.
-`}
-
 Kelly, Walt. "[We Have Met the Enemy and He Is Us.](https://library.osu.edu/dc/concern/generic_works/zw12z753f)" *Environmental Action*, distributed by *Post-Hall Syndicate*, April 1970.
         `,
     ],
