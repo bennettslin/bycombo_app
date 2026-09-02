@@ -35,27 +35,23 @@ const Heading = ({
             </Tag>
         )
 
-    return !noId && (
-        // H1 headings only ever show back button.
-        (level === 1 && doShowHeadingBackButton) ||
-        // H3 headings have a copy URL button by default.
-        level === 3
-    ) ? (
-            <Flex
+    // H3 headings have a copy URL button by default.
+    return !noId && level === 3 ? (
+        <Flex
+            {...{
+                justifyContent: 'normal',
+                gap: 'xs',
+            }}
+        >
+            {headingElement}
+            <HeadingButton
                 {...{
-                    justifyContent: 'normal',
-                    gap: 'xs',
+                    linkId,
+                    doShowHeadingBackButton,
                 }}
-            >
-                {headingElement}
-                <HeadingButton
-                    {...{
-                        linkId,
-                        doShowHeadingBackButton,
-                    }}
-                />
-            </Flex>
-        ) : headingElement
+            />
+        </Flex>
+    ) : headingElement
 }
 
 Heading.propTypes = {
