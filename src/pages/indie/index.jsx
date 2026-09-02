@@ -201,10 +201,6 @@ Yet the past artists we love most *don't* require us to know of any surrounding 
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
-${'  ' || `
-// TODO: Review link move and change.
-`}
-
 Guess who thought music was [already worse](${REFERENCE_PATH}/already-worse#) by the '90s? Kurt Cobain! He didn't think Gen X could rival the Silents and Boomers who started the rock and roll renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens, history *has* to remember!" As a result, [they were glad](${BOBTAIL_BLOG_PATH}/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) for *anything* to happen, and never asked what might've happened *instead*, had they held out for better works. Still… why didn't more artists join with me, and try to *show* them how much better a work can be?
@@ -270,7 +266,7 @@ Sad to say, young folks don't question today's auto-Bizarro world, since it's al
 Want even *more* absurdity? Any "trust fund baby" can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— all to the benefit of the privileged. How did this happen?
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself), or DIY, movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no dissent and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
@@ -291,10 +287,6 @@ Indie artists strive *not* to need a label, and some keep at it even after signi
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others [finally reciprocate](${REFERENCE_PATH}/finally-reciprocate#) the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Democratization pollutes the commons
 
 To "democratize" Twitter, Elon Musk made the [blue checkmark](${REFERENCE_PATH}/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
@@ -306,10 +298,6 @@ You see, pollution is an example of the famous "[prisoner's dilemma](${REFERENCE
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "[indieocracy](${COMMENTARY_PATH}/indieocracy#)"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. But what if *your* vote all along was for elitist gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
-
-${'  ' || `
-// TODO: Revise title.
-`}
 
 ### ${++sectionCounter}. Stewardship sustains the environment
 
@@ -568,13 +556,13 @@ Luckily, having struggled for half my life to attract bandmates, I anticipated t
 When's it a "larp"? Here's a test: Could it've been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that disrupted the industry too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to a new middle class. That is to say, music historians take note of technology when it advances the *art form*— not the *supply chain*.
+In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to a new middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered some new "creative middle class" to self-release their works. But what if we were to combine mediums in unprecedented ways? At long last… we'd be the real heroes! So get ready to explore *another* frontier— by having BYCombo put a dancer, illustrator, or puppeteer in your band.
@@ -618,10 +606,6 @@ Now Millennials *readily* sell out, insisting that survival today depends on it�
 Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](${REFERENCE_PATH}/branched-off#) to *spurn* such bands.
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
-
-${'  ' || `
-// TODO: Review link move and change.
-`}
 
 Still, since our troubles began when we accepted indiefication and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](${REFERENCE_PATH}/this-knowledge#) as well.
 
