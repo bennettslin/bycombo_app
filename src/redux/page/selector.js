@@ -4,25 +4,17 @@ import { getTopLevelPageFromPath } from '../../utils/pages/path'
 import { getBoolFromTextValue } from '../../utils/storage'
 import { PAGE_STORE } from '../../constants/store'
 import { ID_LINK_KEY } from '../../constants/pages'
+import { getCapitalizedText } from '../../utils/format'
 
-const mapIsIdLinkedPage = (
+export const mapIsIdLinkedPage = (
     { [PAGE_STORE]: { selectedSearch } },
 ) => getBoolFromTextValue(
     qs.parse(selectedSearch, { ignoreQueryPrefix: true })[ID_LINK_KEY],
 )
 
-const mapIsSubsequentSession = (
+export const mapIsSubsequentSession = (
     { [PAGE_STORE]: { isFirstSession } },
 ) => !isFirstSession
-
-export const getMapDoShowBackButton = createSelector(
-    mapIsSubsequentSession,
-    mapIsIdLinkedPage,
-    (
-        isSubsequentSession,
-        isIdLinkedPage,
-    ) => isSubsequentSession && isIdLinkedPage,
-)
 
 export const mapIsPointerDown = (
     { [PAGE_STORE]: { isPointerDown } },
@@ -32,13 +24,59 @@ export const mapSelectedPagePath = (
     { [PAGE_STORE]: { selectedPagePath } },
 ) => selectedPagePath
 
-export const getMapIsSelectedPagePath = pagePath => (
+export const mapSelectedTopLevelPagePath = (
     { [PAGE_STORE]: { selectedPagePath } },
-) => pagePath === selectedPagePath
+) => getTopLevelPageFromPath(selectedPagePath)
 
-export const getMapIsSelectedMenuPath = topLevelPage => createSelector(
+const getMapIsChildPage = createSelector(
+    mapSelectedTopLevelPagePath,
     mapSelectedPagePath,
-    selectedPagePath => (
-        getTopLevelPageFromPath(selectedPagePath) === topLevelPage
+    (
+        selectedTopLevelPagePath,
+        selectedPagePath,
+    ) => (
+        selectedTopLevelPagePath !== selectedPagePath
+    ),
+)
+
+export const getMapDoShowBackLink = createSelector(
+    getMapIsChildPage,
+    mapIsIdLinkedPage,
+    (
+        isChildPage,
+        isIdLinkedPage,
+    ) => (
+        // Show if it's a child page like Indie's commentary or reference…
+        isChildPage ||
+        // … Or if it's from one top-level page to another, like Demos to Indie.
+        isIdLinkedPage
+    ),
+)
+
+export const getMapBackLinkText = createSelector(
+    getMapIsChildPage,
+    mapSelectedTopLevelPagePath,
+    mapIsIdLinkedPage,
+    mapIsSubsequentSession,
+    (
+        isChildPage,
+        selectedTopLevelPagePath,
+        isIdLinkedPage,
+        isSubsequentSession,
+    ) => {
+        if (isChildPage) {
+            return `${isSubsequentSession ? 'Back' : 'Go'} to ${getCapitalizedText(selectedTopLevelPagePath)}`
+        } else if (isIdLinkedPage) {
+            return `Go back`
+        }
+        // Technically, this will never be rendered.
+        return ``
+    },
+)
+
+export const getMapIsSelectedMenuPath = topLevelPagePath => createSelector(
+    mapSelectedTopLevelPagePath,
+    selectedTopLevelPagePath => (
+        selectedTopLevelPagePath === topLevelPagePath
     ),
 )

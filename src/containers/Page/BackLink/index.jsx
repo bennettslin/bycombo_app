@@ -4,36 +4,35 @@ import { navigate } from 'gatsby'
 import Anchor from '../../../components/Anchor'
 import Flex from '../../../components/Flex'
 import {
-    getMapDoShowBackButton,
-    mapSelectedPagePath,
+    getMapBackLinkText,
+    getMapDoShowBackLink,
+    mapIsSubsequentSession,
+    mapSelectedTopLevelPagePath,
 } from '../../../redux/page/selector'
-import { getCapitalizedText } from '../../../utils/format'
-import { getTopLevelPageFromPath } from '../../../utils/pages/path'
 
 const BackLink = () => {
     const
-        selectedPagePath = useSelector(mapSelectedPagePath),
-        doShowBackButton = useSelector(getMapDoShowBackButton),
-        topLevelPage = getTopLevelPageFromPath(selectedPagePath)
+        doShowBackLink = useSelector(getMapDoShowBackLink),
+        topLevelPagePath = useSelector(mapSelectedTopLevelPagePath),
+        isSubsequentSession = useSelector(mapIsSubsequentSession),
+        backButtonText = useSelector(getMapBackLinkText)
 
     const handleAnchorClick = e => {
         e.preventDefault()
         navigate(-1)
     }
 
-    return (
-        topLevelPage !== selectedPagePath
-    ) && (
+    return doShowBackLink && (
         <Flex {...{ justifyContent: 'normal' }} >
             <Anchor
                 {...{
-                    pagePath: topLevelPage,
-                    ...doShowBackButton && {
+                    pagePath: topLevelPagePath,
+                    ...isSubsequentSession && {
                         handleAnchorClick,
                     },
                 }}
             >
-                ❮ Back to {getCapitalizedText(topLevelPage)}
+                ❮ {backButtonText}
             </Anchor>
         </Flex>
     )
