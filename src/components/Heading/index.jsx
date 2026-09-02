@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import { useSelector } from 'react-redux'
 import Flex from '../Flex'
 import HeadingButton from './HeadingButton'
-import { getMapDoShowHeadingBackButton } from '../../redux/page/selector'
+import { getMapDoShowBackButton } from '../../redux/page/selector'
 import { getLinkId } from '../../utils/format/markdown'
 import './style'
 
@@ -18,7 +18,7 @@ const Heading = ({
     }
 
     const
-        doShowHeadingBackButton = useSelector(getMapDoShowHeadingBackButton),
+        doShowBackButton = useSelector(getMapDoShowBackButton),
         Tag = `h${level}`,
         linkId = !noId && getLinkId(children),
         headingElement = (
@@ -47,7 +47,7 @@ const Heading = ({
             <HeadingButton
                 {...{
                     linkId,
-                    doShowHeadingBackButton,
+                    doShowBackButton,
                 }}
             />
         </Flex>

@@ -5,23 +5,23 @@ import { getBoolFromTextValue } from '../../utils/storage'
 import { PAGE_STORE } from '../../constants/store'
 import { ID_LINK_KEY } from '../../constants/pages'
 
-export const mapDoAllowBackNavigation = (
-    { [PAGE_STORE]: { isFirstSession } },
-) => !isFirstSession
-
 const mapIsIdLinkedPage = (
     { [PAGE_STORE]: { selectedSearch } },
 ) => getBoolFromTextValue(
     qs.parse(selectedSearch, { ignoreQueryPrefix: true })[ID_LINK_KEY],
 )
 
-export const getMapDoShowHeadingBackButton = createSelector(
-    mapDoAllowBackNavigation,
+const mapIsSubsequentSession = (
+    { [PAGE_STORE]: { isFirstSession } },
+) => !isFirstSession
+
+export const getMapDoShowBackButton = createSelector(
+    mapIsSubsequentSession,
     mapIsIdLinkedPage,
     (
-        doAllowBackNavigation,
+        isSubsequentSession,
         isIdLinkedPage,
-    ) => doAllowBackNavigation && isIdLinkedPage,
+    ) => isSubsequentSession && isIdLinkedPage,
 )
 
 export const mapIsPointerDown = (

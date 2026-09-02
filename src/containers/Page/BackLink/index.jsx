@@ -3,15 +3,18 @@ import { useSelector } from 'react-redux'
 import { navigate } from 'gatsby'
 import Anchor from '../../../components/Anchor'
 import Flex from '../../../components/Flex'
-import { mapDoAllowBackNavigation, mapSelectedPagePath } from '../../../redux/page/selector'
+import {
+    getMapDoShowBackButton,
+    mapSelectedPagePath,
+} from '../../../redux/page/selector'
 import { getCapitalizedText } from '../../../utils/format'
 import { getIsTabbedPath, getTopLevelPageFromPath } from '../../../utils/pages/path'
 
 const BackLink = () => {
     const
+        topLevelPage = getTopLevelPageFromPath(selectedPagePath),
         selectedPagePath = useSelector(mapSelectedPagePath),
-        doAllowBackNavigation = useSelector(mapDoAllowBackNavigation),
-        topLevelPage = getTopLevelPageFromPath(selectedPagePath)
+        doShowBackButton = useSelector(getMapDoShowBackButton)
 
     const handleAnchorClick = e => {
         e.preventDefault()
@@ -26,7 +29,7 @@ const BackLink = () => {
             <Anchor
                 {...{
                     pagePath: topLevelPage,
-                    ...doAllowBackNavigation && {
+                    ...doShowBackButton && {
                         handleAnchorClick,
                     },
                 }}
