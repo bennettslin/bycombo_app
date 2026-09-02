@@ -5,7 +5,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-At its core, what's the difference between alternative and indie rock? While "alternative" is a choice in *aesthetics*, "indie" is a stance on *logistics*. I'm not being pedantic here: This distinction is key to understanding why the indie takeover of music in the '00s has done so much damage. Once again, you'll get a full picture as you read on, but for now, I can offer an overview.
+At its core, what's the difference between alternative and indie rock? While "alternative" is a choice in *aesthetics*, "indie" is a stance on *logistics*. I'm not being pedantic here: This distinction is key to understanding why the indie takeover of music in the '00s has done so much damage. Again, you'll get a full picture as you read on, but for now, I can offer an overview.
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Given that indie rock is defined solely by its stance on logistics, then, it was *always* likely to merge with the macro-taste micro— and so it did, starting in the early '00s. Now, with this newfound insight, we can read Marx's critique of the macro-taste micro as criticism of indie rock as well. To paraphrase:
+Given that indie rock is defined solely by its stance on logistics, then, it was *always* likely to merge with this macro-taste micro— and so it did, starting in the early '00s. Now, with our newfound insight, we can read Marx's critique of the macro-taste micro as criticism of indie rock as well. To paraphrase:
 
 ${'  ' || `
 // TODO: Keep working on.
