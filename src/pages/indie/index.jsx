@@ -287,7 +287,11 @@ Indie artists strive *not* to need a label, and some keep at it even after signi
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others [finally reciprocate](${REFERENCE_PATH}/finally-reciprocate#) the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
-### ${++sectionCounter}. Democratization causes noise pollution
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Democratization pollutes the commons
 
 To "democratize" Twitter, Elon Musk made the [blue checkmark](${REFERENCE_PATH}/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
 
@@ -298,6 +302,18 @@ You see, pollution is an example of the famous "[prisoner's dilemma](${REFERENCE
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "[indieocracy](${COMMENTARY_PATH}/indieocracy#)"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. But what if *your* vote all along was for elitist gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
+
+${'  ' || `
+// TODO: Revise title.
+`}
+
+### ${++sectionCounter}. Stewardship sustains the environment
+
+${'  ' || `
+// TODO: Keep working on.
+`}
+
+Why has this century only given us "workhorse art" so far? It's simple: Under "indieocracy," if a work fails to go viral, we expect the artist to take it in stride, learn from listener feedback, and try anew. But a maker of "windfall art" will keep pressing their case, over and over, in hopes an elite might finally agree to advocate on their behalf. Which… is also how the *worst* artists behave!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
