@@ -14,7 +14,7 @@ const ShareButtons = () => (
         }}
     >
         <label {...{ className: 'ShareButtons__label' }}>
-            Share this page:
+            Share this page
         </label>
         <CopyUrlButton />
     </Flex>
