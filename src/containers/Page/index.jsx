@@ -5,7 +5,6 @@ import { useDispatch } from 'react-redux'
 import PageConfigContext from '../../contexts/PageConfig'
 import TopLevelShareRow from './Footer/TopLevelShareRow'
 import StyledPage from './StyledPage'
-import TabbedMenu from './TabbedMenu'
 import Body from './Body'
 import PageFooter from './Footer'
 import Flex from '../../components/Flex'
@@ -44,7 +43,6 @@ const Page = ({
                         }}
                     >
                         <TopLevelShareRow />
-                        <TabbedMenu />
                         <Body />
                         <PageFooter />
                     </Flex>

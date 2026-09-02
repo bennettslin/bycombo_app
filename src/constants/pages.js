@@ -11,8 +11,5 @@ export const INDIE_PAGE = 'indie'
 
 export const ID_LINK_KEY = 'idLink'
 
-// This prevents rendering of the "Back to" anchor.
-export const TABBED_PAGES_SET = new Set([])
-
 export const COMMENTARY_DESCRIPTION = `Some personal commentary.`
 export const REFERENCE_DESCRIPTION = `Highlighted passage and referenced source.`

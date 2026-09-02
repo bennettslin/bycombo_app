@@ -8,13 +8,13 @@ import {
     mapSelectedPagePath,
 } from '../../../redux/page/selector'
 import { getCapitalizedText } from '../../../utils/format'
-import { getIsTabbedPath, getTopLevelPageFromPath } from '../../../utils/pages/path'
+import { getTopLevelPageFromPath } from '../../../utils/pages/path'
 
 const BackLink = () => {
     const
-        topLevelPage = getTopLevelPageFromPath(selectedPagePath),
         selectedPagePath = useSelector(mapSelectedPagePath),
-        doShowBackButton = useSelector(getMapDoShowBackButton)
+        doShowBackButton = useSelector(getMapDoShowBackButton),
+        topLevelPage = getTopLevelPageFromPath(selectedPagePath)
 
     const handleAnchorClick = e => {
         e.preventDefault()
@@ -22,8 +22,7 @@ const BackLink = () => {
     }
 
     return (
-        topLevelPage !== selectedPagePath &&
-        !getIsTabbedPath(selectedPagePath)
+        topLevelPage !== selectedPagePath
     ) && (
         <Flex {...{ justifyContent: 'normal' }} >
             <Anchor

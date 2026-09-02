@@ -1,6 +1,6 @@
 import qs from 'qs'
 import slugify from 'slugify'
-import { DOMAIN_NAME, HOME_PAGE, ID_LINK_KEY, DEMOS_PAGE, TABBED_PAGES_SET } from '../../../constants/pages'
+import { DOMAIN_NAME, HOME_PAGE, ID_LINK_KEY, DEMOS_PAGE } from '../../../constants/pages'
 
 export const getTopLevelPageFromPath = (path = '') => (
     path.split('/')[0]
@@ -8,10 +8,6 @@ export const getTopLevelPageFromPath = (path = '') => (
 
 export const getChildPageFromPath = (path = '') => (
     path.split('/').reverse()[0]
-)
-
-export const getIsTabbedPath = path => (
-    TABBED_PAGES_SET.has(getTopLevelPageFromPath(path))
 )
 
 export const getPathParameters = ({ path, isPointerDown }) => {
