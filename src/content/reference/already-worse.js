@@ -2,7 +2,7 @@ export default {
     title: `"already worse"`,
     body: `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 > Kurt doubts the band will have any lasting influence— say, twenty years from now. "Fuck no," he says. "It's sad to think what the state of rock and roll will be in twenty years. It's already so rehashed and so plagiarized that it's barely alive now. It's disgusting. I don't think it'll be important anymore.
