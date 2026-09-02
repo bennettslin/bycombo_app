@@ -567,9 +567,17 @@ Luckily, having struggled for half my life to attract bandmates, I anticipated t
 
 When's it a "larp"? Here's a test: Could it've been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that disrupted the industry too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
-In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
+${'  ' || `
+// TODO: Review a few more times.
+`}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered us artists to self-release our works. But what if we were to combine mediums in unprecedented ways? At long last… we'd be the real heroes! So get ready to explore *another* frontier— by having BYCombo put a dancer, illustrator, or puppeteer in your band.
+In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to a new middle class. That is to say, music historians take note of technology when it advances the *art form*— not the *supply chain*.
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered some new "creative middle class" to self-release their works. But what if we were to combine mediums in unprecedented ways? At long last… we'd be the real heroes! So get ready to explore *another* frontier— by having BYCombo put a dancer, illustrator, or puppeteer in your band.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
