@@ -36,10 +36,10 @@ By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-From there, we take *action*. Rebelling against a centralized institution would be easy, right? We'd just… rip it down! But against indie rock's *de*-centralized structures, we must *build*— and this is far more difficult. After all, build *what*, exactly? Luckily, I've also spent half my Xennial life coming up with a plan:
+From there, we take *action*. Now, rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized structures, we must *build*— and this is far more difficult. After all, build *what*, exactly? Luckily, I've also spent half my Xennial life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependence-minded partners.**
 
@@ -260,10 +260,6 @@ Sad to say, young folks don't question today's auto-Bizarro world, since it's al
 ### ${++sectionCounter}. Self-reliance is a partisan ideal
 
 Want even *more* absurdity? Any "trust fund baby" can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— all to the benefit of the privileged. How did this happen?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself), or DIY, movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no dissent and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
@@ -551,15 +547,7 @@ Luckily, having struggled for half my life to attract bandmates, I anticipated t
 
 When's it a "larp"? Here's a test: Could it've been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that disrupted the industry too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to a new middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered some new "creative middle class" to self-release their works. But what if we were to combine mediums in unprecedented ways? At long last… we'd be the real heroes! So get ready to explore *another* frontier— by having BYCombo put a dancer, illustrator, or puppeteer in your band.
 
