@@ -1,15 +1,18 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
+import Flex from '../../../../components/Flex'
 import './style'
 
 const PageFooterRow = ({ leftChild, rightChild, isBottomRow }) => (
-    <div
+    <Flex
         {...{
             className: cx(
                 'PageFooterRow',
                 isBottomRow && 'PageFooterRow__bottom',
             ),
+            justifyContent: 'spaceBetween',
+            gap: 'sm',
         }}
     >
         <div>
@@ -18,7 +21,7 @@ const PageFooterRow = ({ leftChild, rightChild, isBottomRow }) => (
         <div>
             {rightChild}
         </div>
-    </div>
+    </Flex>
 )
 
 PageFooterRow.propTypes = {

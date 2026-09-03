@@ -3,7 +3,7 @@ import { createSelector } from 'reselect'
 import { getTopLevelPageFromPath } from '../../utils/pages/path'
 import { getBoolFromTextValue } from '../../utils/storage'
 import { PAGE_STORE } from '../../constants/store'
-import { ID_LINK_KEY } from '../../constants/pages'
+import { ID_LINK_KEY, PAGE_TITLES } from '../../constants/pages'
 import { getCapitalizedText } from '../../utils/format'
 
 export const mapIsIdLinkedPage = (
@@ -65,7 +65,10 @@ export const getMapBackLinkText = createSelector(
         isSubsequentSession,
     ) => {
         if (isChildPage) {
-            return `${isSubsequentSession ? 'Back' : 'Go'} to "${getCapitalizedText(selectedTopLevelPagePath)}"`
+            return `${isSubsequentSession ? 'Back' : 'Go'} to "${
+                PAGE_TITLES[selectedTopLevelPagePath] ||
+                getCapitalizedText(selectedTopLevelPagePath)
+            }"`
         } else if (isIdLinkedPage) {
             return `Go back`
         }
