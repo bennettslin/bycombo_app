@@ -34,8 +34,8 @@ const BackLink = () => {
             >
                 TODO
             </Anchor>
-            <label {...{ className: 'ShareButtons__label' }}>
-                ❮ {backButtonText}
+            <label {...{ className: 'ShareLink__label' }}>
+                {backButtonText}
             </label>
         </Flex>
     )

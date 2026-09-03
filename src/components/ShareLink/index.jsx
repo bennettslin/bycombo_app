@@ -1,23 +1,23 @@
 import React from 'react'
 import cx from 'classnames'
 import Flex from '../Flex'
-import CopyUrlButton from './ShareButton/CopyUrlButton'
+import ShareButton from './ShareButton'
 import './style'
 
-const ShareButtons = () => (
+const ShareLink = () => (
     <Flex
         {...{
             className: cx(
-                'ShareButtons',
+                'ShareLink',
             ),
             gap: 'xs',
         }}
     >
-        <label {...{ className: 'ShareButtons__label' }}>
+        <label {...{ className: 'ShareLink__label' }}>
             Share this page
         </label>
-        <CopyUrlButton />
+        <ShareButton />
     </Flex>
 )
 
-export default ShareButtons
+export default ShareLink

@@ -3,17 +3,17 @@ import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useSelector } from 'react-redux'
 import ReactTooltip from 'react-tooltip'
-import ShareButton from '..'
-import Svg from '../../../Svg'
-import copyUrl from '../../../../assets/svgs/socialMedia/copyUrl'
-import copyUrlCopied from '../../../../assets/svgs/socialMedia/copyUrlCopied'
-import { mapSelectedPagePath } from '../../../../redux/page/selector'
-import { getUrlFromPathAndLinkId } from '../../../../utils/pages/path'
-import { COPY_URL_KEY } from '../../../../constants/socialMedia'
+import MenuButton from '../../MenuButton'
+import Svg from '../../Svg'
+import copyUrl from '../../../assets/svgs/socialMedia/copyUrl'
+import copyUrlCopied from '../../../assets/svgs/socialMedia/copyUrlCopied'
+import { mapSelectedPagePath } from '../../../redux/page/selector'
+import { getUrlFromPathAndLinkId } from '../../../utils/pages/path'
+import { COPY_URL_KEY } from '../../../constants/socialMedia'
 
 const TOOLTIP_TEXT = 'link copied!'
 
-const CopyUrlButton = ({ linkId }) => {
+const ShareButton = ({ linkId }) => {
     const
         buttonRef = useRef(),
         copiedUrlRef = useRef(),
@@ -53,12 +53,12 @@ const CopyUrlButton = ({ linkId }) => {
     }, [isCopied])
 
     return (
-        <ShareButton
+        <MenuButton
             isTooltipSuccess
             {...{
                 ref: buttonRef,
                 className: cx(
-                    'CopyUrlButton',
+                    'ShareButton',
                 ),
                 id: COPY_URL_KEY,
                 ...isCopied && {
@@ -74,12 +74,12 @@ const CopyUrlButton = ({ linkId }) => {
                     src: isCopied ? copyUrlCopied : copyUrl,
                 }}
             />
-        </ShareButton>
+        </MenuButton>
     )
 }
 
-CopyUrlButton.propTypes = {
+ShareButton.propTypes = {
     linkId: PropTypes.string,
 }
 
-export default CopyUrlButton
+export default ShareButton

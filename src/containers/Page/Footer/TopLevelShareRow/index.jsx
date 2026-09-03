@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux'
 import PageConfigContext from '../../../../contexts/PageConfig'
 import PageFooterRow from '../FooterRow'
 import BackLink from '../../BackLink'
-import ShareButtons from '../../../../components/ShareButtons'
+import ShareLink from '../../../../components/ShareLink'
 import { mapSelectedPagePath } from '../../../../redux/page/selector'
 import { getTopLevelPageFromPath } from '../../../../utils/pages/path'
 
@@ -27,7 +27,7 @@ const TopLevelShareRow = ({ isBottomRow }) => {
                     <BackLink />
                 ),
                 rightChild: !noShare && (
-                    <ShareButtons />
+                    <ShareLink />
                 ),
             }}
         />

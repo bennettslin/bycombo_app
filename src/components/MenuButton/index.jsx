@@ -1,13 +1,12 @@
 import React, { forwardRef } from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
-import Button from '../../Button'
+import Button from '../Button'
 import './style'
 
-const ShareButton = forwardRef(({
+const MenuButton = forwardRef(({
     className,
     id,
-    handleButtonClick,
     children,
     ...rest
 
@@ -16,11 +15,12 @@ const ShareButton = forwardRef(({
         {...{
             ref,
             className: cx(
-                'ShareButton',
+                'MenuButton',
                 className,
             ),
-            analyticsLabel: `ShareButton__${id}`,
-            handleButtonClick,
+            ...id && {
+                analyticsLabel: `MenuButton__${id}`,
+            },
             ...rest,
         }}
     >
@@ -28,11 +28,10 @@ const ShareButton = forwardRef(({
     </Button>
 ))
 
-ShareButton.propTypes = {
+MenuButton.propTypes = {
     className: PropTypes.string,
-    id: PropTypes.string.isRequired,
-    handleButtonClick: PropTypes.func,
+    id: PropTypes.string,
     children: PropTypes.node.isRequired,
 }
 
-export default ShareButton
+export default MenuButton

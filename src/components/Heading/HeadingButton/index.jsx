@@ -2,11 +2,10 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { navigate } from 'gatsby'
-import Button from '../../Button'
+import MenuButton from '../../MenuButton'
 import Svg from '../../Svg'
-import CopyUrlButton from '../../ShareButtons/ShareButton/CopyUrlButton'
+import ShareButton from '../../ShareLink/ShareButton'
 import backLink from '../../../assets/svgs/app/backLink'
-import './style'
 
 const HeadingButton = ({ linkId, doShowBackLink }) => {
     const handleButtonClick = () => {
@@ -14,7 +13,7 @@ const HeadingButton = ({ linkId, doShowBackLink }) => {
     }
 
     return doShowBackLink ? (
-        <Button
+        <MenuButton
             {...{
                 className: cx(
                     'HeadingButton',
@@ -28,8 +27,8 @@ const HeadingButton = ({ linkId, doShowBackLink }) => {
                     src: backLink,
                 }}
             />
-        </Button>
-    ) : <CopyUrlButton {...{ linkId }} />
+        </MenuButton>
+    ) : <ShareButton {...{ linkId }} />
 }
 
 HeadingButton.propTypes = {
