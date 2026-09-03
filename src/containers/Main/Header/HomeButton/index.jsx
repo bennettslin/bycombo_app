@@ -4,6 +4,7 @@ import HeaderButton from '../HeaderButton'
 import Svg from '../../../../components/Svg'
 import byCombo from '../../../../assets/svgs/app/byCombo'
 import { HOME_PAGE } from '../../../../constants/pages'
+import './style'
 
 const HomeButton = () => (
     <HeaderButton
