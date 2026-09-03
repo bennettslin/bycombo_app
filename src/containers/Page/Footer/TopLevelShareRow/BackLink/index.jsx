@@ -1,14 +1,14 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 import { navigate } from 'gatsby'
-import Anchor from '../../../components/Anchor'
-import Flex from '../../../components/Flex'
+import Anchor from '../../../../../components/Anchor'
+import Flex from '../../../../../components/Flex'
 import {
     getMapBackLinkText,
     getMapDoShowBackLink,
     mapIsSubsequentSession,
     mapSelectedTopLevelPagePath,
-} from '../../../redux/page/selector'
+} from '../../../../../redux/page/selector'
 
 const BackLink = () => {
     const
