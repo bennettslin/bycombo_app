@@ -23,7 +23,7 @@ const BackLink = () => {
     }
 
     return doShowBackLink && (
-        <Flex {...{ justifyContent: 'normal' }} >
+        <Flex {...{ justifyContent: 'normal', gap: 'xs' }} >
             <Anchor
                 {...{
                     pagePath: topLevelPagePath,
@@ -32,8 +32,11 @@ const BackLink = () => {
                     },
                 }}
             >
-                ❮ {backButtonText}
+                TODO
             </Anchor>
+            <label {...{ className: 'ShareButtons__label' }}>
+                ❮ {backButtonText}
+            </label>
         </Flex>
     )
 }
