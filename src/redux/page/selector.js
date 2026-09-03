@@ -65,7 +65,7 @@ export const getMapBackLinkText = createSelector(
         isSubsequentSession,
     ) => {
         if (isChildPage) {
-            return `${isSubsequentSession ? 'Back' : 'Go'} to ${getCapitalizedText(selectedTopLevelPagePath)}`
+            return `${isSubsequentSession ? 'Back' : 'Go'} to "${getCapitalizedText(selectedTopLevelPagePath)}"`
         } else if (isIdLinkedPage) {
             return `Go back`
         }
