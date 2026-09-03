@@ -15,7 +15,6 @@ const HeadingButton = ({ linkId, doShowBackLink }) => {
 
     return doShowBackLink ? (
         <Button
-            dropShadow
             {...{
                 className: cx(
                     'HeadingButton',
