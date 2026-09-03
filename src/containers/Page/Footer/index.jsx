@@ -1,10 +1,11 @@
 import React from 'react'
 import cx from 'classnames'
 import TopLevelRow from './TopLevelRow'
+import Flex from '../../../components/Flex'
 import './style'
 
 const PageFooter = () => (
-    <div
+    <Flex
         {...{
             className: cx(
                 'PageFooter',
@@ -12,7 +13,7 @@ const PageFooter = () => (
         }}
     >
         <TopLevelRow isBottomRow />
-    </div>
+    </Flex>
 )
 
 export default PageFooter

@@ -1,5 +1,6 @@
 import React from 'react'
 import cx from 'classnames'
+import Flex from '../../../../components/Flex'
 import HeaderButton from '../HeaderButton'
 import {
     DEMOS_PAGE,
@@ -9,11 +10,12 @@ import {
 import './style'
 
 const Menu = () => (
-    <div
+    <Flex
         {...{
             className: cx(
                 'Menu',
             ),
+            flexWrap: 'wrap',
         }}
     >
         <HeaderButton {...{ pagePath: DEMOS_PAGE }}>
@@ -25,7 +27,7 @@ const Menu = () => (
         <HeaderButton {...{ pagePath: INDIE_PAGE }}>
             Indie
         </HeaderButton>
-    </div>
+    </Flex>
 )
 
 export default Menu
