@@ -13,7 +13,11 @@ const ShareLink = () => (
             gap: 'xs',
         }}
     >
-        <label {...{ className: 'ShareLink__label' }}>
+        <label
+            {...{
+                className: 'RowLink',
+            }}
+        >
             Share this page
         </label>
         <ShareButton />

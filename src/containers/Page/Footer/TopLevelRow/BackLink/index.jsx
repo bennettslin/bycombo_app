@@ -15,7 +15,11 @@ const BackLink = () => {
     return doShowBackLink && (
         <Flex {...{ gap: 'xs' }} >
             <BackButton />
-            <label {...{ className: 'ShareLink__label' }}>
+            <label
+                {...{
+                    className: 'RowLink',
+                }}
+            >
                 {backButtonText}
             </label>
         </Flex>
