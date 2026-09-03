@@ -1,34 +1,14 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import cx from 'classnames'
-import { navigate } from 'gatsby'
-import MenuButton from '../../MenuButton'
-import Svg from '../../Svg'
 import ShareButton from '../../MenuButton/ShareButton'
-import backLink from '../../../assets/svgs/app/backLink'
+import BackButton from '../../MenuButton/BackButton'
 
 const HeadingButton = ({ linkId, doShowBackLink }) => {
-    const handleButtonClick = () => {
-        navigate(-1)
-    }
-
     return doShowBackLink ? (
-        <MenuButton
-            {...{
-                className: cx(
-                    'HeadingButton',
-                ),
-                handleButtonClick,
-            }}
-        >
-            <Svg
-                {...{
-                    className: 'backLink',
-                    src: backLink,
-                }}
-            />
-        </MenuButton>
-    ) : <ShareButton {...{ linkId }} />
+        <BackButton />
+    ) : (
+        <ShareButton {...{ linkId }} />
+    )
 }
 
 HeadingButton.propTypes = {

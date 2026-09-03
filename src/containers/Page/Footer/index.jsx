@@ -1,7 +1,6 @@
 import React from 'react'
 import cx from 'classnames'
-import DirectionRow from './DirectionRow'
-import TopLevelShareRow from './TopLevelShareRow'
+import TopLevelRow from './TopLevelRow'
 import './style'
 
 const PageFooter = () => (
@@ -12,8 +11,7 @@ const PageFooter = () => (
             ),
         }}
     >
-        <DirectionRow />
-        <TopLevelShareRow isBottomRow />
+        <TopLevelRow isBottomRow />
     </div>
 )
 

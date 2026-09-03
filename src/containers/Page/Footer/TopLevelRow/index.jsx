@@ -8,7 +8,7 @@ import ShareLink from './ShareLink'
 import { mapSelectedPagePath } from '../../../../redux/page/selector'
 import { getTopLevelPageFromPath } from '../../../../utils/pages/path'
 
-const TopLevelShareRow = ({ isBottomRow }) => {
+const TopLevelRow = ({ isBottomRow }) => {
     const
         { noShare } = useContext(PageConfigContext),
         selectedPagePath = useSelector(mapSelectedPagePath),
@@ -34,8 +34,8 @@ const TopLevelShareRow = ({ isBottomRow }) => {
     )
 }
 
-TopLevelShareRow.propTypes = {
+TopLevelRow.propTypes = {
     isBottomRow: PropTypes.bool,
 }
 
-export default TopLevelShareRow
+export default TopLevelRow

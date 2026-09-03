@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useDispatch } from 'react-redux'
 import PageConfigContext from '../../contexts/PageConfig'
-import TopLevelShareRow from './Footer/TopLevelShareRow'
+import TopLevelRow from './Footer/TopLevelRow'
 import StyledPage from './StyledPage'
 import Body from './Body'
 import PageFooter from './Footer'
@@ -42,7 +42,7 @@ const Page = ({
                             alignItems: 'normal',
                         }}
                     >
-                        <TopLevelShareRow />
+                        <TopLevelRow />
                         <Body />
                         <PageFooter />
                     </Flex>
