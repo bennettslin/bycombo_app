@@ -9,8 +9,7 @@ const Component = () => (
     <Page
         {...{
             title,
-            metaTitle: title,
-            metaDescription: REFERENCE_DESCRIPTION,
+            description: REFERENCE_DESCRIPTION,
             body,
         }}
     />

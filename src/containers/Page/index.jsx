@@ -16,8 +16,8 @@ import './style'
 const Page = ({
     children,
     pageName,
-    metaTitle,
-    metaDescription,
+    title,
+    description,
     ...rest
 }) => {
     const dispatch = useDispatch()
@@ -29,11 +29,19 @@ const Page = ({
     }, [])
 
     return (
-        <PageConfigContext.Provider {...{ value: { pageName, ...rest } }}>
+        <PageConfigContext.Provider
+            {...{
+                value: {
+                    pageName,
+                    title,
+                    ...rest,
+                },
+            }}
+        >
             <Helmet
                 {...{
-                    metaTitle: metaTitle || PAGE_TITLES[pageName],
-                    metaDescription: metaDescription || PAGE_DESCRIPTIONS[pageName],
+                    metaTitle: title || PAGE_TITLES[pageName],
+                    metaDescription: description || PAGE_DESCRIPTIONS[pageName],
                 }}
             />
             {/* This assumes children or markdown, but never both. */}
@@ -64,8 +72,8 @@ Page.propTypes = {
     showContactEmail: PropTypes.bool,
     children: PropTypes.node,
     pageName: PropTypes.string,
-    metaTitle: PropTypes.string,
-    metaDescription: PropTypes.string,
+    title: PropTypes.string,
+    description: PropTypes.string,
     date: PropTypes.shape({
         year: PropTypes.number.isRequired,
         month: PropTypes.number.isRequired,
