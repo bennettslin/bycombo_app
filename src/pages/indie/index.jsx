@@ -11,17 +11,13 @@ import {
     REFERENCE_PATH,
     YEARLINGS_BOBTAIL_PATH,
 } from '../../constants/website'
-
-const TITLE = `The problem with indie rock`
-const DESCRIPTION = `How indie rock made music worse…`
+import { INDIE_PAGE } from '../../constants/pages'
 
 const Component = ({ sectionCounter = 0 }) => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
-            date: { year: 2026, month: 8 },
+            pageName: INDIE_PAGE,
+            date: { year: 2026, month: 9 },
             body: `
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only ever signed artists with a *proven* fanbase, who were thus empowered to hold out for the *fairest* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 

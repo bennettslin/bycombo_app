@@ -6,16 +6,12 @@ import {
     BOBTAIL_YEARLINGS_PATH,
     YEARLINGS_BOBTAIL_PATH,
 } from '../../constants/website'
-
-const TITLE = `The BYCombo mission`
-const DESCRIPTION = `We're here to lead the interdependence revolution!`
+import { HOME_PAGE } from '../../constants/pages'
 
 const Component = () => (
     <Page
         {...{
-            title: TITLE,
-            metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            pageName: HOME_PAGE,
             body: `
 **As a nonprofit, BYCombo promotes amnesty for interdependence-seeking artists who advance the art form. Our approach is to assemble them into rock bands ourselves, and then expose them to business partners.**
 

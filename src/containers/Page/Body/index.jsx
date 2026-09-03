@@ -8,17 +8,17 @@ import Heading from '../../../components/Heading'
 import { getFormattedText } from '../../../utils/format'
 import { getHeaderFromDate } from '../../../utils/format/dates'
 import './style'
+import { PAGE_TITLES } from '../../../constants/pages'
 
 const Body = () => {
     const {
-            pageHeading,
-            titleHeading,
+            pageName,
             title,
             date,
             body,
             showContactEmail,
         } = useContext(PageConfigContext),
-        formattedTitle = getFormattedText(pageHeading || titleHeading || title),
+        formattedTitle = getFormattedText(title || PAGE_TITLES[pageName]),
         headerFromDate = getHeaderFromDate(date)
 
     return (

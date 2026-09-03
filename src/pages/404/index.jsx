@@ -4,7 +4,7 @@ import Page from '../../containers/Page'
 const Component = () => (
     <Page
         {...{
-            pageHeading: 'Page not found',
+            title: 'Page not found',
             noShare: true,
         }}
     />

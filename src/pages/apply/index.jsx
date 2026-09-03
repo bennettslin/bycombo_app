@@ -1,17 +1,13 @@
 import React from 'react'
 import Page from '../../containers/Page'
 import { BOBTAIL_SUBSTACK_PATH } from '../../constants/website'
-
-const TITLE = `Join the interdependence revolution!`
-const DESCRIPTION = `Sacrifice a serious chunk of lifetime to advance the art form.`
+import { APPLY_PAGE } from '../../constants/pages'
 
 const Component = () => (
     <Page
         {...{
             showContactEmail: true,
-            title: TITLE,
-            metaTitle: TITLE,
-            metaDescription: DESCRIPTION,
+            pageName: APPLY_PAGE,
             body: `
 As an artist, do you sense that the indie camp has it *backward*? Why do they force you to waste so much effort on hustling to get yourself known— all in the name of self-empowerment? Back when rock was interdependent, being empowered just came for free, once you'd built up enough talents.
 
