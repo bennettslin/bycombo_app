@@ -1,7 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
 import Flex from '../Flex'
-import ShareButton from './ShareButton'
+import ShareButton from '../MenuButton/ShareButton'
 import './style'
 
 const ShareLink = () => (

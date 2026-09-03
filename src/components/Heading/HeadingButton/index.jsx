@@ -4,7 +4,7 @@ import cx from 'classnames'
 import { navigate } from 'gatsby'
 import MenuButton from '../../MenuButton'
 import Svg from '../../Svg'
-import ShareButton from '../../ShareLink/ShareButton'
+import ShareButton from '../../MenuButton/ShareButton'
 import backLink from '../../../assets/svgs/app/backLink'
 
 const HeadingButton = ({ linkId, doShowBackLink }) => {
