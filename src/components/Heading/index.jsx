@@ -2,6 +2,7 @@ import React from 'react'
 import cx from 'classnames'
 import PropTypes from 'prop-types'
 import Flex from '../Flex'
+import ForwardButton from '../CustomButton/ForwardButton'
 import ShareButton from '../CustomButton/ShareButton'
 import { getLinkId } from '../../utils/format/markdown'
 import './style'
@@ -40,13 +41,9 @@ const Heading = ({
                 gap: 'xs',
             }}
         >
-            {/* TODO: Add Go button, and only render one or the other. */}
+            <ForwardButton {... { linkId }} />
             {headingElement}
-            <ShareButton
-                {...{
-                    linkId,
-                }}
-            />
+            <ShareButton {... { linkId }} />
         </Flex>
     ) : headingElement
 }
