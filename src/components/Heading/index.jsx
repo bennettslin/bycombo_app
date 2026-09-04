@@ -1,10 +1,8 @@
 import React from 'react'
 import cx from 'classnames'
 import PropTypes from 'prop-types'
-import { useSelector } from 'react-redux'
 import Flex from '../Flex'
-import HeadingButton from './HeadingButton'
-import { getMapDoShowBackLink } from '../../redux/page/selector'
+import ShareButton from '../CustomButton/ShareButton'
 import { getLinkId } from '../../utils/format/markdown'
 import './style'
 
@@ -18,7 +16,6 @@ const Heading = ({
     }
 
     const
-        doShowBackLink = useSelector(getMapDoShowBackLink),
         Tag = `h${level}`,
         linkId = !noId && getLinkId(children),
         headingElement = (
@@ -43,11 +40,11 @@ const Heading = ({
                 gap: 'xs',
             }}
         >
+            {/* TODO: Add Go button, and only render one or the other. */}
             {headingElement}
-            <HeadingButton
+            <ShareButton
                 {...{
                     linkId,
-                    doShowBackLink,
                 }}
             />
         </Flex>

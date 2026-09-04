@@ -1,7 +1,7 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 import Flex from '../../../../../components/Flex'
-import BackButton from '../../../../../components/MenuButton/BackButton'
+import BackButton from '../../../../../components/CustomButton/BackButton'
 import {
     getMapBackLinkText,
     getMapDoShowBackLink,

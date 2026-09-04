@@ -3,7 +3,7 @@ import { useSelector } from 'react-redux'
 import { navigate } from 'gatsby'
 // import PropTypes from 'prop-types'
 import cx from 'classnames'
-import MenuButton from '../../MenuButton'
+import CustomButton from '../../CustomButton'
 import Svg from '../../Svg'
 import {
     mapIsSubsequentSession,
@@ -22,7 +22,7 @@ const BackButton = ({ ...rest }) => {
     }
 
     return (
-        <MenuButton
+        <CustomButton
             {...{
                 className: cx(
                     'HeadingButton',
@@ -40,7 +40,7 @@ const BackButton = ({ ...rest }) => {
                     src: backLink,
                 }}
             />
-        </MenuButton>
+        </CustomButton>
     )
 }
 

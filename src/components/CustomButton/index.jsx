@@ -4,7 +4,7 @@ import cx from 'classnames'
 import Button from '../Button'
 import './style'
 
-const MenuButton = forwardRef(({
+const CustomButton = forwardRef(({
     className,
     id,
     children,
@@ -15,7 +15,7 @@ const MenuButton = forwardRef(({
         {...{
             ref,
             className: cx(
-                'MenuButton',
+                'CustomButton',
                 className,
             ),
             ...id && {
@@ -28,10 +28,10 @@ const MenuButton = forwardRef(({
     </Button>
 ))
 
-MenuButton.propTypes = {
+CustomButton.propTypes = {
     className: PropTypes.string,
     id: PropTypes.string,
     children: PropTypes.node.isRequired,
 }
 
-export default MenuButton
+export default CustomButton

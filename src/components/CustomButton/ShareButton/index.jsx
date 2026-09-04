@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useSelector } from 'react-redux'
 import ReactTooltip from 'react-tooltip'
-import MenuButton from '../../MenuButton'
+import CustomButton from '../../CustomButton'
 import Svg from '../../Svg'
 import copyUrl from '../../../assets/svgs/socialMedia/copyUrl'
 import copyUrlCopied from '../../../assets/svgs/socialMedia/copyUrlCopied'
@@ -53,7 +53,7 @@ const ShareButton = ({ linkId }) => {
     }, [isCopied])
 
     return (
-        <MenuButton
+        <CustomButton
             isTooltipSuccess
             {...{
                 ref: buttonRef,
@@ -74,7 +74,7 @@ const ShareButton = ({ linkId }) => {
                     src: isCopied ? copyUrlCopied : copyUrl,
                 }}
             />
-        </MenuButton>
+        </CustomButton>
     )
 }
 
