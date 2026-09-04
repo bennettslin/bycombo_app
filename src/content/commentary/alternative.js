@@ -35,13 +35,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-- Still, many of us support indie rock, treating it as the modern version of past countercultures. But such support would've otherwise accrued to a *true* counterculture— which is why the next alternative has yet to arise!
+- Still, many of us support indie rock, treating it as the modern version of past countercultures. But such support would otherwise accrue to a *true* counterculture— which is why the next alternative has yet to arise!
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-- This lack of a true counterculture— namely, a movement defined by its *aesthetic* choices, rather than any *logistical* stance— is the main reason the arts have declined in the 21st century.
+- This lack of a true counterculture— namely, a movement defined by its *aesthetic* choices, rather than some *logistical* stance— is the reason the arts have declined in the 21st century.
 
 Marx, W. David. "[Status Struggles: Micro and Macro Culture.](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Status%20Struggles,Macro%20Culture)" *Culture: An Owner's Manual*, January 2024.
     `,
