@@ -29,13 +29,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-- By contrast, this century's indie artists are like the MrBeasts of music: Since they share the mainstream's tastes, they compete directly for its audience— and every innovation the indie camp celebrates is one that enables them to do so. However, this means they *aren't* a source of new aesthetics; as such, they're soon forgotten once their time is past.
+- By contrast, this century's indie artists are like the MrBeasts of music: Since they share the mainstream's tastes, they compete directly for its audience. However, this means they *aren't* a source of new aesthetics— and as such, they're soon forgotten once their time is past.
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-- Still, many of us support indie rock, treating it as the modern version of past countercultures. But such support would otherwise accrue to a *true* counterculture— which is why the next alternative has yet to arise!
+- Still, many of us support indie rock, seeing it as the modern equivalent of previous countercultures. But such support would otherwise accrue to the next *alternative*— that is, the next *true* counterculture!
 
 ${'  ' || `
 // TODO: Review a few more times.
