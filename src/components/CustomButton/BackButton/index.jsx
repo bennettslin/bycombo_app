@@ -1,36 +1,28 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 import { navigate } from 'gatsby'
-// import PropTypes from 'prop-types'
 import cx from 'classnames'
 import CustomButton from '../../CustomButton'
+import ForwardButton from '../ForwardButton'
 import Svg from '../../Svg'
-import {
-    mapIsSubsequentSession,
-    mapSelectedTopLevelPagePath,
-} from '../../../redux/page/selector'
+import { mapIsSubsequentSession } from '../../../redux/page/selector'
 import backLink from '../../../assets/svgs/app/backLink'
 
 const BackButton = ({ ...rest }) => {
-    const
-        isSubsequentSession = useSelector(mapIsSubsequentSession),
-        topLevelPagePath = useSelector(mapSelectedTopLevelPagePath)
+    const isSubsequentSession = useSelector(mapIsSubsequentSession)
 
     const handleButtonClick = e => {
         e.preventDefault()
         navigate(-1)
     }
 
-    return (
+    return isSubsequentSession ? (
         <CustomButton
             {...{
                 className: cx(
-                    'HeadingButton',
+                    'BackButton',
                 ),
-                pagePath: topLevelPagePath,
-                ...isSubsequentSession && {
-                    handleButtonClick,
-                },
+                handleButtonClick,
                 ...rest,
             }}
         >
@@ -41,9 +33,9 @@ const BackButton = ({ ...rest }) => {
                 }}
             />
         </CustomButton>
+    ) : (
+        <ForwardButton />
     )
 }
-
-BackButton.propTypes = {}
 
 export default BackButton
