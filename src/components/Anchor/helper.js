@@ -47,6 +47,12 @@ export const getIsReferenceLink = (href = '') => (
     href.startsWith(REFERENCE_PATH)
 )
 
+export const getIdIfCommentaryOrReferenceLink = (href = '') => (
+    getIsCommentaryLink(href) || getIsReferenceLink(href) ?
+        href.replace('#', '').split('/').pop() :
+        ''
+)
+
 export const getIsBobtailLink = (href = '') => (
     href.startsWith(BOBTAIL_BLOG_PATH) ||
     href.startsWith(BOBTAIL_DOMINOES_PATH) ||

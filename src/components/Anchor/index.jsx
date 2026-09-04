@@ -13,6 +13,7 @@ import {
     getIsCommentaryOrInternalLink,
     getIsReferenceLink,
     getIsNoVisitedInternalLink,
+    getIdIfCommentaryOrReferenceLink,
 } from './helper'
 
 const Anchor = ({
@@ -44,7 +45,8 @@ const Anchor = ({
             internalLink,
             noVisited,
         }),
-        Tag = internalLink ? Link : 'a'
+        Tag = internalLink ? Link : 'a',
+        id = getIdIfCommentaryOrReferenceLink(href)
 
     const onPointerDown = () => {
         dispatch(
@@ -95,6 +97,7 @@ const Anchor = ({
                         target: '_blank',
                     },
                 },
+                ...id && { id },
                 onClick,
 
                 // Don't call onPointerUp, because it fires before onClick.
