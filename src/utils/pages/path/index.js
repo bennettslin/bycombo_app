@@ -45,17 +45,9 @@ export const getInternalLinkForPath = ({ path, isPointerDown = false }) => {
     return `${pagePath}${search}${hash}`
 }
 
-export const getUrlFromPath = path => {
-    // Include ending forward slash because Twitter warns about redirects.
-    const finalSlash = (
-        path === HOME_PAGE ||
-
-        // Exclude if it's a file path.
-        path.includes('.')
-    ) ? '' : '/'
-
-    return `${DOMAIN_NAME}${getInternalLinkForPath({ path })}${finalSlash}`
-}
+export const getUrlFromPath = path => (
+    `${DOMAIN_NAME}${getInternalLinkForPath({ path })}`
+)
 
 export const getUrlFromPathAndLinkId = (path, linkId) => (
     `${getUrlFromPath(path)}${linkId ? `#${linkId}` : ''}`
