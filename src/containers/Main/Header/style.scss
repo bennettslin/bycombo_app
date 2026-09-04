@@ -6,11 +6,11 @@
     // top: 0;
     // z-index: 1;
     // background-color: $colour__background__light;
+    padding: $margin__xs $margin__sm;
 }
 
 .MainHeader {
     width: 100%;
-    padding: $margin__xs $margin__sm;
 
     flex-direction: column;
 
