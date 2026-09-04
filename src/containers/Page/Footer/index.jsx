@@ -1,6 +1,6 @@
 import React from 'react'
 import cx from 'classnames'
-import TopLevelRow from './TopLevelRow'
+import PageRow from '../PageRow'
 import Flex from '../../../components/Flex'
 import './style'
 
@@ -12,7 +12,7 @@ const PageFooter = () => (
             ),
         }}
     >
-        <TopLevelRow isBottomRow />
+        <PageRow isBottomRow />
     </Flex>
 )
 

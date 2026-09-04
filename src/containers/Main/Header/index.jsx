@@ -7,7 +7,13 @@ import Menu from './Menu'
 import './style'
 
 const MainHeader = () => (
-    <StyledFrame>
+    <StyledFrame
+        {...{
+            className: cx(
+                'MainHeaderFrame',
+            ),
+        }}
+    >
         <Flex
             {...{
                 className: cx(

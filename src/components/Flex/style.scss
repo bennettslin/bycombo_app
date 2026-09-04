@@ -7,7 +7,8 @@
     align-items: center;
 
     &.fG__1 { flex-grow: 1; }
-
+    
+    &.fD__rowReverse { flex-direction: row-reverse; }
     &.fD__column { flex-direction: column; }
     &.fD__columnReverse { flex-direction: column-reverse; }
 

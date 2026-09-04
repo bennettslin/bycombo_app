@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useDispatch } from 'react-redux'
 import PageConfigContext from '../../contexts/PageConfig'
-import TopLevelRow from './Footer/TopLevelRow'
+import PageRow from './PageRow'
 import StyledPage from './StyledPage'
 import Body from './Body'
 import PageFooter from './Footer'
@@ -57,7 +57,7 @@ const Page = ({
                             alignItems: 'normal',
                         }}
                     >
-                        <TopLevelRow />
+                        <PageRow />
                         <Body />
                         <PageFooter />
                     </Flex>
@@ -68,7 +68,7 @@ const Page = ({
 }
 
 Page.propTypes = {
-    noShare: PropTypes.bool,
+    is404Page: PropTypes.bool,
     showContactEmail: PropTypes.bool,
     children: PropTypes.node,
     pageName: PropTypes.string,

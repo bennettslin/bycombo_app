@@ -1,11 +1,11 @@
-@import '../../../../scss/constants/responsive';
+@import '../../../scss/constants/responsive';
 
-.PageFooterRow {
+.PageRow {
     width: 100%;
     padding-top: $margin__xs;
 }
 
-.PageFooterRow__bottom {
+.PageRow__bottom {
     padding-bottom: $margin__xs;
     border-top: 1px solid hsla(0, 0%, 50%, 0.5);
 }

@@ -25,6 +25,7 @@ const Flex = forwardRef(({
 
                 flexGrow === 1 && 'fG__1',
 
+                flexDirection === 'rowReverse' && 'fD__rowReverse',
                 flexDirection === 'column' && 'fD__column',
                 flexDirection === 'columnReverse' && 'fD__columnReverse',
 
@@ -66,7 +67,7 @@ Flex.propTypes = {
     className: PropTypes.string,
     flexGrow: PropTypes.oneOf([1]),
     flexDirection: PropTypes.oneOfType([
-        PropTypes.oneOf(['column', 'columnReverse']),
+        PropTypes.oneOf(['rowReverse', 'column', 'columnReverse']),
     ]),
     justifyContent: PropTypes.oneOfType([
         PropTypes.oneOf(
