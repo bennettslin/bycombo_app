@@ -1,8 +1,8 @@
-import React, { useEffect, useRef, useState } from 'react'
+import React, { useRef, useState } from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useSelector } from 'react-redux'
-import ReactTooltip from 'react-tooltip'
+// import ReactTooltip from 'react-tooltip'
 import CustomButton from '../../CustomButton'
 import Svg from '../../Svg'
 import copyUrl from '../../../assets/svgs/socialMedia/copyUrl'
@@ -12,7 +12,7 @@ import { getUrlFromPathAndLinkId } from '../../../utils/pages/path'
 import { COPY_URL_KEY } from '../../../constants/socialMedia'
 import './style'
 
-const TOOLTIP_TEXT = 'link copied!'
+// const TOOLTIP_TEXT = 'link copied!'
 
 const ShareButton = ({ linkId, ...rest }) => {
     const
@@ -45,13 +45,13 @@ const ShareButton = ({ linkId, ...rest }) => {
         ))
     }
 
-    useEffect(() => {
-        if (isCopied) {
-            ReactTooltip.show(buttonRef.current)
-        } else {
-            ReactTooltip.hide(buttonRef.current)
-        }
-    }, [isCopied])
+    // useEffect(() => {
+    //     if (isCopied) {
+    //         ReactTooltip.show(buttonRef.current)
+    //     } else {
+    //         ReactTooltip.hide(buttonRef.current)
+    //     }
+    // }, [isCopied])
 
     return (
         <CustomButton
@@ -62,10 +62,10 @@ const ShareButton = ({ linkId, ...rest }) => {
                     'ShareButton',
                 ),
                 id: COPY_URL_KEY,
-                ...isCopied && {
-                    tooltipId: selectedPagePath,
-                    tooltipText: TOOLTIP_TEXT,
-                },
+                // ...isCopied && {
+                //     tooltipId: selectedPagePath,
+                //     tooltipText: TOOLTIP_TEXT,
+                // },
                 handleButtonClick,
                 handleTooltipHide: resetCopiedUrlKey,
                 ...rest,

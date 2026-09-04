@@ -4,7 +4,7 @@ import cx from 'classnames'
 import { Link } from 'gatsby'
 import Flex from '../Flex'
 import ButtonAnimatable from './Animatable'
-import Tooltip from './Tooltip'
+// import Tooltip from './Tooltip'
 import { getInternalLinkForPath } from '../../utils/pages/path'
 import './style'
 
@@ -14,16 +14,16 @@ const Button = forwardRef(({
     analyticsLabel,
     pagePath,
     isSelected,
-    tooltipId,
-    tooltipText,
-    isTooltipSuccess,
+    // tooltipId,
+    // tooltipText,
+    // isTooltipSuccess,
     handleButtonClick = () => {},
-    handleTooltipHide = () => {},
+    // handleTooltipHide = () => {},
     children,
 
 }, ref) => {
     const
-        isTooltipEnabled = Boolean(tooltipId),
+        // isTooltipEnabled = Boolean(tooltipId),
         isInternalLink = pagePath && !isSelected
 
     let Tag = 'button'
@@ -64,10 +64,10 @@ const Button = forwardRef(({
                 ...isInternalLink && {
                     to: getInternalLinkForPath({ path: pagePath }),
                 },
-                ...isTooltipEnabled && {
-                    'data-for': tooltipId,
-                    'data-tip': tooltipText,
-                },
+                // ...isTooltipEnabled && {
+                //     'data-for': tooltipId,
+                //     'data-tip': tooltipText,
+                // },
                 disabled: isSelected,
                 Tag,
             }}
@@ -75,7 +75,7 @@ const Button = forwardRef(({
             <ButtonAnimatable {...{ isSelected }}>
                 {children}
             </ButtonAnimatable>
-            {isTooltipEnabled && (
+            {/* {isTooltipEnabled && (
                 <Tooltip
                     {...{
                         tooltipId,
@@ -83,7 +83,7 @@ const Button = forwardRef(({
                         handleTooltipHide,
                     }}
                 />
-            )}
+            )} */}
         </Flex>
     )
 })
@@ -94,10 +94,10 @@ Button.propTypes = {
     analyticsLabel: PropTypes.string,
     pagePath: PropTypes.string,
     isSelected: PropTypes.bool,
-    tooltipId: PropTypes.string,
-    tooltipText: PropTypes.string,
-    isTooltipShown: PropTypes.bool,
-    isTooltipSuccess: PropTypes.bool,
+    // tooltipId: PropTypes.string,
+    // tooltipText: PropTypes.string,
+    // isTooltipShown: PropTypes.bool,
+    // isTooltipSuccess: PropTypes.bool,
     handleButtonClick: PropTypes.func,
     handleTooltipHide: PropTypes.func,
     children: PropTypes.node.isRequired,
