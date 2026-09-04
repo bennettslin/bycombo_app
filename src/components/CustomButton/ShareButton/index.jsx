@@ -10,6 +10,7 @@ import copyUrlCopied from '../../../assets/svgs/socialMedia/copyUrlCopied'
 import { mapSelectedPagePath } from '../../../redux/page/selector'
 import { getUrlFromPathAndLinkId } from '../../../utils/pages/path'
 import { COPY_URL_KEY } from '../../../constants/socialMedia'
+import './style'
 
 const TOOLTIP_TEXT = 'link copied!'
 

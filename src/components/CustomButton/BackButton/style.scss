@@ -1,0 +1,9 @@
+@import '../../../scss/constants/colours';
+
+.BackButton {
+    svg {
+        &.backLink {
+            fill: $colour__commentary__medium;
+        }
+    }
+}

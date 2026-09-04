@@ -10,6 +10,7 @@ import './style'
 const Heading = ({
     noId,
     level = 1,
+    isAllPage,
     children,
 }) => {
     if (!children) {
@@ -41,9 +42,12 @@ const Heading = ({
                 gap: 'xs',
             }}
         >
-            <ForwardButton {... { linkId }} />
             {headingElement}
-            <ShareButton {... { linkId }} />
+            {isAllPage ? (
+                <ForwardButton {... { linkId }} />
+            ) : (
+                <ShareButton {... { linkId }} />
+            )}
         </Flex>
     ) : headingElement
 }
@@ -51,6 +55,7 @@ const Heading = ({
 Heading.propTypes = {
     noId: PropTypes.bool,
     level: PropTypes.oneOf([1, 2, 3, 4, 5, 6]),
+    isAllPage: PropTypes.bool,
     children: PropTypes.node.isRequired,
 }
 

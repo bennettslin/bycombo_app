@@ -9,6 +9,7 @@ import {
     mapSelectedTopLevelPagePath,
 } from '../../../redux/page/selector'
 import backLink from '../../../assets/svgs/app/backLink'
+import './style'
 
 const ForwardButton = ({ linkId }) => {
     const

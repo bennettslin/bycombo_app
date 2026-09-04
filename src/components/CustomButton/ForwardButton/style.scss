@@ -1,0 +1,11 @@
+@import '../../../scss/constants/colours';
+
+.ForwardButton {
+    svg {
+        transform: scaleX(-1);
+
+        &.backLink {
+            fill: $colour__reference__medium;
+        }
+    }
+}

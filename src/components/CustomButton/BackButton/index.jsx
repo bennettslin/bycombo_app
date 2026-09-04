@@ -7,6 +7,7 @@ import ForwardButton from '../ForwardButton'
 import Svg from '../../Svg'
 import { mapIsSubsequentSession } from '../../../redux/page/selector'
 import backLink from '../../../assets/svgs/app/backLink'
+import './style'
 
 const BackButton = ({ ...rest }) => {
     const isSubsequentSession = useSelector(mapIsSubsequentSession)
