@@ -39,7 +39,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-From there, we take *action*. Now, rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized structures, we must *build*— and this is far more difficult. After all, build *what*, exactly? Luckily, I've also spent half my Xennial life coming up with a plan:
+Finally, we take *action*. Now, rebelling against a centralized institution would be easy, right? We'd just… rip it down! But against indie rock's *de*-centralized structures, we must *build*— and this is far more difficult. After all, build *what*, exactly? Luckily, I've also spent half my Xennial life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependence-minded partners.**
 
