@@ -7,6 +7,7 @@ import './style'
 const CustomButton = forwardRef(({
     className,
     id,
+    isInMenu,
     children,
     ...rest
 
@@ -16,10 +17,11 @@ const CustomButton = forwardRef(({
             ref,
             className: cx(
                 'CustomButton',
+                isInMenu && 'CustomButton__isInMenu',
                 className,
             ),
             ...id && {
-                analyticsLabel: `MenuButton__${id}`,
+                analyticsLabel: `CustomButton__${id}`,
             },
             ...rest,
         }}
@@ -31,6 +33,7 @@ const CustomButton = forwardRef(({
 CustomButton.propTypes = {
     className: PropTypes.string,
     id: PropTypes.string,
+    isInMenu: PropTypes.bool,
     children: PropTypes.node.isRequired,
 }
 

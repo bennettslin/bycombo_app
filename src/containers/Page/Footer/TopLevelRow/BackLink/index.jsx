@@ -14,7 +14,7 @@ const BackLink = () => {
 
     return doShowBackLink && (
         <Flex {...{ gap: 'xs' }} >
-            <BackButton />
+            <BackButton isInMenu />
             <label
                 {...{
                     className: 'RowLink',

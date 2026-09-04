@@ -14,7 +14,7 @@ import './style'
 
 const TOOLTIP_TEXT = 'link copied!'
 
-const ShareButton = ({ linkId }) => {
+const ShareButton = ({ linkId, ...rest }) => {
     const
         buttonRef = useRef(),
         copiedUrlRef = useRef(),
@@ -68,6 +68,7 @@ const ShareButton = ({ linkId }) => {
                 },
                 handleButtonClick,
                 handleTooltipHide: resetCopiedUrlKey,
+                ...rest,
             }}
         >
             <Svg

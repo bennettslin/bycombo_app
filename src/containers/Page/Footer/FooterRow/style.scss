@@ -2,9 +2,10 @@
 
 .PageFooterRow {
     width: 100%;
+    padding-top: $margin__xs;
 }
 
 .PageFooterRow__bottom {
-    padding-top: $margin__xs;
+    padding-bottom: $margin__xs;
     border-top: 1px solid hsla(0, 0%, 50%, 0.5);
 }

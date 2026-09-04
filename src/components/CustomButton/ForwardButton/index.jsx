@@ -11,7 +11,7 @@ import {
 import backLink from '../../../assets/svgs/app/backLink'
 import './style'
 
-const ForwardButton = ({ linkId }) => {
+const ForwardButton = ({ linkId, ...rest }) => {
     const
         topLevelPagePath = useSelector(mapSelectedTopLevelPagePath),
         childPagePath = useSelector(mapSelectedChildPagePath),
@@ -29,6 +29,7 @@ const ForwardButton = ({ linkId }) => {
                     'ForwardButton',
                 ),
                 pagePath,
+                ...rest,
             }}
         >
             <Svg

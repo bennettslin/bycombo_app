@@ -20,7 +20,7 @@ const ShareLink = () => (
         >
             Share this page
         </label>
-        <ShareButton />
+        <ShareButton isInMenu />
     </Flex>
 )
 

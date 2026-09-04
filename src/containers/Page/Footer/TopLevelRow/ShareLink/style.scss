@@ -5,13 +5,13 @@
 }
 
 .RowLink {
-    font-size: 0.66em;
+    font-size: 0.83em;
 
     @media (min-width: $breakpoint__sm) {
-        font-size: 0.83em;
+        font-size: 1em;
     }
 
     @media (min-width: $breakpoint__md) {
-        font-size: 1em;
+        font-size: 1.16em;
     }
 }

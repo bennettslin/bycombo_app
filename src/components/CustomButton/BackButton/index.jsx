@@ -35,7 +35,7 @@ const BackButton = ({ ...rest }) => {
             />
         </CustomButton>
     ) : (
-        <ForwardButton />
+        <ForwardButton { ...rest } />
     )
 }
 
