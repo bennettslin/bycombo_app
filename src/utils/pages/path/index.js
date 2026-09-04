@@ -3,11 +3,11 @@ import slugify from 'slugify'
 import { DOMAIN_NAME, HOME_PAGE, ID_LINK_KEY, DEMOS_PAGE } from '../../../constants/pages'
 
 export const getTopLevelPageFromPath = (path = '') => (
-    path.split('/')[0]
+    path.split('/').shift()
 )
 
 export const getChildPageFromPath = (path = '') => (
-    path.split('/').reverse()[0]
+    path.split('/').pop()
 )
 
 export const getPathParameters = ({ path, isPointerDown }) => {

@@ -1,17 +1,19 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
-// import PropTypes from 'prop-types'
 import cx from 'classnames'
 import CustomButton from '..'
 import Svg from '../../Svg'
 import {
+    mapSelectedChildPagePath,
     mapSelectedTopLevelPagePath,
 } from '../../../redux/page/selector'
 import backLink from '../../../assets/svgs/app/backLink'
 
 const ForwardButton = ({ ...rest }) => {
     const
-        topLevelPagePath = useSelector(mapSelectedTopLevelPagePath)
+        topLevelPagePath = useSelector(mapSelectedTopLevelPagePath),
+        childPagePath = useSelector(mapSelectedChildPagePath),
+        pagePath = `${topLevelPagePath}#${childPagePath}`
 
     return (
         <CustomButton
@@ -19,7 +21,7 @@ const ForwardButton = ({ ...rest }) => {
                 className: cx(
                     'ForwardButton',
                 ),
-                pagePath: topLevelPagePath,
+                pagePath,
                 ...rest,
             }}
         >
@@ -32,7 +34,5 @@ const ForwardButton = ({ ...rest }) => {
         </CustomButton>
     )
 }
-
-ForwardButton.propTypes = {}
 
 export default ForwardButton

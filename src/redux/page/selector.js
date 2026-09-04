@@ -1,6 +1,6 @@
 import qs from 'qs'
 import { createSelector } from 'reselect'
-import { getTopLevelPageFromPath } from '../../utils/pages/path'
+import { getChildPageFromPath, getTopLevelPageFromPath } from '../../utils/pages/path'
 import { getBoolFromTextValue } from '../../utils/storage'
 import { PAGE_STORE } from '../../constants/store'
 import { ID_LINK_KEY, PAGE_TITLES } from '../../constants/pages'
@@ -28,6 +28,10 @@ export const mapSelectedPagePath = (
 export const mapSelectedTopLevelPagePath = (
     { [PAGE_STORE]: { selectedPagePath } },
 ) => getTopLevelPageFromPath(selectedPagePath)
+
+export const mapSelectedChildPagePath = (
+    { [PAGE_STORE]: { selectedPagePath } },
+) => getChildPageFromPath(selectedPagePath)
 
 const getMapIsChildPage = createSelector(
     mapSelectedTopLevelPagePath,

@@ -8,6 +8,7 @@ import {
     REFERENCE_PATH,
     YEARLINGS_BOBTAIL_PATH,
 } from '../../constants/website'
+import { getChildPageFromPath } from '../../utils/pages/path'
 
 const LOCALHOST = 'http://localhost:'
 
@@ -49,7 +50,7 @@ export const getIsReferenceLink = (href = '') => (
 
 export const getIdIfCommentaryOrReferenceLink = (href = '') => (
     getIsCommentaryLink(href) || getIsReferenceLink(href) ?
-        href.replace('#', '').split('/').pop() :
+        getChildPageFromPath(href.replace('#', '')) :
         ''
 )
 
