@@ -39,3 +39,8 @@ $margin__xl: 40px;
 $breakpoint__xs: $width__sm;
 $breakpoint__sm: $width__md;
 $breakpoint__md: $width__lg;
+
+// FIXME: Hard-coding for now, in the interest of time.
+$hardcoded__header__height__sm: 154px - $margin__sm;
+$hardcoded__header__height__md: 163px - $margin__sm;
+$hardcoded__header__height__lg: 208px - $margin__sm;

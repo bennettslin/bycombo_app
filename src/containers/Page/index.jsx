@@ -45,7 +45,13 @@ const Page = ({
             />
             {/* This assumes children or markdown, but never both. */}
             {children ? children : (
-                <StyledPage>
+                <StyledPage
+                    {...{
+                        className: cx(
+                            'PageFrame',
+                        ),
+                    }}
+                >
                     <Flex
                         {...{
                             className: cx(

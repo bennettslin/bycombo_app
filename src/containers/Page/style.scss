@@ -1,5 +1,18 @@
 @import '../../scss/constants/responsive';
 
+.PageFrame {
+    position: relative;
+    padding-top: $hardcoded__header__height__sm;
+
+    @media (min-width: $breakpoint__sm) {
+        padding-top: $hardcoded__header__height__md;
+    }
+
+    @media (min-width: $breakpoint__md) {
+        padding-top: $hardcoded__header__height__lg;
+    }
+}
+
 .Page {
     flex-grow: 1;
 

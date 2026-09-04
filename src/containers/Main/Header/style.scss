@@ -2,10 +2,10 @@
 @import '../../../scss/constants/responsive';
 
 .MainHeaderFrame {
-    // position: fixed;
-    // top: 0;
-    // z-index: 1;
-    // background-color: $colour__background__light;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    background-color: $colour__background__light;
     padding: $margin__xs $margin__sm;
 }
 
