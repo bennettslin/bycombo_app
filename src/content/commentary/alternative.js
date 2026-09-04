@@ -7,7 +7,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike the macroculture, there's no single microculture; as explained by W. David Marx, the counterculture is just one of several. Well, the Internet has now given us one more: the "macro-taste micro"— think, let's say, MrBeast— which feeds mainstream *tastes*, but goes through independent *distribution*. In other words, it offers nothing new aesthetically… only logistically!
+Unlike the macroculture, there's no single microculture; as explained by W. David Marx, the counterculture is just one of several. Well, the Internet has now given us one more: the "macro-taste micro"— think, let's say, MrBeast— which feeds mainstream *tastes*, but goes through independent *distribution*. Put another way, it offers nothing new aesthetically… only logistically!
 
 Given that indie rock is defined solely by its stance on *logistics*, then, it was *always* likely to merge with the macro-taste micro— so it did, starting in the early '00s. And now, with this newfound insight, we can read Marx's critique of the macro-taste micro as criticism of indie rock instead. To paraphrase:
 
@@ -15,7 +15,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-- Rock's last *true* counterculture was the alternative that took over in the '90s. By refreshing the mainstream with new *aesthetics*— that is, with new forms and styles— those '90s alternative bands helped to advance the art form in their own time, and thus have our respect to this day.
+- Rock's last *true* counterculture was the alternative that took over in the '90s. By reviving the mainstream with new *aesthetics*— in other words, new forms and styles— those '90s alternative bands advanced the art form in their own time, and thus have our respect to this day.
 
 ${'  ' || `
 // TODO: Review.
@@ -27,13 +27,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-- Still, many of us support indie rock, seeing it as the modern equivalent of past countercultures. But such support would otherwise accrue to the next *alternative*— that is, the next *true* counterculture!
+- Still, many of us support indie rock, seeing it as a modern equivalent of past countercultures. But such support would otherwise go to the next *alternative*— that is to say, the next wave of bands exploring new forms and styles, not just means of distribution!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-- This lack of a true counterculture— namely, a movement defined by its *aesthetic* choices, rather than some *logistical* stance— is the reason the arts have declined in the 21st century.
+- This lack of a true counterculture, then— namely, a movement defined by its *aesthetic* choices, rather than some *logistical* stance— is the main reason the arts have declined in the 21st century.
 
 Marx, W. David. "[Status Struggles: Micro and Macro Culture.](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Status%20Struggles,Macro%20Culture)" *Culture: An Owner's Manual*, January 2024.
     `,

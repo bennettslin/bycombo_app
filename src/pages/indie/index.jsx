@@ -77,7 +77,11 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 
 **Why partners?**
 
-To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. To put it another way, history makers *need* to work with a label— or some other business partner!— and a quick glance through the canon bears this out.
+${'  ' || `
+// TODO: Review.
+`}
+
+To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. Put differently, history makers *need* to work with a label— or some other business partner!— and a quick glance through the canon bears this out.
 
 **Why interdependence?**
 
