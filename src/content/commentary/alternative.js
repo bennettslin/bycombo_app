@@ -35,7 +35,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-- Still, many support indie rock, treating it as the modern equivalent of past countercultures. But such support would otherwise be given to a *true* counterculture— which is why none has yet emerged!
+- Still, many of us support indie rock, treating it as the modern version of past countercultures. But such support would've otherwise accrued to a *true* counterculture— which is why the next alternative has yet to arise!
 
 ${'  ' || `
 // TODO: Review a few more times.
