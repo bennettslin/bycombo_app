@@ -15,19 +15,7 @@
 
 .Page {
     flex-grow: 1;
-
     width: 100%;
-    padding: 0 $margin__xs;
-
-    @media (min-width: $breakpoint__sm) {
-        padding: 0 $margin__sm;
-    }
-
-    @media (min-width: $breakpoint__md) {
-        padding: 0 $margin__md;
-    }
-
     gap: $margin__md;
-
     overflow-y: scroll;
 }
