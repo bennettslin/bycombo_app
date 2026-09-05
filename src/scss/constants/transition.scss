@@ -1,14 +1,13 @@
-$transitionDuration__fastest: 0.05s;
+$transitionDuration__faster: 0.15s;
 $transitionDuration__fast: 0.15s;
 $transitionDuration__slow: 0.25s;
 $transitionDuration__slower: 0.5s;
 
 .hidden {
     opacity: 0;
-    transition: opacity $transitionDuration__fastest;
 }
 
 .shown {
     opacity: 1;
-    transition: opacity $transitionDuration__fastest;
+    transition: opacity $transitionDuration__faster;
 }
