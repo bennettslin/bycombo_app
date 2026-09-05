@@ -18,7 +18,7 @@ const ShareLink = () => (
                 className: 'RowLink',
             }}
         >
-            Share this page
+            Copy page URL
         </label>
         <ShareButton isInMenu />
     </Flex>

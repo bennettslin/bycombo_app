@@ -3,7 +3,7 @@ import { createSelector } from 'reselect'
 import { getChildPageFromPath, getTopLevelPageFromPath } from '../../utils/pages/path'
 import { getBoolFromTextValue } from '../../utils/storage'
 import { PAGE_STORE } from '../../constants/store'
-import { ID_LINK_KEY, PAGE_TITLES } from '../../constants/pages'
+import { ID_LINK_KEY } from '../../constants/pages'
 import { getCapitalizedText } from '../../utils/format'
 import { getSmartQuotedText } from '../../utils/format/smartQuote'
 
@@ -72,9 +72,8 @@ export const getMapBackLinkText = createSelector(
         if (isChildPage) {
             return getSmartQuotedText(
                 `${isSubsequentSession ? 'Back' : 'Go'} to "${
-                    PAGE_TITLES[selectedTopLevelPagePath] ||
-                getCapitalizedText(selectedTopLevelPagePath)
-                }"`,
+                    getCapitalizedText(selectedTopLevelPagePath)
+                }" page`,
             )
         } else if (isIdLinkedPage) {
             return `Go back`

@@ -18,6 +18,7 @@ const App = ({ children }) => {
             appear
             {...{
                 in: didMount,
+                timeout: 0,
                 classNames: {
                     enterDone: 'shown',
                 },

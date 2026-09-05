@@ -2,21 +2,16 @@ import React, { useRef, useState } from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useSelector } from 'react-redux'
-// import ReactTooltip from 'react-tooltip'
 import CustomButton from '../../CustomButton'
 import Svg from '../../Svg'
 import copyUrl from '../../../assets/svgs/socialMedia/copyUrl'
 import copyUrlCopied from '../../../assets/svgs/socialMedia/copyUrlCopied'
 import { mapSelectedPagePath } from '../../../redux/page/selector'
 import { getUrlFromPathAndLinkId } from '../../../utils/pages/path'
-import { COPY_URL_KEY } from '../../../constants/socialMedia'
 import './style'
-
-// const TOOLTIP_TEXT = 'link copied!'
 
 const ShareButton = ({ linkId, ...rest }) => {
     const
-        buttonRef = useRef(),
         copiedUrlRef = useRef(),
         selectedPagePath = useSelector(mapSelectedPagePath),
         [isCopied, setIsCopied] = useState(false),
@@ -41,31 +36,16 @@ const ShareButton = ({ linkId, ...rest }) => {
 
         setCopyTimeoutId(setTimeout(
             resetCopiedUrlKey,
-            1500,
+            1000,
         ))
     }
 
-    // useEffect(() => {
-    //     if (isCopied) {
-    //         ReactTooltip.show(buttonRef.current)
-    //     } else {
-    //         ReactTooltip.hide(buttonRef.current)
-    //     }
-    // }, [isCopied])
-
     return (
         <CustomButton
-            isTooltipSuccess
             {...{
-                ref: buttonRef,
                 className: cx(
                     'ShareButton',
                 ),
-                id: COPY_URL_KEY,
-                // ...isCopied && {
-                //     tooltipId: selectedPagePath,
-                //     tooltipText: TOOLTIP_TEXT,
-                // },
                 handleButtonClick,
                 handleTooltipHide: resetCopiedUrlKey,
                 ...rest,
