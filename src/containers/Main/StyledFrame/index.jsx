@@ -3,13 +3,14 @@ import PropTypes from 'prop-types'
 import cx from 'classnames'
 import './style'
 
-const StyledFrame = ({ className, children }) => (
+const StyledFrame = ({ className, style, children }) => (
     <div
         {...{
             className: cx(
                 'StyledFrame',
                 className,
             ),
+            style,
         }}
     >
         {children}
@@ -18,6 +19,7 @@ const StyledFrame = ({ className, children }) => (
 
 StyledFrame.propTypes = {
     className: PropTypes.string,
+    style: PropTypes.object,
     children: PropTypes.node.isRequired,
 }
 
