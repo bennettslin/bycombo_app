@@ -7,32 +7,28 @@
 }
 
 body {
-    position: relative;
-    min-height: 100vh;
     color: $colour__text__dark;
-    background-color: $colour__background__light;
 
     /**
      * All of this is to make the top white, and the bottom gray, when the user
      * scrolls past the limit in either direction.
      */
-    background-image: linear-gradient(
-        to bottom,
-        $colour__background__light 0%,
-        $colour__background__light 25%,
-        $colour__neutral__light 75%,
-        $colour__neutral__light 100%
-    );
-
     &::before {
         content: '';
         position: fixed;
         left: 0;
         right: 0;
-        bottom: 0;
-        height: 25vh;
+        height: 100vh;
         background-color: $colour__neutral__light;
         z-index: -1;
+
+        background-image: linear-gradient(
+            to bottom,
+            $colour__background__light 0%,
+            $colour__background__light 25%,
+            $colour__neutral__light 75%,
+            $colour__neutral__light 100%
+        );
     }
 }
 
