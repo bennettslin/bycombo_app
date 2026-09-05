@@ -9,14 +9,3 @@
     height: $height__appFooter;
     background-color: $colour__neutral__light;
 }
-
-// Allows top and bottom to be different when scrolling past limit.
-body::after {
-    content: '';
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    height: 50%;
-    background-color: $colour__neutral__light;
-    z-index: -1;
-}
