@@ -66,21 +66,29 @@ To restore the historical canon, we need you to *join* us! In the future, we hop
 Email us the following information:
 
 - Your name, email address, and city of residence.
+
 - Your artistic talents and aesthetic preferences.
+
 - Whom you're co-applying with, if anyone.
 
 We'll also need each of the following:
 
 - A statement that you're of legal age: eighteen years or older.
+
 - Your gender. (This *only* determines whom we'll place you in a band with. It *doesn't* affect your chances of being accepted.)
+
 - Total hours you'll spend each week to earn a living, including commute. (We'll use this as a proxy for economic class. Also, the same condition as above applies, so just make an honest guess if you aren't sure.)
+
 - Whether you can relocate to Los Angeles, if you aren't here already. (If not, you won't be eligible for the pilot cohort, but we'll keep you on file for later ones.)
+
 - An acknowledgment that you've read "[The Problem with Indie Rock](/indie#)" in its entirety. (You don't need to agree with all of it; we just want to make sure you understand what drives the BYCombo mission.)
 
 Feel free to include any of the following as well:
 
 - Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experience with "doublespeaker rhyme": When you're a low-status nobody, no one even *wants* to steal from you!)
+
 - Links to social media or video demonstrations.
+
 - Other circumstances you'd like us to consider.
 
 And remember, as a nonprofit, BYCombo will *never* charge any fees or take a cut of your earnings. If *you're* ready to self-sacrifice for art's sake, then *we're* here to serve you!
