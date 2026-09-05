@@ -7,6 +7,15 @@
     z-index: 1;
     background-color: $colour__background__light;
     padding: $margin__xs $margin__sm;
+    padding-bottom: $margin__xxs + $margin__xs;
+
+    $gradient__header: linear-gradient(
+        to bottom,
+        $colour__background__light calc(100% - #{$margin__xs}),
+        transparent 100%
+    );
+
+    mask-image: $gradient__header;
 }
 
 .MainHeader {
