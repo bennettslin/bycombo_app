@@ -64,6 +64,8 @@ const MainHeader = () => {
             headerHeight.current = newHeight
         }
 
+        handleResize()
+
         getWindow().addEventListener('resize', handleResize, { passive: true })
         return () => getWindow().removeEventListener('resize', handleResize)
     }, [])
