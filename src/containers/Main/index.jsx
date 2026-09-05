@@ -14,7 +14,6 @@ const Main = ({ children }) => (
             ),
             flexGrow: 1,
             flexDirection: 'column',
-            gap: 'xs',
         }}
     >
         <MainHeader />

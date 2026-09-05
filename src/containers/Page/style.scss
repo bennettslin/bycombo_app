@@ -2,13 +2,16 @@
 
 .PageFrame {
     position: relative;
+    padding: $margin__xxs $margin__xs;
     padding-top: $hardcoded__header__height__sm;
 
     @media (min-width: $breakpoint__sm) {
+        padding: $margin__xs $margin__sm;
         padding-top: $hardcoded__header__height__md;
     }
 
     @media (min-width: $breakpoint__md) {
+        padding: $margin__sm $margin__md;
         padding-top: $hardcoded__header__height__lg;
     }
 }

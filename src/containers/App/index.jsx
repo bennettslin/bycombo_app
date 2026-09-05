@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { CSSTransition } from 'react-transition-group'
-import Wrapper from '../Wrapper'
+import Main from '../Main'
 import AppFooter from './Footer'
 import './style'
 
@@ -33,7 +33,7 @@ const App = ({ children }) => {
                     ),
                 }}
             >
-                <Wrapper>{children}</Wrapper>
+                <Main>{children}</Main>
                 <AppFooter />
             </div>
         </CSSTransition>
