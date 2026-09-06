@@ -1,7 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react'
 import cx from 'classnames'
 import Flex from '../../../components/Flex'
-import StyledFrame from '../StyledFrame'
 import PageRow from '../../Page/PageRow'
 import HomeButton from './HomeButton'
 import Menu from './Menu'
@@ -19,7 +18,7 @@ const
     smBreakpointWidth = 633.536,
     mdBreakpointWidth = 800
 
-const MainHeader = () => {
+const Header = () => {
     const
         [translateY, setTranslateY] = useState(0),
         headerHeight = useRef(xsBreakpointHeight)
@@ -71,10 +70,10 @@ const MainHeader = () => {
     }, [])
 
     return (
-        <StyledFrame
+        <Flex
             {...{
                 className: cx(
-                    'MainHeaderFrame',
+                    'HeaderFrame',
                 ),
                 style: {
                     top: `${translateY}px`,
@@ -83,6 +82,9 @@ const MainHeader = () => {
         >
             <Flex
                 {...{
+                    className: cx(
+                        'HeaderWrapper',
+                    ),
                     flexDirection: 'column',
                     gap: 'xs',
                 }}
@@ -90,7 +92,7 @@ const MainHeader = () => {
                 <Flex
                     {...{
                         className: cx(
-                            'MainHeader',
+                            'Header',
                         ),
                         justifyContent: 'spaceBetween',
                         gap: 'xs',
@@ -101,8 +103,8 @@ const MainHeader = () => {
                 </Flex>
                 <PageRow />
             </Flex>
-        </StyledFrame>
+        </Flex>
     )
 }
 
-export default MainHeader
+export default Header

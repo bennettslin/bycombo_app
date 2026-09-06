@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
 import Flex from '../../components/Flex'
-import MainHeader from './Header'
+import Header from './Header'
 import MainFooter from './Footer'
 import './style'
 
@@ -16,7 +16,7 @@ const Main = ({ children }) => (
             flexDirection: 'column',
         }}
     >
-        <MainHeader />
+        <Header />
         {children}
         <MainFooter />
     </Flex>

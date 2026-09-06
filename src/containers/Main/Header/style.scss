@@ -1,34 +1,32 @@
 @import '../../../scss/constants/colours';
 @import '../../../scss/constants/responsive';
 
-.MainHeaderFrame {
+.HeaderFrame {
+    width: 100%;
     position: fixed;
     top: 0;
     background-color: $colour__background__light;
     z-index: 1;
-
-    padding: $margin__xxs $margin__xs;
-
-    @media (min-width: $breakpoint__sm) {
-        padding: $margin__xs $margin__sm;
-    }
-
-    @media (min-width: $breakpoint__md) {
-        padding: $margin__sm $margin__md;
-    }
-    
-    // For gradient.
-    padding-bottom: $margin__xs !important;
-    $gradient__header: linear-gradient(
-        to bottom,
-        $colour__background__light calc(100% - #{$margin__xs}),
-        transparent 100%
-    );
-
-    mask-image: $gradient__header;
 }
 
-.MainHeader {
+.HeaderWrapper {
+    padding: $margin__xxs $margin__xs;
+    width: $width__sm;
+    
+    @media (min-width: $breakpoint__sm) {
+        padding: $margin__xs $margin__sm;
+        width: $width__md;
+    }
+    
+    @media (min-width: $breakpoint__md) {
+        padding: $margin__sm $margin__md;
+        width: $width__lg;
+    }
+
+    padding-bottom: $margin__xs !important;
+}
+
+.Header {
     width: 100%;
     flex-direction: column;
 
