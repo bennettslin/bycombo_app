@@ -18,29 +18,3 @@ export const setShadowClassName = ({
         headerElement.classList.add(SHADOW_CLASSNAME)
     }
 }
-
-// const setFixedHidden = headerHeight => {
-//     console.log('set fixed hidden')
-//     isFixedPosition = true
-//     isFixedVisible = false
-//     styledTop = -headerHeight
-// }
-
-// const setFixedVisible = () => {
-//     console.log('set fixed visible')
-//     isFixedPosition = true
-//     isFixedVisible = true
-//     styledTop = 0
-// }
-
-// const setAbsolute = absoluteTop => {
-//     console.log('set absolute')
-//     isFixedPosition = false
-//     styledTop = absoluteTop
-// }
-
-// export const setHeaderMode = ({
-//     headerRef,
-// }) => {
-
-// }

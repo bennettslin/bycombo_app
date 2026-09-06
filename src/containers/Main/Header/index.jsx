@@ -20,33 +20,86 @@ const Header = () => {
      * from elsewhere because my frontend skills are rusty at this point.
      */
     useEffect(() => {
+        let headerMode = {
+            isFixedPosition: true,
+            isFixedVisible: true,
+            styledTop: 0,
+        }
+
         let
             absoluteTop = 0,
-            styledTop = 0,
-            isFixedPosition = true,
-            isFixedVisible,
             lastScrollY
 
         console.log('effect is called', isNaN(lastScrollY))
 
-        const setFixedHidden = headerHeight => {
+        const setFixedHidden = (headerMode, headerHeight) => {
             console.log('set fixed hidden')
-            isFixedPosition = true
-            isFixedVisible = false
-            styledTop = -headerHeight
+            return {
+                ...headerMode,
+                isFixedPosition: true,
+                isFixedVisible: false,
+                styledTop: -headerHeight,
+            }
         }
 
-        const setFixedVisible = () => {
+        const setFixedVisible = headerMode => {
             console.log('set fixed visible')
-            isFixedPosition = true
-            isFixedVisible = true
-            styledTop = 0
+            return {
+                ...headerMode,
+                isFixedPosition: true,
+                isFixedVisible: true,
+                styledTop: 0,
+            }
         }
 
-        const setAbsolute = absoluteTop => {
+        const setAbsolute = (headerMode, absoluteTop) => {
             console.log('set absolute')
-            isFixedPosition = false
-            styledTop = absoluteTop
+            return {
+                ...headerMode,
+                isFixedPosition: false,
+                styledTop: absoluteTop,
+            }
+        }
+
+        const setHeaderMode = (headerMode, headerHeight, currentScrollY, lastScrollY) => {
+            // The page has just loaded.
+            if (isNaN(lastScrollY)) {
+                if (currentScrollY >= headerHeight) {
+                    return setFixedHidden(headerMode, headerHeight)
+                } else if (currentScrollY <= 1) {
+                    return setFixedVisible(headerMode)
+                } else {
+                    absoluteTop = currentScrollY - headerHeight
+                    return setAbsolute(headerMode, absoluteTop)
+                }
+
+            // It's scrolling down.
+            } else if (currentScrollY > lastScrollY) {
+                if (headerMode.isFixedPosition && headerMode.isFixedVisible) {
+                    // Lock at current scroll position.
+                    absoluteTop = currentScrollY
+                    return setAbsolute(headerMode, absoluteTop)
+                } else if (!headerMode.isFixedPosition) {
+                    // Check if header has scrolled entirely out of view.
+                    if (currentScrollY >= absoluteTop + headerHeight) {
+                        return setFixedHidden(headerMode, headerHeight)
+                    }
+                }
+            // It's scrolling up.
+            } else {
+                if (headerMode.isFixedPosition && !headerMode.isFixedVisible) {
+                    // Lock just above current viewport.
+                    absoluteTop = currentScrollY - headerHeight
+                    return setAbsolute(headerMode, absoluteTop)
+                } else if (!headerMode.isFixedPosition) {
+                    // Check if header has scrolled entirely into view.
+                    if (currentScrollY <= absoluteTop) {
+                        return setFixedVisible(headerMode)
+                    }
+                }
+            }
+
+            return headerMode
         }
 
         const handleScroll = () => {
@@ -55,45 +108,10 @@ const Header = () => {
                 el = headerRef.current,
                 headerHeight = el.offsetHeight
 
-            // The page has just loaded.
-            if (isNaN(lastScrollY)) {
-                if (currentScrollY >= headerHeight) {
-                    setFixedHidden(headerHeight)
-                } else if (currentScrollY <= 1) {
-                    setFixedVisible()
-                } else {
-                    absoluteTop = currentScrollY - headerHeight
-                    setAbsolute(absoluteTop)
-                }
+            headerMode = setHeaderMode(headerMode, headerHeight, currentScrollY, lastScrollY)
 
-            // It's scrolling down.
-            } else if (currentScrollY > lastScrollY) {
-                if (isFixedPosition && isFixedVisible) {
-                    // Lock at current scroll position.
-                    absoluteTop = currentScrollY
-                    setAbsolute(absoluteTop)
-                } else if (!isFixedPosition) {
-                    // Check if header has scrolled entirely out of view.
-                    if (currentScrollY >= absoluteTop + headerHeight) {
-                        setFixedHidden(headerHeight)
-                    }
-                }
-            // It's scrolling up.
-            } else {
-                if (isFixedPosition && !isFixedVisible) {
-                    // Lock just above current viewport.
-                    absoluteTop = currentScrollY - headerHeight
-                    setAbsolute(absoluteTop)
-                } else if (!isFixedPosition) {
-                    // Check if header has scrolled entirely into view.
-                    if (currentScrollY <= absoluteTop) {
-                        setFixedVisible()
-                    }
-                }
-            }
-
-            el.style.position = isFixedPosition ? 'fixed' : 'absolute'
-            el.style.top = `${styledTop}px`
+            el.style.position = headerMode.isFixedPosition ? 'fixed' : 'absolute'
+            el.style.top = `${headerMode.styledTop}px`
 
             setShadowClassName({
                 headerRef,
