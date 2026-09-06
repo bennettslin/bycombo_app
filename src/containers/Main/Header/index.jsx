@@ -6,14 +6,14 @@ import HomeButton from './HomeButton'
 import Menu from './Menu'
 import { getWindow } from '../../../utils/browser'
 import './style'
-
-const
-    SHADOW_CLASSNAME = 'HeaderFrame__shadow',
-    BUFFER_HEIGHT = 10
+import { useSelector } from 'react-redux'
+import { mapSelectedPagePath } from '../../../redux/page/selector'
+import { setShadowClassName } from './helper'
 
 const Header = () => {
     const
-        headerElement = useRef(null)
+        headerElement = useRef(null),
+        selectedPagePath = useSelector(mapSelectedPagePath)
 
     /**
      * FIXME: Code to position header based on scrolling. Unfortunately, copied
@@ -21,11 +21,33 @@ const Header = () => {
      */
     useEffect(() => {
         let
-            lastScrollY = getWindow().scrollY,
             absoluteTop = 0,
             styledTop = 0,
             isFixedPosition = true,
+            isFixedVisible,
+            lastScrollY
+
+        console.log('effect is called', isNaN(lastScrollY))
+
+        const setFixedHidden = headerHeight => {
+            console.log('set fixed hidden')
+            isFixedPosition = true
+            isFixedVisible = false
+            styledTop = -headerHeight
+        }
+
+        const setFixedVisible = () => {
+            console.log('set fixed visible')
+            isFixedPosition = true
             isFixedVisible = true
+            styledTop = 0
+        }
+
+        const setAbsolute = absoluteTop => {
+            console.log('set absolute')
+            isFixedPosition = false
+            styledTop = absoluteTop
+        }
 
         const handleScroll = () => {
             const
@@ -33,34 +55,39 @@ const Header = () => {
                 el = headerElement.current,
                 headerHeight = el.offsetHeight
 
+            // The page has just loaded.
+            if (isNaN(lastScrollY)) {
+                if (currentScrollY >= headerHeight) {
+                    setFixedHidden(headerHeight)
+                } else if (currentScrollY <= 1) {
+                    setFixedVisible()
+                } else {
+                    absoluteTop = currentScrollY - headerHeight
+                    setAbsolute(absoluteTop)
+                }
+
             // It's scrolling down.
-            if (currentScrollY > lastScrollY) {
+            } else if (currentScrollY > lastScrollY) {
                 if (isFixedPosition && isFixedVisible) {
                     // Lock at current scroll position.
-                    isFixedPosition = false
                     absoluteTop = currentScrollY
-                    styledTop = absoluteTop
+                    setAbsolute(absoluteTop)
                 } else if (!isFixedPosition) {
                     // Check if header has scrolled entirely out of view.
                     if (currentScrollY >= absoluteTop + headerHeight) {
-                        isFixedPosition = true
-                        isFixedVisible = false
-                        styledTop = -headerHeight
+                        setFixedHidden(headerHeight)
                     }
                 }
             // It's scrolling up.
             } else {
                 if (isFixedPosition && !isFixedVisible) {
                     // Lock just above current viewport.
-                    isFixedPosition = false
                     absoluteTop = currentScrollY - headerHeight
-                    styledTop = absoluteTop
+                    setAbsolute(absoluteTop)
                 } else if (!isFixedPosition) {
                     // Check if header has scrolled entirely into view.
                     if (currentScrollY <= absoluteTop) {
-                        isFixedPosition = true
-                        isFixedVisible = true
-                        styledTop = 0
+                        setFixedVisible()
                     }
                 }
             }
@@ -68,21 +95,21 @@ const Header = () => {
             el.style.position = isFixedPosition ? 'fixed' : 'absolute'
             el.style.top = `${styledTop}px`
 
-            if (
-                currentScrollY < BUFFER_HEIGHT ||
-                absoluteTop < BUFFER_HEIGHT
-            ) {
-                el.classList.remove(SHADOW_CLASSNAME)
-            } else {
-                el.classList.add(SHADOW_CLASSNAME)
-            }
+            setShadowClassName({
+                element: el,
+                currentScrollY,
+                absoluteTop,
+            })
 
+            console.log('last to current scroll y', lastScrollY, currentScrollY, headerHeight)
             lastScrollY = currentScrollY
         }
 
+        handleScroll()
+
         getWindow().addEventListener('scroll', handleScroll, { passive: true })
         return () => getWindow().removeEventListener('scroll', handleScroll)
-    }, [])
+    }, [selectedPagePath])
 
     return (
         <Flex
