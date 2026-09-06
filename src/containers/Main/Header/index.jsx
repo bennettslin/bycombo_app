@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react'
+import React, { useEffect, useRef } from 'react'
 import cx from 'classnames'
 import Flex from '../../../components/Flex'
 import PageRow from '../../Page/PageRow'
@@ -8,36 +8,74 @@ import { getWindow } from '../../../utils/browser'
 import './style'
 
 const
-    /**
-     * FIXME: Hard-coded values because my frontend skills are rusty at this
-     * point, and we're in the home stretch of this project.
-     */
-    xsBreakpointHeight = 154,
-    smBreakpointHeight = 163,
-    mdBreakpointHeight = 208,
-    smBreakpointWidth = 633.536,
-    mdBreakpointWidth = 800
+    SHADOW_CLASSNAME = 'HeaderFrame__shadow',
+    BUFFER_HEIGHT = 10
 
 const Header = () => {
     const
-        [translateY, setTranslateY] = useState(0),
-        headerHeight = useRef(xsBreakpointHeight)
+        headerElement = useRef(null)
 
     /**
      * FIXME: Code to position header based on scrolling. Unfortunately, copied
      * from elsewhere because my frontend skills are rusty at this point.
      */
     useEffect(() => {
-        let lastScrollY = getWindow().scrollY
+        let
+            lastScrollY = getWindow().scrollY,
+            absoluteTop = 0,
+            styledTop = 0,
+            isFixedPosition = true,
+            isFixedVisible = true
 
         const handleScroll = () => {
-            const currentScrollY = getWindow().scrollY
-            const deltaY = currentScrollY - lastScrollY
+            const
+                currentScrollY = getWindow().scrollY,
+                el = headerElement.current,
+                headerHeight = el.offsetHeight
 
-            setTranslateY((prev) => {
-                const next = prev - deltaY
-                return Math.max(-headerHeight.current, Math.min(0, next))
-            })
+            // It's scrolling down.
+            if (currentScrollY > lastScrollY) {
+                if (isFixedPosition && isFixedVisible) {
+                    // Lock at current scroll position.
+                    isFixedPosition = false
+                    absoluteTop = currentScrollY
+                    styledTop = absoluteTop
+                } else if (!isFixedPosition) {
+                    // Check if header has scrolled entirely out of view.
+                    if (currentScrollY >= absoluteTop + headerHeight) {
+                        isFixedPosition = true
+                        isFixedVisible = false
+                        styledTop = -headerHeight
+                    }
+                }
+            // It's scrolling up.
+            } else {
+                if (isFixedPosition && !isFixedVisible) {
+                    // Lock just above current viewport.
+                    isFixedPosition = false
+                    absoluteTop = currentScrollY - headerHeight
+                    styledTop = absoluteTop
+                } else if (!isFixedPosition) {
+                    // Check if header has scrolled entirely into view.
+                    if (currentScrollY <= absoluteTop) {
+                        isFixedPosition = true
+                        isFixedVisible = true
+                        styledTop = 0
+                    }
+                }
+            }
+
+            el.style.position = isFixedPosition ? 'fixed' : 'absolute'
+            el.style.top = `${styledTop}px`
+
+            if (
+                currentScrollY < BUFFER_HEIGHT ||
+                absoluteTop < BUFFER_HEIGHT
+            ) {
+                el.classList.remove(SHADOW_CLASSNAME)
+            } else {
+                el.classList.add(SHADOW_CLASSNAME)
+            }
 
             lastScrollY = currentScrollY
         }
@@ -46,38 +84,13 @@ const Header = () => {
         return () => getWindow().removeEventListener('scroll', handleScroll)
     }, [])
 
-    // Set new header height based on window resize.
-    useEffect(() => {
-        const handleResize = () => {
-            let newHeight = xsBreakpointHeight
-            const windowWidth = getWindow().innerWidth
-
-            if (windowWidth >= smBreakpointWidth) {
-                newHeight = smBreakpointHeight
-            }
-
-            if (windowWidth >= mdBreakpointWidth) {
-                newHeight = mdBreakpointHeight
-            }
-
-            headerHeight.current = newHeight
-        }
-
-        handleResize()
-
-        getWindow().addEventListener('resize', handleResize, { passive: true })
-        return () => getWindow().removeEventListener('resize', handleResize)
-    }, [])
-
     return (
         <Flex
             {...{
                 className: cx(
                     'HeaderFrame',
                 ),
-                style: {
-                    top: `${translateY}px`,
-                },
+                ref: headerElement,
             }}
         >
             <Flex

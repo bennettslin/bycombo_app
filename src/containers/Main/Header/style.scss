@@ -1,6 +1,6 @@
 @import '../../../scss/constants/colours';
 @import '../../../scss/constants/responsive';
-// @import '../../../scss/constants/shadows';
+@import '../../../scss/constants/shadows';
 
 .HeaderFrame {
     width: 100%;
@@ -8,8 +8,9 @@
     top: 0;
     background-color: $colour__background__light;
     z-index: 1;
-
-    // filter: $dropShadow;
+}
+.HeaderFrame__shadow {
+    filter: $dropShadow;
 }
 
 .HeaderWrapper {
