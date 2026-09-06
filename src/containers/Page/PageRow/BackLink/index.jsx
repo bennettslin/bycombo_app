@@ -1,5 +1,6 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
+import cx from 'classnames'
 import Flex from '../../../../components/Flex'
 import BackButton from '../../../../components/CustomButton/BackButton'
 import {
@@ -13,13 +14,17 @@ const BackLink = () => {
         backButtonText = useSelector(getMapBackLinkText)
 
     return doShowBackLink && (
-        <Flex {...{ gap: 'xs' }} >
+        <Flex
+            {...{
+                className: cx(
+                    'BackLink',
+                    'fontSize__sm',
+                ),
+                gap: 'xs',
+            }}
+        >
             <BackButton isInMenu />
-            <label
-                {...{
-                    className: 'RowLink',
-                }}
-            >
+            <label>
                 {backButtonText}
             </label>
         </Flex>

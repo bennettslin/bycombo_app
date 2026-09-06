@@ -1,17 +1,3 @@
-@import '../../../../scss/constants/responsive.scss';
-
 .ShareLink {
     text-align: right;
-}
-
-.RowLink {
-    font-size: 0.83em;
-
-    @media (min-width: $breakpoint__sm) {
-        font-size: 1em;
-    }
-
-    @media (min-width: $breakpoint__md) {
-        font-size: 1.16em;
-    }
 }

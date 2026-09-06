@@ -9,15 +9,12 @@ const ShareLink = () => (
         {...{
             className: cx(
                 'ShareLink',
+                'fontSize__sm',
             ),
             gap: 'xs',
         }}
     >
-        <label
-            {...{
-                className: 'RowLink',
-            }}
-        >
+        <label>
             Copy page URL
         </label>
         <ShareButton isInMenu />
