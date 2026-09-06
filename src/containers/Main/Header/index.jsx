@@ -12,7 +12,7 @@ import { setShadowClassName } from './helper'
 
 const Header = () => {
     const
-        headerElement = useRef(null),
+        headerRef = useRef(null),
         selectedPagePath = useSelector(mapSelectedPagePath)
 
     /**
@@ -52,7 +52,7 @@ const Header = () => {
         const handleScroll = () => {
             const
                 currentScrollY = getWindow().scrollY,
-                el = headerElement.current,
+                el = headerRef.current,
                 headerHeight = el.offsetHeight
 
             // The page has just loaded.
@@ -96,7 +96,7 @@ const Header = () => {
             el.style.top = `${styledTop}px`
 
             setShadowClassName({
-                element: el,
+                headerRef,
                 currentScrollY,
                 absoluteTop,
             })
@@ -117,7 +117,7 @@ const Header = () => {
                 className: cx(
                     'HeaderFrame',
                 ),
-                ref: headerElement,
+                ref: headerRef,
             }}
         >
             <Flex
