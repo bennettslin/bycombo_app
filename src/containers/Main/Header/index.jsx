@@ -4,14 +4,15 @@ import cx from 'classnames'
 import Flex from '../../../components/Flex'
 import DefaultWrapper from './DefaultWrapper'
 import { getWindow } from '../../../utils/browser'
-import { mapSelectedPagePath } from '../../../redux/page/selector'
-import { setHeaderMode, setHeaderStyle, setShadowClassName } from './helper'
+import { getMapDoShowBackLink, mapSelectedPagePath } from '../../../redux/page/selector'
+import { setHeaderMode, setHeaderStyle, setClassName } from './helper'
 import './style'
 
 const Header = () => {
     const
         headerRef = useRef(null),
-        selectedPagePath = useSelector(mapSelectedPagePath)
+        selectedPagePath = useSelector(mapSelectedPagePath),
+        doShowBackLink = useSelector(getMapDoShowBackLink)
 
     // Code for sticky header.
     useEffect(() => {
@@ -20,13 +21,13 @@ const Header = () => {
             isFixedVisible: true,
             absoluteTop: 0,
             styledTop: 0,
-            lastScrollY: NaN,
+            previousScrollY: NaN,
         }
 
         const handleScroll = () => {
-            headerMode = setHeaderMode(headerMode)
+            headerMode = setHeaderMode(headerMode, doShowBackLink)
             setHeaderStyle(headerRef, headerMode)
-            setShadowClassName(headerRef, headerMode)
+            setClassName(headerRef, headerMode)
         }
 
         handleScroll()
@@ -44,7 +45,7 @@ const Header = () => {
                 ref: headerRef,
             }}
         >
-            <DefaultWrapper />
+            {doShowBackLink ? <DefaultWrapper /> : <DefaultWrapper />}
         </Flex>
     )
 }

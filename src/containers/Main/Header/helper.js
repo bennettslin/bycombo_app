@@ -10,22 +10,31 @@ const
      *
      * Computed height, plus variable top padding and constant bottom padding.
      */
-    XS_BREAKPOINT_HEIGHT = 78,
-    SM_BREAKPOINT_HEIGHT = 115,
-    MD_BREAKPOINT_HEIGHT = 156,
+    XS_BREAKPOINT_DEFAULT_HEIGHT = 78,
+    SM_BREAKPOINT_DEFAULT_HEIGHT = 115,
+    MD_BREAKPOINT_DEFAULT_HEIGHT = 156,
+    XS_BREAKPOINT_BACK_LINK_HEIGHT = 78,
+    SM_BREAKPOINT_BACK_LINK_HEIGHT = 115,
+    MD_BREAKPOINT_BACK_LINK_HEIGHT = 156,
     SM_BREAKPOINT_WIDTH = 633.536,
     MD_BREAKPOINT_WIDTH = 800
 
-export const getHeaderHeight = () => {
+export const getHeaderHeight = (doShowBackLink) => {
     const windowWidth = getWindow().innerWidth
 
     if (windowWidth >= MD_BREAKPOINT_WIDTH) {
-        return MD_BREAKPOINT_HEIGHT
+        return doShowBackLink ?
+            MD_BREAKPOINT_BACK_LINK_HEIGHT :
+            MD_BREAKPOINT_DEFAULT_HEIGHT
     } else if (windowWidth >= SM_BREAKPOINT_WIDTH) {
-        return SM_BREAKPOINT_HEIGHT
+        return doShowBackLink ?
+            SM_BREAKPOINT_BACK_LINK_HEIGHT :
+            SM_BREAKPOINT_DEFAULT_HEIGHT
     }
 
-    return XS_BREAKPOINT_HEIGHT
+    return doShowBackLink ?
+        XS_BREAKPOINT_BACK_LINK_HEIGHT :
+        XS_BREAKPOINT_DEFAULT_HEIGHT
 }
 
 export const setHeaderStyle = (
@@ -36,7 +45,7 @@ export const setHeaderStyle = (
     headerElement.style.top = `${styledTop}px`
 }
 
-export const setShadowClassName = (
+export const setClassName = (
     { current: headerElement },
     { absoluteTop },
 ) => {
@@ -76,11 +85,11 @@ const setHeaderPosition = (headerMode, headerHeight, currentScrollY) => {
         isFixedPosition,
         isFixedVisible,
         absoluteTop,
-        lastScrollY,
+        previousScrollY,
     } = headerMode
 
     // The page has just loaded.
-    if (isNaN(lastScrollY)) {
+    if (isNaN(previousScrollY)) {
         if (currentScrollY >= headerHeight) {
             return setFixedHidden(headerMode, headerHeight)
         } else if (currentScrollY <= BUFFER_HEIGHT) {
@@ -90,7 +99,7 @@ const setHeaderPosition = (headerMode, headerHeight, currentScrollY) => {
         }
 
         // It's scrolling down.
-    } else if (currentScrollY > lastScrollY) {
+    } else if (currentScrollY > previousScrollY) {
         if (isFixedPosition && isFixedVisible) {
             // Lock at current scroll position.
             return setAbsolute(headerMode, currentScrollY)
@@ -116,13 +125,13 @@ const setHeaderPosition = (headerMode, headerHeight, currentScrollY) => {
     return headerMode
 }
 
-export const setHeaderMode = headerMode => {
+export const setHeaderMode = (headerMode, doShowBackLink) => {
     const
-        headerHeight = getHeaderHeight(),
+        headerHeight = getHeaderHeight(doShowBackLink),
         currentScrollY = getWindow().scrollY
 
     return {
         ...setHeaderPosition(headerMode, headerHeight, currentScrollY),
-        lastScrollY: currentScrollY,
+        previousScrollY: currentScrollY,
     }
 }
