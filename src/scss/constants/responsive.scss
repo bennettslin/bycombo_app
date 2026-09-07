@@ -43,9 +43,12 @@ $breakpoint__md: $width__lg;
 /**
  * FIXME: Hard-coding for now, in the interest of time.
  *
- * Computed height, plus variable top padding, plus constant bottom padding and
- * bottom margin.
+ * Computed height, plus variable top padding, plus constant bottom padding,
+ * plus bottom margin.
  */
-$hardcoded__header__height__sm: 130px + $margin__xxs + $margin__sm;
-$hardcoded__header__height__md: 139px + $margin__xs + $margin__sm;
-$hardcoded__header__height__lg: 184px + $margin__sm + $margin__sm;
+$hardcoded__header__height__sm:
+    66px + $margin__xxs + $margin__xs + $margin__sm;
+$hardcoded__header__height__md:
+    99px + $margin__xs + $margin__xs + $margin__sm;
+$hardcoded__header__height__lg:
+    132px + $margin__sm + $margin__xs + $margin__sm;

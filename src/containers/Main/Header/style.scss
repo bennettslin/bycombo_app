@@ -32,9 +32,4 @@
 
 .Header {
     width: 100%;
-    flex-direction: column;
-
-    @media (min-width: $breakpoint__sm) {
-        flex-direction: row;
-    }
 }

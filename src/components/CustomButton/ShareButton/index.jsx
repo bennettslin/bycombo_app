@@ -47,7 +47,6 @@ const ShareButton = ({ linkId, ...rest }) => {
                     'ShareButton',
                 ),
                 handleButtonClick,
-                handleTooltipHide: resetCopiedUrlKey,
                 ...rest,
             }}
         >

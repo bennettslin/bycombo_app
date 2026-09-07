@@ -10,9 +10,9 @@ const
      *
      * Computed height, plus variable top padding and constant bottom padding.
      */
-    XS_BREAKPOINT_HEIGHT = 142,
-    SM_BREAKPOINT_HEIGHT = 155,
-    MD_BREAKPOINT_HEIGHT = 208,
+    XS_BREAKPOINT_HEIGHT = 78,
+    SM_BREAKPOINT_HEIGHT = 115,
+    MD_BREAKPOINT_HEIGHT = 156,
     SM_BREAKPOINT_WIDTH = 633.536,
     MD_BREAKPOINT_WIDTH = 800
 

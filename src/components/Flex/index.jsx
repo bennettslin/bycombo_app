@@ -39,6 +39,7 @@ const Flex = forwardRef(({
                 alignItems === 'normal' && 'aI__normal',
                 alignItems === 'start' && 'aI__start',
                 alignItems === 'flexEnd' && 'aI__flexEnd',
+                alignItems === 'stretch' && 'aI__stretch',
 
                 flexWrap === 'wrap' && 'fW__wrap',
 
@@ -78,7 +79,7 @@ Flex.propTypes = {
         }),
     ]),
     alignItems: PropTypes.oneOfType([
-        PropTypes.oneOf(['normal', 'start', 'flexEnd']),
+        PropTypes.oneOf(['normal', 'start', 'flexEnd', 'stretch']),
     ]),
     flexWrap: PropTypes.oneOf(['wrap']),
     gap: PropTypes.oneOfType([

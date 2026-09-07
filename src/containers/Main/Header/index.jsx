@@ -2,8 +2,8 @@ import React, { useEffect, useRef } from 'react'
 import { useSelector } from 'react-redux'
 import cx from 'classnames'
 import Flex from '../../../components/Flex'
-import PageRow from '../../Page/PageRow'
 import HomeButton from './HomeButton'
+import ShareLink from '../../Page/PageRow/ShareLink'
 import Menu from './Menu'
 import { getWindow } from '../../../utils/browser'
 import { mapSelectedPagePath } from '../../../redux/page/selector'
@@ -61,13 +61,25 @@ const Header = () => {
                             'Header',
                         ),
                         justifyContent: 'spaceBetween',
+                        alignItems: 'stretch',
                         gap: 'xs',
                     }}
                 >
                     <HomeButton />
-                    <Menu />
+                    <Flex
+                        {...{
+                            className: cx(
+                                'Header__right',
+                            ),
+                            flexDirection: 'column',
+                            justifyContent: 'spaceBetween',
+                            alignItems: 'flexEnd',
+                        }}
+                    >
+                        <Menu />
+                        <ShareLink />
+                    </Flex>
                 </Flex>
-                <PageRow />
             </Flex>
         </Flex>
     )

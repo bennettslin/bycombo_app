@@ -2,14 +2,14 @@
 
 .HomeButton {
     .ButtonAnimatable {
-        width: 50%;
+        zoom: 0.5;
     
         @media (min-width: $breakpoint__sm) {
-            width: 75%;
+            zoom: 0.75;
         }
     
         @media (min-width: $breakpoint__md) {
-            width: 100%;
+            zoom: 1;
         }
     }
 }
