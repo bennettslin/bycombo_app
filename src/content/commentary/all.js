@@ -6,6 +6,7 @@ import audienceCommentary from './audience'
 import credCommentary from './cred'
 import populismCommentary from './populism'
 import wokenessCommentary from './wokeness'
+import horseshoeCommentary from './horseshoe'
 import { getAllNotesBody } from '../helper'
 
 export default {
@@ -19,5 +20,6 @@ export default {
         credCommentary,
         populismCommentary,
         wokenessCommentary,
+        horseshoeCommentary,
     ]),
 }

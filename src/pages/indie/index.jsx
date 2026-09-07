@@ -603,7 +603,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the left's elites. Especially since, as the "*sideways* horseshoe" reveals, it's not a given that those below us would otherwise take our side over theirs!
+This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the left's elites. Especially since, as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" reveals, it's not a given that those below us would otherwise take our side over theirs!
 
 Which means we'll [need to quit](${REFERENCE_PATH}/need-to-quit#) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 
@@ -656,6 +656,7 @@ Which checks out, right? Among interdependent bands, the best *ever* is the Beat
 ### Notes
 
 - [All commentaries](${COMMENTARY_PATH}/all#)
+
 - [All references](${REFERENCE_PATH}/all#)
             `,
         }}
