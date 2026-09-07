@@ -2,9 +2,7 @@ import React, { useEffect, useRef } from 'react'
 import { useSelector } from 'react-redux'
 import cx from 'classnames'
 import Flex from '../../../components/Flex'
-import HomeButton from './HomeButton'
-import ShareLink from '../../Page/PageRow/ShareLink'
-import Menu from './Menu'
+import DefaultWrapper from './DefaultWrapper'
 import { getWindow } from '../../../utils/browser'
 import { mapSelectedPagePath } from '../../../redux/page/selector'
 import { setHeaderMode, setHeaderStyle, setShadowClassName } from './helper'
@@ -41,46 +39,12 @@ const Header = () => {
         <Flex
             {...{
                 className: cx(
-                    'HeaderFrame',
+                    'Header',
                 ),
                 ref: headerRef,
             }}
         >
-            <Flex
-                {...{
-                    className: cx(
-                        'HeaderWrapper',
-                    ),
-                    flexDirection: 'column',
-                    gap: 'xs',
-                }}
-            >
-                <Flex
-                    {...{
-                        className: cx(
-                            'Header',
-                        ),
-                        justifyContent: 'spaceBetween',
-                        alignItems: 'stretch',
-                        gap: 'xs',
-                    }}
-                >
-                    <HomeButton />
-                    <Flex
-                        {...{
-                            className: cx(
-                                'Header__right',
-                            ),
-                            flexDirection: 'column',
-                            justifyContent: 'spaceBetween',
-                            alignItems: 'flexEnd',
-                        }}
-                    >
-                        <Menu />
-                        <ShareLink />
-                    </Flex>
-                </Flex>
-            </Flex>
+            <DefaultWrapper />
         </Flex>
     )
 }
