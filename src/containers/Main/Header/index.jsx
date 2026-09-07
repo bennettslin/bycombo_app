@@ -22,6 +22,7 @@ const Header = () => {
             absoluteTop: 0,
             styledTop: 0,
             previousScrollY: NaN,
+            previousScrollTime: Date.now(),
         }
 
         const handleScroll = () => {

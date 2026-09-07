@@ -66,6 +66,23 @@ export const setClassName = (
     }
 }
 
+/**
+ * Check if user scrolled, not browser when user did "find in page" search, or
+ * paged up and down.
+ */
+const getIsUserScroll = (
+    previousScrollY,
+    currentScrollY,
+    previousScrollTime,
+) => (
+    /**
+     * Really absurd approach, but there's no way to tell from the event alone.
+     * These numbers are based on my trials.
+     */
+    Math.abs(currentScrollY - previousScrollY) <= 200 ||
+    Date.now() - previousScrollTime <= 50
+)
+
 const setFixedHidden = (headerMode, headerHeight) => ({
     ...headerMode,
     isFixedPosition: true,
@@ -89,14 +106,20 @@ const setAbsolute = (headerMode, absoluteTop) => ({
 
 const setHeaderPosition = (headerMode, headerHeight, currentScrollY) => {
     const {
-        isFixedPosition,
-        isFixedVisible,
-        absoluteTop,
-        previousScrollY,
-    } = headerMode
+            isFixedPosition,
+            isFixedVisible,
+            absoluteTop,
+            previousScrollY,
+            previousScrollTime,
+        } = headerMode,
+        isUserScroll = getIsUserScroll(
+            previousScrollY,
+            currentScrollY,
+            previousScrollTime,
+        )
 
-    // The page has just loaded.
-    if (isNaN(previousScrollY)) {
+    // The page has just loaded, or browser is scrolling.
+    if (isNaN(previousScrollY) || !isUserScroll) {
         if (currentScrollY >= headerHeight) {
             return setFixedHidden(headerMode, headerHeight)
         } else if (currentScrollY <= BUFFER_HEIGHT) {
@@ -140,5 +163,6 @@ export const setHeaderMode = (headerMode, doShowBackLink) => {
     return {
         ...setHeaderPosition(headerMode, headerHeight, currentScrollY),
         previousScrollY: currentScrollY,
+        previousScrollTime: Date.now(),
     }
 }
