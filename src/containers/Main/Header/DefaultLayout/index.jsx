@@ -1,22 +1,11 @@
 import React from 'react'
-import cx from 'classnames'
 import Flex from '../../../../components/Flex'
 import HomeButton from '../HomeButton'
 import ShareLink from '../../../Page/PageRow/ShareLink'
 import Menu from '../Menu'
-import './style'
 
-const DefaultWrapper = () => (
-    <Flex
-        {...{
-            className: cx(
-                'DefaultHeaderWrapper',
-            ),
-            justifyContent: 'spaceBetween',
-            alignItems: 'stretch',
-            gap: 'xs',
-        }}
-    >
+const DefaultLayout = () => (
+    <>
         <HomeButton />
         <Flex
             {...{
@@ -28,7 +17,7 @@ const DefaultWrapper = () => (
             <Menu />
             <ShareLink />
         </Flex>
-    </Flex>
+    </>
 )
 
-export default DefaultWrapper
+export default DefaultLayout

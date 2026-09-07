@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react'
 import { useSelector } from 'react-redux'
 import cx from 'classnames'
 import Flex from '../../../components/Flex'
-import DefaultWrapper from './DefaultWrapper'
+import Wrapper from './Wrapper'
 import { getWindow } from '../../../utils/browser'
 import { getMapDoShowBackLink, mapSelectedPagePath } from '../../../redux/page/selector'
 import { setHeaderMode, setHeaderStyle, setClassName } from './helper'
@@ -45,7 +45,7 @@ const Header = () => {
                 ref: headerRef,
             }}
         >
-            {doShowBackLink ? <DefaultWrapper /> : <DefaultWrapper />}
+            <Wrapper />
         </Flex>
     )
 }
