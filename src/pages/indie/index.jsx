@@ -36,7 +36,7 @@ By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 From there, we take *action*. Now, rebelling against a centralized institution would be easy, right? Just rip it down! But against indie rock's *de*-centralized structures, we must *build*… and this is far more difficult. After all, build *what*, exactly? Luckily, I've also spent half my Xennial life coming up with a plan:
@@ -218,7 +218,7 @@ Yet… this won't happen if you're forever multitasking. No wonder, then, that "
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which, in hindsight, explains why this "creative middle class" promised by indie rock is so *un*-original: Its artists *seek* greater status while indie labels *cede* it— so *no one* takes any risks!
@@ -228,7 +228,7 @@ Back in the day, you needed a *partner* to take you "from zero to one"— that i
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots for unknown artists— some of whom went on to make history's most creative works!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 By contrast, the indies sign just one artist at a time, so they go with the safe bet, *every* time, of picking what the people want. But people only want what they [know to expect](${REFERENCE_PATH}/know-to-expect#)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
@@ -608,7 +608,7 @@ Why is progressivism so badly beaten in both politics and the arts today? It's b
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Because of this, they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the left's elites. Especially since, as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" reveals, it's not a given that those below us would otherwise take our side over theirs!
