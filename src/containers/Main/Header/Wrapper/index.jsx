@@ -24,7 +24,7 @@ const HeaderWrapper = () => {
                 gap: 'xs',
             }}
         >
-            {doShowBackLink ? <PageRow /> : (
+            {doShowBackLink ? <PageRow isInHeader /> : (
                 <>
                     <HomeButton />
                     <Flex

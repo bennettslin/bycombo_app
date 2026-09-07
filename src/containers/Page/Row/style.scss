@@ -2,6 +2,24 @@
 
 .PageRow {
     width: 100%;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+
+    .BackLink {
+        grid-column: 1;
+        justify-self: start;
+    }
+
+    .HomeButton {
+        grid-column: 2;
+        justify-self: center;
+    }
+
+    .ShareLink {
+        grid-column: 3;
+        justify-self: end;
+    }
 }
 
 .PageRow__bottom {

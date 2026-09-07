@@ -14,6 +14,11 @@
     }
 }
 
+.HomeButton__row {
+    // Eyeballed.
+    zoom: 0.32;
+}
+
 svg {
     &.byCombo {
         .copperDark { fill: hsl(34, 28%, 47%); }

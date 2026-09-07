@@ -73,7 +73,7 @@ export const getMapBackLinkText = createSelector(
             return getSmartQuotedText(
                 `${isSubsequentSession ? 'Back' : 'Go'} to "${
                     getCapitalizedText(selectedTopLevelPagePath)
-                }" page`,
+                }"`,
             )
         } else if (isIdLinkedPage) {
             return `Go back`
