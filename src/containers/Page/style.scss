@@ -31,6 +31,7 @@
 }
 
 .Page__backLink {
+    padding: $margin__xs $margin__xs;
     padding-top: $back__link__header__height__sm;
 
     @media (min-width: $breakpoint__sm) {
@@ -39,7 +40,7 @@
     }
 
     @media (min-width: $breakpoint__md) {
-        padding: $margin__sm $margin__md;
+        padding: $margin__xs $margin__md;
         padding-top: $back__link__header__height__lg;
     }
 }

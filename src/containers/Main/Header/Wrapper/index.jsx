@@ -17,6 +17,7 @@ const HeaderWrapper = () => {
             {...{
                 className: cx(
                     'HeaderWrapper',
+                    doShowBackLink && 'HeaderWrapper__backLink',
                 ),
                 justifyContent: 'spaceBetween',
                 alignItems: 'stretch',

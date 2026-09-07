@@ -16,3 +16,15 @@
 
     padding-bottom: $margin__xs !important;
 }
+
+.HeaderWrapper__backLink {
+    padding: $margin__xs $margin__xs;
+    
+    @media (min-width: $breakpoint__sm) {
+        padding: $margin__xs $margin__sm;
+    }
+    
+    @media (min-width: $breakpoint__md) {
+        padding: $margin__xs $margin__md;
+    }
+}
