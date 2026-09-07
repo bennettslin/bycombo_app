@@ -12,9 +12,15 @@ const Header = () => {
     const
         headerRef = useRef(null),
         selectedPagePath = useSelector(mapSelectedPagePath),
-        doShowBackLink = useSelector(getMapDoShowBackLink)
+        doShowBackLink = useSelector(getMapDoShowBackLink),
+        doShowBackLinkRef = useRef(doShowBackLink)
 
-    // Code for sticky header.
+    // Pass latest value to window's event listener.
+    useEffect(() => {
+        doShowBackLinkRef.current = doShowBackLink
+    }, [doShowBackLink])
+
+    // Implement sticky header.
     useEffect(() => {
         let headerMode = {
             isFixedPosition: true,
@@ -25,7 +31,7 @@ const Header = () => {
         }
 
         const handleScroll = () => {
-            headerMode = setHeaderMode(headerMode, doShowBackLink)
+            headerMode = setHeaderMode(headerMode, doShowBackLinkRef.current)
             setHeaderStyle(headerRef, headerMode)
             setClassName(headerRef, headerMode)
         }
