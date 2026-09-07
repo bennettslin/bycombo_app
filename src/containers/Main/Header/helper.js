@@ -1,16 +1,23 @@
+import { getWindow } from '../../../utils/browser'
+
 const
     SHADOW_CLASSNAME = 'HeaderFrame__shadow',
     BUFFER_HEIGHT = 10
 
-export const setShadowClassName = ({
-    headerRef,
-    currentScrollY,
-    absoluteTop,
-}) => {
-    const { current: headerElement } = headerRef
+export const setHeaderStyle = (
+    { current: headerElement },
+    { isFixedPosition, styledTop },
+) => {
+    headerElement.style.position = isFixedPosition ? 'fixed' : 'absolute'
+    headerElement.style.top = `${styledTop}px`
+}
 
+export const setShadowClassName = (
+    { current: headerElement },
+    { absoluteTop },
+) => {
     if (
-        currentScrollY < BUFFER_HEIGHT ||
+        getWindow().scrollY < BUFFER_HEIGHT ||
         absoluteTop < BUFFER_HEIGHT
     ) {
         headerElement.classList.remove(SHADOW_CLASSNAME)
@@ -49,12 +56,17 @@ const setAbsolute = (headerMode, absoluteTop) => {
     }
 }
 
-export const setHeaderMode = (headerMode, headerHeight, currentScrollY, lastScrollY) => {
-    const {
-        isFixedPosition,
-        isFixedVisible,
-        absoluteTop,
-    } = headerMode
+const setHeaderPosition = (headerMode, headerHeight) => {
+    const
+        {
+            isFixedPosition,
+            isFixedVisible,
+            absoluteTop,
+            lastScrollY,
+        } = headerMode,
+        currentScrollY = getWindow().scrollY
+
+    console.log('effect is called', isNaN(lastScrollY))
 
     // The page has just loaded.
     if (isNaN(lastScrollY)) {
@@ -92,3 +104,8 @@ export const setHeaderMode = (headerMode, headerHeight, currentScrollY, lastScro
 
     return headerMode
 }
+
+export const setHeaderMode = (headerMode, headerHeight) => ({
+    ...setHeaderPosition(headerMode, headerHeight),
+    lastScrollY: getWindow().scrollY,
+})

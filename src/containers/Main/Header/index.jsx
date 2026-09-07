@@ -7,7 +7,7 @@ import HomeButton from './HomeButton'
 import Menu from './Menu'
 import { getWindow } from '../../../utils/browser'
 import { mapSelectedPagePath } from '../../../redux/page/selector'
-import { setHeaderMode, setShadowClassName } from './helper'
+import { setHeaderMode, setHeaderStyle, setShadowClassName } from './helper'
 import './style'
 
 const Header = () => {
@@ -15,41 +15,26 @@ const Header = () => {
         headerRef = useRef(null),
         selectedPagePath = useSelector(mapSelectedPagePath)
 
-    /**
-     * FIXME: Code to position header based on scrolling. Unfortunately, copied
-     * from elsewhere because my frontend skills are rusty at this point.
-     */
+    // Code for sticky header.
     useEffect(() => {
         let headerMode = {
             isFixedPosition: true,
             isFixedVisible: true,
             absoluteTop: 0,
             styledTop: 0,
+            lastScrollY: NaN,
         }
-
-        let lastScrollY
-
-        console.log('effect is called', isNaN(lastScrollY))
 
         const handleScroll = () => {
             const
-                currentScrollY = getWindow().scrollY,
                 { current: headerElement } = headerRef,
-                { offsetHeight: headerHeight } = headerElement
+                { offsetHeight: headerHeight } = headerElement,
+                newHeaderMode = setHeaderMode(headerMode, headerHeight)
 
-            headerMode = setHeaderMode(headerMode, headerHeight, currentScrollY, lastScrollY)
+            setHeaderStyle(headerRef, headerMode)
+            setShadowClassName(headerRef, headerMode)
 
-            headerElement.style.position = headerMode.isFixedPosition ? 'fixed' : 'absolute'
-            headerElement.style.top = `${headerMode.styledTop}px`
-
-            setShadowClassName({
-                headerRef,
-                currentScrollY,
-                absoluteTop: headerMode.absoluteTop,
-            })
-
-            console.log('last to current scroll y', lastScrollY, currentScrollY, headerHeight)
-            lastScrollY = currentScrollY
+            headerMode = newHeaderMode
         }
 
         handleScroll()
