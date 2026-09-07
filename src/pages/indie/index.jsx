@@ -217,13 +217,21 @@ Yet… this won't happen if you're forever multitasking. No wonder, then, that "
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
-Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which, in hindsight, explains why this "creative middle class" promised by indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which, in hindsight, explains why this "creative middle class" promised by indie rock is so *un*-original: Its artists *seek* greater status while indie labels *cede* it— so *no one* takes any risks!
 
 Back in the day, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. And so, as a "zero," you'd explore at will, hoping to spark creative ideas that could take you "from one to *n*," and thus convince others to partner with you. But today, indie artists get to "one" on their *own*… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots for unknown artists— some of whom went on to make history's most creative works!
 
-By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](${REFERENCE_PATH}/know-to-expect#)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+By contrast, the indies sign just one artist at a time, so they go with the safe bet, *every* time, of picking what the people want. But people only want what they [know to expect](${REFERENCE_PATH}/know-to-expect#)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
