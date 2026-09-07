@@ -2,7 +2,31 @@ import { getWindow } from '../../../utils/browser'
 
 const
     SHADOW_CLASSNAME = 'HeaderFrame__shadow',
-    BUFFER_HEIGHT = 10
+    BUFFER_HEIGHT = 10,
+
+    /**
+     * FIXME: Hard-coding for now, in the interest of time. Don't get header
+     * height from element itself because it'll vary upon mount.
+     *
+     * Computed height, plus variable top padding and constant bottom padding.
+     */
+    XS_BREAKPOINT_HEIGHT = 142,
+    SM_BREAKPOINT_HEIGHT = 155,
+    MD_BREAKPOINT_HEIGHT = 208,
+    SM_BREAKPOINT_WIDTH = 633.536,
+    MD_BREAKPOINT_WIDTH = 800
+
+export const getHeaderHeight = () => {
+    const windowWidth = getWindow().innerWidth
+
+    if (windowWidth >= MD_BREAKPOINT_WIDTH) {
+        return MD_BREAKPOINT_HEIGHT
+    } else if (windowWidth >= SM_BREAKPOINT_WIDTH) {
+        return SM_BREAKPOINT_HEIGHT
+    }
+
+    return XS_BREAKPOINT_HEIGHT
+}
 
 export const setHeaderStyle = (
     { current: headerElement },
@@ -26,56 +50,43 @@ export const setShadowClassName = (
     }
 }
 
-const setFixedHidden = (headerMode, headerHeight) => {
-    console.log('set fixed hidden')
-    return {
-        ...headerMode,
-        isFixedPosition: true,
-        isFixedVisible: false,
-        styledTop: -headerHeight,
-    }
-}
+const setFixedHidden = (headerMode, headerHeight) => ({
+    ...headerMode,
+    isFixedPosition: true,
+    isFixedVisible: false,
+    styledTop: -headerHeight,
+})
 
-const setFixedVisible = headerMode => {
-    console.log('set fixed visible')
-    return {
-        ...headerMode,
-        isFixedPosition: true,
-        isFixedVisible: true,
-        styledTop: 0,
-    }
-}
+const setFixedVisible = headerMode => ({
+    ...headerMode,
+    isFixedPosition: true,
+    isFixedVisible: true,
+    styledTop: 0,
+})
 
-const setAbsolute = (headerMode, absoluteTop) => {
-    console.log('set absolute')
-    return {
-        ...headerMode,
-        isFixedPosition: false,
-        styledTop: absoluteTop,
+const setAbsolute = (headerMode, absoluteTop) => ({
+    ...headerMode,
+    isFixedPosition: false,
+    styledTop: absoluteTop,
+    absoluteTop,
+})
+
+const setHeaderPosition = (headerMode, headerHeight, currentScrollY) => {
+    const {
+        isFixedPosition,
+        isFixedVisible,
         absoluteTop,
-    }
-}
-
-const setHeaderPosition = (headerMode, headerHeight) => {
-    const
-        {
-            isFixedPosition,
-            isFixedVisible,
-            absoluteTop,
-            lastScrollY,
-        } = headerMode,
-        currentScrollY = getWindow().scrollY
-
-    console.log('effect is called', isNaN(lastScrollY))
+        lastScrollY,
+    } = headerMode
 
     // The page has just loaded.
     if (isNaN(lastScrollY)) {
         if (currentScrollY >= headerHeight) {
             return setFixedHidden(headerMode, headerHeight)
-        } else if (currentScrollY <= 1) {
+        } else if (currentScrollY <= BUFFER_HEIGHT) {
             return setFixedVisible(headerMode)
         } else {
-            return setAbsolute(headerMode, currentScrollY - headerHeight)
+            return setAbsolute(headerMode, 0)
         }
 
         // It's scrolling down.
@@ -105,7 +116,13 @@ const setHeaderPosition = (headerMode, headerHeight) => {
     return headerMode
 }
 
-export const setHeaderMode = (headerMode, headerHeight) => ({
-    ...setHeaderPosition(headerMode, headerHeight),
-    lastScrollY: getWindow().scrollY,
-})
+export const setHeaderMode = headerMode => {
+    const
+        headerHeight = getHeaderHeight(),
+        currentScrollY = getWindow().scrollY
+
+    return {
+        ...setHeaderPosition(headerMode, headerHeight, currentScrollY),
+        lastScrollY: currentScrollY,
+    }
+}

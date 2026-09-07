@@ -26,15 +26,9 @@ const Header = () => {
         }
 
         const handleScroll = () => {
-            const
-                { current: headerElement } = headerRef,
-                { offsetHeight: headerHeight } = headerElement,
-                newHeaderMode = setHeaderMode(headerMode, headerHeight)
-
+            headerMode = setHeaderMode(headerMode)
             setHeaderStyle(headerRef, headerMode)
             setShadowClassName(headerRef, headerMode)
-
-            headerMode = newHeaderMode
         }
 
         handleScroll()
