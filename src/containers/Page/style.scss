@@ -3,16 +3,30 @@
 .PageFrame {
     position: relative;
     padding: $margin__xxs $margin__xs;
-    padding-top: $hardcoded__header__height__sm;
+    padding-top: $default__header__height__sm;
 
     @media (min-width: $breakpoint__sm) {
         padding: $margin__xs $margin__sm;
-        padding-top: $hardcoded__header__height__md;
+        padding-top: $default__header__height__md;
     }
 
     @media (min-width: $breakpoint__md) {
         padding: $margin__sm $margin__md;
-        padding-top: $hardcoded__header__height__lg;
+        padding-top: $default__header__height__lg;
+    }
+}
+
+.PageFrame__backLink {
+    padding-top: $back__link__header__height__sm;
+
+    @media (min-width: $breakpoint__sm) {
+        padding: $margin__xs $margin__sm;
+        padding-top: $back__link__header__height__md;
+    }
+
+    @media (min-width: $breakpoint__md) {
+        padding: $margin__sm $margin__md;
+        padding-top: $back__link__header__height__lg;
     }
 }
 

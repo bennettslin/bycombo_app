@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
-import { useDispatch } from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux'
 import PageConfigContext from '../../contexts/PageConfig'
 import StyledPage from './StyledPage'
 import Body from './Body'
@@ -9,6 +9,7 @@ import PageFooter from './Footer'
 import Flex from '../../components/Flex'
 import Helmet from '../../components/Helmet'
 import { updateSelectedPagePath } from '../../redux/page/action'
+import { getMapDoShowBackLink } from '../../redux/page/selector'
 import { PAGE_DESCRIPTIONS, PAGE_TITLES } from '../../constants/pages'
 import './style'
 
@@ -19,7 +20,9 @@ const Page = ({
     description,
     ...rest
 }) => {
-    const dispatch = useDispatch()
+    const
+        dispatch = useDispatch(),
+        doShowBackLink = useSelector(getMapDoShowBackLink)
 
     useEffect(() => {
         dispatch(
@@ -49,6 +52,7 @@ const Page = ({
                     {...{
                         className: cx(
                             'PageFrame',
+                            doShowBackLink && 'PageFrame__backLink',
                         ),
                     }}
                 >

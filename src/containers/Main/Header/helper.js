@@ -1,21 +1,21 @@
 import { getWindow } from '../../../utils/browser'
 
 const
-    SHADOW_CLASSNAME = 'HeaderFrame__shadow',
+    SHADOW_CLASSNAME = 'Header__shadow',
     BUFFER_HEIGHT = 10,
 
     /**
      * FIXME: Hard-coding for now, in the interest of time. Don't get header
-     * height from element itself because it'll vary upon mount.
+     * height from element itself because it isn't set upon mount.
      *
-     * Computed height, plus variable top padding and constant bottom padding.
+     * Header height.
      */
     XS_BREAKPOINT_DEFAULT_HEIGHT = 78,
     SM_BREAKPOINT_DEFAULT_HEIGHT = 115,
     MD_BREAKPOINT_DEFAULT_HEIGHT = 156,
-    XS_BREAKPOINT_BACK_LINK_HEIGHT = 78,
-    SM_BREAKPOINT_BACK_LINK_HEIGHT = 115,
-    MD_BREAKPOINT_BACK_LINK_HEIGHT = 156,
+    XS_BREAKPOINT_BACK_LINK_HEIGHT = 36,
+    SM_BREAKPOINT_BACK_LINK_HEIGHT = 48,
+    MD_BREAKPOINT_BACK_LINK_HEIGHT = 68,
     SM_BREAKPOINT_WIDTH = 633.536,
     MD_BREAKPOINT_WIDTH = 800
 
@@ -48,7 +48,14 @@ export const setHeaderStyle = (
 export const setClassName = (
     { current: headerElement },
     { absoluteTop },
+    doShowBackLink,
 ) => {
+    // Always show shadow with back link.
+    if (doShowBackLink) {
+        headerElement.classList.add(SHADOW_CLASSNAME)
+        return
+    }
+
     if (
         getWindow().scrollY < BUFFER_HEIGHT ||
         absoluteTop < BUFFER_HEIGHT

@@ -33,7 +33,7 @@ const Header = () => {
         const handleScroll = () => {
             headerMode = setHeaderMode(headerMode, doShowBackLinkRef.current)
             setHeaderStyle(headerRef, headerMode)
-            setClassName(headerRef, headerMode)
+            setClassName(headerRef, headerMode, doShowBackLinkRef.current)
         }
 
         handleScroll()

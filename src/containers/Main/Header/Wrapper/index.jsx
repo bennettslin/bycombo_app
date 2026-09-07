@@ -2,6 +2,7 @@ import React from 'react'
 import { useSelector } from 'react-redux'
 import cx from 'classnames'
 import Flex from '../../../../components/Flex'
+import PageRow from '../../../Page/PageRow'
 import DefaultLayout from '../DefaultLayout'
 import { getMapDoShowBackLink } from '../../../../redux/page/selector'
 import './style'
@@ -20,7 +21,7 @@ const Wrapper = () => {
                 gap: 'xs',
             }}
         >
-            {doShowBackLink ? <DefaultLayout /> : <DefaultLayout />}
+            {doShowBackLink ? <PageRow /> : <DefaultLayout />}
         </Flex>
     )
 }
