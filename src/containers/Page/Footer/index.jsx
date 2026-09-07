@@ -1,6 +1,6 @@
 import React from 'react'
 import cx from 'classnames'
-import PageRow from '../PageRow'
+import PageRow from '../Row'
 import Flex from '../../../components/Flex'
 import './style'
 

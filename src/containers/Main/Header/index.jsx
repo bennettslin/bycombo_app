@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react'
 import { useSelector } from 'react-redux'
 import cx from 'classnames'
 import Flex from '../../../components/Flex'
-import Wrapper from './Wrapper'
+import HeaderWrapper from './Wrapper'
 import { getWindow } from '../../../utils/browser'
 import { getMapDoShowBackLink, mapSelectedPagePath } from '../../../redux/page/selector'
 import { setHeaderMode, setHeaderStyle, setClassName } from './helper'
@@ -51,7 +51,8 @@ const Header = () => {
                 ref: headerRef,
             }}
         >
-            <Wrapper />
+            {/* Header is 100% width for shadow. Wrapper is page width. */}
+            <HeaderWrapper />
         </Flex>
     )
 }

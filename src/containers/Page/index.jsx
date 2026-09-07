@@ -3,7 +3,6 @@ import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useDispatch, useSelector } from 'react-redux'
 import PageConfigContext from '../../contexts/PageConfig'
-import StyledPage from './StyledPage'
 import Body from './Body'
 import PageFooter from './Footer'
 import Flex from '../../components/Flex'
@@ -14,7 +13,6 @@ import { PAGE_DESCRIPTIONS, PAGE_TITLES } from '../../constants/pages'
 import './style'
 
 const Page = ({
-    children,
     pageName,
     title,
     description,
@@ -46,31 +44,22 @@ const Page = ({
                     metaDescription: description || PAGE_DESCRIPTIONS[pageName],
                 }}
             />
-            {/* This assumes children or markdown, but never both. */}
-            {children ? children : (
-                <StyledPage
-                    {...{
-                        className: cx(
-                            'PageFrame',
-                            doShowBackLink && 'PageFrame__backLink',
-                        ),
-                    }}
-                >
-                    <Flex
-                        {...{
-                            className: cx(
-                                'Page',
-                            ),
-                            flexDirection: 'column',
-                            justifyContent: 'normal',
-                            alignItems: 'normal',
-                        }}
-                    >
-                        <Body />
-                        <PageFooter />
-                    </Flex>
-                </StyledPage>
-            )}
+            <Flex
+                {...{
+                    className: cx(
+                        'Page',
+                        doShowBackLink && 'Page__backLink',
+                    ),
+                    flexGrow: 1,
+                    flexDirection: 'column',
+                    justifyContent: 'normal',
+                    alignItems: 'normal',
+                    gap: 'md',
+                }}
+            >
+                <Body />
+                <PageFooter />
+            </Flex>
         </PageConfigContext.Provider>
     )
 }
@@ -78,7 +67,6 @@ const Page = ({
 Page.propTypes = {
     is404Page: PropTypes.bool,
     showContactEmail: PropTypes.bool,
-    children: PropTypes.node,
     pageName: PropTypes.string,
     title: PropTypes.string,
     description: PropTypes.string,

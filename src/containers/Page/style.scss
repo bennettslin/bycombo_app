@@ -1,7 +1,21 @@
 @import '../../scss/constants/responsive';
 
-.PageFrame {
+.Page {
     position: relative;
+    overflow-y: scroll;
+
+    @media (min-width: $breakpoint__xs) {
+        width: $width__sm;
+    }
+
+    @media (min-width: $breakpoint__sm) {
+        width: $width__md;
+    }
+
+    @media (min-width: $breakpoint__md) {
+        width: $width__lg;
+    }
+
     padding: $margin__xxs $margin__xs;
     padding-top: $default__header__height__sm;
 
@@ -16,7 +30,7 @@
     }
 }
 
-.PageFrame__backLink {
+.Page__backLink {
     padding-top: $back__link__header__height__sm;
 
     @media (min-width: $breakpoint__sm) {
@@ -30,9 +44,3 @@
     }
 }
 
-.Page {
-    flex-grow: 1;
-    width: 100%;
-    gap: $margin__md;
-    overflow-y: scroll;
-}
