@@ -565,7 +565,11 @@ Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in the final 
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
-By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, BYCombo can get you back on track— by helping you stay in love with your craft.
+${'  ' || `
+// TODO: Review.
+`}
+
+By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, BYCombo can get you back on track— by helping you stay in love with the craft.
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
 
