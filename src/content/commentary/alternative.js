@@ -7,7 +7,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-To start, unlike a macroculture, there's no single microculture: As W. David Marx notes, the counterculture is just one of several. Well, the Internet has now given us one more: the "macro-taste micro"— think, let's say, MrBeast— which feeds mainstream *tastes*, but goes through independent *distribution*. Put another way, it offers nothing new aesthetically… only logistically!
+To start, unlike a macroculture, there's no single microculture: As W. David Marx notes, the counterculture is just one of several. Well, the Internet has now given us one more: the "macro-taste micro"— think, let's say, MrBeast— which feeds mainstream *tastes*, but bypasses legacy means of *distribution*. Put another way, it offers nothing new aesthetically… only logistically!
 
 Given that indie rock is defined solely by its stance on *logistics*, then, it was *always* likely to merge with the macro-taste micro— so it did, starting in the early '00s. And now, with this newfound insight, we can read Marx's critique of the macro-taste micro as criticism of indie rock instead. To paraphrase:
 
