@@ -181,7 +181,11 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](${BOBTAIL_YEARLINGS_PATH}/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
-In essence, ignore the critics, or any others who think history making is all a crapshoot! There *is* a reliable measure of your chances: It's how much your talents, originality, and courage inspire the envy of fellow *artists*, relative to your fame. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out this century's own Galant era.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+In essence, ignore the critics, or any others who think history making is all a crapshoot! There *is* a reliable measure of your chances: It's how much your talents, originality, and courage inspire the envy of fellow *artists*, relative to your fame. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out rock's own Galant era.
 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
