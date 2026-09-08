@@ -1,5 +1,5 @@
 export default {
-    title: `"new taste"`,
+    title: `"new tastes"`,
     body: `
 > Every great and original writer, in proportion as he *is* great and original, must himself create the taste by which he's to be relished.
 

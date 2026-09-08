@@ -182,7 +182,7 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](${BOBTAIL_YEARLINGS_PATH}/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 In essence, ignore the critics, or any others who think history making is all a crapshoot! There *is* a reliable measure of your chances: It's how much your talents, originality, and courage inspire the envy of fellow *artists*, relative to your fame. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out rock's own Galant era.
@@ -221,21 +221,13 @@ Yet… this won't happen if you're forever multitasking. No wonder, then, that "
 
 ### ${++sectionCounter}. Modest status leads to risk aversion
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which, in hindsight, explains why this "creative middle class" promised by indie rock is so *un*-original: Its artists *seek* greater status while indie labels *cede* it— so *no one* takes any risks!
+Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which, in hindsight, explains why this "creative middle class" promised by indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
 
 Back in the day, you needed a *partner* to take you "from zero to one"— that is, to make you known at all. And so, as a "zero," you'd explore at will, hoping to spark creative ideas that could take you "from one to *n*," and thus convince others to partner with you. But today, indie artists get to "one" on their *own*… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots for unknown artists— some of whom went on to make history's most creative works!
 
-${'  ' || `
-// TODO: Review.
-`}
-
-By contrast, the indies sign just one artist at a time, so they go with the safe bet, *every* time, of picking what the people want. But people only want what they [know to expect](${REFERENCE_PATH}/know-to-expect#)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
+By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](${REFERENCE_PATH}/know-to-expect#)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -426,10 +418,10 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Also review reference.
 `}
 
-Anyhow, as an outsider, you *can't* be well-rounded: Since your hurdles in life leave you with incurable weaknesses, your one hope is to build a strength or two to dizzying heights… possibly creating a [*new* taste](${REFERENCE_PATH}/new-taste#). Luckily, BYCombo lets you find partners as lopsided as you— only strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
+Anyhow, as an outsider, you *can't* be well-rounded: Since your hurdles in life leave you with lasting weaknesses, your one hope is to build up a strength or two to lofty heights, creating [*new* tastes](${REFERENCE_PATH}/new-tastes#) along the way. Luckily, BYCombo lets you find partners as lopsided as you— except strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -573,10 +565,6 @@ Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in the final 
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, BYCombo can get you back on track— by helping you stay in love with the craft.
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
@@ -623,7 +611,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the left's elites. Especially since, as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" reveals, it's not a given that those below us would otherwise take our side over theirs!
+This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the left's elites. Especially since, as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" reveals, it's not a given that those below us would otherwise take *our* side over *theirs*!
 
 Which means we'll [need to quit](${REFERENCE_PATH}/need-to-quit#) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 

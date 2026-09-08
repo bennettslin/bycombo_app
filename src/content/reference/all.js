@@ -30,7 +30,7 @@ import watchInConfusionReference from './watch-in-confusion'
 import collegeEducatedReference from './college-educated'
 import canAffordReference from './can-afford'
 import tomorrowsWinnersReference from './tomorrows-winners'
-import newTasteReference from './new-taste'
+import newTastesReference from './new-tastes'
 import societysUnderdogsReference from './societys-underdogs'
 import lendsAuthenticityReference from './lends-authenticity'
 import placeOfOriginReference from './place-of-origin'
@@ -88,7 +88,7 @@ export default {
         collegeEducatedReference,
         canAffordReference,
         tomorrowsWinnersReference,
-        newTasteReference,
+        newTastesReference,
         societysUnderdogsReference,
         lendsAuthenticityReference,
         placeOfOriginReference,
