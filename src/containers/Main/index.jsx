@@ -3,7 +3,6 @@ import PropTypes from 'prop-types'
 import cx from 'classnames'
 import Flex from '../../components/Flex'
 import Header from './Header'
-import MainFooter from './Footer'
 import './style'
 
 const Main = ({ children }) => (
@@ -18,7 +17,6 @@ const Main = ({ children }) => (
     >
         <Header />
         {children}
-        <MainFooter />
     </Flex>
 )
 

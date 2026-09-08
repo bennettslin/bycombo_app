@@ -3,16 +3,7 @@
 .Main {
     position: relative;
     width: 100%;
-
-    padding-bottom: $margin__xs;
-
-    @media (min-width: $breakpoint__sm) {
-        padding-bottom: $margin__sm;
-    }
-
-    @media (min-width: $breakpoint__md) {
-        padding-bottom: $margin__md;
-    }
+    padding-bottom: $margin__sm;
 }
 
 #gatsby-focus-wrapper {

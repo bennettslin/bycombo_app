@@ -1,5 +1,9 @@
+@import '../../../scss/constants/colours';
 @import '../../../scss/constants/responsive';
 
 .PageFooter {
     width: 100%;
+
+    padding-top: $margin__sm;
+    border-top: 1px solid $colour__neutral__light;
 }

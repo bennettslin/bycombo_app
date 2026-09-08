@@ -2,10 +2,10 @@ import React from 'react'
 import { useSelector } from 'react-redux'
 import cx from 'classnames'
 import Flex from '../../../../components/Flex'
-import PageRow from '../../../Page/Row'
+import HeaderRow from '../Row'
 import HomeButton from '../HomeButton'
 import Menu from '../Menu'
-import ShareLink from '../../../Page/Row/ShareLink'
+import ShareLink from '../Row/ShareLink'
 import { getMapDoShowBackLink } from '../../../../redux/page/selector'
 import './style'
 
@@ -24,7 +24,7 @@ const HeaderWrapper = () => {
                 gap: 'xs',
             }}
         >
-            {doShowBackLink ? <PageRow isInHeader /> : (
+            {doShowBackLink ? <HeaderRow /> : (
                 <>
                     <HomeButton />
                     <Flex

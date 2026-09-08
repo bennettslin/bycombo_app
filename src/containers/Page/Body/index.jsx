@@ -7,8 +7,8 @@ import Markdown from '../../../components/Markdown'
 import Heading from '../../../components/Heading'
 import { getFormattedText } from '../../../utils/format'
 import { getHeaderFromDate } from '../../../utils/format/dates'
-import './style'
 import { PAGE_TITLES } from '../../../constants/pages'
+import './style'
 
 const Body = () => {
     const {
@@ -22,12 +22,16 @@ const Body = () => {
         headerFromDate = getHeaderFromDate(date)
 
     return (
-        <div
+        <Flex
             {...{
                 className: cx(
                     'Body',
                     'fontSize__md',
                 ),
+                alignItems: 'start',
+                flexDirection: 'column',
+                flexGrow: 1,
+                gap: 'md',
             }}
         >
             {(formattedTitle || headerFromDate) && (
@@ -63,7 +67,7 @@ const Body = () => {
             {showContactEmail && (
                 <ContactEmail />
             )}
-        </div>
+        </Flex>
     )
 }
 

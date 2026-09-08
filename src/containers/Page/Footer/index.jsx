@@ -1,7 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
-import PageRow from '../Row'
 import Flex from '../../../components/Flex'
+import MailingList from '../../../components/MailingList'
 import './style'
 
 const PageFooter = () => (
@@ -12,7 +12,7 @@ const PageFooter = () => (
             ),
         }}
     >
-        <PageRow isBottomRow />
+        <MailingList isWide />
     </Flex>
 )
 
