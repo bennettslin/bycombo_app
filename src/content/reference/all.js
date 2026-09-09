@@ -54,7 +54,7 @@ import sovietJokeReference from './soviet-joke'
 import { getAllNotesBody } from '../helper'
 
 export default {
-    title: '"all references"',
+    title: 'All references',
     body: getAllNotesBody([
         goingViralReference,
         noJudicialSafeguardReference,

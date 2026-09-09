@@ -10,7 +10,7 @@ import horseshoeCommentary from './horseshoe'
 import { getAllNotesBody } from '../helper'
 
 export default {
-    title: '"all commentaries"',
+    title: 'All commentaries',
     body: getAllNotesBody([
         gatekeeperCommentary,
         conservativeCommentary,

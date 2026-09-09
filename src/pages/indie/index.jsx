@@ -575,7 +575,11 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because any exposure gained after decades of hustling might just as well be won by chance, bought with privilege, or stolen through opportunism— in an instant. Every artist knows this, yet they play by indie rock's rules anyway… and it eats at their soul.
 
-Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
+${'  ' || `
+// TODO: Revise. Mention BYCombo being the first movement founded by an elder. Might be difficult, but possibly connect with collectivists being more inter-generational?
+`}
+
+Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to be like everyone else in some "creative middle class," then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
