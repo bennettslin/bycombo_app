@@ -1,7 +1,11 @@
 export default {
     title: `"collectivist class"`,
     body: `
-> The mismatch between institutions' cultural ideal of independence [on the one hand], and the interdependent norms common among working-class individuals [on the other], can reduce the opportunity [of those individuals] to succeed.
+${'  ' || `
+// TODO: Review.
+`}
+
+> The mismatch between institutions' cultural ideal of independence [on the one hand], and the interdependent norms common among working-class individuals [on the other], can reduce the opportunity [for those individuals] to succeed.
 
 > For example, students from working-class backgrounds […] report wanting to help their families and give back to their communities— yet they confront a college setting that stresses paving one's own path and exploring personal passions.
 
