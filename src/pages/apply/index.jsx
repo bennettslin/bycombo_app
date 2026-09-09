@@ -81,6 +81,10 @@ We'll also need each of the following:
 
 - Whether you can relocate to Los Angeles, if you aren't here already. (If not, you won't be eligible for the pilot cohort, but we'll keep you on file for later ones.)
 
+${'  ' || `
+// TODO: Revise. Make it clear, if you don't agree with enough of it, then we're not a good fit for you.
+`}
+
 - An acknowledgment that you've read "[The Problem with Indie Rock](/indie#)" in its entirety. (You don't need to agree with all of it; we just want to make sure you understand what drives the BYCombo mission.)
 
 Feel free to include any of the following as well:
