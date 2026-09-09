@@ -219,7 +219,11 @@ Of course, the best artists *are* human. So… how are such works possible? It's
 
 Yet… this won't happen if you're forever multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep your artist hat on, and let partners wear the others. Sure, you risk losing the indie camp… but *they're* not holding out for your works to surpass you; only *we* are— you and us at BYCombo.
 
-### ${++sectionCounter}. Modest status leads to risk aversion
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Middling status leads to risk aversion
 
 Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which, in hindsight, explains why this "creative middle class" promised by indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
 
