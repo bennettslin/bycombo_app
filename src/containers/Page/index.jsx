@@ -65,8 +65,6 @@ const Page = ({
 }
 
 Page.propTypes = {
-    is404Page: PropTypes.bool,
-    showContactEmail: PropTypes.bool,
     pageName: PropTypes.string,
     title: PropTypes.string,
     description: PropTypes.string,

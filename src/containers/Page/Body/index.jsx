@@ -1,7 +1,6 @@
 import React, { Fragment, useContext } from 'react'
 import cx from 'classnames'
 import PageConfigContext from '../../../contexts/PageConfig'
-import ContactEmail from '../../../components/ContactEmail'
 import Flex from '../../../components/Flex'
 import Markdown from '../../../components/Markdown'
 import Heading from '../../../components/Heading'
@@ -16,7 +15,6 @@ const Body = () => {
             title,
             date,
             body,
-            showContactEmail,
         } = useContext(PageConfigContext),
         formattedTitle = getFormattedText(title || PAGE_TITLES[pageName]),
         headerFromDate = getHeaderFromDate(date)
@@ -63,9 +61,6 @@ const Body = () => {
                             {child}
                         </Fragment>
                     ))
-            )}
-            {showContactEmail && (
-                <ContactEmail />
             )}
         </Flex>
     )

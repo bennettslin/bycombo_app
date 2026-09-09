@@ -1,14 +1,15 @@
 import React from 'react'
 import Page from '../../containers/Page'
+import ContactEmail from '../../components/ContactEmail'
 import { BOBTAIL_SUBSTACK_PATH } from '../../constants/website'
 import { APPLY_PAGE } from '../../constants/pages'
 
 const Component = () => (
     <Page
         {...{
-            showContactEmail: true,
             pageName: APPLY_PAGE,
-            body: `
+            body: [
+                `
 As an artist, do you sense that the indie camp has it *backward*? Why do they force you to waste so much effort on hustling to get yourself known— all in the name of self-empowerment? Back when rock was interdependent, being empowered just came for free, once you'd built up enough talents.
 
 Furthermore, the only measure trusted by the indie tastemakers is the size of your fanbase. But the surest way to gain the most fans, here and now, is to create *content*— which has no lasting value for *future* audiences. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
@@ -96,7 +97,11 @@ Feel free to include any of the following as well:
 - Other circumstances you'd like us to consider.
 
 And remember, as a nonprofit, BYCombo will *never* charge any fees or take a cut of your earnings. If *you're* ready to self-sacrifice for art's sake, then *we're* here to serve you!
-            `,
+                `,
+                (
+                    <ContactEmail />
+                ),
+            ],
         }}
     />
 )
