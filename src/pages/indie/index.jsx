@@ -575,7 +575,7 @@ ${'  ' || `
 // TODO: Revise. Mention BYCombo being the first movement founded by an elder. Might be difficult, but possibly connect with collectivists being more inter-generational?
 `}
 
-Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to be like everyone else in some "creative middle class," then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness… and the good of your soul.
+Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to behave like everyone else in some "creative middle class," then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
@@ -611,7 +611,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the left's elites. Especially since, as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" reveals, it's not a given that those below us would otherwise take our side over theirs!
+This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the left's elites. Especially since, as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" reveals, it *isn't* a given that those below us would otherwise pick our side over theirs!
 
 Which means we'll [need to quit](${REFERENCE_PATH}/need-to-quit#) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 
