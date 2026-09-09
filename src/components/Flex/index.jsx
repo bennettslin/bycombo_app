@@ -47,6 +47,7 @@ const Flex = forwardRef(({
                 gap === 'xs' && 'gap__xs',
                 gap === 'sm' && 'gap__sm',
                 gap === 'md' && 'gap__md',
+                gap === 'lg' && 'gap__lg',
                 gap?.xs === 'xs' && 'xs__gap__xs',
                 gap?.xs === 'sm' && 'xs__gap__sm',
 
@@ -83,7 +84,7 @@ Flex.propTypes = {
     ]),
     flexWrap: PropTypes.oneOf(['wrap']),
     gap: PropTypes.oneOfType([
-        PropTypes.oneOf(['xxs', 'xs', 'sm', 'md']),
+        PropTypes.oneOf(['xxs', 'xs', 'sm', 'md', 'lg']),
         PropTypes.shape({
             xs: PropTypes.oneOf(['xs', 'sm']),
         }),
