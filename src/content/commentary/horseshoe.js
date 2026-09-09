@@ -2,7 +2,7 @@ export default {
     title: '"horseshoe"',
     body: `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Keep working on.
 `}
 
 Blah blah.
