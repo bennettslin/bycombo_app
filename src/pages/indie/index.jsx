@@ -417,7 +417,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Anyhow, as an outsider, you *can't* be well-rounded: Since your hurdles in life leave you with lasting weaknesses, your one hope is to build up a strength or two to lofty heights, creating a [*new* taste](${REFERENCE_PATH}/new-taste#) along the way. Luckily, BYCombo lets you find partners as lopsided as you— except strong where you're weak, and vice versa— because, like you, we *too* grasp the concept of interdependence!
+Anyhow, as an outsider, you *can't* be well-rounded: Since your hurdles in life leave you with lasting weaknesses, your one hope is to build a lone strength to lofty heights… creating a [*new* taste](${REFERENCE_PATH}/new-taste#) in the process. Luckily, BYCombo helps you find partners as lopsided as you— except strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
