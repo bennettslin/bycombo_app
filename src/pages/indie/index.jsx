@@ -579,7 +579,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo— rock's first movement started by an elder!— lets you focus solely on your craft. Having done so myself for decades, I can attest that it *isn't* just for art's sake; it's *also* for your happiness… and the good of your soul.
+Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo— rock's first movement started by an elder!— lets you focus solely on your craft. Having done so myself for decades, I can promise this *isn't* just for art's sake; it's *also* for your happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
