@@ -414,7 +414,7 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
 Anyhow, as an outsider, you *can't* be well-rounded: Since your hurdles in life leave you with lasting weaknesses, your one hope is to build a lone strength to lofty heights… creating a [*new* taste](${REFERENCE_PATH}/new-taste#) in the process. Luckily, BYCombo helps you find partners as lopsided as you— except strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
@@ -583,7 +583,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Fortunately, there's still BYCombo— rock's first movement started by an elder. Because, having focused solely on the craft for decades, I can attest that this isn't *just* to better your art; it's *also* for your happiness… and the good of your soul.
+Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Fortunately, there's still BYCombo— rock's first movement started by an elder. Because, having focused solely on the craft for decades, I can attest that it doesn't just better your art; it's *also* for your happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
