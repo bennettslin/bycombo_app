@@ -495,10 +495,6 @@ Well, this *also* explains how an artist like me— who can't even gain *one* fa
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— assuming they're to be made at all— can *only* be made by those who dream of gaining a million fans at *once*, from the top down?
 
-${'  ' || `
-// TODO: Revise? Make clear that history makers are different from the "creative middle class"?
-`}
-
 If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan… even if none will be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
@@ -584,10 +580,10 @@ ${'  ' || `
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because any exposure gained from decades of hustling might just as well be won by chance, bought with privilege, or stolen through opportunism— in an instant. Every artist knows this, yet they play by indie rock's rules anyway… and it eats at their soul.
 
 ${'  ' || `
-// TODO: Revise. Mention BYCombo being the first movement founded by an elder. Might be difficult, but possibly connect with collectivists being more inter-generational?
+// TODO: Review a few more times.
 `}
 
-Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to behave like everyone else in some "creative middle class," then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness… and the good of your soul.
+Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Fortunately, there's still BYCombo— rock's first movement started by an elder. Because, having focused solely on the craft for decades, I can attest that this isn't *just* to better your art; it's *also* for your happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
