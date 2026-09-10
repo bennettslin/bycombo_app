@@ -3,10 +3,6 @@ export default {
     body: `
 At its core, what's the difference between alternative and indie rock? While "alternative" is a choice in *aesthetics*, "indie" is a stance on *logistics*. I'm not being pedantic here! This distinction is key to understanding why the indie takeover of music in the '00s has led to our present decline. Again, you'll get the full picture by the very end, but I can offer an overview for now.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To start: Unlike a macroculture, there's no single microculture; as W. David Marx notes, the counterculture is just one of several. Well, the Internet has now given us one more: the "macro-taste micro"— think, let's say, MrBeast— which caters to mainstream *tastes*, but explores new means of *distribution*. Put another way, it doesn't rebel aesthetically… only logistically!
 
 Given that indie rock is defined solely by its stance on *logistics*, then, it was *always* likely to merge with the macro-taste micro— so it did, starting in the early '00s. And now, with this newfound insight, we can read Marx's critique of the macro-taste micro as criticism of indie rock instead. To paraphrase:

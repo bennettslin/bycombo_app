@@ -211,10 +211,6 @@ Of course, the best artists *are* human. So… how are such works possible? It's
 
 Yet… this won't happen if you're forever multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists switch between *multiple* hats: promoter hat, publicist hat… So keep your artist hat on, and let partners wear the others. Sure, you risk losing the indie camp… but *they're* not holding out for your works to surpass you; only *we* are— you and us at BYCombo.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Middling status leads to risk aversion
 
 Say, who's *least* afraid to take risks? In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant notes it's the ones securely perched at the top, as well as those at the bottom with nothing to lose. Which, in hindsight, explains why this "creative middle class" promised by indie rock is so *un*-original: Its artists *seek* greater status while its labels *cede* it— so *no one* takes any risks!
@@ -414,10 +410,10 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Anyhow, as an outsider, you *can't* be well-rounded: Since your hurdles in life leave you with lasting weaknesses, your one hope is to build a lone strength to lofty heights… creating a [*new* taste](${REFERENCE_PATH}/new-taste#) in the process. Luckily, BYCombo helps you find partners as lopsided as you— except strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
+Anyhow, as an outsider, you *can't* be well-rounded: Since your hurdles in life leave you with lasting weaknesses, your one hope is to build a lone strength to lofty heights… creating a [*new* taste](${REFERENCE_PATH}/new-taste#) in the process. Luckily, BYCombo lets you find partners as lopsided as you— except strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -558,7 +554,7 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 ### ${++sectionCounter}. A renaissance of elders awaits
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in his final years— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You have a lifetime ahead, as an elder, to give *future* generations the renaissance that indie rock denied to *yours*.
@@ -574,24 +570,20 @@ At the peak of my years working eighty-hour weeks— forty to earn a living, and
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi points out that when you have a clear goal; feel adequately challenged; and get immediate feedback from the task at hand, you become fully immersed in the act of creation— which leads to long-term fulfillment. This explains how those years of self-sacrifice were some of my happiest; I *wasn't* burning myself out, as my friend had feared.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because any exposure gained from decades of hustling might just as well be won by chance, bought with privilege, or stolen through opportunism— in an instant. Every artist knows this, yet they play by indie rock's rules anyway… and it eats at their soul.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo— rock's first movement started by an elder!— lets you focus solely on your craft. Having done so myself for decades, I can attest that it *isn't* just for art's sake, but *also* for your happiness… and the good of your soul.
+Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo— rock's first movement started by an elder!— lets you focus solely on your craft. Having done so myself for decades, I can attest that it *isn't* just for art's sake; it's *also* for your happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people what they know to expect. And this is how indie rock *itself* took over in the '00s, no? AI, then, is just the latest such DIY movement; it might as well stand for "accelerated indiefication"!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Think about it: Like indie rock, AI poses a collective action problem— which, as you'll recall, is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing all others to do likewise. And yet, since the indie camp is sworn to defend any such individual of their *own*, they *must* condone this trait in everyone *else*: celebrities, politicians… and now, slop peddlers.
 
@@ -623,7 +615,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the left's elites. Especially since, as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" reveals, it *isn't* a given that those below us would otherwise pick our side over theirs!
+This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with our elites. Especially since— as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" makes clear— it *isn't* a given that those further below would otherwise pick us over them!
 
 Which means we'll [need to quit](${REFERENCE_PATH}/need-to-quit#) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 
@@ -660,7 +652,7 @@ But thanks to "indiefication," today's artists have no such reason to believe—
 "Is it *worse*, though?" Yes, insofar as it won't *last*! Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for business partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which means the revolution *must* be started by an elder, who can recall a top-down past! So come join BYCombo, and sacrifice it all to make a stellar demo… in faith that a savior will listen.
