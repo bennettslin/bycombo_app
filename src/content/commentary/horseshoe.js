@@ -5,7 +5,9 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-You might've noticed that those who sit at either end of the "upright horseshoe" tend *not* to do so on the "sideways" one— and vice versa. Why is this? While nothing is definitive, I suspect it has to do with my previous commentary, difference between cognitive elites and populists being cognitive misers.
+You might notice that those who sit at either end of the "upright horseshoe" tend to prefer a spot midway on the "sideways" one— and vice versa. Why? I suspect it's to do with this notion of cognitive elites mentioned in an earlier commentary.
+
+difference between cognitive elites and populists being cognitive misers.
 
 In the upright horseshoe, cognitive elites tend to sit in the center, because they need their arguments to contain within themselves the liberal values
 
