@@ -396,7 +396,7 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were asked to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday)… and they *did*, to no confusion— as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whoever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.

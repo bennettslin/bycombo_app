@@ -17,7 +17,7 @@ By contrast, the sideways horseshoe exists precisely because the elites at the t
 
 Cognitive misers are, of course, the exact opposite, and indie rock provides a great example.
 
-The populist in the middle takes the mental shortcut by simply assuming their hurdles are the same, and thus helping them helps all those below them as well.
+The populist in the middle takes the mental shortcut by simply assuming their hurdles are the same, and thus helping them helps all those below them as well. The underclass is just a less successful middle class, so removing hurdles for the latter should still help the former.
 
 what allows someone to sit at the extreme ends is that their arguments doesn't need to contain within itself a need to sustain the liberal values that allow them to make such arguments to begin with. This frees them from nuance, keeping their arguments simple. Which is attractive to cognitive misers.
 `,
