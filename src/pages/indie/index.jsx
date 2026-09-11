@@ -667,7 +667,11 @@ Now, since indie artists do it all themselves, they must put in a further 80% ef
 
 **By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this the 4x Law of Interdependence.**
 
-Which checks out, right? Among interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than the best indie artists! Victory, then, is *assured*— because, now, what elite *wouldn't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](${REFERENCE_PATH}/soviet-joke#): "Indie rock is the longest and most painful route from interdependence to… interdependence."
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Checks out, right? Of interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than whoever the best indie artist might be! So victory is *assured*— because, now, what elite *wouldn't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](${REFERENCE_PATH}/soviet-joke#): "Indie rock is the longest and most painful route from interdependence to… interdependence."
 
 ### Notes
 
