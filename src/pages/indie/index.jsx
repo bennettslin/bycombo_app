@@ -655,7 +655,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which means the revolution *must* be started by an elder, who can recall a top-down past! So come join BYCombo, and sacrifice it all to make a stellar demo… in faith that a savior will listen.
+Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which means the revolution can *only* be started by an elder who recalls a top-down past! So come join BYCombo, and sacrifice it all to make a stellar demo… in faith that a savior will listen.
 
 ### Victory… is *assured*
 
