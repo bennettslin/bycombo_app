@@ -86,7 +86,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-- An acknowledgment that you've read "[The Problem with Indie Rock](/indie#)" in its entirety, knowing this manifesto is what drives the BYCombo mission. (It's fine to disagree with one or two points; any more than that, though, is likely a sign we're not a good fit for you.)
+- An acknowledgment that you've read "[The Problem with Indie Rock](/indie#)" in its entirety, knowing this manifesto is what drives the BYCombo mission. (It's fine to disagree with one or two points, but any more beyond that is likely a sign we're not a good fit for you.)
 
 Feel free to include any of the following as well:
 

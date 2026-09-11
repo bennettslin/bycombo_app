@@ -409,10 +409,6 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously shaped by status, this means they converge on the same tastes…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Anyhow, as an outsider, you *can't* be well-rounded: Since your hurdles in life leave you with lasting weaknesses, your one hope is to build a lone strength to lofty heights… creating a [*new* taste](${REFERENCE_PATH}/new-taste#) in the process. Luckily, BYCombo lets you find partners as lopsided as you— except strong where you're weak, and vice versa. Because, like you, we *too* grasp the concept of interdependence!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
@@ -607,7 +603,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with our elites. Especially since— as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" makes clear— it *isn't* a given that those further below would otherwise pick us over them!
+This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with our elites. Especially since— as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" clarifies— it's *not* a given that those below us would otherwise pick our side over theirs!
 
 Which means we'll [need to quit](${REFERENCE_PATH}/need-to-quit#) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 
@@ -644,10 +640,10 @@ But thanks to "indiefication," today's artists have no such reason to believe—
 "Is it *worse*, though?" Yes, insofar as it won't *last*! Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for business partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which means the revolution can *only* be started by an elder who recalls a top-down past! So come join BYCombo, and sacrifice it all to make a stellar demo… in faith that a savior will listen.
+This century's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which is why it took an elder— one who recalls a top-down past!— to start BYCombo. So come join us, and sacrifice it all to make a stellar demo… in faith that a savior will listen.
 
 ### Victory… is *assured*
 
