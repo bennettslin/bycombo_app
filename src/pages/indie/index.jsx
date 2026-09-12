@@ -290,7 +290,7 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 ### ${++sectionCounter}. Stewardship sustains the environment
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Why has this century only given us "workhorse art" so far? It's simple: Under "indieocracy," if a work fails to go viral, we expect the artist to take it in stride, learn from listener feedback, and try anew. But a maker of "windfall art" will keep pressing their case, over and over, in hopes an elite might finally agree to advocate on their behalf. Which… is also how the *worst* artists behave!
@@ -403,7 +403,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whoever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
+"But can't *today's* indies learn to sign the *next* Radiohead?" Nope. See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whoever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](${REFERENCE_PATH}/tomorrows-winners#)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can plead for amnesty, after betting it all on the craft— your low-status "hobby."
 
@@ -575,7 +575,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo— rock's first movement started by an elder!— lets you focus solely on your craft. Having done so myself for decades, I can promise this *isn't* just for art's sake; it's *also* for your happiness… and the good of your soul.
+Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. So join us at BYCombo— rock's first movement started by an elder!— and focus solely on the craft. Having done so myself for decades, I can promise this *isn't* just for art's sake; it's *also* for your happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
@@ -611,7 +611,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with our elites. Especially since— as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" clarifies— it's *not* a given that those below us would otherwise pick our side over theirs!
+This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the elites. Especially since— as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" explains— it's *not* a given that those below us would otherwise pick our side over theirs!
 
 Which means we'll [need to quit](${REFERENCE_PATH}/need-to-quit#) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 
@@ -648,7 +648,7 @@ But thanks to "indiefication," today's artists have no such reason to believe—
 "Is it *worse*, though?" Yes, insofar as it won't *last*! Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for business partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 This century's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which is why it took an elder— one who recalls a top-down past!— to start BYCombo. So come join us, and sacrifice it all to make a stellar demo… in faith that a savior will listen.
