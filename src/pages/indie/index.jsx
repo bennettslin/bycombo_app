@@ -572,10 +572,10 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because any exposure gained from decades of hustling might just as well be won by chance, bought with privilege, or stolen through opportunism— in an instant. Every artist knows this, yet they play by indie rock's rules anyway… and it eats at their soul.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. So join us at BYCombo— rock's first movement started by an elder!— and focus solely on the craft. Having done so myself for decades, I can promise this *isn't* just for art's sake; it's *also* for your happiness… and the good of your soul.
+Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. So join us at BYCombo— rock's first movement started by an elder!— and focus solely on your craft. Having done this myself for decades, I can promise it *isn't* just for art's sake; it's *also* for your happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
@@ -659,15 +659,19 @@ Fifty ways indie rock has left us worse off! Yet our revolution faces one last h
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp)— which states that 20% of the effort yields 80% of the results.
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% of results, no? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results! In other words:
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% of results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them get *80%* results for *20%* effort, over and over. Well, for *100%* effort… that adds up to *400%* results! In other words:
 
 **By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this the 4x Law of Interdependence.**
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-Checks out, right? Of interdependent bands, the best *ever* is the Beatles, who are *at least* four times better than whoever the best indie artist might be! So victory is *assured*— because, now, what elite *wouldn't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](${REFERENCE_PATH}/soviet-joke#): "Indie rock is the longest and most painful route from interdependence to… interdependence."
+Which checks out, no? Of interdependent bands, the best *ever* is the Beatles, who are *certainly* four times better than whoever's the best indie artist! So victory is assured— because, now, what elite *won't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](${REFERENCE_PATH}/soviet-joke#): "Indie rock is the longest and most painful route from interdependence to… interdependence."
 
 ### Notes
 
