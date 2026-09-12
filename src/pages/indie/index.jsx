@@ -290,10 +290,14 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 ### ${++sectionCounter}. Stewardship sustains the environment
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Review a few more times.
 `}
 
 Why has this century only given us "workhorse art" so far? It's simple: Under "indieocracy," if a work fails to go viral, we expect the artist to take it in stride, learn from listener feedback, and try anew. But a maker of "windfall art" will keep pressing their case, over and over, in hopes an elite might finally agree to advocate on their behalf. Which… is also how the *worst* artists behave!
+
+${'  ' || `
+// TODO: Keep working on.
+`}
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
