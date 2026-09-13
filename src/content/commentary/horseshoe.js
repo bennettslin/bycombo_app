@@ -4,10 +4,10 @@ export default {
 ${'  ' || `
 // TODO: Keep working on.
 
-You might've noticed: Those who sit at either end of the "upright horseshoe" tend to then pick a spot midway on the "sideways" one— and vice versa. Why? I suspect it's to do with this notion of cognitive elites mentioned in an earlier commentary.
 
 Decide whether I want cognitive elites first, then cognitive misers; or else, upright horseshoe first, then sideways. Leaning upright horseshoe first.
 `}
+You might've noticed: Those who sit at either end of the "upright horseshoe" tend to then lie midway on the "sideways" one— and vice versa. Why's that? I suspect it's to do with my earlier commentary on populism.
 
 You might notice: Those who lie midway on the "upright horseshoe" tend to then sit at either end of the "sideways" one— and vice versa. Why? I suspect it's to do with this notion of cognitive elites from my earlier commentary on populism.
 
