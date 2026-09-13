@@ -289,10 +289,6 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 
 ### ${++sectionCounter}. Stewardship sustains the environment
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Why has this century only given us "workhorse art" so far? It's simple: Under "indieocracy," if a work fails to go viral, we expect the artist to take it in stride, learn from listener feedback, and try anew. But a maker of "windfall art" will keep pressing their case, over and over, in hopes an elite might finally agree to advocate on their behalf. Which… is also how the *worst* artists behave!
 
 ${'  ' || `
@@ -403,7 +399,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"But can't *today's* indies learn to sign the *next* Radiohead?" Nope. See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whoever to win, by whatever the rules are. And if the rule is to get yourself known, then the winning trait is a knack for the hustle.
+"But can't *today's* indies learn to sign the *next* Radiohead?" Nope. See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whoever to win, by whatever the rules are. And, well, if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](${REFERENCE_PATH}/tomorrows-winners#)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can plead for amnesty, after betting it all on the craft— your low-status "hobby."
 
@@ -572,10 +568,10 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because any exposure gained from decades of hustling might just as well be won by chance, bought with privilege, or stolen through opportunism— in an instant. Every artist knows this, yet they play by indie rock's rules anyway… and it eats at their soul.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Yes, the struggle is a gift— but only when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. So join us at BYCombo— rock's first movement started by an elder!— and focus solely on your craft. Having done this myself for decades, I can promise it *isn't* just for art's sake; it's *also* for your happiness… and the good of your soul.
+Yes, the struggle is a gift— but *only* when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. So join us at BYCombo— rock's first movement started by an elder!— and focus solely on your craft. Having done this myself for decades, I can promise it *isn't* just for art's sake; it's *also* for your happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
@@ -606,10 +602,6 @@ Still, since our troubles began when we accepted indiefication and rejected capi
 Why is progressivism so badly beaten in both politics and the arts today? It's because indie rock taught us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Because of this, they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the elites. Especially since— as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" explains— it's *not* a given that those below us would otherwise pick our side over theirs!
 
@@ -647,10 +639,6 @@ But thanks to "indiefication," today's artists have no such reason to believe—
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*! Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for business partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 This century's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which is why it took an elder— one who recalls a top-down past!— to start BYCombo. So come join us, and sacrifice it all to make a stellar demo… in faith that a savior will listen.
 
 ### Victory… is *assured*
@@ -663,12 +651,12 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% of results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them get *80%* results for *20%* effort, over and over. Well, for *100%* effort… that adds up to *400%* results! In other words:
+Now, since indie artists do it all themselves, they must put in a further *80%* effort to get that last *20%* of results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them get 80% results out of 20% effort, over and over. Well, for *100%* effort… that adds up to *400%* results! In short:
 
 **By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this the 4x Law of Interdependence.**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Which checks out, no? Of interdependent bands, the best *ever* is the Beatles, who are *certainly* four times better than whoever's the best indie artist! So victory is assured— because, now, what elite *won't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](${REFERENCE_PATH}/soviet-joke#): "Indie rock is the longest and most painful route from interdependence to… interdependence."
