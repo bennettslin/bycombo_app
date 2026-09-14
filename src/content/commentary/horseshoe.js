@@ -4,7 +4,7 @@ export default {
 ${'  ' || `
 // TODO: Review a few more times.
 
-You might notice: Those who lie midway on the "upright horseshoe" tend to then sit at either end of the "sideways" one— and vice versa. Why? I suspect it's to do with this notion of cognitive elites from my earlier commentary on populism.
+You might've noticed: Those who lie midway on the "upright horseshoe" tend to then sit at either end of the "sideways" one— and vice versa. Why's that? I suspect my earlier commentary on populism helps to explain. See, whether in politics or the arts, there are two schools of thought, with one made up of cognitive elites; and the other, of populists— whom I'll call cognitive *misers*.
 `}
 
 You might've noticed: Those who sit at either end of the "upright horseshoe" tend to then lie midway on the "sideways" one— and vice versa. Why's that? I suspect my earlier commentary on populism helps to explain. See, whether in politics or the arts, there are two schools of thought, with one made up of cognitive elites; and the other, of populists— whom I'll call cognitive *misers*.
@@ -13,7 +13,10 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Now, on the upright horseshoe, cognitive elites mostly back *away* from the ends. since they see themselves as stewards of the underlying systems that allow us to 
+Now, on the upright horseshoe, cognitive elites tend to back *away* from the ends. Given their brainpower, they see the need to serve as stewards of the underlying systems 
+
+
+mostly back *away* from the ends. since they see themselves as stewards of the underlying systems that allow us to 
 
 
  certain views tend to contain within themselves an inherent stewardship of the systems that allow them to be freely held. In politics, for instance, this is liberal democracy; in the arts, it's "rockism"— at least, my definition thereof. But this requires complexity and nuance, which both requires you to be a cognitive elite, and also pushes one closer to the center.
