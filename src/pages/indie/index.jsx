@@ -160,7 +160,7 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" detached from the rat race for stardom, indie rock went all in: "Anyone can now flourish in the creative middle class!" Yet today, superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why's that?

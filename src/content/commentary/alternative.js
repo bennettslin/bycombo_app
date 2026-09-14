@@ -8,7 +8,7 @@ To start: Unlike a macroculture, there's no single microculture; as W. David Mar
 Given that indie rock is defined solely by its stance on *logistics*, then, it was *always* likely to merge with the macro-taste micro— so it did, starting in the early '00s. And now, with this newfound insight, we can read Marx's critique of the macro-taste micro as criticism of indie rock instead. To paraphrase:
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 - Rock's last *true* counterculture was the alternative that took over in the '90s. By infusing the mainstream with new *aesthetics*— in other words, new forms and styles— those '90s alternative bands advanced the art form in their own time, and thus have our respect to this day.
