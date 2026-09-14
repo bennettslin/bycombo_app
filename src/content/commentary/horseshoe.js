@@ -2,16 +2,21 @@ export default {
     title: '"horseshoe"',
     body: `
 ${'  ' || `
-// TODO: Keep working on.
-
-
-Decide whether I want cognitive elites first, then cognitive misers; or else, upright horseshoe first, then sideways. Leaning upright horseshoe first.
-`}
-You might've noticed: Those who sit at either end of the "upright horseshoe" tend to then lie midway on the "sideways" one— and vice versa. Why's that? I suspect it's to do with my earlier commentary on populism.
+// TODO: Review a few more times.
 
 You might notice: Those who lie midway on the "upright horseshoe" tend to then sit at either end of the "sideways" one— and vice versa. Why? I suspect it's to do with this notion of cognitive elites from my earlier commentary on populism.
+`}
 
-With the upright horseshoe, certain views tend to contain within themselves an inherent stewardship of the systems that allow them to be freely held. In politics, for instance, this is liberal democracy; in the arts, it's "rockism"— at least, my definition thereof. But this requires complexity and nuance, which both requires you to be a cognitive elite, and also pushes one closer to the center.
+You might've noticed: Those who sit at either end of the "upright horseshoe" tend to then lie midway on the "sideways" one— and vice versa. Why's that? I suspect my earlier commentary on populism helps to explain. See, whether in politics or the arts, there are two schools of thought, with one made up of cognitive elites; and the other, of populists— whom I'll call cognitive *misers*.
+
+${'  ' || `
+// TODO: Keep working on.
+`}
+
+Now, on the upright horseshoe, cognitive elites mostly back *away* from the ends. since they see themselves as stewards of the underlying systems that allow us to 
+
+
+ certain views tend to contain within themselves an inherent stewardship of the systems that allow them to be freely held. In politics, for instance, this is liberal democracy; in the arts, it's "rockism"— at least, my definition thereof. But this requires complexity and nuance, which both requires you to be a cognitive elite, and also pushes one closer to the center.
 
 Cognitive misers are, of course, the exact opposite, and indie rock provides a great example.
 
