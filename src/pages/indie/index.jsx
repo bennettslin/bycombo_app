@@ -115,7 +115,11 @@ We all respect those alternative bands of the ['80s underground](https://www.hac
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=alternative+rock%2Cindie+rock&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
-But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock disavowed its snobbery and became a [populist movement](${BOBTAIL_BLOG_PATH}/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock disavowed its snobbery and became a [populist movement](${BOBTAIL_BLOG_PATH}/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from advocating for the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
 Yet in *obeying* the people's will at all times, populism is just democracy with [no judicial safeguard](${REFERENCE_PATH}/no-judicial-safeguard#)… thus making it *tyranny* for the underclass. We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
 
@@ -229,7 +233,11 @@ What confused me is that I'd [explicitly set out](${YEARLINGS_BOBTAIL_PATH}/8-go
 
 In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the corporate "suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
-Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: By *not* knowing what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Consequently, it's often some grownup with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who ends up championing its canonical works: By *not* knowing what we and our peers want, they *can't* be led astray! Let's face it, a good partner takes pride in doing great *business*— not in recognizing great *art*. Now with BYCombo, you can find one to advocate for you once again.
 
 ### ${++sectionCounter}. Limited brainpower fails to adapt
 
