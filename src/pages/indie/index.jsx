@@ -565,7 +565,11 @@ Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in his final 
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
-By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, BYCombo can get you back on track— by helping you stay in love with the craft.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+A love of the craft, however, can motivate you for a lifetime. After all, to take on bigger challenges, you must build your talents further— and to build your talents further, you must take on bigger challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, then get back on track with BYCombo— rock's first movement started by an elder!
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
 
@@ -579,7 +583,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yes, the struggle is a gift— but *only* when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo tells you to focus solely on the craft: As an elder who's been doing exactly that for decades, I can promise this *isn't* just for art's sake; it's *also* for your own happiness… and the good of your soul.
+Yes, the struggle is a gift— but *only* when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo tells you to focus solely on the craft: As an elder who's been doing so for decades, I can promise this *isn't* just to better your art; it's *also* for your own happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
@@ -659,7 +663,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Now, since indie artists do it all themselves, they must put in a further *80%* effort to get that last *20%* of results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them get 80% results out of 20% effort, over and over. Well, for *100%* effort… that adds up to *400%* results! In short:
+Now, since indie artists do it all themselves, they must put in a further *80%* effort to get that last *20%* of results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— and this lets them put in 20% effort to get 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results! In short:
 
 **By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this the 4x Law of Interdependence.**
 
