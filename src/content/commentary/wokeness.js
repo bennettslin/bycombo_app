@@ -7,6 +7,10 @@ Having never gotten into social media, I was mostly oblivious to the culture war
 
 - In doing so, however, each benefited certain demographics over others, time and time again.
 
-- Eventually, then, each collapsed under the weight of its hypocrisy, thus exposing the paradox at the heart of *every* underdog movement: Once you lift up the underdogs… they're no longer underdogs.
+${'  ' || `
+// TODO: Review.
+`}
+
+- Eventually, then, each collapsed under the weight of its own hypocrisy, thus exposing the paradox at the heart of *every* underdog movement: Once you lift up the underdogs… they're no longer underdogs.
     `,
 }

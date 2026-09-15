@@ -7,7 +7,7 @@ ${'  ' || `
 You might've noticed: Those who lie midway on the "upright horseshoe" tend to then sit at either end of the "sideways" one— and vice versa. Why's that? I suspect my earlier commentary on populism helps to explain. See, whether in politics or the arts, there are two schools of thought, with one made up of cognitive elites; and the other, of populists— whom I'll call cognitive *misers*.
 `}
 
-You might've noticed: Those who sit at either end of the "upright horseshoe" tend to then lie midway on the "sideways" one— and vice versa. Why's that? I suspect my earlier commentary on populism helps to explain. See, whether in politics or the arts, there are two modes of cognition, with one made up of elites; and the other, of populists— or, cognitive *misers*.
+You might've noticed: Those who sit at either end of the "upright horseshoe" tend to then lie midway on the "sideways" one— and vice versa. Why's that? I suspect my earlier commentary on populism helps to explain. See, whether in politics or the arts, there are two modes of cognition, with one made up of elites; and the other, of populists— whom I'll call cognitive *misers*.
 
 ${'  ' || `
 // TODO: Keep working on.

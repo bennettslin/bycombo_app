@@ -579,7 +579,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yes, the struggle is a gift— but *only* when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo tells you to focus solely on the craft: As an elder who's been doing this for decades, I can promise it *isn't* just to better your art; it's *also* for your own happiness… and the good of your soul.
+Yes, the struggle is a gift— but *only* when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo tells you to focus solely on the craft: As an elder who's been doing exactly that for decades, I can promise this *isn't* just to better your art! It's *also* for your own happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
