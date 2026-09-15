@@ -159,10 +159,6 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" detached from the rat race for stardom, indie rock went all in: "Anyone can now flourish in the creative middle class!" Yet today, superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why's that?
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into power laws. Since it's hard to say whose works are best, we often just like what others like. Right? Well… they do the same! As a result, any [random boost](${REFERENCE_PATH}/random-boost#) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
@@ -399,10 +395,6 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were asked to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday)… and they *did*, to no confusion— as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 "But can't *today's* indies learn to sign the *next* Radiohead?" Nope. See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whoever to win, by whatever the rules are. And, well, if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](${REFERENCE_PATH}/tomorrows-winners#)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can plead for amnesty, after betting it all on the craft— your low-status "hobby."
@@ -562,7 +554,7 @@ Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in his final 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 A love of the craft, however, can motivate you for a lifetime. After all, to take on bigger challenges, you must build your talents further— and to build your talents further, you must take on bigger challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, then get back on track with BYCombo— rock's first movement started by an elder!
@@ -576,10 +568,10 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because any exposure gained from decades of hustling might just as well be won by chance, bought with privilege, or stolen through opportunism— in an instant. Every artist knows this, yet they play by indie rock's rules anyway… and it eats at their soul.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Yes, the struggle is a gift— but *only* when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo tells you to focus solely on the craft: As an elder who's been doing exactly that for decades, I can promise this *isn't* just to better your art! It's *also* for your own happiness… and the good of your soul.
+Yes, the struggle is a gift— but *only* when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo tells you to focus solely on the craft: As an elder who's been doing exactly that for decades, I can promise it *isn't* just to better your art! It's *also* for your own happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
@@ -656,16 +648,12 @@ Fifty ways indie rock has left us worse off! Yet our revolution faces one last h
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp)— which states that 20% of the effort yields 80% of the results.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Now, since indie artists do it all themselves, they must put in a further *80%* effort to get that last *20%* of results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— and this lets them put in 20% effort to get 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results! In short:
 
 **By allowing a band to benefit upfront from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Let's call this the 4x Law of Interdependence.**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Which checks out, no? Of interdependent bands, the best *ever* is the Beatles, who are *certainly* four times better than whoever's the best indie artist! So victory is assured— because, now, what elite *won't* insist upon a BYCombo band like yours? Or, to borrow that old [Soviet joke](${REFERENCE_PATH}/soviet-joke#): "Indie rock is the longest and most painful route from interdependence to… interdependence."
 
