@@ -29,10 +29,6 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than wait on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-${'  ' || `
-// TODO: Review new link.
-`}
-
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The [gatekeeper](${COMMENTARY_PATH}/gatekeeper#) agrees to be a *grownup*— and thus sits *outside* our [status hierarchy](https://www.harpercollins.com/products/the-status-game-on-social-position-and-how-we-use-it-will-storr). Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic progressive.
 
 By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status as an artist. If they're ever to pick you, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… making them a [conservative](${COMMENTARY_PATH}/conservative#)! So here's what needs to be explained:
@@ -120,7 +116,7 @@ We all respect those alternative bands of the ['80s underground](https://www.hac
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=alternative+rock%2Cindie+rock&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock disavowed its snobbery and became a [populist movement](${BOBTAIL_BLOG_PATH}/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from advocating for the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
@@ -238,7 +234,7 @@ What confused me is that I'd [explicitly set out](${YEARLINGS_BOBTAIL_PATH}/8-go
 In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the corporate "suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Consequently, it's often some grownup with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who ends up championing its canonical works: By *not* knowing what we and our peers want, they *can't* be led astray! Let's face it, a good partner takes pride in doing great *business*— not in recognizing great *art*. Now with BYCombo, you can find one to advocate for you once again.
@@ -577,10 +573,6 @@ Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in his final 
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 A love of the craft, however, can motivate you for a lifetime. After all, to take on bigger challenges, you must build your talents further— and to build your talents further, you must take on bigger challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, then get back on track with BYCombo— rock's first movement started by an elder!
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
@@ -595,7 +587,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yes, the struggle is a gift— but *only* when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo tells you to focus solely on the craft: As an elder who's been doing exactly that for decades, I can promise it *isn't* just to better your art! It's *also* for your own happiness… and the good of your soul.
+Yes, the struggle is a gift— but *only* when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo tells you to focus solely on the craft: As an elder who's been doing just that for decades, I can promise it *isn't* simply to better your art! It's *also* for your own happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
 
@@ -674,10 +666,6 @@ This century's music is worse, then, because it's bottom up— while history *it
 Fifty ways indie rock has left us worse off! Yet our revolution faces one last hurdle: Once "indiefication" takes root… it then takes over. After all, with so many artists to pick from, *of course* any label will insist, "Give us the one who does the middleman's job!" And any fan: "We'll support the one who engages with us!" And any critic: "The one whose lore offers much to discuss, please!"
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp)— which states that 20% of the effort yields 80% of the results.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Now, since indie artists do it all themselves, they must put in a further *80%* effort to get that last *20%* of results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— and this lets them put in 20% effort to get 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results! In short:
 
