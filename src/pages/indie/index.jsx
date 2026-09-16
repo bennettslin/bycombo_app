@@ -287,7 +287,11 @@ Indie artists strive *not* to need a label, and some keep at it even after signi
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others [finally reciprocate](${REFERENCE_PATH}/finally-reciprocate#) the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
-### ${++sectionCounter}. Democratization pollutes the commons
+${'  ' || `
+// TODO: Revise title. Make it clear it's a byproduct.
+`}
+
+### ${++sectionCounter}. Democratization causes pollution
 
 To "democratize" Twitter, Elon Musk made the [blue checkmark](${REFERENCE_PATH}/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
 
@@ -299,7 +303,11 @@ To complicate matters, this is what's called a collective action problem: It's c
 
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "[indieocracy](${COMMENTARY_PATH}/indieocracy#)"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. But what if *your* vote all along was for elitist gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
 
-### ${++sectionCounter}. Stewardship sustains the environment
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Stewardship sustains the commons
 
 Why has this century only given us "workhorse art" so far? It's simple: Under "indieocracy," if a work fails to go viral, we expect the artist to take it in stride, learn from listener feedback, and try anew. But a maker of "windfall art" will keep pressing their case, over and over, in hopes an elite might finally agree to advocate on their behalf. Which… is also how the *worst* artists behave!
 
@@ -630,6 +638,10 @@ So if I could get every progressive— in both politics and the arts— to read 
 To explain the squiggles traversed by the planets in their orbits around the Earth, past astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually orbit the *Sun*… turning the squiggles into smooth lines. As the simpler explanation, this came to be seen as the correct one— and now typifies what we call a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift).
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave [like indie labels](${REFERENCE_PATH}/like-indie-labels#), by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+
+${'  ' || `
+// TODO: Revise according to notes?
+`}
 
 Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… leading to a "tragedy of the commons." But now, 5% is our *baseline*… and soon, 10%… 15%… as we "drift to [low performance](${REFERENCE_PATH}/low-performance#)."
 
