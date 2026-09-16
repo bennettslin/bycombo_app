@@ -29,7 +29,11 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than wait on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The [gatekeeper](${COMMENTARY_PATH}/gatekeeper#) agrees to be a *grownup*— and thus sits *outside* our status hierarchy. Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic progressive.
+${'  ' || `
+// TODO: Review new link.
+`}
+
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The [gatekeeper](${COMMENTARY_PATH}/gatekeeper#) agrees to be a *grownup*— and thus sits *outside* our [status hierarchy](https://www.harpercollins.com/products/the-status-game-on-social-position-and-how-we-use-it-will-storr). Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic progressive.
 
 By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status as an artist. If they're ever to pick you, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… making them a [conservative](${COMMENTARY_PATH}/conservative#)! So here's what needs to be explained:
 
@@ -404,6 +408,10 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were asked to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday)… and they *did*, to no confusion— as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" Nope. See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whoever to win, by whatever the rules are. And, well, if the rule is to get yourself known, then the winning trait is a knack for the hustle.
+
+${'  ' || `
+// TODO: Revise? Mention grownups?
+`}
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](${REFERENCE_PATH}/tomorrows-winners#)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can plead for amnesty, after betting it all on the craft— your low-status "hobby."
 
