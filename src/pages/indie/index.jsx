@@ -622,10 +622,10 @@ ${'  ' || `
 Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, then they *alone* gain the advantage— so others will do likewise, creating a "race to the bottom." Yet we in the audience won't notice! Because, 5% less effort is now the *baseline*… and soon, 10%… 20%… as the arts "drift to [low performance](${REFERENCE_PATH}/low-performance#)."
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-With this being the case, shouldn't we expect "indiefication" to make things… *worse*? Whoa, everything lines up now! Yet the indie camp will oppose this [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so BYCombo won't get far by merely proposing it. To shift the paradigm, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
+With this being so, shouldn't we expect "indiefication" to leave us… *worse* off? Whoa, we've smoothed out all our squiggles! Yet the indie camp will oppose this [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so BYCombo won't get far by merely proposing it. To shift the paradigm, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
