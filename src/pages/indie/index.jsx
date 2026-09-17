@@ -115,10 +115,6 @@ We all respect those alternative bands of the ['80s underground](https://www.hac
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=alternative+rock%2Cindie+rock&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock disavowed its snobbery and became a [populist movement](${BOBTAIL_BLOG_PATH}/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from advocating for the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
 Yet in *obeying* the people's will at all times, populism is just democracy with [no judicial safeguard](${REFERENCE_PATH}/no-judicial-safeguard#)… thus making it *tyranny* for the underclass. We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in the arts, at least!— by calling for a new generation of elites.
@@ -233,10 +229,6 @@ What confused me is that I'd [explicitly set out](${YEARLINGS_BOBTAIL_PATH}/8-go
 
 In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the corporate "suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Which is why it's often some grownup with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who ends up championing its canonical works: By *not* knowing what we and our peers want, they *can't* be led astray! Let's face it, a good partner takes pride in doing great *business*, not in recognizing great *art*. Now with BYCombo, you can find one to advocate for you once again.
 
 ### ${++sectionCounter}. Limited brainpower fails to adapt
@@ -298,10 +290,6 @@ You see, pollution is an example of the famous "[prisoner's dilemma](${REFERENCE
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "[indieocracy](${COMMENTARY_PATH}/indieocracy#)"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it. But what if *your* vote all along was for elitist gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
-
-${'  ' || `
-// TODO: Review title.
-`}
 
 ### ${++sectionCounter}. Stewardship sustains the commons
 
@@ -583,10 +571,6 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because any exposure gained from decades of hustling might just as well be won by chance, bought with privilege, or stolen through opportunism— in an instant. Every artist knows this, yet they play by indie rock's rules anyway… and it eats at their soul.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yes, the struggle is a gift— but *only* when faced on your own terms; if you're forced to take the same path as everyone else, then it's a *grind*. Which is why BYCombo tells you to focus solely on the craft: As an elder who's been doing just that for decades, I can promise it *isn't* simply to better your art! It's *also* for your own happiness… and the good of your soul.
 
 ### ${++sectionCounter}. Collectivists are selfless in both senses
@@ -632,12 +616,16 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave [like indie labels](${REFERENCE_PATH}/like-indie-labels#), by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, then they *alone* gain the advantage— so others will do likewise, creating a "race to the bottom." Yet we in the audience won't notice! Because, 5% less effort is now the *baseline*… and soon, 10%… 20%… as the arts "drift to [low performance](${REFERENCE_PATH}/low-performance#)."
 
-With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa, everything lines up now! Yet the indie camp will oppose this [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so BYCombo won't get far by merely proposing it. To shift the paradigm, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
+${'  ' || `
+// TODO: Review.
+`}
+
+With this being the case, shouldn't we expect "indiefication" to make things… *worse*? Whoa, everything lines up now! Yet the indie camp will oppose this [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so BYCombo won't get far by merely proposing it. To shift the paradigm, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
