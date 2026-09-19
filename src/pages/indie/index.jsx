@@ -275,10 +275,6 @@ Indie artists strive *not* to need a label, and some keep at it even after signi
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others [finally reciprocate](${REFERENCE_PATH}/finally-reciprocate#) the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Democratization causes pollution
 
 To "democratize" Twitter, Elon Musk made the [blue checkmark](${REFERENCE_PATH}/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
@@ -290,7 +286,7 @@ You see, pollution is an example of the famous "[prisoner's dilemma](${REFERENCE
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "[indieocracy](${COMMENTARY_PATH}/indieocracy#)"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it most. Still, what if *your* vote all along was for gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
@@ -619,11 +615,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, then they *alone* gain the advantage— so others will do likewise, creating a "race to the bottom." Yet we in the audience won't notice! Because, 5% less effort is now the *baseline*… and soon, 10%… 20%… as music "drifts to [low performance](${REFERENCE_PATH}/low-performance#)."
-
-${'  ' || `
-// TODO: Review.
-`}
+Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, then they *alone* gain the advantage— so others will do likewise, creating a "race to the bottom." Yet we in the audience won't notice! Because 5% less effort is now the *baseline*… and soon, 10%… 20%… as music "drifts to [low performance](${REFERENCE_PATH}/low-performance#)."
 
 With this being so, shouldn't we expect "indieocracy" to leave us… *worse* off? Whoa, we've smoothed out all our squiggles! Yet the indie camp will oppose this [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so BYCombo won't get far by merely proposing it. To shift the paradigm, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of the arts?
 
