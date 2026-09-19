@@ -276,7 +276,7 @@ Indie artists strive *not* to need a label, and some keep at it even after signi
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others [finally reciprocate](${REFERENCE_PATH}/finally-reciprocate#) the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
 ${'  ' || `
-// TODO: Revise title. Make it clear it's a byproduct.
+// TODO: Review title.
 `}
 
 ### ${++sectionCounter}. Democratization causes pollution
@@ -404,10 +404,6 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were asked to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday)… and they *did*, to no confusion— as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" Nope. See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whoever to win, by whatever the rules are. And, well, if the rule is to get yourself known, then the winning trait is a knack for the hustle.
-
-${'  ' || `
-// TODO: Revise? Mention grownups? Cred?
-`}
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](${REFERENCE_PATH}/tomorrows-winners#)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can plead for amnesty, after betting it all on the craft— your low-status "hobby."
 
