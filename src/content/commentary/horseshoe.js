@@ -2,16 +2,17 @@ export default {
     title: '"horseshoe"',
     body: `
 ${'  ' || `
-// TODO: Revise according to today's notes.
-
-You might've noticed: Those who lie midway on the "upright horseshoe" tend to then sit at either end of the "sideways" one— and vice versa. Why's that? I suspect my earlier commentary on populism helps to explain. See, whether in politics or the arts, there are two schools of thought, with one made up of cognitive elites; and the other, of populists— whom I'll call cognitive *misers*.
+// TODO: Review a few more times.
 `}
 
-You might've noticed: Those who sit at either end of the "upright horseshoe" tend to then lie midway on the "sideways" one— and vice versa. Why's that? I suspect my earlier commentary on populism helps to explain. See, whether in politics or the arts, there are two modes of cognition, with one made up of elites; and the other, of populists— whom I'll call cognitive *misers*.
+You might've noticed: Those who sit at either end of the "upright horseshoe" tend to then lie midway on the "sideways" one— and vice versa. Why's that? I suspect my earlier commentary on populism helps to explain. See, whether in politics or the arts, there are two habits of thinking: one practiced by elites, and the other, by populists— whom I'll call cognitive misers.
 
 ${'  ' || `
 // TODO: Keep working on.
 `}
+
+We've just seen how the upright horseshoe joins far left with far right, 
+
 
 Now, on the upright horseshoe, cognitive elites tend to back *away* from the ends. Given their brainpower, they see the need to serve as stewards of the underlying systems 
 
