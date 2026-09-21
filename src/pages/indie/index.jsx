@@ -285,10 +285,6 @@ You see, pollution is an example of the famous "[prisoner's dilemma](${REFERENCE
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "[indieocracy](${COMMENTARY_PATH}/indieocracy#)"— namely, rule by those who'd rather hustle to *get* the job, than simply *deserve* it most. Still, what if *your* vote all along was for gatekeepers— the grownups of the arts!— to remain in charge? Then come pay BYCombo's steep *cost* of entry… as we call for the next elites to emerge!
 
 ### ${++sectionCounter}. Stewardship sustains the commons
@@ -639,11 +635,7 @@ But thanks to "indiefication," today's artists have no such reason to believe—
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*! Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for business partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
 
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
-This century's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which is why it took an elder— one who recalls a top-down past!— to start BYCombo. So come join us, and sacrifice it all to make a stellar demo… in faith that a savior will then listen.
+This century's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which is why it took an elder— one who recalls a top-down past!— to start BYCombo. So come join us, and sacrifice it all to make a stellar demo… in faith that a savior will listen.
 
 ### Victory… is *assured*
 
