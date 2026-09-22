@@ -607,10 +607,6 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave [like indie labels](${REFERENCE_PATH}/like-indie-labels#), by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, then they *alone* gain the advantage— so others will do likewise, creating a "race to the bottom." Yet we in the audience won't notice! Because 5% less effort is now the *baseline*… and soon, 10%… 20%… as music "drifts to [low performance](${REFERENCE_PATH}/low-performance#)."
 
 With this being so, shouldn't we expect "indieocracy" to leave us… *worse* off? Whoa, we've smoothed out all our squiggles! Yet the indie camp will oppose this [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so BYCombo won't get far by merely proposing it. To shift the paradigm, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of the arts?
