@@ -275,6 +275,10 @@ Indie artists strive *not* to need a label, and some keep at it even after signi
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others [finally reciprocate](${REFERENCE_PATH}/finally-reciprocate#) the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
+${'  ' || `
+// TODO: Revise title? Use incentivize? Low barriers? Lowered barriers let in polluters
+`}
+
 ### ${++sectionCounter}. Democratization causes pollution
 
 To "democratize" Twitter, Elon Musk made the [blue checkmark](${REFERENCE_PATH}/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.

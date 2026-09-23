@@ -2,7 +2,7 @@ export default {
     title: '"horseshoe"',
     body: `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Make it clear I don't mean midway, but not the ends.
 `}
 
 You might've noticed: Those who sit at either end of the "upright horseshoe" tend to then lie midway on the "sideways" one— and vice versa. Why's that? I suspect my earlier commentary on populism helps to explain. See, whether in politics or the arts, there are two habits of thinking: one practiced by elites, and the other, by populists— whom I'll call cognitive misers.
