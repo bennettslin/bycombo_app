@@ -49,7 +49,11 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the "punishment" for those who try?
 
-Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers?! What's needed, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers?! What's needed, then, is for a progressive nonprofit like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
 
@@ -65,7 +69,11 @@ Indie rock encourages artists to retain their earnings— which, today, means ha
 
 Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always do so on their own, in a decentralized free-for-all. But let's ditch this notion. What if musicians hoping to form history-making bands could flock from across the world to a single hub? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
-Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized institution like BYCombo to help them come together.
 
 **Why partners?**
 
@@ -89,7 +97,11 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 
 **Why serious chunks of lifetime?**
 
-Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now serve as a gatekeeper for the elites— by helping them enforce a steep *cost* of entry.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized institution like BYCombo must now serve as a gatekeeper for the elites— by helping them impose a steep *cost* of entry.
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in pleading their case for amnesty.
 
