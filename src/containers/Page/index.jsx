@@ -68,11 +68,7 @@ Page.propTypes = {
     pageName: PropTypes.string,
     title: PropTypes.string,
     description: PropTypes.string,
-    date: PropTypes.shape({
-        year: PropTypes.number.isRequired,
-        month: PropTypes.number.isRequired,
-        day: PropTypes.number,
-    }),
+    dateText: PropTypes.string,
     body: PropTypes.oneOfType([
         PropTypes.array,
         PropTypes.string,

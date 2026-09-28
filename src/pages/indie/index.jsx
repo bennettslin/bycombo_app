@@ -17,7 +17,7 @@ const Component = ({ sectionCounter = 0 }) => (
     <Page
         {...{
             pageName: INDIE_PAGE,
-            date: { year: 2026, month: 9 },
+            dateText: `May 2021 – October 2026`,
             body: `
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only ever signed artists with a *proven* fanbase, who were thus empowered to hold out for the *fairest* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 

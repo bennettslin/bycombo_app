@@ -5,7 +5,6 @@ import Flex from '../../../components/Flex'
 import Markdown from '../../../components/Markdown'
 import Heading from '../../../components/Heading'
 import { getFormattedText } from '../../../utils/format'
-import { getHeaderFromDate } from '../../../utils/format/dates'
 import { PAGE_TITLES } from '../../../constants/pages'
 import './style'
 
@@ -13,11 +12,10 @@ const Body = () => {
     const {
             pageName,
             title,
-            date,
+            dateText,
             body,
         } = useContext(PageConfigContext),
-        formattedTitle = getFormattedText(title || PAGE_TITLES[pageName]),
-        headerFromDate = getHeaderFromDate(date)
+        formattedTitle = getFormattedText(title || PAGE_TITLES[pageName])
 
     return (
         <Flex
@@ -32,7 +30,7 @@ const Body = () => {
                 gap: 'md',
             }}
         >
-            {(formattedTitle || headerFromDate) && (
+            {(formattedTitle || dateText) && (
                 <Flex
                     {...{
                         flexDirection: 'column',
@@ -46,7 +44,7 @@ const Body = () => {
                         </Markdown>
                     )}
                     <Heading {...{ level: 5 }}>
-                        {headerFromDate}
+                        {dateText}
                     </Heading>
                 </Flex>
             )}
