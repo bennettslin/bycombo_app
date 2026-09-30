@@ -11,7 +11,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-As we've just seen with the upright horseshoe, for example, those at either end are united in their indifference toward preserving legacy institutions— including the ones that once benefited them! a position that naturally appeals to cognitive misers. In politics, this institution is liberal democracy.
+As we've just seen with the upright horseshoe, for example, those at either end are united in their indifference toward preserving underlying systems— including any that once benefited them!— and this is a position that naturally appeals to cognitive misers. In politics, of course, the underlying system is liberal democracy.
 
 and in the arts, it's the legacy institutions 
 

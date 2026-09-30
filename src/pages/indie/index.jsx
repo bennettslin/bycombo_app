@@ -65,10 +65,6 @@ Indie rock encourages artists to retain their earnings— which, today, means ha
 
 Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always do so on their own, in a decentralized free-for-all. But let's ditch this notion. What if musicians hoping to form history-making bands could flock from across the world to a single hub? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized institution like BYCombo to help them come together.
 
 **Why partners?**
@@ -92,10 +88,6 @@ Stellar demos signify exceptional talent— yet finding one requires sifting thr
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
 
 **Why serious chunks of lifetime?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized institution like BYCombo must now serve as a gatekeeper for the elites— by helping them impose a steep *cost* of entry.
 
