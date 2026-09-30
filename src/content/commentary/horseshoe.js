@@ -5,13 +5,15 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-You might've noticed: Those who sit at either end of the "upright horseshoe" tend *not* to do so on the "sideways" one— and vice versa. Why? I suspect my earlier commentary on populism serves to explain. See, whether in politics or the arts, there are two habits of thinking, with one practiced by cognitive elites; and the other, by populists— whom I'll call cognitive *misers*.
+You might've noticed: Those who sit at either end of the "upright horseshoe" tend *not* to do so on the "sideways" one— and vice versa. Why? I suspect my earlier commentary on populism offers an answer. See, whether in politics or the arts, there are two habits of thinking, with one practiced by cognitive elites; and the other, by populists— whom I'll call cognitive *misers*.
 
 ${'  ' || `
 // TODO: Keep working on.
 `}
 
-We've just seen how the upright horseshoe joins far left with far right, 
+As we've just seen with the upright horseshoe, for example, those at either end are united in their indifference toward preserving the institutions that once benefited them— a position that naturally appeals to cognitive misers. In politics, this institution is liberal democracy.
+
+and in the arts, it's the legacy institutions 
 
 
 Now, on the upright horseshoe, cognitive elites tend to back *away* from the ends. Given their brainpower, they see the need to serve as stewards of the underlying systems 
