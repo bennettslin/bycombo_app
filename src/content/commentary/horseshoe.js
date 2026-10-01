@@ -11,20 +11,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-As we've just seen with the upright horseshoe, for example, those at either end are united in their indifference toward preserving underlying systems— including any that once benefited them!— and this is a position that naturally appeals to cognitive misers. In politics, of course, the underlying system is liberal democracy.
-
-and in the arts, it's the legacy institutions 
-
-
-Now, on the upright horseshoe, cognitive elites tend to back *away* from the ends. Given their brainpower, they see the need to serve as stewards of the underlying systems 
-
-
-mostly back *away* from the ends. since they see themselves as stewards of the underlying systems that allow us to 
-
-
- certain views tend to contain within themselves an inherent stewardship of the systems that allow them to be freely held. In politics, for instance, this is liberal democracy; in the arts, it's "rockism"— at least, my definition thereof. But this requires complexity and nuance, which both requires you to be a cognitive elite, and also pushes one closer to the center.
-
-Cognitive misers are, of course, the exact opposite, and indie rock provides a great example.
+As we've just seen with the upright horseshoe, for example, those at either end share the same indifference toward preserving legacy institutions for the next generation— a mindset that naturally appeals to cognitive misers. In politics, this institution is liberal democracy; and in the arts, it's "rockism" the system of elitist gatekeeping.
 
 By contrast, the sideways horseshoe exists precisely because the elites at the top are fully aware that those of us at the bottom *aren't* like them. To win us over, then, they're forced to understand what we want by reasoning from first principles, as well as by speaking with us directly. To synthesize these vastly different ways of being necessarily requires higher cognition.
 
