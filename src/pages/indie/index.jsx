@@ -74,7 +74,7 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 **Why interdependence?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](${BOBTAIL_BLOG_PATH}/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet from that point onward, their efforts will have far less impact…
@@ -393,7 +393,11 @@ After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to 
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
-Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie tastemakers *can't* be cruel; they're "good guys"! So instead of weeding you out for being wack— a harsh indictment of who you *are*… they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to middling artists. But indie tastemakers *can't* be cruel; they're "good guys"! So instead of weeding you out for being wack— a harsh indictment of who you *are*… they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. Which means the one created by indie rock *isn't* the same as that of its predecessor— the alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
 
