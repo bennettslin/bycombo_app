@@ -8,7 +8,7 @@ ${'  ' || `
 You might've noticed: Those who sit at either end of the "upright horseshoe" tend *not* to do so on the "sideways" one— and vice versa. Why? I suspect my earlier commentary on populism offers the answer. See, whether in politics or the arts, there are two habits of thinking, with one practiced by cognitive elites; and the other, by populists— whom I'll call cognitive *misers*.
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Keep working on. removing a huge cognitive load.
 `}
 
 As we've just seen with the upright horseshoe, for example, those at either end share the same indifference toward preserving legacy institutions for the next generation— a mindset that naturally appeals to cognitive misers. In politics, this institution is liberal democracy; and in the arts, it's "rockism" the system of elitist gatekeeping.

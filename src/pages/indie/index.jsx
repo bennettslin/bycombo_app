@@ -77,7 +77,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](${BOBTAIL_BLOG_PATH}/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet from that point onward, their efforts will have far less impact…
+Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](${BOBTAIL_BLOG_PATH}/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet from that point onward, their efforts won't have as much impact…
 
 Meanwhile, your talents are "multipliers": They're great at convincing others that you *deserve* the job; where they falter, though, is in *getting* you that job to begin with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
@@ -394,7 +394,7 @@ After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to middling artists. But indie tastemakers *can't* be cruel; they're "good guys"! So instead of weeding you out for being wack— a harsh indictment of who you *are*… they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
