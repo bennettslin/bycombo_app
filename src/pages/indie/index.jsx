@@ -73,10 +73,6 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 **Why interdependence?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Partners are most impactful when helping to make you known as an artist— to take your "base number," figuratively speaking, "from [zero to one](${BOBTAIL_BLOG_PATH}/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)." But an indie tastemaker holds off *until* you're known, then helps to convince others that you deserve it— to take you "from one to *n*." Yet from that point onward, their efforts won't have as much impact…
 
 Meanwhile, your talents are "multipliers": They're great at convincing others that you *deserve* the job; where they falter, though, is in *getting* you that job to begin with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
@@ -392,10 +388,6 @@ Which explains why both politics *and* the arts are getting worse in our times: 
 After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because BYCombo lets you skip indie rock's "creative middle class," and go straight from the counterculture to the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to middling artists. But indie tastemakers *can't* be cruel; they're "good guys"! So instead of weeding you out for being wack— a harsh indictment of who you *are*… they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
