@@ -1,6 +1,6 @@
 import { DOMAIN } from '../utils/server'
 
-export const DOMAIN_NAME = `https://www.${DOMAIN}.com`
+export const DOMAIN_NAME = `https://${DOMAIN}.com`
 
 export const HOME_PAGE = 'home'
 export const NOT_FOUND_PAGE = '404'
