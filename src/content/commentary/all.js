@@ -1,4 +1,5 @@
 import gatekeeperCommentary from './gatekeeper'
+import progressiveCommentary from './progressive'
 import conservativeCommentary from './conservative'
 import alternativeCommentary from './alternative'
 import indieocracyCommentary from './indieocracy'
@@ -13,6 +14,7 @@ export default {
     title: 'All commentaries',
     body: getAllNotesBody([
         gatekeeperCommentary,
+        progressiveCommentary,
         conservativeCommentary,
         alternativeCommentary,
         indieocracyCommentary,
