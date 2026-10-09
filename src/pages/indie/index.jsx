@@ -49,7 +49,11 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now we're charitable to *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now we act charitably toward *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the "punishment" for those who try?
 
