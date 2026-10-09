@@ -5,7 +5,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-You might've noticed: Those who sit at either end of the "upright horseshoe" tend *not* to do so on the "sideways" one— and vice versa. Why? I suspect my earlier commentary on populism offers the answer. See, whether in politics or the arts, there are two habits of thinking, with one practiced by cognitive elites; and the other, by populists— whom I'll call cognitive *misers*.
+You might've noticed: Those who sit at either end of the "upright horseshoe" tend *not* to do so on the "sideways" one— and vice versa. Why? I suspect my earlier commentary on populism offers an answer. See, whether in politics or the arts, there are two habits of thinking, with one practiced by cognitive elites; and the other, by populists— whom I'll call cognitive *misers*.
 
 ${'  ' || `
 // TODO: Keep working on. removing a huge cognitive load.
