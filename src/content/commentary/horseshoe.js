@@ -2,7 +2,7 @@ export default {
     title: '"horseshoe"',
     body: `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 You might've noticed: Those who sit at either end of the "upright horseshoe" tend *not* to do so on the "sideways" one— and vice versa. Why? I suspect my earlier commentary on populism offers an answer. See, whether in politics or the arts, there are two habits of thinking, with one practiced by cognitive elites; and the other, by populists— whom I'll call cognitive *misers*.

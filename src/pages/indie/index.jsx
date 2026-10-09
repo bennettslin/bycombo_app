@@ -29,10 +29,6 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than wait on *elites* to say we deserve it. But, as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: The [gatekeeper](${COMMENTARY_PATH}/gatekeeper#) agrees to be a *grownup*— and thus sits *outside* our [status hierarchy](https://www.harpercollins.com/products/the-status-game-on-social-position-and-how-we-use-it-will-storr). Because of this, they're happy to bet on low-status no-names with enviable talents… one of whom just might up-*end* the hierarchy altogether! Which, I'd say, makes them an artistic [progressive](${COMMENTARY_PATH}/progressive#).
 
 By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* the same hierarchy that we do— leaving them unable to see past your low status as an artist. If they're ever to pick you, then, you'll need to get yourself known first, just as they once did. But this means they up-*hold* the status hierarchy… making them a [conservative](${COMMENTARY_PATH}/conservative#)! So here's what needs to be explained:
@@ -40,7 +36,7 @@ By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 From there, we take *action*. Now, rebelling against a centralized institution would be easy, right? Just rip it down! But against indie rock's *de*-centralized grassroots, we must *build*… and this is far more difficult. After all, build *what*, exactly? Luckily, I've also spent half my Xennial life coming up with a plan:
@@ -54,7 +50,7 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now we act charitably toward *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
