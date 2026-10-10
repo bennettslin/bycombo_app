@@ -352,16 +352,16 @@ Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) whe
 So I took a coding bootcamp, and for [seven years](${BOBTAIL_SUBSTACK_PATH}/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Review a few more times. Also review link.
+// TODO: Review a few more times. Also review link. Make it more like, keeping the culture going in the direction it's going. Maybe don't need brokenness.
 `}
 
-Except, now it made sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, paying dues, by itself, means nothing; for it to count as precious "[cred](${COMMENTARY_PATH}/cred#)," some culture must step in and make this promise. After which, anyone who's ever paid *any* amount will insist on keeping that culture as it is, no matter how broken it becomes.
+Except, now it made sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, paying dues, by itself, means nothing; for it to count as precious "[cred](${COMMENTARY_PATH}/cred#)," some culture must actively make this promise. After which, anyone who's paid *any* amount will insist on keeping that culture as it is, no matter how broken it's become.
 
 ${'  ' || `
-// TODO: Review removal of link.
+// TODO: Review a few more times. Also review removal of link.
 `}
 
-Moreover, once a dues payer has wasted their best years racking up cred instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those willing to squander even *more* potential. But any such newcomer will then feel even *less* secure— thus widening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of brokenness.
+Plus, once a dues payer has wasted their best years racking up cred instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So the only ones they'll help are those willing to waste even *more* potential. Yet any such newcomer will now feel even *less* secure— thus widening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of brokenness!
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
 
