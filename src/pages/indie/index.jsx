@@ -343,17 +343,25 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](${RE
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being of the underclass, I needed others to help *me* first. Yet no one did…
 
 So I took a coding bootcamp, and for [seven years](${BOBTAIL_SUBSTACK_PATH}/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Revise. Introduce cred in quotes with link, and remove quotes and link in next paragraph. May need to fundamentally rewrite last sentence to make it all work.
+// TODO: Review a few more times. Also review link.
 `}
 
-Except… now it made sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! You see, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will insist on keeping that culture as it is, as broken as it's become.
+Except, now it made sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, paying dues, by itself, means nothing; for it to count as precious "[cred](${COMMENTARY_PATH}/cred#)," some culture must step in and make this promise. After which, anyone who's ever paid *any* amount will insist on keeping that culture as it is, no matter how broken it becomes.
 
-Moreover, once a dues payer has wasted their best years racking up "[cred](${COMMENTARY_PATH}/cred#)" instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those willing to squander even *more* potential. But any such newcomer will then feel even *less* secure— thus widening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of brokenness.
+${'  ' || `
+// TODO: Review removal of link.
+`}
+
+Moreover, once a dues payer has wasted their best years racking up cred instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those willing to squander even *more* potential. But any such newcomer will then feel even *less* secure— thus widening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of brokenness.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
 
