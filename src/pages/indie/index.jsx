@@ -61,7 +61,11 @@ Sadly, once the good guys are in charge, the generation who put them there will 
 
 **Why the historical canon?**
 
-If indie tastemakers are good guys, it's because they're *not* capitalists. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which, in hindsight, is why their picks rarely make history: With no need to consider future audiences, they cater solely to present-day *fans*.
+${'  ' || `
+// TODO: Review a few more times. "Need" is said twice?
+`}
+
+If the indie tastemakers are good guys, it's because they *don't* love capitalism. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which, in hindsight, is why their picks seldom make history: Without any need to account for future audiences, they cater solely to present-day *fans*.
 
 Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art… it loses once its *own* time has passed! To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll default to pleasing the tastemakers… and create content instead.
 
@@ -179,7 +183,11 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 The reverse is also true, of course: Those who'd settle for "a thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They rarely consider how things look to us *other* artists.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They seldom consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is merely artsy, not innovative. And also fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to carry them through. In short, what historians will see in *time*… [other artists](${REFERENCE_PATH}/other-artists#) come closest to seeing *today*.
 
@@ -342,6 +350,10 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](${RE
 Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
 
 So I took a coding bootcamp, and for [seven years](${BOBTAIL_SUBSTACK_PATH}/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
+
+${'  ' || `
+// TODO: Revise? Remove "perfect," switch "after all" to "you see." then introduce cred in quotes with link, and remove quotes and link in next paragraph. May need to fundamentally rewrite last sentence to make it all work.
+`}
 
 Except… now it made perfect sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will insist on keeping that culture as it is— no matter how broken it's become.
 
