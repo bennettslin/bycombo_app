@@ -35,10 +35,6 @@ By contrast, the tastemaker promises to be a *peer*. As such, they sit *within* 
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 From there, we take *action*. Now, rebelling against a centralized institution would be easy, right? Just rip it down! But against indie rock's *de*-centralized grassroots, we must *build*… and this is far more difficult. After all, build *what*, exactly? Luckily, I've also spent half my Xennial life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependence-minded partners.**
@@ -53,7 +49,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now we act charitably toward *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
+Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials were happy to see indie rock take over— and now we act charitably toward *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the "punishment" for those who try?
 
@@ -62,10 +58,10 @@ Sadly, once the good guys are in charge, the generation who put them there will 
 **Why the historical canon?**
 
 ${'  ' || `
-// TODO: Review a few more times. "Need" is said twice?
+// TODO: Review.
 `}
 
-If the indie tastemakers are good guys, it's because they *don't* love capitalism. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which, in hindsight, is why their picks seldom make history: Without any need to account for future audiences, they cater solely to present-day *fans*.
+If the indie tastemakers are good guys, it's because they *don't* love capitalism. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which, in hindsight, is why their picks seldom make history: With no incentive to account for future audiences, they cater solely to present-day *fans*.
 
 Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art… it loses once its *own* time has passed! To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll default to pleasing the tastemakers… and create content instead.
 
@@ -184,7 +180,7 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 The reverse is also true, of course: Those who'd settle for "a thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They seldom consider how things look to us *other* artists.
