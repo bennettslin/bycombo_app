@@ -343,7 +343,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, paying dues, by itself, counts for little; it's only honored as high-status "[cred](${COMMENTARY_PATH}/cred#)" once a culture steps in to *make* such a promise. After which, those who've paid in will shoot down any new idea that could disrupt their climb up the hierarchy…
+Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, paying dues, by itself, counts for little; it's only honored as high-status "[cred](${COMMENTARY_PATH}/cred#)" once a culture steps in to *make* such a promise. After which, those who've paid in will shoot down any new idea that might disrupt their climb up the hierarchy…
 
 ${'  ' || `
 // TODO: Review.
@@ -469,7 +469,11 @@ And yet, underdog movements are here to stay, because it's a *privilege* to be t
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
-Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with concrete metrics such as these. So every new technology in the '00s— digital downloads, streaming services— was about bringing the good intentions of underdog movements to the Internet!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Since the indie camp measures "cred" by paid dues— and the "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with concrete metrics such as these. So every new technology in the '00s— digital downloads, streaming services— was about bringing the good intentions of underdog movements to the Internet!
 
 After all, here's how it worked before: Each major label would bet on visions that others *didn't* see— like, let's say, a regional style blowing up all over the world. But this left bands powerless to negotiate; they couldn't play one label off another, since a vision alone is worth nothing. As a result, they often had to accept unfair terms… leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
