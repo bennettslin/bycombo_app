@@ -45,10 +45,6 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials were happy to see indie rock take over— and now we act charitably toward *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the "punishment" for those who try?
@@ -56,10 +52,6 @@ The best such intention, as we all know, is for artists to be self-empowered eno
 Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers?! What's needed, then, is for a progressive nonprofit like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 If the indie tastemakers are good guys, it's because they *don't* love capitalism. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which, in hindsight, is why their picks seldom make history: With no incentive to account for future audiences, they cater solely to present-day *fans*.
 
@@ -178,10 +170,6 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 ### ${++sectionCounter}. Posterity is awarded by peer review
 
 The reverse is also true, of course: Those who'd settle for "a thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They seldom consider how things look to us *other* artists.
 
@@ -344,7 +332,7 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](${RE
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being of the underclass, I needed others to help *me* first. Yet no one did…
@@ -352,16 +340,16 @@ Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) whe
 So I took a coding bootcamp, and for [seven years](${BOBTAIL_SUBSTACK_PATH}/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Review a few more times. Also review link.
+// TODO: Review a few more times.
 `}
 
-Except, now it made sense why, unlike [the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, paying dues, by itself, means little; for it to be honored as high-status "[cred](${COMMENTARY_PATH}/cred#)," a culture must step in to make such a promise. After which, all those who've paid in will shoot down any new ideas, coming from low-status nobodies, that might disrupt it all…
+Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, paying dues, by itself, counts for little; it's only honored as high-status "[cred](${COMMENTARY_PATH}/cred#)" once a culture steps in to *make* such a promise. After which, those who've paid in will shoot down any new idea that could disrupt their climb up the hierarchy…
 
 ${'  ' || `
-// TODO: Review a few more times. Also review removal of link.
+// TODO: Review.
 `}
 
-Moreover, once a dues payer has wasted their youth racking up cred instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So the only ones they'll help are those ready to squander even *more* potential. Yet any such newcomer will now feel even *less* secure— thus worsening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of bad times…
+Moreover, once a dues payer has wasted their youth racking up cred instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So the only ones they'll help are those ready to squander even *more* potential. Yet any such newcomer will now feel even *less* secure— thus worsening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of bad times!
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
 

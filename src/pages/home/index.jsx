@@ -47,7 +47,11 @@ Yes! You see, indie rock has a glaring weakness: It doesn't *actually* separate 
 
 The downside is clear… So who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours— or, twelve full-time years— making [*Yearling's Bobtail*](${YEARLINGS_BOBTAIL_PATH}), which included coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I could do so. Surely, then, I'd be given amnesty!
 
-### Who makes the tastemakers?
+${'  ' || `
+// TODO: Review title a few more times.
+`}
+
+### Who makes the tastemakers' tastes?
 
 Well… not so fast. The indie camp assumes that every artist faces the same hurdles— in which case, clearing the way for an underdog should still help the rest. Except… your hurdles as an outsider *aren't* the same. To compensate for *not* being the one they're rooting for, you need to try much harder, to be much better. But then… this makes *you* the underdog's biggest hurdle!
 
