@@ -18,7 +18,7 @@ The populist in the middle takes the mental shortcut by simply assuming their hu
 
 what allows someone to sit at the extreme ends is that their arguments doesn't need to contain within itself a need to sustain the liberal values that allow them to make such arguments to begin with. This frees them from nuance, keeping their arguments simple. Which is attractive to cognitive misers.
 
-The sideways horseshoe explains why the populist mentality so prevalent in this century— "Don't think too hard, just keep punching up!"— has had such a corrosive effect. After all, if those above you are aligned with those below you, then by punching up, you're causing as much hurt as you're helping.
+Many conflicts and situations are actually sideways horseshoes, which explains why the populist mentality so prevalent in this century— "Don't think too hard, just keep punching up!"— has achieved so little. After all, if those above you are aligned with those below you, then by punching up, you're causing as much hurt as you're helping.
 
 Assume they're voting for against their own interests.
 `,
