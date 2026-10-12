@@ -1,6 +1,7 @@
 import gatekeeperCommentary from './gatekeeper'
 import progressiveCommentary from './progressive'
 import conservativeCommentary from './conservative'
+import capitalismCommentary from './capitalism'
 import alternativeCommentary from './alternative'
 import indieocracyCommentary from './indieocracy'
 import audienceCommentary from './audience'
@@ -16,6 +17,7 @@ export default {
         gatekeeperCommentary,
         progressiveCommentary,
         conservativeCommentary,
+        capitalismCommentary,
         alternativeCommentary,
         indieocracyCommentary,
         audienceCommentary,
