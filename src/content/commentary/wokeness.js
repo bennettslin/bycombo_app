@@ -1,7 +1,11 @@
 export default {
     title: '"wokeness"',
     body: `
-Having never gotten into social media, I was mostly oblivious to the culture wars of the '10s that led to peak "wokeness" in the '20s. Still, everything I've read after the fact has convinced me that wokeness is just indie rock's ideals revamped for women and minorities— because every gripe about it sounds like the ones I was making about indie rock in the '00s. Consider:
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Having never gotten into social media, I was mostly oblivious to the culture wars of the '10s that led to peak "wokeness" in the '20s. Still, based on all I've read after the fact, I'm convinced that wokeness is simply indie rock's ideals revamped for a different set of disadvantaged groups— because every gripe about it echoes those I was making about indie rock in the '00s. Consider:
 
 - Each movement began with the best of intentions— namely, to lift up the underdogs of their times.
 
