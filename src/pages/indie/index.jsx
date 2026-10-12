@@ -331,10 +331,6 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](${RE
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being of the underclass, I needed others to help *me* first. Yet no one did…
 
 So I took a coding bootcamp, and for [seven years](${BOBTAIL_SUBSTACK_PATH}/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
@@ -470,7 +466,7 @@ And yet, underdog movements are here to stay, because it's a *privilege* to be t
 ### ${++sectionCounter}. Fair practices follow the numbers
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Since the indie camp measures "cred" by paid dues— and the "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with concrete metrics such as these. So every new technology in the '00s— digital downloads, streaming services— was about bringing the good intentions of underdog movements to the Internet!
@@ -488,7 +484,7 @@ To sum up, it was the *indie camp* who gave us today's data-driven industry! Tha
 Are we due for a new Romanticism? Some foresee a revolt [against science](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash), as tech platforms take over the arts with their algorithms. Yet algorithms simply reflect what the people want, just like word of mouth does; it's why indie rock defended them for as long as it did. In this light, then, maybe we *shouldn't* blame those in tech, but [rather *ourselves*](${REFERENCE_PATH}/rather-ourselves#)— the people!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass that proposes them! And [when in doubt](https://en.wikipedia.org/wiki/Social_proof), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone have a "noblesse oblige" to help those being *hurt* by our human nature.

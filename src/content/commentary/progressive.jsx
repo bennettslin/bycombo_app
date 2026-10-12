@@ -21,7 +21,7 @@ ${'  ' || `
     ),
     `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 On the horizontal axis, for instance, the progressive on the left is opposed by the conservative on the right. Where they disagree is on how society— or the arts!— should be structured: A progressive chooses interdependence within the collective, spurred by top-down investment… while a conservative wants independence for the individual, bootstrapped from the bottom up.
