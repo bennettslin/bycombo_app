@@ -336,16 +336,16 @@ Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) whe
 So I took a coding bootcamp, and for [seven years](${BOBTAIL_SUBSTACK_PATH}/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, if paying dues counts for nothing outside the one culture that honors it as high-status "[cred](${COMMENTARY_PATH}/cred#)," then *of course* all who pay in will thereafter reject any new idea that might disrupt this culture— and, along with it, their place in its hierarchy.
+Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, if paying dues counts for nothing outside the one culture where it's honored as high-status "[cred](${COMMENTARY_PATH}/cred#)," then *of course* all who've paid in will go on to oppose any new idea that might disrupt this culture— and, along with it, their place in its hierarchy.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Moreover, once a dues payer has wasted their youth racking up cred instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those ready to waste even *more* potential. Yet any such newcomer will now feel even *less* secure— thus worsening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of bad times!
+Moreover, once a dues payer has wasted their youth racking up cred instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those ready to waste even *more* potential. Yet any such newcomer will then feel even *less* secure— thus worsening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of bad times!
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
 
@@ -465,10 +465,6 @@ And yet, underdog movements are here to stay, because it's a *privilege* to be t
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Since the indie camp measures "cred" by paid dues— and the "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with concrete metrics such as these. So every new technology in the '00s— digital downloads, streaming services— was about bringing the good intentions of underdog movements to the Internet!
 
 After all, here's how it worked before: Each major label would bet on visions that others *didn't* see— like, let's say, a regional style blowing up all over the world. But this left bands powerless to negotiate; they couldn't play one label off another, since a vision alone is worth nothing. As a result, they often had to accept unfair terms… leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
@@ -482,10 +478,6 @@ To sum up, it was the *indie camp* who gave us today's data-driven industry! Tha
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
 Are we due for a new Romanticism? Some foresee a revolt [against science](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash), as tech platforms take over the arts with their algorithms. Yet algorithms simply reflect what the people want, just like word of mouth does; it's why indie rock defended them for as long as it did. In this light, then, maybe we *shouldn't* blame those in tech, but [rather *ourselves*](${REFERENCE_PATH}/rather-ourselves#)— the people!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass that proposes them! And [when in doubt](https://en.wikipedia.org/wiki/Social_proof), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone have a "noblesse oblige" to help those being *hurt* by our human nature.
 
