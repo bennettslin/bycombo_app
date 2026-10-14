@@ -343,7 +343,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, if paying dues counts for nothing outside the one culture where it's honored as high-status "[cred](${COMMENTARY_PATH}/cred#)," then *of course* all who've paid in will go on to oppose any new idea that might disrupt this culture— and, along with it, their place in its hierarchy.
+Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, if paying dues counts for nothing outside the one culture where it's honored as high-status "[cred](${COMMENTARY_PATH}/cred#)," then *of course* all who've paid in will go on to oppose any new idea that might disrupt this culture— and, along with it, their place in its hierarchy…
 
 ${'  ' || `
 // TODO: Review.
