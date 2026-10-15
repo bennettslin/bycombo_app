@@ -53,10 +53,6 @@ Sadly, once the good guys are in charge, the generation who put them there will 
 
 **Why the historical canon?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 If indie tastemakers are good guys, it's because they're *not* big on [capitalism](${COMMENTARY_PATH}/capitalism#). Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which, in hindsight, is why their picks seldom make history: With no incentive to account for future audiences, they cater solely to present-day *fans*.
 
 Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art… it loses once its *own* time has passed! To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll default to pleasing the tastemakers… and create content instead.
@@ -337,26 +333,14 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](${RE
 
 Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being of the underclass, I needed others to help *me* first. Yet no one did…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So I took a coding bootcamp, and for [seven years](${BOBTAIL_SUBSTACK_PATH}/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"… and outsiders who see this, disrupt cultures that don't.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, if paying dues counts for nothing outside the one culture where it's honored as high-status "[cred](${COMMENTARY_PATH}/cred#)," then *of course* all who've paid in will go on to oppose any new idea that might disrupt this culture— and with it, their place in its status hierarchy.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Moreover, once a dues payer has wasted their youth racking up cred instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those ready to waste even *more* potential. Yet any such newcomer will then feel even *less* secure… thus worsening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of bad times!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Which is why it took a low-status outsider such as myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
@@ -415,11 +399,7 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were asked to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday)… and they *did*, to no confusion— as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
-${'  ' || `
-// TODO: Review.
-`}
-
-"But can't *today's* indies learn to sign the *next* Radiohead?" Nope. See, status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whoever to win, by whatever the rules are. And, well, if the rule is to get yourself known, then the winning trait is a knack for the hustle.
+"But can't *today's* indies learn to sign the *next* Radiohead?" Nope. See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whoever to win, by whatever the rules are. And, well, if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](${REFERENCE_PATH}/tomorrows-winners#)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can plead for amnesty, after betting it all on the craft— your low-status "hobby."
 
