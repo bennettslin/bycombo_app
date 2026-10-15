@@ -11,12 +11,12 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Think about it: In politics, the top-down investment favored by progressives is conducted by the government, to correct *against* capitalism's excesses. In the arts, however, it's conducted by those capitalist institutions *themselves*, like the major labels. Given such, anyone who rejects capitalism as a matter of principle will be politically *progressive*, yet artistically *conservative*.
+Think about it: In politics, the top-down investment favored by progressives is conducted by the government, to correct *against* capitalism's excesses. In the arts, however, it's conducted by those capitalist institutions *themselves*— like the major labels. Given such, anyone who rejects capitalism as a matter of principle will be politically *progressive*… yet artistically *conservative*!
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-By contrast, disadvantaged groups favor top-down investment in *every* case. This is why "indiefication," which tells all artists to pull themselves up by the bootstraps, has led to a world of "trust fund" and "nepo babies." Anyway, just read on, and I'll explain more about how Millennials' rejection of capitalism is one reason for this century's artistic decline.
+By contrast, disadvantaged groups favor top-down investment in *every* case. This is why "indiefication," which forces *all* of us to pull ourselves up by the bootstraps, has pushed them aside in favor of "trust fund" and "nepo babies." Anyway, just read on, and I'll explain more about how Millennials' rejection of capitalism is a root cause of this century's artistic decline.
     `,
 }
