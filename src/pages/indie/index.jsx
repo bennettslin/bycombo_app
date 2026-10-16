@@ -335,7 +335,11 @@ Mr. Rogers told us to look for [the helpers](${REFERENCE_PATH}/the-helpers#) whe
 
 So I took a coding bootcamp, and for [seven years](${BOBTAIL_SUBSTACK_PATH}/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as "paying our dues"— to justify touring at a loss, for example. Only this time it threw me, because in tech, paid dues are a sign of "fake work"… and outsiders who see this, disrupt cultures that don't.
 
-Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, if paying dues counts for nothing outside the one culture where it's honored as high-status "[cred](${COMMENTARY_PATH}/cred#)," then *of course* all who've paid in will go on to oppose any new idea that might disrupt this culture— and with it, their place in its status hierarchy.
+${'  ' || `
+// TODO: Review.
+`}
+
+Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! See, if paying dues counts for nothing outside the one culture where it's honored as high-status "[cred](${COMMENTARY_PATH}/cred#)," then *of course* all who've paid in will go on to oppose any new idea that might disrupt this culture— and with it, their place in its hierarchy.
 
 Moreover, once a dues payer has wasted their youth racking up cred instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those ready to waste even *more* potential. Yet any such newcomer will then feel even *less* secure… thus worsening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of bad times!
 
@@ -343,7 +347,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Which is why it took a low-status outsider such as myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
+Which is why it took a low-status outsider such as myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid any dues to indie rock.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
