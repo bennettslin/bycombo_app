@@ -603,7 +603,11 @@ Why is progressivism so badly beaten in both politics and the arts today? It's b
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Because of this, they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
-This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the elites. Especially since— as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" explains— it's *not* a given that those below us would otherwise pick our side over theirs!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the elites. Especially since— as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" explains— it's *not* a given that those below us would otherwise pick our team over theirs!
 
 Which means we'll [need to quit](${REFERENCE_PATH}/need-to-quit#) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 
@@ -615,7 +619,11 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the most creative art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave [like indie labels](${REFERENCE_PATH}/like-indie-labels#), by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, then they *alone* gain the advantage— so others will do likewise, creating a "race to the bottom." Yet we in the audience won't notice! Because 5% less effort is now the *baseline*… and soon, 10%… 20%… as music "drifts to [low performance](${REFERENCE_PATH}/low-performance#)."
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, then they *alone* gain the advantage— so others will do likewise, starting a "race to the bottom." Yet we in the audience won't notice! Because 5% less effort is now our *baseline*… and soon, 10%… 20%… as music "drifts to [low performance](${REFERENCE_PATH}/low-performance#)."
 
 With this being so, shouldn't we expect "indieocracy" to leave us… *worse* off? Whoa, we've smoothed out all our squiggles! Yet the indie camp will oppose this [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so BYCombo won't get far by merely proposing it. To shift the paradigm, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of the arts?
 
@@ -639,7 +647,11 @@ But thanks to "indiefication," today's artists have no such reason to believe—
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*! Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for business partners back then to feel likewise. But when artists are getting discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered the same way?
 
-This century's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which is why it took an elder— one who recalls a top-down past!— to start BYCombo. So come join us, and sacrifice it all to make a stellar demo… in faith that a savior will listen.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+This century's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which is why it took an elder— one who recalls a top-down past!— to start BYCombo. So come join us, and sacrifice it all to make a stellar demo… in faith that a savior will then listen.
 
 ### Victory… is *assured*
 
