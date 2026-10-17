@@ -11,12 +11,12 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Think about it: Progressives want to be helped by those on top, right? Well, in politics, that'd be the government— which serves to check *against* capitalist excess. In the arts, however, help comes from the capitalists *themselves*— in the form of a major label deal, for example. So anyone who *rejects* capitalism as a matter of principle will sit on the political *left*… yet on the artistic *right*!
+Think about it: Progressives want to be helped by those on top, right? Well, in politics, that'd be the government— which serves to check *against* capitalist excess. In the arts, however, help comes from the capitalists *themselves*— in the form of a major label deal, for instance. So anyone who *rejects* capitalism as a matter of principle will sit on the political *left*… yet on the artistic *right*!
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-By contrast, disadvantaged groups *always* want help to come down from the top— and thus lean leftward in *every* case. This is why "indiefication," which tells us all to pull ourselves up by the bootstraps, has been so detrimental to the artistic underclass. After all, the ones who need the *least* help in society are those "trust fund" and "nepo babies." Why would the arts be different?
+By contrast, disadvantaged groups *always* want help to come down from the top— and thus lean leftward in *every* case. This is why "indiefication," which tells us all to pull ourselves up by the bootstraps, has been so detrimental to the artistic underclass. Still, if you're skeptical, no worries: I'll be driving this point home in the sections to come. Just read on!
     `,
 }
