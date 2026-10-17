@@ -11,12 +11,12 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Think about it: In politics, it's the *government* that invests in you from the top down, as a check *against* the excesses of capitalism. But in the arts, it's those capitalist institutions *themselves*, like the major labels. Given such, anyone who rejects capitalism as a matter of principle, like the indie camp, will tend to be political *progressive*… yet an artistic *conservative*!
+Think about it: Progressives want to be helped by those on top, right? Well, in politics, that'd be the government— which serves to check *against* capitalist excess. In the arts, however, help comes from the capitalists *themselves*— in the form of a major label deal, for example. So anyone who *rejects* capitalism as a matter of principle will sit on the political *left*… yet on the artistic *right*!
 
 ${'  ' || `
-// TODO: Review a few more times. Don't use "favor" twice.
+// TODO: Review a few more times.
 `}
 
-By contrast, disadvantaged groups *always* need help to come down from the top— and thus lean leftward in *both* cases. This is why "indiefication," which forces us all to pull ourselves up by the bootstraps, has been so detrimental to the artistic underclass, shoving them aside in favor of today's "trust fund" and "nepo babies."
+By contrast, disadvantaged groups *always* want help to come down from the top— and thus lean leftward in *every* case. This is why "indiefication," which tells us all to pull ourselves up by the bootstraps, has been so detrimental to the artistic underclass. After all, the ones who need the *least* help in society are those "trust fund" and "nepo babies." Why would the arts be different?
     `,
 }
