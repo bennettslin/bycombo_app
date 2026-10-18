@@ -5,18 +5,18 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Why does the indie camp, most of whom sit on the left in matters of *politics*, prefer the right when it comes to the *arts*? The answer is simple: It all stems from rejection of capitalism, which only began in full force with Millennials— who, remember, were babies when communism fell in Eastern Europe, and thus never saw its anti-capitalist ideology as a failure the way Gen X did.
+Why does the indie camp, most of whom sit on the left in matters of *politics*, prefer the right when it comes to the *arts*? The answer is simple: It all stems from rejection of capitalism, which only began in full force with Millennials— who, remember, were babies when communism fell in Eastern Europe, and thus never saw its anti-capitalist spirit as a failure the way Gen X did.
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Think about it: Progressives want to be helped by those at the top, right? And in politics, yes, that'd be the government, which corrects *against* capitalist excess. In the arts, however, help comes from the capitalists *themselves*— in the form of a major label deal, for instance. So anyone who rejects capitalism as a matter of principle will sit on the political *left*… yet on the artistic *right*!
+Think about it: Progressives want to be helped by those at the top, right? And in politics, yes, that'd be the government, which corrects *against* capitalist excess. In the arts, however, help comes from the capitalists *themselves*— in the form of major label deals, for instance. So anyone who rejects capitalism as a matter of principle will sit on the political *left*… yet on the artistic *right*!
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-By contrast, disadvantaged groups *always* want help to come down from the top— and thus lean leftward in *every* case. This is why "indiefication," which tells us all to pull ourselves up by the bootstraps, has been so detrimental to the artistic underclass, shoving them aside in favor of "trust fund" and "nepo babies." Anyway, I'll say more in the sections to come, so just keep reading!
+By contrast, disadvantaged groups *always* want help to come down from the top— and thus lean leftward in *every* case. This is why "indiefication," which tells us all to pull ourselves up by the bootstraps, has been so detrimental to the artistic underclass, shoving them aside in favor of "trust fund" and "nepo babies." Anyway, I'll explain further in the sections to come, so just read on!
     `,
 }
