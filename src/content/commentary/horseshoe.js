@@ -18,7 +18,7 @@ The populist in the middle takes the mental shortcut by simply assuming their hu
 
 what allows someone to sit at the extreme ends is that their arguments doesn't need to contain within itself a need to sustain the liberal values that allow them to make such arguments to begin with. This frees them from nuance, keeping their arguments simple. Which is attractive to cognitive misers.
 
-Many conflicts and situations are actually sideways horseshoes, which explains why the populist mentality so prevalent in this century— "Don't think too hard, just keep punching up!"— has achieved so little. After all, if those above you are aligned with those below you, then by punching up, you're causing as much hurt as you're helping.
+This is why both politics and the arts have gotten worse. Let's face it, if all of society can be split between the elites and the people, then yes, the populist mindset so popular this century— "Don't think too hard, just keep punching up!"— is all it'd take. But if it's actually a sideways horseshoe, then punching up also means punching down, and we end up hurting those we want to help!
 
 Assume they're voting for against their own interests.
 `,
