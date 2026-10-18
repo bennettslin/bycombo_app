@@ -23,10 +23,6 @@ In the past, artists were powerless to get themselves known; they could only hop
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their sole purpose is to "punish" any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if your band hopes to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, few out there sympathize. Well, how about a truce?
 
 **Yes— since rules are made to be followed, those who refuse to hustle can't complain about being unknown. But— rule breakers are *also* the ones who make history! So let's be open to giving them amnesty.**
