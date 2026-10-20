@@ -84,10 +84,10 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 **Why a demo *registry*?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Stellar demos signify exceptional talent— yet finding one requires sifting through *hundreds*. So the indie tastemakers rarely bother, since *any* artist they pick will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with *elites*— who alone have a "noblesse oblige" to help any artist being *hurt* by our good intentions.
+Stellar demos signify exceptional talent— yet finding one requires sifting through *hundreds*. So the indie tastemakers rarely bother, since *any* artist they pick will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with *elites*— who alone have a "noblesse oblige" to help those artists being *hurt* by our good intentions.
 
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
 
@@ -429,11 +429,7 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on our affection for them as [society's underdogs](${REFERENCE_PATH}/societys-underdogs#)…
 
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
-Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](${BOBTAIL_BLOG_PATH}/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=While%20mentioning%20privilege,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities declare ourselves underdogs as well— a solution that's come to be called "[wokeness](${COMMENTARY_PATH}/wokeness#)."
+Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](${BOBTAIL_BLOG_PATH}/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=While%20mentioning%20privilege,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "[wokeness](${COMMENTARY_PATH}/wokeness#)."
 
 But while White men *readily* benefit from their identities without having to admit it— like when it [lends authenticity](${REFERENCE_PATH}/lends-authenticity#) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
@@ -480,7 +476,7 @@ To sum up, it was the *indie camp* who gave us today's data-driven industry! Tha
 Are we due for a new Romanticism? Some foresee a revolt [against science](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash), as tech platforms take over the arts with their algorithms. Yet algorithms simply reflect what the people want, just like word of mouth does; it's why indie rock defended them for as long as it did. In this light, then, maybe we *shouldn't* blame those in tech, but [rather *ourselves*](${REFERENCE_PATH}/rather-ourselves#)— the people!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass that proposes them! And [when in doubt](https://en.wikipedia.org/wiki/Social_proof), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone have a "noblesse oblige" to help any artist being *hurt* by our human nature.
