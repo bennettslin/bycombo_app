@@ -7,9 +7,7 @@ ${'  ' || `
 // TODO: Review a few more times. Understanding, major labels. Illiberals.
 `}
 
-As we've just seen with the upright horseshoe, for example, the illiberals at either end share the same apathy toward preserving legacy institutions for the next generation— namely, liberal democracy in politics; and elitist gatekeeping in the arts.
-
-This naturally appeals to cognitive misers. In politics, this institution is liberal democracy; in the arts, it's the system of elitist gatekeeping favored by "rockists."
+As we've just seen with the upright horseshoe, for example, what unites both ends is a shared indifference toward maintaining legacy institutions: liberal democracy in politics, and elitist gatekeeping in the arts. And this tends to attract cognitive misers, since when you never need to build, only break, it lightens the cognitive load.
 
 By contrast, the sideways horseshoe exists because the elites at the top have the cognitive power to be aware that those of us at the bottom *aren't* like them. To win us over, then, they're forced to understand what we want by reasoning from first principles, as well as by speaking with us directly. To synthesize these vastly different ways of being necessarily requires higher cognition.
 
