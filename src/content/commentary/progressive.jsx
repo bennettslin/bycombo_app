@@ -1,6 +1,6 @@
-import React from 'react'
-import Image from '../../components/Image'
-import progressiveImage from '../../assets/images/commentary/progressive.jpg'
+// import React from 'react'
+// import Image from '../../components/Image'
+// import progressiveImage from '../../assets/images/commentary/progressive.jpg'
 
 export default {
     title: '"progressive"',
@@ -11,14 +11,14 @@ ${'  ' || `
 // TODO: Make image. Show these various terms on the upright horseshoe.
 `}
     `,
-    (
-        <Image
-            isPortrait
-            {...{
-                src: progressiveImage,
-            }}
-        />
-    ),
+    // (
+    //     <Image
+    //         isPortrait
+    //         {...{
+    //             src: progressiveImage,
+    //         }}
+    //     />
+    // ),
     `
 On the horizontal axis, for instance, the progressive on the left is opposed by the conservative on the right. Where they disagree is on how society— or the arts!— should be structured: A progressive chooses interdependence within the collective, spurred by top-down investment… while a conservative wants independence for the individual, bootstrapped from the bottom up.
 
