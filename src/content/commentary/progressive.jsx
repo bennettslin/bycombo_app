@@ -6,10 +6,6 @@ export default {
     title: '"progressive"',
     body: [`
 In observing the similarities between political and artistic beliefs, I should clarify what I mean by certain terms. Specifically, many treat "progressive" and "liberal" as distinct labels— whereas, to my mind, they're *not* mutually exclusive; rather, they sit along different axes of the "upright horseshoe."
-
-${'  ' || `
-// TODO: Make image. Show these various terms on the upright horseshoe.
-`}
     `,
     // (
     //     <Image
