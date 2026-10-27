@@ -78,10 +78,6 @@ We'll also need each of the following:
 
 - Your gender. (This *only* determines whom we'll place you in a band with. It *doesn't* affect your chances of being accepted.)
 
-${'  ' || `
-// TODO: Review.
-`}
-
 - Total hours you'll spend each week to earn a living, including commute. (We'll use this as a proxy for economic class. Also, the same condition as above applies here, so just make an honest guess if you're not sure.)
 
 - Whether you can relocate to Los Angeles, if you aren't here already. (If not, you won't be eligible for the pilot cohort, but we'll keep you on file for later ones.)
