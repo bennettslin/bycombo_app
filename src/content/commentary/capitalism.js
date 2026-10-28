@@ -6,7 +6,7 @@ Why does the indie camp, most of whom sit on the left in matters of *politics*, 
 Think about it: Progressives want to be helped by those at the top, right? And in politics, yes, that'd be the government, which corrects *against* capitalist excess. In the arts, however, help comes from the capitalists *themselves*— in the form of major label deals, for example. So anyone who rejects capitalism as a matter of principle will sit on the political *left*… yet on the artistic *right*!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 By contrast, disadvantaged groups *always* want help to come down from the top— and thus lean leftward in *both* cases. This is why "indiefication," which tells every artist to "pull themselves up by the bootstraps," has been so brutal to us in the underclass: As history shows, we *need* to partner with capitalists. Anyway, I'll explain further in the sections to come, so just keep reading!
