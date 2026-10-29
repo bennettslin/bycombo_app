@@ -457,10 +457,6 @@ And yet, underdog movements are here to stay, because it's a *privilege* to be t
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with concrete metrics such as these. So every new technology in the '00s— digital downloads, streaming services— was about bringing the good intentions of underdog movements to the Internet!
 
 After all, here's how it worked before: Each major label would bet on visions that others *didn't* see— like, let's say, a regional style blowing up all over the world. But this left bands powerless to negotiate; they couldn't play one label off another, since a vision alone is worth nothing. As a result, they often had to accept unfair terms… leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
@@ -598,10 +594,6 @@ Still, since our troubles began when we accepted indiefication and rejected capi
 Why is progressivism so badly beaten in both politics and the arts today? It's because indie rock taught us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Because of this, they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 This notion of an "[upright horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," then, in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase. Once the "building" phase begins, our best chance as progressives is to *work* with the elites. Especially since— as the "*sideways* [horseshoe](${COMMENTARY_PATH}/horseshoe#)" makes clear— it's *not* a given that those below us would rather join our team over theirs!
 

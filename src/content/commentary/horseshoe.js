@@ -7,24 +7,24 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-As we've just seen with the upright horseshoe, for example, what unites both ends is a shared indifference to maintaining legacy institutions— whether it be liberal democracy in politics, or elitist gatekeeping in the arts. And this, of course, appeals to cognitive misers, since there's no need to understand that which you'd happily rip down.
+As we've just seen with the upright horseshoe, for instance, what unites both ends is a shared indifference to maintaining legacy institutions— whether it be liberal democracy in politics, or elitist gatekeeping in the arts. And this, of course, appeals to cognitive misers: After all, if it's already slated to be ripped down… then why bother to understand it?
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-An urge to conserve brainpower *also* explains the simplicity of their populist thinking, in which everyone who isn't an elite is one of the people. We in the underclass, then, are just a less privileged middle class— and thus they never need to engage with us: Any benefits gained for themselves will trickle down to us below. And if we differ, then we're "voting against our own interests"!
+An urge to conserve brainpower *also* explains the simplicity of their populist thinking, in which anyone who isn't an elite is one of the people. This means we in the underclass are just a "lower" middle class— and so they never need to engage with us: "Every benefit we gain for ourselves surely trickles down!" If we beg to differ, though? "Then you're voting against your own interests!"
 
 ${'  ' || `
-// TODO: Review a few more times. Contrast it with the simplicity of populism. 
+// TODO: Review a few more times.
 `}
 
-By contrast, the ends meet on the sideways horseshoe precisely because the elites at the top recognize they *aren't* like those of us at the bottom. If they're to know our demands, then, they need to reason from first principles, as well as to engage with us directly— all of which calls on a higher level of cognition.
+By contrast, the ends unite on the sideways horseshoe precisely because the elites at the top recognize they *aren't* like us at the bottom. If they're to know our demands, then, they need to reason from first principles, if not to engage with us directly— both of which call upon a higher order of cognition.
 
 ${'  ' || `
-// TODO: Keep working on. Make it about people today refusing to be elites, and thus to be the grownups.
+// TODO: Review a few more times.
 `}
 
-This is why both politics and the arts have gotten worse. Let's face it, if all of society can be split between the elites and the people, then yes, the populist mindset so popular this century— "Don't think too hard, just keep punching up!"— is all it'd take. But if it's actually a sideways horseshoe, then punching up also means punching down, and we end up hurting those we want to help!
+So here's my "grand unified theory" for why *everything* this century is worse: An entire generation, refusing to be elites, embraced populism instead— and thus took up the mantra: "Don't think too hard; just keep punching up!" But if all of society— or the arts!— is really a sideways horseshoe, then every punch up is also a punch *down*… costing us effort, only to keep us in place.
 `,
 }
