@@ -29,6 +29,6 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-So here's my "grand unified theory" for why *everything* this century is worse: An entire generation, refusing to be elites, embraced populism instead. Thus they took up its mantra: "Don't think too hard; just keep punching up!" But on a sideways horseshoe, any punch *up* is also a punch *down*. As a result, they've harmed more than they've helped… all the while wearing themselves out.
+So here's my "grand unified theory" for why *everything* this century is worse: An entire generation, refusing to be elites, embraced populism instead. Thus they took up its mantra: "Don't think too hard; just keep punching up!" But on a sideways horseshoe, any punch *up* is also a punch *down*. As a result, they've harmed us more than they've helped… all the while wearing themselves out.
 `,
 }
