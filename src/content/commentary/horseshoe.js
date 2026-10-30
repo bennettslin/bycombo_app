@@ -5,7 +5,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-You might've noticed: Those who sit at either end of the "upright horseshoe" tend *not* to do so on the "sideways" one— and vice versa. Why? I suspect my earlier commentary on populism offers an answer. See, whether in politics or the arts, there are two modes of cognition, with one encouraged by elites; and the other, by populists— whom I'll call cognitive misers.
+You might've noticed: Those who sit at either end of the "upright horseshoe" tend *not* to do so on the "sideways" one— and vice versa. Why? I suspect my earlier commentary on populism offers an answer. See, whether in politics or the arts, there are two modes of cognition, with one encouraged by elites; and the other, by populists— whom I'll call cognitive misers here.
 
 ${'  ' || `
 // TODO: Review.
@@ -20,10 +20,10 @@ ${'  ' || `
 An urge to conserve brainpower *also* explains the simplicity of their populist thinking, in which anyone who isn't an elite is one of the people. By this logic, we in the underclass are just a "lower" middle class— and so they never need to engage with us: "Every benefit we gain for ourselves surely trickles down!" But what if we beg to differ? "Then you're voting against your own interests!"
 
 ${'  ' || `
-// TODO: Revise. Make first sentence clearly a repudiation of how cognitive misers do it in the previous paragraph. Also restate cognitive miser one more time?
+// TODO: Revise. Put mention of sideways horseshoe at the end instead?
 `}
 
-By contrast, the ends unite on the sideways horseshoe precisely because the elites at the top recognize they *aren't* like us at the bottom. If they're to know our demands, then, they need to reason from first principles, if not to engage with us directly— either of which calls upon a higher order of cognition.
+By contrast, the ends unite on the sideways horseshoe precisely because the elites at the top recognize they're *not* like us at the bottom— lending them to feel a "noblesse oblige." Then, to understand our demands, they reason from first principles, as well as engage with us directly— both of which call upon a level of brainpower that the cognitive miser chooses not to expend.
 
 ${'  ' || `
 // TODO: Review.
