@@ -20,10 +20,10 @@ ${'  ' || `
 An urge to conserve brainpower *also* explains the simplicity of their populist thinking, in which anyone who isn't an elite is one of the people. By this logic, we in the underclass are just a "lower" middle class— and so they never need to engage with us: "Every benefit we gain for ourselves surely trickles down!" But what if we beg to differ? "Then you're voting against your own interests!"
 
 ${'  ' || `
-// TODO: Revise. Put mention of sideways horseshoe at the end instead?
+// TODO: Revise. Make two versions to compare, with second one mentioning sideways horseshoe at the end instead.
 `}
 
-By contrast, the ends unite on the sideways horseshoe precisely because the elites at the top recognize they're *not* like us at the bottom— lending them to feel a "noblesse oblige." Then, to understand our demands, they reason from first principles, as well as engage with us directly— both of which call upon a level of brainpower that the cognitive miser chooses not to expend.
+By contrast, on the sideways horseshoe, the ends unite because the elites at the top feel a "noblesse oblige" toward those of us at the bottom, whom they recognize *aren't* like them. To know our demands, then, they need to reason from first principles, if not to engage with us directly— either of which calls upon brainpower lacking in the cognitive miser.
 
 ${'  ' || `
 // TODO: Review.
