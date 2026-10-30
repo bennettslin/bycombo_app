@@ -381,7 +381,11 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for e
 
 Now, our forebears didn't need to coin such a term: They intuitively grasped why the underclass should [shy away](${REFERENCE_PATH}/shy-away#) from populism. But Millennials never developed this intuition; as a result, their progressives keep trying to pit *all* of us against the political establishment… only to [watch in confusion](${REFERENCE_PATH}/watch-in-confusion#) as the more disadvantaged among us side with the establishment instead.
 
-Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those working-class alternative bands of the '90s, who signed to major labels despite being seen as sellouts. Yet the [college-educated](${REFERENCE_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Just keep touring at a loss! Once you rack up enough cred, we'll support you."
+${'  ' || `
+// TODO: Review reference link.
+`}
+
+Of course, it's *also* in the arts where this confusion has done its damage. As a minority, for example, I relate most to those [working-class](${REFERENCE_PATH}/working-class#) alternative bands of the '90s, who signed to major labels despite being seen as sellouts. Yet the [college-educated](${REFERENCE_PATH}/college-educated#) indie camp— our alleged good guys— won't hear of it: "Just keep touring at a loss! Once you rack up enough cred, we'll support you."
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking [populism](${COMMENTARY_PATH}/populism#) for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a modern-day rebel.
 

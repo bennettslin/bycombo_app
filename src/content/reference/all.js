@@ -27,6 +27,7 @@ import exclusiveSnobberyReference from './exclusive-snobbery'
 import elitistSnobsReference from './elitist-snobs'
 import shyAwayReference from './shy-away'
 import watchInConfusionReference from './watch-in-confusion'
+import workingClassReference from './working-class'
 import collegeEducatedReference from './college-educated'
 import canAffordReference from './can-afford'
 import tomorrowsWinnersReference from './tomorrows-winners'
@@ -85,6 +86,7 @@ export default {
         elitistSnobsReference,
         shyAwayReference,
         watchInConfusionReference,
+        workingClassReference,
         collegeEducatedReference,
         canAffordReference,
         tomorrowsWinnersReference,
