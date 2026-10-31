@@ -8,10 +8,10 @@ As we've just seen with the *upright* horseshoe, for instance, what unites both 
 An urge to conserve brainpower *also* explains the simplicity of their populist thinking, in which anyone who isn't an elite is one of the people. By this logic, we in the underclass are just a "lower" middle class— and so they never need to engage with us: "Every benefit we gain for ourselves surely trickles down!" But what if we beg to differ? "Then you're voting against your own interests!"
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-By contrast, the elites at the top feel a "noblesse oblige" toward those of us at the bottom, precisely because they recognize we're *not* the same as them. To know our demands, then, they need to reason from first principles, as well as to engage with us directly— all of which draws on a higher mode of cognition. And that's how the two ends of the *sideways* horseshoe unite!
+By contrast, the elites at the top feel a "noblesse oblige" toward those of us at the bottom, precisely because they recognize we *aren't* the same as them. To understand our demands, then, they need to reason from first principles, if not to engage with us directly— which means they *can't* be cognitive misers. And that's how the two ends of the *sideways* horseshoe unite!
 
 So here's my "grand unified theory" for why *everything* this century is worse: An entire generation, refusing to be elites, embraced populism instead. Thus they took up its mantra: "Don't think too hard; just keep punching up!" But on a sideways horseshoe, any punch *up* is also a punch *down*. As a result, they've harmed us more than they've helped… all the while wearing themselves out.
 `,
