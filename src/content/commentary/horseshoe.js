@@ -8,7 +8,7 @@ As we've just seen with the *upright* horseshoe, for instance, what unites both 
 An urge to conserve brainpower *also* explains the simplicity of their populist thinking, in which anyone who isn't an elite is one of the people. By this logic, we in the underclass are just a "lower" middle class— and so they never need to engage with us: "Every benefit we gain for ourselves surely trickles down!" But what if we beg to differ? "Then you're voting against your own interests!"
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 By contrast, the elites at the top feel a "noblesse oblige" toward those of us at the bottom, precisely because they recognize we *aren't* the same as them. To understand our demands, then, they need to reason from first principles, if not to engage with us directly— which means they *can't* be cognitive misers. And that's how the two ends of the *sideways* horseshoe unite!

@@ -5,10 +5,6 @@ export default {
 
 > But when Pavement […] indifferently mocked Smashing Pumpkins and Stone Temple Pilots in the lyrics to "Range Life," one of the breakout songs from 1994's *Crooked Rain Crooked Rain*, it was an early sign that this was no longer true— or, worse, had never been true in the first place.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 > Unwittingly or not, "Range Life" taught me that the alternative bands I liked were overblown frauds.
 
 Hyden, Steven. "[Part 6: 1995: Live, Bush, and Alanis Morissette Take the Pop Path.](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405)" *The A.V. Club*, December 2010.

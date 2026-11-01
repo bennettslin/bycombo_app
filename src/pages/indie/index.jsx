@@ -385,10 +385,6 @@ Of course, it's *also* in the arts where this confusion has done its damage. As 
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking [populism](${COMMENTARY_PATH}/populism#) for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a modern-day rebel.
 
-${'  ' || `
-// TODO: Review link move.
-`}
-
 After all, only the *privileged* can afford to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because BYCombo lets you skip indie rock's "creative middle class," and [go straight](${REFERENCE_PATH}/go-straight#) from the counterculture to the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
@@ -640,7 +636,7 @@ This century's music is worse, then, because it's bottom up— while history *it
 ### Victory… is *assured*
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Fifty ways that indie rock has left us worse off! Yet our revolution faces one last hurdle: Upon taking root, "indiefication" then takes over. After all, with so many artists to pick from, *of course* any label will insist, "Give us the one who does the middleman's job!" And any fan: "We'll support the one who engages with us!" And any critic: "The one whose lore offers much to discuss, please!"
