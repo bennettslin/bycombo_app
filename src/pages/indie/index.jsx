@@ -385,7 +385,11 @@ Of course, it's *also* in the arts where this confusion has done its damage. As 
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking [populism](${COMMENTARY_PATH}/populism#) for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to merely "larp" as a modern-day rebel.
 
-After all, only the *privileged* [can afford](${REFERENCE_PATH}/can-afford#) to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because BYCombo lets you skip indie rock's "creative middle class," and go straight from the counterculture to the establishment— just like those alternative bands did in the '90s.
+${'  ' || `
+// TODO: Review link move.
+`}
+
+After all, only the *privileged* can afford to be such moral purists about selling out! So, will we see a return of the sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! Because BYCombo lets you skip indie rock's "creative middle class," and [go straight](${REFERENCE_PATH}/go-straight#) from the counterculture to the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 

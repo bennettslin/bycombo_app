@@ -2,11 +2,17 @@ export default {
     title: `"working-class"`,
     body: `
 ${'  ' || `
-// TODO: Review.
+// TODO: Review switch.
 `}
 
-> NIRVANA sees the underground scene as becoming stagnant and more accessible to big-league capitalist-pig major labels. But does [that mean we] feel a moral duty to fight this cancerous evil? NO WAY! We want to cash in and suck up to the big wigs in hopes that we too can GET HIGH AND FUCK.
+> You can hear Kurt's tremulous nervousness and bumbling desire to belong, to be part of it. […] But at the same time, he started to resent […] these twee college-kid followers of the new indie ideology.
 
-Nirvana. "[Nirvana Bio.](https://www.livenirvana.com/documents/bioSP.html)" *Sub Pop*, June 1989.
+> It seems like half the songs on *Nevermind* were the result of a […] hostility that grew in Kurt toward [the indie scene in Olympia] that he desperately wanted the approval of, but by [his working-class] disposition, wasn't suited to somehow.
+
+> Much has been made about the psychic wounds [inflicted] on Kurt by his fame: […] sell out to the evil money men, see how empty it is, lose yourself, die. […] But [the ones] he sustained from [the Olympia indie scene] have somehow gone missing [from the record].
+
+> There's clear […] evidence that, whatever [it was] he'd experienced, it led him […] to rebel against them […] by signing with a major label, [making lots of money], and getting as famous as humanly possible.
+
+Smith, Aaron Lake. "[Stupid and Contagious.](https://emptyrailroadgulch.substack.com/p/nirvana)" *Empty Railroad Gulch*, August 2022.
     `,
 }

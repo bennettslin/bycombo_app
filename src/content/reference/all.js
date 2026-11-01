@@ -29,7 +29,7 @@ import shyAwayReference from './shy-away'
 import watchInConfusionReference from './watch-in-confusion'
 import workingClassReference from './working-class'
 import collegeEducatedReference from './college-educated'
-import canAffordReference from './can-afford'
+import goStraightReference from './go-straight'
 import tomorrowsWinnersReference from './tomorrows-winners'
 import newTasteReference from './new-taste'
 import societysUnderdogsReference from './societys-underdogs'
@@ -88,7 +88,7 @@ export default {
         watchInConfusionReference,
         workingClassReference,
         collegeEducatedReference,
-        canAffordReference,
+        goStraightReference,
         tomorrowsWinnersReference,
         newTasteReference,
         societysUnderdogsReference,
