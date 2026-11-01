@@ -339,7 +339,7 @@ Except, now it made sense why, unlike the [avant-garde](https://youtu.be/pHCdS7O
 
 Moreover, once a dues payer has wasted their youth racking up cred instead of mastering the craft, they can never feel secure enough to let a newcomer surpass them. So *of course* the only ones they'll help are those ready to waste even *more* potential. Yet any such newcomer will then feel even *less* secure… thus worsening the [vicious circle](${REFERENCE_PATH}/vicious-circle#) of bad times!
 
-Which is why it took a low-status outsider such as myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid any dues to indie rock.
+Which is why it took a low-status outsider such as myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never paid my dues to indie rock.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
