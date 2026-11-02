@@ -1,15 +1,7 @@
 export default {
     title: `"watch in confusion"`,
     body: `
-${'  ' || `
-// TODO: Review.
-`}
-
 > [Bernie] Sanders […] believed his calls for a "political revolution" to fight the power of corporations and the wealthy would have natural appeal across racial lines. […] Here was his chance to prove he really was breaking through with Black voters— and that he really did have a chance of winning the nomination. Instead, he got crushed.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 > Among [South Carolina's] Black voters, [Hillary] Clinton's margin of support was staggering: 72 percentage points, 86% to 14%. […] Blacks [also] made up more than a quarter of all Democratic primary voters nationally, and they were instrumental in supplying [her] with what became an insurmountable delegate lead.
 

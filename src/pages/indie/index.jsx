@@ -635,10 +635,6 @@ This century's music is worse, then, because it's bottom up— while history *it
 
 ### Victory… is *assured*
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Fifty ways that indie rock has left us worse off! Yet our revolution faces one last hurdle: Upon taking root, "indiefication" then takes over. After all, with so many artists to pick from, *of course* any label will insist, "Give us the one who does the middleman's job!" And any fan: "We'll support the one who engages with us!" And any critic: "The one whose lore offers much to discuss, please!"
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp)— which states that 20% of the effort yields 80% of the results.
