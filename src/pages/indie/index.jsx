@@ -83,10 +83,6 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a demo *registry*?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Stellar demos signify exceptional talent— yet finding one requires sifting through *hundreds*. So the indie tastemakers rarely bother, since *any* artist they pick will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with *elites*— who alone have a "noblesse oblige" to help those being *hurt* by our good intentions.
 
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
