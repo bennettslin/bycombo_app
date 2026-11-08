@@ -38,7 +38,11 @@ Once everyone agrees to form a band, those who can relocate to the same city wil
 
 BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. You'll gain live experience by playing at each other's house parties, where all guests will be welcome. We'll also share your progress in our newsletter— which won't violate your pledge, as this work will be done solely by us.
 
-Once your demo is complete, we'll add it to our demo registry, thus exposing you to business partners. As an alum now, you'll also be encouraged to "pay it forward" and help out future cohorts.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Once your demo is complete, we'll add it to our demo registry, thus exposing you to business partners. Other opportunities will include performing at our showcases, as well as opening for BYCombo bands from past cohorts. And as an alum now, you'll also have the chance to "pay it forward" and help out any future cohorts.
 
 ### A lifetime of band projects
 
