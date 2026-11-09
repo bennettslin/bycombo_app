@@ -1,23 +1,10 @@
-// import React from 'react'
-// import Image from '../../components/Image'
-// import progressiveImage from '../../assets/images/commentary/progressive.jpg'
-
 export default {
     title: '"progressive"',
-    body: [`
+    body: `
 In observing the similarities between political and artistic beliefs, I should clarify what I mean by certain terms. Specifically, many treat "progressive" and "liberal" as distinct labels— whereas, to my mind, they're *not* mutually exclusive; rather, they sit along different axes of the "upright horseshoe."
-    `,
-    // (
-    //     <Image
-    //         isPortrait
-    //         {...{
-    //             src: progressiveImage,
-    //         }}
-    //     />
-    // ),
-    `
+
 On the horizontal axis, for instance, the progressive on the left is opposed by the conservative on the right. Where they disagree is on how society— or the arts!— should be structured: A progressive chooses interdependence within the collective, spurred by top-down investment… while a conservative wants independence for the individual, bootstrapped from the bottom up.
 
 Now, moving on to the vertical axis, the opposite of a liberal is an *il*-liberal. The difference is in how each engages with others who disagree with them: While the liberal favors tolerance and compromise, the illiberal insists upon polarization and purity tests. Here's the confusing part, though: A liberal on the left is *still* just a liberal— but on the right, they're called a libertarian!
-    `],
+    `,
 }
