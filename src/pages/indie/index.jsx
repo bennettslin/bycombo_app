@@ -293,6 +293,27 @@ Why has this century only given us "workhorse art" so far? It's simple: Under "i
 
 ${'  ' || `
 // TODO: Keep working on.
+    * Mention grownup
+    * Mention "tragedy of the commons"
+    * In its desire to enrich the "creative middle class," indies allowed windfall art to go extinct. (Do mention creative middle class in this section.)
+    * Pollution
+    * Saving the wildlife by killing predators
+        * well-crafted and radio-friendly tunes envied by other artists— Ordinary World
+        * Extinction?
+        * Feeding wildlife?
+    * Indie rock got it wrong. Art *needs* the mainstream to take from the counterculture, and the counterculture's best artists are happy to make this happen, over any protests from the "creative middle class."
+    * Finish with: Let's face it, indie artists can never make windfall art, so makers of windfall art, in turn, will always refuse to be indie. (Talk about audiences, to segue into next section.)
+    * Talk about sideways horseshoe? Or no?
+    * In a world without grownups
+        * No kid can be cool
+    * Link to Marx again?
+        * https://culture.ghost.io/culture-is-an-ecosystem-a-manifesto-towards-a-new-cultural-criticism-2/
+        * https://culture.ghost.io/culture-is-an-ecosystem-a-manifesto-towards-a-new-cultural-criticism-3/
+    * Consider "coolness compensates for disempowerment"
+    * Before audiences section
+        * In "audience" commentary
+            * Last sentence
+                * Say, let's be stewards of our language
 `}
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
