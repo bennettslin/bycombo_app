@@ -3,15 +3,10 @@ import { useSelector } from 'react-redux'
 import cx from 'classnames'
 import Flex from '../../../../../components/Flex'
 import BackButton from '../../../../../components/CustomButton/BackButton'
-import {
-    getMapBackLinkText,
-    getMapDoShowBackLink,
-} from '../../../../../redux/page/selector'
+import { getMapDoShowBackLink } from '../../../../../redux/page/selector'
 
 const BackLink = () => {
-    const
-        doShowBackLink = useSelector(getMapDoShowBackLink),
-        backButtonText = useSelector(getMapBackLinkText)
+    const doShowBackLink = useSelector(getMapDoShowBackLink)
 
     return doShowBackLink && (
         <Flex
@@ -25,7 +20,7 @@ const BackLink = () => {
         >
             <BackButton isInMenu />
             <label>
-                {backButtonText}
+                Go back
             </label>
         </Flex>
     )
