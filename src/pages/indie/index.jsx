@@ -291,11 +291,14 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 
 Why has this century only given us "workhorse art" so far? It's simple: Under "indieocracy," if a work fails to go viral, we expect the artist to take it in stride, learn from listener feedback, and try anew. But a maker of "windfall art" will keep pressing their case, over and over, in hopes an elite might finally agree to advocate on their behalf. Which… is also how the *worst* artists behave!
 
+In its desire to empower the "creative middle class," then, the indie camp allowed its history makers to die out— like ranchers killing off apex predators to protect their livestock. But this results in overpopulation— whether we're talking about artists or herds. As a result, the commons haven't just been *polluted*, but *depleted*.
+
+The age of 
+
 ${'  ' || `
 // TODO: Keep working on.
     * Mention grownup
     * Mention "tragedy of the commons"
-    * In its desire to enrich the "creative middle class," indies allowed windfall art to go extinct. (Do mention creative middle class in this section.)
     * Pollution
     * Saving the wildlife by killing predators
         * well-crafted and radio-friendly tunes envied by other artists— Ordinary World
