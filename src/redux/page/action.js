@@ -33,3 +33,8 @@ export const updateIsPointerDown = (isPointerDown = false) => ({
     type: PAGE_STORE,
     payload: { isPointerDown },
 })
+
+export const updateIsLinkCopied = (isLinkCopied = false) => ({
+    type: PAGE_STORE,
+    payload: { isLinkCopied },
+})

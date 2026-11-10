@@ -1,28 +1,25 @@
-import React, { useRef, useState } from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
-import { useSelector } from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux'
 import CustomButton from '../../CustomButton'
 import Svg from '../../Svg'
 import copyUrl from '../../../assets/svgs/socialMedia/copyUrl'
 import copyUrlCopied from '../../../assets/svgs/socialMedia/copyUrlCopied'
-import { mapSelectedPagePath } from '../../../redux/page/selector'
+import { updateIsLinkCopied } from '../../../redux/page/action'
+import { mapIsLinkCopied, mapSelectedPagePath } from '../../../redux/page/selector'
 import { getUrlFromPathAndLinkId } from '../../../utils/pages/path'
 import './style'
 
 const ShareButton = ({ linkId, ...rest }) => {
     const
-        copiedUrlRef = useRef(),
+        dispatch = useDispatch(),
         selectedPagePath = useSelector(mapSelectedPagePath),
-        [isCopied, setIsCopied] = useState(false),
+        isLinkCopied = useSelector(mapIsLinkCopied),
         [copyTimeoutId, setCopyTimeoutId] = useState(-1)
 
-    copiedUrlRef.current = isCopied
-
     const resetCopiedUrlKey = () => {
-        if (copiedUrlRef.current) {
-            setIsCopied(false)
-        }
+        dispatch(updateIsLinkCopied())
     }
 
     const handleButtonClick = () => {
@@ -32,7 +29,7 @@ const ShareButton = ({ linkId, ...rest }) => {
         ))
 
         clearTimeout(copyTimeoutId)
-        setIsCopied(true)
+        dispatch(updateIsLinkCopied(true))
 
         setCopyTimeoutId(setTimeout(
             resetCopiedUrlKey,
@@ -52,7 +49,7 @@ const ShareButton = ({ linkId, ...rest }) => {
         >
             <Svg
                 {...{
-                    src: isCopied ? copyUrlCopied : copyUrl,
+                    src: isLinkCopied ? copyUrlCopied : copyUrl,
                 }}
             />
         </CustomButton>

@@ -11,10 +11,6 @@ export const getTruncatedText = (text, maxLength = 160) => (
         text
 )
 
-export const getCapitalizedText = text => (
-    `${text.charAt(0).toUpperCase()}${text.slice(1).toLowerCase()}`
-)
-
 export const getFormattedText = text => (
     getUnbrokenEmDashText(
         getSmartQuotedText(text),

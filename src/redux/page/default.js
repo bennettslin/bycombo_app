@@ -9,4 +9,5 @@ export const getPageDefaults = ({
     selectedPagePath: initialPage,
     isFirstSession: false,
     isPointerDown: false,
+    isLinkCopied: false,
 })

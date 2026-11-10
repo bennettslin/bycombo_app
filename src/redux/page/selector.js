@@ -4,8 +4,6 @@ import { getChildPageFromPath, getTopLevelPageFromPath } from '../../utils/pages
 import { getBoolFromTextValue } from '../../utils/storage'
 import { PAGE_STORE } from '../../constants/store'
 import { ID_LINK_KEY } from '../../constants/pages'
-// import { getCapitalizedText } from '../../utils/format'
-// import { getSmartQuotedText } from '../../utils/format/smartQuote'
 
 export const mapIsIdLinkedPage = (
     { [PAGE_STORE]: { selectedSearch } },
@@ -20,6 +18,10 @@ export const mapIsSubsequentSession = (
 export const mapIsPointerDown = (
     { [PAGE_STORE]: { isPointerDown } },
 ) => isPointerDown
+
+export const mapIsLinkCopied = (
+    { [PAGE_STORE]: { isLinkCopied } },
+) => isLinkCopied
 
 export const mapSelectedPagePath = (
     { [PAGE_STORE]: { selectedPagePath } },
@@ -57,31 +59,6 @@ export const getMapDoShowBackLink = createSelector(
         isIdLinkedPage
     ),
 )
-
-// export const getMapBackLinkText = createSelector(
-//     getMapIsChildPage,
-//     mapSelectedTopLevelPagePath,
-//     mapIsIdLinkedPage,
-//     mapIsSubsequentSession,
-//     (
-//         isChildPage,
-//         selectedTopLevelPagePath,
-//         isIdLinkedPage,
-//         isSubsequentSession,
-//     ) => {
-//         if (isChildPage) {
-//             return getSmartQuotedText(
-//                 `${isSubsequentSession ? 'Back' : 'Go'} to "${
-//                     getCapitalizedText(selectedTopLevelPagePath)
-//                 }"`,
-//             )
-//         } else if (isIdLinkedPage) {
-//             return `Go back`
-//         }
-//         // Technically, this will never be rendered.
-//         return ``
-//     },
-// )
 
 export const getMapIsSelectedMenuPath = topLevelPagePath => createSelector(
     mapSelectedTopLevelPagePath,
