@@ -42,7 +42,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once your demo is complete, we'll add it to our demo registry, thus exposing you to business partners. Other opportunities will include performing at our showcases, as well as opening for BYCombo bands from previous cohorts. As an alum now, you'll also have the chance to "pay it forward" and help out our next cohort.
+Once your demo is complete, we'll add it to our demo registry, thus exposing you to business partners. Other opportunities will include performing at our showcases, as well as opening for BYCombo bands from previous cohorts. As an alum now, you'll also have the chance to "pay it forward" and help out our *next* cohorts.
 
 ### A lifetime of band projects
 
@@ -89,7 +89,7 @@ We'll also need each of the following:
 - An acknowledgment that you've read "[The Problem with Indie Rock](/indie#)" in full, knowing it's what drives the BYCombo mission. (It's fine to disagree with one or two points; any more than that, though, is a sign we're not a good fit for you.)
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 - A promise to abide by the [liberal values](/indie/commentary/progressive#) of tolerance, understanding, and compromise. (We need everyone in your cohort to get along!)
