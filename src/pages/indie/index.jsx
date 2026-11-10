@@ -654,7 +654,11 @@ But thanks to "indiefication," today's artists have no such reason to believe—
 
 This century's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," today's young folks don't know these are bottom-up times. Which is why it took an elder— one who recalls a top-down past!— to start BYCombo. So come join us, and sacrifice it all to make a stellar demo… in faith that a savior will then listen.
 
-### Victory… is *assured*
+${'  ' || `
+// TODO: Review title.
+`}
+
+### Victory… is *assured*!
 
 Fifty ways that indie rock has left us worse off! Yet our revolution faces one last hurdle: Upon taking root, "indiefication" then takes over. After all, with so many artists to pick from, *of course* any label will insist, "Give us the one who does the middleman's job!" And any fan: "We'll support the one who engages with us!" And any critic: "The one whose lore offers much to discuss, please!"
 
