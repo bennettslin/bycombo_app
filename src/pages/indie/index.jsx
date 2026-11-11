@@ -291,9 +291,9 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 
 Why has this century only given us "workhorse art" so far? It's simple: Under "indieocracy," if a work fails to go viral, we expect the artist to take it in stride, learn from listener feedback, and try anew. But a maker of "windfall art" will keep pressing their case, over and over, in hopes an elite might finally agree to advocate on their behalf. Which… is also how the *worst* artists behave!
 
-In its desire to empower the "creative middle class," then, the indie camp allowed its history makers to die out— like ranchers killing off apex predators to protect their livestock. But this results in overpopulation— whether we're talking about artists or herds. As a result, the commons haven't just been *polluted*, but *depleted*.
+To empower the "creative middle class," then, the indie camp abandoned this century's history makers— like ranchers killing off apex predators to protect their livestock. But this results in overpopulation; so now, the commons aren't just *polluted*, but also *depleted*! Which means the Age of Exploration started by the Internet is over… and our Age of Stewardship has begun.
 
-The age of 
+
 
 ${'  ' || `
 // TODO: Keep working on.
