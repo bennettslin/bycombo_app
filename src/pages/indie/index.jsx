@@ -294,9 +294,9 @@ Why has this century only given us "workhorse art" so far? It's simple: Under "i
 To empower the "creative middle class," then, the indie camp abandoned this century's history makers— like ranchers killing off apex predators to protect their livestock. But this results in overpopulation; so now, the commons aren't just *polluted*, but also *depleted*! Which means the Age of Exploration started by the Internet is over… and our Age of Stewardship has begun.
 
 
-
 ${'  ' || `
-// TODO: Keep working on.
+    // TODO: Keep working on.
+    * crowded field?
     * Mention grownup
     * Mention "tragedy of the commons"
     * Pollution
