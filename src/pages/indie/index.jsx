@@ -291,7 +291,16 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 
 Why has this century only given us "workhorse art" so far? It's simple: Under "indieocracy," if a work fails to go viral, we expect the artist to take it in stride, learn from listener feedback, and try anew. But a maker of "windfall art" will keep pressing their case, over and over, in hopes an elite might finally agree to advocate on their behalf. Which… is also how the *worst* artists behave!
 
-To empower the "creative middle class," then, the indie camp abandoned this century's history makers— like ranchers killing off apex predators to protect their livestock. But this results in overpopulation; so now, the commons aren't just *polluted*, but also *depleted*! Which means the Age of Exploration started by the Internet is over… and our Age of Stewardship has begun.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+By empowering the "creative middle class," the indie camp ended up killing off the history makers of our times— like ranchers killing off apex predators to protect their livestock. But this led to overpopulation, so on top of polluting the commons, we've also depleted it! Which means we'll need to understand the arts as an interconnected system, as ecologists did for nature a century ago.
+
+In a series of essays, David W. Marx does just that. He speaks of culture as an ecosystem, where each part affects the whole, and in turn is affected by it. The countercultures refresh the mainstream.
+
+
+
 
 
 ${'  ' || `
