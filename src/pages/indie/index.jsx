@@ -227,7 +227,11 @@ In the past, the indie tastemakers stayed close to their local scenes, making th
 
 What confused me is that I'd [explicitly set out](${YEARLINGS_BOBTAIL_PATH}/8-good-night-sita/?verse=61&annotation=40) to make a [work of art](${YEARLINGS_BOBTAIL_PATH}/10-constellations/?verse=1&annotation=9) whose creativity *can't* be disputed. Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the creative idea of our times!
 
-In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the corporate "suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
+${'  ' || `
+// TODO: Review link.
+`}
+
+In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the corporate "suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those [in the know](${REFERENCE_PATH}/in-the-know#), however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
 Which is why it's often some grownup with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who ends up championing its canonical works: By *not* knowing what we and our peers want, they *can't* be led astray! Let's face it, a good partner takes pride in doing great *business*, not in recognizing great *art*. Now with BYCombo, you can find one to advocate for you once again.
 
@@ -292,12 +296,12 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 Why has this century only given us "workhorse art" so far? It's simple: Under "indieocracy," if a work fails to go viral, we expect the artist to take it in stride, learn from listener feedback, and try anew. But a maker of "windfall art" will keep pressing their case, over and over, in hopes an elite might finally agree to advocate on their behalf. Which… is also how the *worst* artists behave!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Keep working on.
 `}
 
 By empowering the "creative middle class," the indie camp ended up killing off the history makers of our times— like ranchers killing off apex predators to protect their livestock. But this led to overpopulation, so on top of polluting the commons, we've also depleted it! Which means we'll need to understand the arts as an interconnected system, as ecologists did for nature a century ago.
 
-In a series of essays, David W. Marx does just that. He speaks of culture as an ecosystem, where each part affects the whole, and in turn is affected by it. The countercultures refresh the mainstream.
+In a series of essays, David W. Marx does just that. He speaks of culture as an ecosystem, where each part affects the whole, and in turn is affected by it. Subcultures like the counterculture refresh the mainstream.
 
 
 

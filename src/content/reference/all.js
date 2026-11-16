@@ -5,6 +5,7 @@ import otherArtistsReference from './other-artists'
 import alreadyWorseReference from './already-worse'
 import thoughtsDriftReference from './thoughts-drift'
 import knowToExpectReference from './know-to-expect'
+import inTheKnowReference from './in-the-know'
 import backsToStarlightReference from './backs-to-starlight'
 import butRedundancyReference from './but-redundancy'
 import havingPrivilegeReference from './having-privilege'
@@ -64,6 +65,7 @@ export default {
         alreadyWorseReference,
         thoughtsDriftReference,
         knowToExpectReference,
+        inTheKnowReference,
         backsToStarlightReference,
         butRedundancyReference,
         havingPrivilegeReference,
