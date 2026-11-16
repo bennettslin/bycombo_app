@@ -233,7 +233,11 @@ ${'  ' || `
 
 In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the corporate "suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those [in the know](${REFERENCE_PATH}/in-the-know#), however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
-Which is why it's often some grownup with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who ends up championing its canonical works: By *not* knowing what we and our peers want, they *can't* be led astray! Let's face it, a good partner takes pride in doing great *business*, not in recognizing great *art*. Now with BYCombo, you can find one to advocate for you once again.
+${'  ' || `
+// TODO: Review links.
+`}
+
+Which is why it's often some grownup with the [*least* experience](https://www.the-independent.com/news/people/profiles/george-martin-from-comedy-record-producer-to-the-fifth-beatle-a6921751.html) in a given genre who ends up championing its [canonical works](https://www.jalopnik.com/dune-was-originally-published-by-a-car-repair-manual-co-1847940372): By *not* knowing what we and our peers want, they *can't* be led astray! Let's face it, a good partner takes pride in doing great *business*, not in recognizing great *art*. Now with BYCombo, you can find one to advocate for you once again.
 
 ### ${++sectionCounter}. Limited brainpower fails to adapt
 
