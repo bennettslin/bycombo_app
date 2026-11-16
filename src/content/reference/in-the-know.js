@@ -2,7 +2,7 @@ export default {
     title: `"in the know"`,
     body: `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 > Did you know that *Raiders of the Lost Ark* was offered to every single studio in town— and they all turned it down? All except Paramount. Why did Paramount say yes? Because nobody knows anything. And why did the other studios say no? Because nobody knows anything.
