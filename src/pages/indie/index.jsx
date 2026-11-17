@@ -279,9 +279,17 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 To "democratize" Twitter, Elon Musk made the [blue checkmark](${REFERENCE_PATH}/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
 
-But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal of who's worth hearing from. On top of that, the field then gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who'd rather hustle to *get* themselves known, than wait on elites to say they *deserve* it. Seems bad, no? Well, it's even worse…
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal of who's worth hearing from. On top of that, the commons then get "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who'd rather hustle to *get* themselves known, than wait on elites to say they *deserve* it. Seems bad, no? Well, it's even worse…
 
 You see, pollution is an example of the famous "[prisoner's dilemma](${REFERENCE_PATH}/prisoners-dilemma#)," where each player must decide: To squeal or not? Similarly, then, democratization forces each of us to decide: To hustle or not? Of course, we're all better off if *no one* hustles. But once *anyone* does… they'll hog up the public's attention. So now *all* of us must waste time and energy on the hustle!
+
+${'  ' || `
+// TODO: Revise. Mention "commons" once more.
+`}
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
@@ -292,16 +300,13 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 Why has this century only given us "workhorse art" so far? It's simple: Under "indieocracy," if a work fails to go viral, we expect the artist to take it in stride, learn from listener feedback, and try anew. But a maker of "windfall art" will keep pressing their case, over and over, in hopes an elite might finally agree to advocate on their behalf. Which… is also how the *worst* artists behave!
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Keep working on. Mention "tragedy of the commons."
 `}
 
-By empowering the "creative middle class," the indie camp ended up killing off the history makers of our times— like ranchers killing off apex predators to protect their livestock. But this led to overpopulation, so on top of polluting the commons, we've also depleted it! Which means we'll need to understand the arts as an interconnected system, as ecologists did for nature a century ago.
-
-In a series of essays, David W. Marx does just that. He speaks of culture as an ecosystem, where each part affects the whole, and in turn is affected by it. Subcultures like the counterculture refresh the mainstream.
+To nurture its "creative middle class," then, indie rock neglected the history makers who would've won out instead— like ranchers killing off predators to protect their livestock. Yet predators keep nature in balance, by thinning out the weakest in the herds. What if history makers do the same for the arts, by thinning out the middling artists?
 
 
-
-
+Which means we'll need to understand the arts as an interconnected system, just like ecologists did with nature a century ago. In a [series of essays](https://culture.ghost.io/culture-is-an-ecosystem-part-one), W. David Marx does just that. He speaks of culture as an ecosystem, where each part affects the whole, and in turn is affected by it. Subcultures like the counterculture refresh the mainstream.
 
 ${'  ' || `
     // TODO: Keep working on.
@@ -313,7 +318,7 @@ ${'  ' || `
         * well-crafted and radio-friendly tunes envied by other artists— Ordinary World
         * Extinction?
         * Feeding wildlife?
-    * Indie rock got it wrong. Art *needs* the mainstream to take from the counterculture, and the counterculture's best artists are happy to make this happen, over any protests from the "creative middle class."
+    * Indie rock got it wrong. Art *needs* the mainstream to take from the counterculture, and the counterculture's best artists are happy to make this happen, over any protests from the "creative middle class." But we haven't been allowed to know this, precisely because the indie camp killed them off!
     * Finish with: Let's face it, indie artists can never make windfall art, so makers of windfall art, in turn, will always refuse to be indie. (Talk about audiences, to segue into next section.)
     * Talk about sideways horseshoe? Or no?
     * In a world without grownups
