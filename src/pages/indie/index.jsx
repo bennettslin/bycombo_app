@@ -625,7 +625,11 @@ Now Millennials *readily* sell out, insisting that survival today depends on it�
 
 Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](${REFERENCE_PATH}/branched-off#) to *spurn* such bands.
 
-Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says we *should*. And with ethics being central to one's identity, Millennials have long insisted we *shouldn't*— to the detriment of our impact.
 
 Still, since our troubles began when we accepted indiefication and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](${REFERENCE_PATH}/this-knowledge#) as well.
 
