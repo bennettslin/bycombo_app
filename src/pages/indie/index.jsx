@@ -303,7 +303,9 @@ ${'  ' || `
 // TODO: Keep working on. Mention "tragedy of the commons."
 `}
 
-To nurture its "creative middle class," then, indie rock neglected the history makers who would've won out instead— like ranchers killing off predators to protect their livestock. Yet predators keep nature in balance, by thinning out the weakest in the herds. What if history makers do the same for the arts, by thinning out the middling artists?
+To nurture its "creative middle class," then, indie rock neglected the history makers who would've won out instead— like ranchers killing off predators to protect their livestock. But this leads to overpopulation
+
+Yet predators keep nature in balance, by thinning out the weakest in the herds. What if history makers do the same for the arts, by thinning out the middling artists?
 
 
 Which means we'll need to understand the arts as an interconnected system, just like ecologists did with nature a century ago. In a [series of essays](https://culture.ghost.io/culture-is-an-ecosystem-part-one), W. David Marx does just that. He speaks of culture as an ecosystem, where each part affects the whole, and in turn is affected by it. Subcultures like the counterculture refresh the mainstream.
