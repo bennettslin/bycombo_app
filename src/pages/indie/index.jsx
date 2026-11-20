@@ -288,7 +288,7 @@ But here's the problem: Once a mark of verification becomes easy to attain, it c
 You see, pollution is an example of the famous "[prisoner's dilemma](${REFERENCE_PATH}/prisoners-dilemma#)," where each player must decide: To squeal or not? Similarly, then, democratization forces each of us to decide: To hustle or not? Of course, we're all better off if *no one* hustles. But once *anyone* does… they'll hog up the public's attention. So now *all* of us must waste time and energy on the hustle!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up: Under their watch, change can *only* take place at the grassroots. Which means the commons won't be cleaned up anytime soon…
