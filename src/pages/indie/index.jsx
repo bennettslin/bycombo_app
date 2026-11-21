@@ -17,7 +17,7 @@ const Component = ({ sectionCounter = 0 }) => (
     <Page
         {...{
             pageName: INDIE_PAGE,
-            dateText: `Los Angeles / May 2021 – November 2026`,
+            dateText: `May 2021 – November 2026`,
             body: `
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only ever signed artists with a *proven* fanbase, who were thus empowered to hold out for the *fairest* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
@@ -279,17 +279,9 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 To "democratize" Twitter, Elon Musk made the [blue checkmark](${REFERENCE_PATH}/blue-checkmark#) available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal of who's worth hearing from. On top of that, the commons then get "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who'd rather hustle to *get* themselves known, than wait on elites to say they *deserve* it. Seems bad, no? Well, it's even worse…
 
 You see, pollution is an example of the famous "[prisoner's dilemma](${REFERENCE_PATH}/prisoners-dilemma#)," where each player must decide: To squeal or not? Similarly, then, democratization forces each of us to decide: To hustle or not? Of course, we're all better off if *no one* hustles. But once *anyone* does… they'll hog up the public's attention. So now *all* of us must waste time and energy on the hustle!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up: Under their watch, change can *only* take place at the grassroots. Which means the commons won't be cleaned up anytime soon…
 
@@ -626,7 +618,7 @@ Now Millennials *readily* sell out, insisting that survival today depends on it�
 Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](${REFERENCE_PATH}/branched-off#) to *spurn* such bands.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says we *should*. And with ethics being central to one's identity, Millennials have long insisted we *shouldn't*— to the detriment of our impact.
