@@ -295,7 +295,7 @@ ${'  ' || `
 // TODO: Keep working on. Mention "tragedy of the commons."
 `}
 
-To nurture its "creative middle class," then, indie rock neglected the history makers who would've won out instead— like ranchers killing off predators to protect their livestock. But this leads to overpopulation
+To nurture its "creative middle class," then, indie rock neglected our history makers— like ranchers killing off predators to protect their livestock. But this has led to overpopulation
 
 Yet predators keep nature in balance, by thinning out the weakest in the herds. What if history makers do the same for the arts, by thinning out the middling artists?
 
