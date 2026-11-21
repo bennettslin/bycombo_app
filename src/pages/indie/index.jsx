@@ -185,7 +185,11 @@ To get radio airplay in the '90s, alternative bands had to win over the casual l
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](${BOBTAIL_METHOD_PATH}) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](${BOBTAIL_DOMINOES_PATH}). "One test of an enviable work," I noted, "is whether it's a joy just to hum its melody and strum its chords." Yet… no one bit. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) to discuss at length, while local fans— now online— like it when artists directly engage. So each, in their own way, is drawn more to a compelling persona than to any well-crafted hook or "hum-'n-strum."
+${'  ' || `
+// TODO: Review.
+`}
+
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) to discuss at length, while local fans— now online— like it when artists directly engage. So each, in their own way, is drawn more to a compelling persona than to any well-crafted hook or "hum 'n' strum."
 
 All demand for such craft, then, came *solely* from radio— which means the end of radio *also* spelled the end for those who'd mastered it: bands such as the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
@@ -379,7 +383,11 @@ Which is why it took a low-status outsider such as myself to start BYCombo, driv
 
 Yet despite the poor fit, indie rock sure is eager now to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? Like, suppose an opposing camp were to argue, "No, this *won't* make history; it's merely reenacting what took courage in the *past*— not whatever that'd be *today*." Who'd win? Okay, so: Was this century's indie rock all a larp?
 
-Some of you [now see](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in "the" canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons of my youth. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+${'  ' || `
+// TODO: Review.
+`}
+
+Some of you [now see](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in "the" canon, bands must innovate… *and* craft enviable "hum 'n' strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons of my youth. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like *us*— and specifically, the *hungriest*.
 
@@ -616,10 +624,6 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 Now Millennials *readily* sell out, insisting that survival today depends on it… even as they retain the [core belief](${BOBTAIL_BLOG_PATH}/2013/06/unjamming-next-generation.html#:~:text=For%20Generation%20X,who%20you%20are.) underlying Gen X's *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
 Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](${REFERENCE_PATH}/branched-off#) to *spurn* such bands.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement rooted in *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says we *should*. And with ethics being central to one's identity, Millennials have long insisted we *shouldn't*— to the detriment of our impact.
 
