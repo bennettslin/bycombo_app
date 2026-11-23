@@ -86,6 +86,11 @@ export const getSmartQuotedText = (text = '') => {
                 text[indexOfCharacter + 2] === '0' &&
                 text[indexOfCharacter + 3] === 's'
 
+            ) && !(
+                // And it isn't "hum 'n' strum."
+                text[indexOfCharacter + 1] === 'n' &&
+                text[indexOfCharacter + 2] === `'`
+
             ) ? openingSmartQuote : closingSmartQuote
 
             text = _replaceCharacterAtIndex(text, indexOfCharacter, newCharacter)
